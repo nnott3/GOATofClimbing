@@ -1,0 +1,103 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2009,560,2009,Kazo,Boulder,Men,Qualification,2009-04-11,/api/v1/category_rounds/1122/results,/api/v1/events/560/result/3
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2009,560,2009,Kazo,Boulder,Men,Semi-Final,2009-04-11,/api/v1/category_rounds/1123/results,/api/v1/events/560/result/3
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2009,560,2009,Kazo,Boulder,Men,Final,2009-04-11,/api/v1/category_rounds/1124/results,/api/v1/events/560/result/3
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2009,560,2009,Kazo,Boulder,Women,Qualification,2009-04-11,/api/v1/category_rounds/1119/results,/api/v1/events/560/result/7
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2009,560,2009,Kazo,Boulder,Women,Semi-Final,2009-04-11,/api/v1/category_rounds/1120/results,/api/v1/events/560/result/7
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2009,560,2009,Kazo,Boulder,Women,Final,2009-04-11,/api/v1/category_rounds/1121/results,/api/v1/events/560/result/7
+IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Final,2009-04-18,/api/v1/category_rounds/1128/results,/api/v1/events/561/result/2
+IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Final,2009-04-18,/api/v1/category_rounds/1126/results,/api/v1/events/561/result/6
+IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Final,2009-04-25,/api/v1/category_rounds/1132/results,/api/v1/events/562/result/2
+IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Women,Qualification,2009-04-25,/api/v1/category_rounds/1129/results,/api/v1/events/562/result/6
+IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Women,Final,2009-04-25,/api/v1/category_rounds/1130/results,/api/v1/events/562/result/6
+IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Men,Qualification,2009-05-01,/api/v1/category_rounds/1136/results,/api/v1/events/563/result/3
+IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Men,Semi-Final,2009-05-01,/api/v1/category_rounds/1137/results,/api/v1/events/563/result/3
+IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Men,Final,2009-05-01,/api/v1/category_rounds/1138/results,/api/v1/events/563/result/3
+IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Qualification,2009-05-01,/api/v1/category_rounds/1133/results,/api/v1/events/563/result/7
+IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7
+IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Final,2009-05-01,/api/v1/category_rounds/1135/results,/api/v1/events/563/result/7
+IFSC Climbing Worldcup (B) - Wien (AUT) 2009,564,2009,Wien,Boulder,Men,Qualification,2009-05-29,/api/v1/category_rounds/1142/results,/api/v1/events/564/result/3
+IFSC Climbing Worldcup (B) - Wien (AUT) 2009,564,2009,Wien,Boulder,Men,Semi-Final,2009-05-29,/api/v1/category_rounds/1143/results,/api/v1/events/564/result/3
+IFSC Climbing Worldcup (B) - Wien (AUT) 2009,564,2009,Wien,Boulder,Men,Final,2009-05-29,/api/v1/category_rounds/1144/results,/api/v1/events/564/result/3
+IFSC Climbing Worldcup (B) - Wien (AUT) 2009,564,2009,Wien,Boulder,Women,Qualification,2009-05-29,/api/v1/category_rounds/1139/results,/api/v1/events/564/result/7
+IFSC Climbing Worldcup (B) - Wien (AUT) 2009,564,2009,Wien,Boulder,Women,Semi-Final,2009-05-29,/api/v1/category_rounds/1140/results,/api/v1/events/564/result/7
+IFSC Climbing Worldcup (B) - Wien (AUT) 2009,564,2009,Wien,Boulder,Women,Final,2009-05-29,/api/v1/category_rounds/1141/results,/api/v1/events/564/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2009,565,2009,Vail,Boulder,Men,Qualification,2009-06-05,/api/v1/category_rounds/1148/results,/api/v1/events/565/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2009,565,2009,Vail,Boulder,Men,Semi-Final,2009-06-05,/api/v1/category_rounds/1149/results,/api/v1/events/565/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2009,565,2009,Vail,Boulder,Men,Final,2009-06-05,/api/v1/category_rounds/1150/results,/api/v1/events/565/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2009,565,2009,Vail,Boulder,Women,Qualification,2009-06-05,/api/v1/category_rounds/1145/results,/api/v1/events/565/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2009,565,2009,Vail,Boulder,Women,Semi-Final,2009-06-05,/api/v1/category_rounds/1146/results,/api/v1/events/565/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2009,565,2009,Vail,Boulder,Women,Final,2009-06-05,/api/v1/category_rounds/1147/results,/api/v1/events/565/result/7
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009,566,2009,Eindhoven,Boulder,Men,Qualification,2009-06-12,/api/v1/category_rounds/1154/results,/api/v1/events/566/result/3
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009,566,2009,Eindhoven,Boulder,Men,Semi-Final,2009-06-12,/api/v1/category_rounds/1155/results,/api/v1/events/566/result/3
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009,566,2009,Eindhoven,Boulder,Men,Final,2009-06-12,/api/v1/category_rounds/1156/results,/api/v1/events/566/result/3
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009,566,2009,Eindhoven,Boulder,Women,Qualification,2009-06-12,/api/v1/category_rounds/1151/results,/api/v1/events/566/result/7
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009,566,2009,Eindhoven,Boulder,Women,Semi-Final,2009-06-12,/api/v1/category_rounds/1152/results,/api/v1/events/566/result/7
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2009,566,2009,Eindhoven,Boulder,Women,Final,2009-06-12,/api/v1/category_rounds/1153/results,/api/v1/events/566/result/7
+IFSC Climbing World Championships  - Qinghai (CHN) 2009 - 15m Speed,567,2009,Qinghai m,Speed,Men,Qualification,2009-06-30,/api/v1/category_rounds/1159/results,/api/v1/events/567/result/2
+IFSC Climbing World Championships  - Qinghai (CHN) 2009 - 15m Speed,567,2009,Qinghai m,Speed,Men,Final,2009-06-30,/api/v1/category_rounds/1160/results,/api/v1/events/567/result/2
+IFSC Climbing World Championships  - Qinghai (CHN) 2009 - 15m Speed,567,2009,Qinghai m,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1157/results,/api/v1/events/567/result/6
+IFSC Climbing World Championships  - Qinghai (CHN) 2009 - 15m Speed,567,2009,Qinghai m,Speed,Women,Final,2009-06-30,/api/v1/category_rounds/1158/results,/api/v1/events/567/result/6
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Qualification,2009-06-30,/api/v1/category_rounds/1169/results,/api/v1/events/568/result/1
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Semi-Final,2009-06-30,/api/v1/category_rounds/1170/results,/api/v1/events/568/result/1
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Women,Qualification,2009-06-30,/api/v1/category_rounds/1161/results,/api/v1/events/568/result/5
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Women,Semi-Final,2009-06-30,/api/v1/category_rounds/1162/results,/api/v1/events/568/result/5
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Women,Final,2009-06-30,/api/v1/category_rounds/1163/results,/api/v1/events/568/result/5
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Boulder,Men,Qualification,2009-06-30,/api/v1/category_rounds/1172/results,/api/v1/events/568/result/3
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Boulder,Men,Semi-Final,2009-06-30,/api/v1/category_rounds/1173/results,/api/v1/events/568/result/3
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Boulder,Men,Final,2009-06-30,/api/v1/category_rounds/1174/results,/api/v1/events/568/result/3
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Boulder,Women,Qualification,2009-06-30,/api/v1/category_rounds/1164/results,/api/v1/events/568/result/7
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Boulder,Women,Semi-Final,2009-06-30,/api/v1/category_rounds/1165/results,/api/v1/events/568/result/7
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Boulder,Women,Final,2009-06-30,/api/v1/category_rounds/1166/results,/api/v1/events/568/result/7
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Men,Qualification,2009-06-30,/api/v1/category_rounds/1175/results,/api/v1/events/568/result/2
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Men,Final,2009-06-30,/api/v1/category_rounds/1176/results,/api/v1/events/568/result/2
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Final,2009-06-30,/api/v1/category_rounds/1168/results,/api/v1/events/568/result/6
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Qualification,2009-07-12,/api/v1/category_rounds/1182/results,/api/v1/events/569/result/1
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Semi-Final,2009-07-12,/api/v1/category_rounds/1183/results,/api/v1/events/569/result/1
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Qualification,2009-07-12,/api/v1/category_rounds/1177/results,/api/v1/events/569/result/5
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Semi-Final,2009-07-12,/api/v1/category_rounds/1178/results,/api/v1/events/569/result/5
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Speed,Men,Qualification,2009-07-12,/api/v1/category_rounds/1185/results,/api/v1/events/569/result/2
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Speed,Men,Final,2009-07-12,/api/v1/category_rounds/1186/results,/api/v1/events/569/result/2
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Speed,Women,Qualification,2009-07-12,/api/v1/category_rounds/1180/results,/api/v1/events/569/result/6
+"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Speed,Women,Final,2009-07-12,/api/v1/category_rounds/1181/results,/api/v1/events/569/result/6
+IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Final,2009-08-01,/api/v1/category_rounds/1190/results,/api/v1/events/570/result/2
+IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Women,Qualification,2009-08-01,/api/v1/category_rounds/1187/results,/api/v1/events/570/result/6
+IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Women,Final,2009-08-01,/api/v1/category_rounds/1188/results,/api/v1/events/570/result/6
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Men,Qualification,2009-08-08,/api/v1/category_rounds/1194/results,/api/v1/events/571/result/1
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Men,Semi-Final,2009-08-08,/api/v1/category_rounds/1195/results,/api/v1/events/571/result/1
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Men,Final,2009-08-08,/api/v1/category_rounds/1196/results,/api/v1/events/571/result/1
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Women,Qualification,2009-08-08,/api/v1/category_rounds/1191/results,/api/v1/events/571/result/5
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Women,Semi-Final,2009-08-08,/api/v1/category_rounds/1192/results,/api/v1/events/571/result/5
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Women,Final,2009-08-08,/api/v1/category_rounds/1193/results,/api/v1/events/571/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2009,572,2009,Imst,Lead,Men,Qualification,2009-08-21,/api/v1/category_rounds/1200/results,/api/v1/events/572/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2009,572,2009,Imst,Lead,Men,Semi-Final,2009-08-21,/api/v1/category_rounds/1201/results,/api/v1/events/572/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2009,572,2009,Imst,Lead,Men,Final,2009-08-21,/api/v1/category_rounds/1202/results,/api/v1/events/572/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2009,572,2009,Imst,Lead,Women,Qualification,2009-08-21,/api/v1/category_rounds/1197/results,/api/v1/events/572/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2009,572,2009,Imst,Lead,Women,Semi-Final,2009-08-21,/api/v1/category_rounds/1198/results,/api/v1/events/572/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2009,572,2009,Imst,Lead,Women,Final,2009-08-21,/api/v1/category_rounds/1199/results,/api/v1/events/572/result/5
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Men,Qualification,2009-09-25,/api/v1/category_rounds/1206/results,/api/v1/events/573/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Men,Semi-Final,2009-09-25,/api/v1/category_rounds/1207/results,/api/v1/events/573/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Men,Final,2009-09-25,/api/v1/category_rounds/1208/results,/api/v1/events/573/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Women,Qualification,2009-09-25,/api/v1/category_rounds/1203/results,/api/v1/events/573/result/5
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Women,Semi-Final,2009-09-25,/api/v1/category_rounds/1204/results,/api/v1/events/573/result/5
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Women,Final,2009-09-25,/api/v1/category_rounds/1205/results,/api/v1/events/573/result/5
+IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Qualification,2009-11-06,/api/v1/category_rounds/1212/results,/api/v1/events/574/result/1
+IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1
+IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Final,2009-11-06,/api/v1/category_rounds/1214/results,/api/v1/events/574/result/1
+IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Women,Qualification,2009-11-06,/api/v1/category_rounds/1209/results,/api/v1/events/574/result/5
+IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Women,Semi-Final,2009-11-06,/api/v1/category_rounds/1210/results,/api/v1/events/574/result/5
+IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Women,Final,2009-11-06,/api/v1/category_rounds/1211/results,/api/v1/events/574/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Qualification,2009-11-14,/api/v1/category_rounds/1218/results,/api/v1/events/575/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Semi-Final,2009-11-14,/api/v1/category_rounds/1219/results,/api/v1/events/575/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Qualification,2009-11-14,/api/v1/category_rounds/1215/results,/api/v1/events/575/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Semi-Final,2009-11-14,/api/v1/category_rounds/1216/results,/api/v1/events/575/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5

@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Eiter Angela,AUT,1,Top,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Final,2007-06-15,/api/v1/category_rounds/637/results,/api/v1/events/476/result/5,Top
+Markovic Mina,SLO,2,47-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Final,2007-06-15,/api/v1/category_rounds/637/results,/api/v1/events/476/result/5,47-
+Harrington Emily,USA,3,47-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Final,2007-06-15,/api/v1/category_rounds/637/results,/api/v1/events/476/result/5,47-
+Durif Charlotte,FRA,4,46,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Final,2007-06-15,/api/v1/category_rounds/637/results,/api/v1/events/476/result/5,46
+Kobayashi Yuka,JPN,5,43-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Final,2007-06-15,/api/v1/category_rounds/637/results,/api/v1/events/476/result/5,43-
+Gros Natalija,SLO,6,36-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Final,2007-06-15,/api/v1/category_rounds/637/results,/api/v1/events/476/result/5,36-
+Anda Villanueva Irati,ESP,7,36-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Final,2007-06-15,/api/v1/category_rounds/637/results,/api/v1/events/476/result/5,36-
+Pinet Florence,FRA,8,27,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Final,2007-06-15,/api/v1/category_rounds/637/results,/api/v1/events/476/result/5,27

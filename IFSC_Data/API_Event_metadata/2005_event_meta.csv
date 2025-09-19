@@ -1,0 +1,45 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup (B) - Birmingham (GBR) 2005,388,2005,Birmingham,Boulder,Men,2005-03-18,/api/v1/events/388/result/3
+UIAA Worldcup (B) - Birmingham (GBR) 2005,388,2005,Birmingham,Boulder,Women,2005-03-18,/api/v1/events/388/result/7
+UIAA Worldcup (B+S) - Moscow (RUS) 2005,389,2005,Moscow,Boulder,Men,2005-04-08,/api/v1/events/389/result/3
+UIAA Worldcup (B+S) - Moscow (RUS) 2005,389,2005,Moscow,Boulder,Women,2005-04-08,/api/v1/events/389/result/7
+UIAA Worldcup (B+S) - Moscow (RUS) 2005,389,2005,Moscow,Speed,Men,2005-04-08,/api/v1/events/389/result/2
+UIAA Worldcup (B+S) - Moscow (RUS) 2005,389,2005,Moscow,Speed,Women,2005-04-08,/api/v1/events/389/result/6
+UIAA Worldcup (S) - Moscow (RUS) 2005,390,2005,Moscow,Speed,Men,2005-04-10,/api/v1/events/390/result/2
+UIAA Worldcup (S) - Moscow (RUS) 2005,390,2005,Moscow,Speed,Women,2005-04-10,/api/v1/events/390/result/6
+UIAA Worldcup (L+S) - Veliko Tarnovo (BUL) 2005,391,2005,Veliko Tarnovo,Lead,Men,2005-04-23,/api/v1/events/391/result/1
+UIAA Worldcup (L+S) - Veliko Tarnovo (BUL) 2005,391,2005,Veliko Tarnovo,Lead,Women,2005-04-23,/api/v1/events/391/result/5
+UIAA Worldcup (L+S) - Veliko Tarnovo (BUL) 2005,391,2005,Veliko Tarnovo,Speed,Men,2005-04-23,/api/v1/events/391/result/2
+UIAA Worldcup (L+S) - Veliko Tarnovo (BUL) 2005,391,2005,Veliko Tarnovo,Speed,Women,2005-04-23,/api/v1/events/391/result/6
+UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Women,2005-04-28,/api/v1/events/392/result/5
+UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
+UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Women,2005-05-26,/api/v1/events/393/result/5
+UIAA Worldcup (B) - Fiera di Primiero (ITA) 2005,394,2005,Fiera di Primiero,Boulder,Men,2005-06-16,/api/v1/events/394/result/3
+UIAA Worldcup (B) - Fiera di Primiero (ITA) 2005,394,2005,Fiera di Primiero,Boulder,Women,2005-06-16,/api/v1/events/394/result/7
+UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
+UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Women,2005-06-24,/api/v1/events/395/result/5
+UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Lead,Men,2005-07-01,/api/v1/events/396/result/1
+UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Lead,Women,2005-07-01,/api/v1/events/396/result/5
+UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Boulder,Men,2005-07-01,/api/v1/events/396/result/3
+UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Boulder,Women,2005-07-01,/api/v1/events/396/result/7
+UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
+UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Women,2005-07-01,/api/v1/events/396/result/6
+UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
+UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
+UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Women,2005-07-12,/api/v1/events/397/result/6
+UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
+UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Women,2005-07-29,/api/v1/events/398/result/6
+UIAA Worldcup (L) - Marbella (ESP) 2005,399,2005,Marbella,Lead,Men,2005-09-16,/api/v1/events/399/result/1
+UIAA Worldcup (L) - Marbella (ESP) 2005,399,2005,Marbella,Lead,Women,2005-09-16,/api/v1/events/399/result/5
+UIAA Worldcup (B) - Firminy (FRA) 2005,400,2005,Firminy,Boulder,Men,2005-09-29,/api/v1/events/400/result/3
+UIAA Worldcup (B) - Firminy (FRA) 2005,400,2005,Firminy,Boulder,Women,2005-09-29,/api/v1/events/400/result/7
+UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
+UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Women,2005-10-21,/api/v1/events/401/result/5
+UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
+UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Women,2005-10-21,/api/v1/events/401/result/6
+UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
+UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Women,2005-10-27,/api/v1/events/402/result/5
+UIAA Worldcup (L) - Kranj (SLO) 2005,403,2005,Kranj,Lead,Men,2005-11-18,/api/v1/events/403/result/1
+UIAA Worldcup (L) - Kranj (SLO) 2005,403,2005,Kranj,Lead,Women,2005-11-18,/api/v1/events/403/result/5

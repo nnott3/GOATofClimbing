@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,39-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Final,2011-10-28,/api/v1/category_rounds/1774/results,/api/v1/events/686/result/1,39-
+McColl Sean,CAN,2,38-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Final,2011-10-28,/api/v1/category_rounds/1774/results,/api/v1/events/686/result/1,38-
+Amma Sachi,JPN,3,32-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Final,2011-10-28,/api/v1/category_rounds/1774/results,/api/v1/events/686/result/1,32-
+Tauporn Thomas,GER,4,29+,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Final,2011-10-28,/api/v1/category_rounds/1774/results,/api/v1/events/686/result/1,29+
+Schubert Jakob,AUT,5,29,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Final,2011-10-28,/api/v1/category_rounds/1774/results,/api/v1/events/686/result/1,29
+Romain Manuel,FRA,6,29-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Final,2011-10-28,/api/v1/category_rounds/1774/results,/api/v1/events/686/result/1,29-
+Supper Gautier,FRA,7,29-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Final,2011-10-28,/api/v1/category_rounds/1774/results,/api/v1/events/686/result/1,29-
+Desgranges Romain,FRA,8,29-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Final,2011-10-28,/api/v1/category_rounds/1774/results,/api/v1/events/686/result/1,29-

@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Hroza Libor,CZE,1,5.830,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Mawem Bassa,FRA,2,6.130,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Zhong QiXin,CHN,3,6.370,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Komosinski Jedrzej,POL,4,6.440,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Dzienski Marcin,POL,5,6.480,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Shilov Aleksandr,RUS,6,6.550,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Nambot Quentin,FRA,7,6.610,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Stewart-Patterson Robert,CAN,8,6.660,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Shevchenko Arsenii,RUS,9,6.680,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Brosler John,USA,10,7.040,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Moro Guillaume,FRA,11,7.270,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Gontero Leonardo,ITA,12,7.340,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Hammer Max,USA,13,7.470,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Gosselin Tristen,CAN,14,7.900,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Bilodeau Francis,CAN,15,8.040,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+McColl Sean,CAN,16,8.110,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Di Lallo Aaron,CAN,17,8.430,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Einarsson Magnus,CAN,18,8.650,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Forsyth Jake,CAN,19,8.760,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+Van Den Bosch Kiefer,CAN,20,10.210,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2

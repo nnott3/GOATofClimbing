@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,44+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Final,2017-11-11,/api/v1/category_rounds/4356/results,/api/v1/events/997/result/5,44+
+Kim Jain,KOR,2,43,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Final,2017-11-11,/api/v1/category_rounds/4356/results,/api/v1/events/997/result/5,43
+Thompson-Smith Molly,GBR,3,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Final,2017-11-11,/api/v1/category_rounds/4356/results,/api/v1/events/997/result/5,33+
+Chanourdie Julia,FRA,4,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Final,2017-11-11,/api/v1/category_rounds/4356/results,/api/v1/events/997/result/5,33+
+Markovic Mina,SLO,5,32+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Final,2017-11-11,/api/v1/category_rounds/4356/results,/api/v1/events/997/result/5,32+
+Coxsey Shauna,GBR,6,29+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Final,2017-11-11,/api/v1/category_rounds/4356/results,/api/v1/events/997/result/5,29+
+Lukan Vita,SLO,7,23+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Final,2017-11-11,/api/v1/category_rounds/4356/results,/api/v1/events/997/result/5,23+
+Verhoeven Anak,BEL,8,23,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Final,2017-11-11,/api/v1/category_rounds/4356/results,/api/v1/events/997/result/5,23

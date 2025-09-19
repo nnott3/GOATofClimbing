@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Grossman Natalia,USA,1,4T4z 8 5,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,3,2,1,1,3,1,1,1
+SEO Chaehyun,KOR,2,4T4z 9 5,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,2,2,2,1,2,1,3,1
+Gejo Stasa,SRB,3,3T4z 6 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,2,1,2,1,X,1,2,1
+Kerem Ayala,ISR,4,3T4z 9 8,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,6,5,1,1,2,1,X,1
+Mackenzie Oceania,AUS,5,2T4z 2 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,1,1,1,1,X,1,X,1
+Färber Johanna,AUT,6,2T4z 2 5,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,1,1,1,1,X,1,X,2
+NAKAGAWA Ryu,JPN,7,2T4z 3 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,2,1,1,1,X,1,X,1
+Meul Hannah,GER,8,2T4z 3 5,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,1,1,2,2,X,1,X,1
+Kruder Julija,SLO,9,2T4z 4 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,1,1,3,1,X,1,X,1
+Hopfensitz Sandra,GER,10,2T4z 5 15,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,3,3,2,2,X,2,X,8
+SEKIKAWA Melody,JPN,11,1T4z 1 5,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,X,1,1,1,X,2,X,1
+Condie Kyra,USA,12,1T4z 1 6,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,1,1,X,2,X,1,X,2
+Klingler Petra,SUI,12,1T4z 1 6,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,1,1,X,1,X,1,X,3
+LUO ZHILU,CHN,14,1T4z 2 9,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,X,3,2,1,X,1,X,4
+Sanders Anastasia,USA,15,1T4z 2 15,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,X,11,2,1,X,2,X,1
+Cohaut Flavy,FRA,16,1T4z 3 7,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,3,2,X,3,X,1,X,1
+Rakovec Lucka,SLO,16,1T4z 3 7,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,3,3,X,1,X,2,X,1
+Fischer Madison,CAN,18,0T4z 0 7,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,X,1,X,3,X,1,X,2
+Matsufuji Anon,JPN,19,0T4z 0 9,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,X,4,X,2,X,1,X,2
+Fogu Miriam,ITA,20,0T3z 0 8,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7,X,3,X,2,X,X,X,3

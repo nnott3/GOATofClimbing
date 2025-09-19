@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Jenft Paul,FRA,1,2T4z 11 13,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,1,X,5,5,3,6,4
+CHON Jongwon,KOR,2,2T2z 6 5,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,X,X,X,5,4,1,1
+ANRAKU Sorato,JPN,3,1T4z 1 12,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,1,X,8,X,2,1,1
+Schalck Mejdi,FRA,4,1T4z 2 9,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,2,X,5,X,1,2,1
+Van Duysen Hannes,BEL,5,1T4z 8 14,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,3,8,8,X,2,X,1
+FUJII Kokoro,JPN,6,1T2z 3 4,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,X,X,X,3,3,X,1
+LEE Dohyun,KOR,7,1T2z 5 5,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,X,X,X,5,4,X,1
+NARASAKI Meichi,JPN,8,0T4z 0 10,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,1,X,4,X,1,X,4
+Gruzitis Edvards,LAT,9,0T4z 0 11,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,1,X,6,X,1,X,3
+NARASAKI Tomoa,JPN,10,0T4z 0 12,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,4,X,5,X,2,X,1
+Flohé Yannick,GER,11,0T3z 0 9,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,4,X,X,X,3,X,2
+Avezou Leo,FRA,12,0T3z 0 14,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,X,X,9,X,2,X,3
+OGATA Yoshiyuki,JPN,13,0T2z 0 2,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,X,X,X,X,1,X,1
+Ternant Mathieu,FRA,14,0T2z 0 4,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,X,X,X,X,3,X,1
+Mawem Mickael,FRA,15,0T2z 0 5,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,X,X,X,X,3,X,2
+INOUE Yuji,JPN,16,0T2z 0 6,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,X,X,X,X,3,X,3
+KAYOTANI Ritsu,JPN,16,0T2z 0 6,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,X,X,X,X,5,X,1
+Uznik Nicolai,AUT,18,0T2z 0 7,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,X,X,X,X,5,X,2
+Peharc Anze,SLO,19,0T2z 0 8,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,6,X,X,X,2,X,X
+Pope James,GBR,20,0T1z 0 5,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3,X,X,X,X,X,5,X,X

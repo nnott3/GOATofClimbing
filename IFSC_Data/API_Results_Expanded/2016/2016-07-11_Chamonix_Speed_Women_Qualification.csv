@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Jaubert Anouck,FRA,1,7.820,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Rudzinska Aleksandra,POL,2,8.320,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Tsyganova Anna,RUS,3,8.450,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Timofeeva Elena,RUS,4,8.470,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Buczek Klaudia,POL,5,8.550,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Ropek Edyta,POL,6,8.610,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Fleuret Elma,FRA,7,8.670,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Sarisson Aurelia,FRA,8,8.700,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Ivanova Elizaveta,RUS,9,9.070,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Lach Nina,AUT,10,9.080,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Kan Daria,RUS,11,9.120,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Motovilova Svetlana,RUS,12,9.200,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Andrier Victoire,FRA,13,9.220,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Brozek Anna,POL,13,9.220,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Marenych Alla,UKR,15,9.310,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Chudziak Patrycja,POL,16,9.320,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Meister Erica,USA,17,9.420,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Prokopiuk Monika,POL,18,9.510,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Elmer Alexandra,AUT,19,9.770,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Rojas Andrea,ECU,20,9.890,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Pichler Stefanie,AUT,21,9.950,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Dalla Brida Elisabetta,ITA,22,9.960,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Fossali Giulia,ITA,23,10.470,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Porta  Silvia,ITA,24,10.510,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Kaplina Iuliia,RUS,25,11.170,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Randi Giorgia,ITA,26,11.450,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+Durif Charlotte,FRA,27,11.470,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6

@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Garnbret Janja,SLO,1,47+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Women,Final,2025-09-05,/api/v1/category_rounds/10253/results,/api/v1/events/1416/result/5,47+,"2025-09-05_Koper, SLO_Lead_Women_Final.csv"
+SEO Chaehyun,KOR,2,38+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Women,Final,2025-09-05,/api/v1/category_rounds/10253/results,/api/v1/events/1416/result/5,38+,"2025-09-05_Koper, SLO_Lead_Women_Final.csv"
+Rogora Laura,ITA,3,37+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Women,Final,2025-09-05,/api/v1/category_rounds/10253/results,/api/v1/events/1416/result/5,37+,"2025-09-05_Koper, SLO_Lead_Women_Final.csv"
+Mcneice Erin,GBR,4,33,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Women,Final,2025-09-05,/api/v1/category_rounds/10253/results,/api/v1/events/1416/result/5,33,"2025-09-05_Koper, SLO_Lead_Women_Final.csv"
+Rakovec Lucka,SLO,5,28+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Women,Final,2025-09-05,/api/v1/category_rounds/10253/results,/api/v1/events/1416/result/5,28+,"2025-09-05_Koper, SLO_Lead_Women_Final.csv"
+Doumont Heloïse,BEL,6,28+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Women,Final,2025-09-05,/api/v1/category_rounds/10253/results,/api/v1/events/1416/result/5,28+,"2025-09-05_Koper, SLO_Lead_Women_Final.csv"
+Rekar Rosa,SLO,7,26+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Women,Final,2025-09-05,/api/v1/category_rounds/10253/results,/api/v1/events/1416/result/5,26+,"2025-09-05_Koper, SLO_Lead_Women_Final.csv"
+Tarkus Lucija,SLO,8,13+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Women,Final,2025-09-05,/api/v1/category_rounds/10253/results,/api/v1/events/1416/result/5,13+,"2025-09-05_Koper, SLO_Lead_Women_Final.csv"

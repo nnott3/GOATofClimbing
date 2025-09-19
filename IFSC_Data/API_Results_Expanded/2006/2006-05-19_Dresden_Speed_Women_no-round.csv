@@ -1,0 +1,8 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Ryepko Olena,UKR,1,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Women,2006-05-19,/api/v1/events/429/result/6
+Ruyga Tatiana,RUS,2,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Women,2006-05-19,/api/v1/events/429/result/6
+Stenkovaya Anna,RUS,3,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Women,2006-05-19,/api/v1/events/429/result/6
+Yurina Valentina,RUS,4,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Women,2006-05-19,/api/v1/events/429/result/6
+Ropek Edyta,POL,5,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Women,2006-05-19,/api/v1/events/429/result/6
+Tuzhylina Svitlana,UKR,6,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Women,2006-05-19,/api/v1/events/429/result/6
+Hrozova Lucie,CZE,7,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Women,2006-05-19,/api/v1/events/429/result/6

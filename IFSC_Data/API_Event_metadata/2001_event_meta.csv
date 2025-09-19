@@ -1,0 +1,29 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
+UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Women,2001-06-29,/api/v1/events/240/result/7
+UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Men,2001-07-11,/api/v1/events/241/result/1
+UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
+UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Women,2001-07-11,/api/v1/events/241/result/7
+UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
+UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Women,2001-07-21,/api/v1/events/242/result/7
+UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Women,2001-08-31,/api/v1/events/243/result/7
+UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Women,2001-09-05,/api/v1/events/244/result/5
+UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Boulder,Men,2001-09-05,/api/v1/events/244/result/3
+UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Boulder,Women,2001-09-05,/api/v1/events/244/result/7
+UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Men,2001-09-05,/api/v1/events/244/result/2
+UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
+UIAA Worldcup - Lecco (ITA) 2001,245,2001,Lecco,Lead,Men,2001-09-21,/api/v1/events/245/result/1
+UIAA Worldcup - Lecco (ITA) 2001,245,2001,Lecco,Lead,Women,2001-09-21,/api/v1/events/245/result/5
+UIAA Worldcup - Aprica (ITA) 2001,246,2001,Aprica,Lead,Men,2001-10-18,/api/v1/events/246/result/1
+UIAA Worldcup - Aprica (ITA) 2001,246,2001,Aprica,Lead,Women,2001-10-18,/api/v1/events/246/result/5
+UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Lead,Men,2001-11-02,/api/v1/events/247/result/1
+UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Lead,Women,2001-11-02,/api/v1/events/247/result/5
+UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
+UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Women,2001-11-02,/api/v1/events/247/result/6
+UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
+UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Women,2001-12-06,/api/v1/events/249/result/7

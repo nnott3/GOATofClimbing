@@ -1,0 +1,30 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Lachat Cédric,SUI,1,41-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,41-
+Verhoeven Jorg,NED,1,41-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,41-
+Crespi Flavio,ITA,3,40+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,40+
+Kryukov Valeriy,UKR,4,39.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,39.5
+Schubert Jakob,AUT,5,39,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,39
+Mrázek Tomás,CZE,6,38-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,38-
+Midtboe Magnus,NOR,7,38-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,38-
+Becan Klemen,SLO,8,37.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,37.5
+Fuselier Michaël,FRA,9,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,37+
+Winkler Daniel,SUI,10,37,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,37
+Fischhuber Kilian,AUT,11,33-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,33-
+Romain Manuel,FRA,12,31-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,31-
+Millet Sylvain,FRA,13,30,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,30
+Desgranges Romain,FRA,14,30,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,30
+Van der Werf Roman,NED,15,30,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,30
+Tauporn Thomas,GER,16,30,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,30
+Ten Sijthoff Casper,NED,17,30-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,30-
+Usobiaga Lakunza Patxi,ESP,18,26,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,26
+De Mattia Nicola,ITA,19,26,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,26
+Dugit Fabien,FRA,20,26,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,26
+Becan Jure,SLO,21,21,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,21
+Guerimand Flavien,FRA,21,21,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,21
+Szekely Gabor,HUN,23,21,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,21
+Sova Matej,SLO,24,20+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,20+
+Högström Magnus,SWE,25,20+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,20+
+Julian  Puigblanque Ramón ,ESP,26,20,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,20
+Zardini Luca,ITA,27,20,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,20
+Bindhammer Christian,GER,28,20-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,20-
+Fiori Alessandro,ITA,29,15-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1,15-

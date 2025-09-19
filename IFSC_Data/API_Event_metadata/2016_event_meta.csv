@@ -1,0 +1,129 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2016,937,2016,Meiringen,Boulder,Men,Qualification,2016-04-15,/api/v1/category_rounds/3805/results,/api/v1/events/937/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2016,937,2016,Meiringen,Boulder,Men,Semi-Final,2016-04-15,/api/v1/category_rounds/3806/results,/api/v1/events/937/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2016,937,2016,Meiringen,Boulder,Men,Final,2016-04-15,/api/v1/category_rounds/3807/results,/api/v1/events/937/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2016,937,2016,Meiringen,Boulder,Women,Qualification,2016-04-15,/api/v1/category_rounds/3802/results,/api/v1/events/937/result/7
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2016,937,2016,Meiringen,Boulder,Women,Semi-Final,2016-04-15,/api/v1/category_rounds/3803/results,/api/v1/events/937/result/7
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2016,937,2016,Meiringen,Boulder,Women,Final,2016-04-15,/api/v1/category_rounds/3804/results,/api/v1/events/937/result/7
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Men,Qualification,2016-04-23,/api/v1/category_rounds/3811/results,/api/v1/events/938/result/3
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Men,Semi-Final,2016-04-23,/api/v1/category_rounds/3812/results,/api/v1/events/938/result/3
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Men,Final,2016-04-23,/api/v1/category_rounds/3813/results,/api/v1/events/938/result/3
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Qualification,2016-04-23,/api/v1/category_rounds/3808/results,/api/v1/events/938/result/7
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7
+IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Final,2016-04-23,/api/v1/category_rounds/3810/results,/api/v1/events/938/result/7
+"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Boulder,Men,Qualification,2016-04-30,/api/v1/category_rounds/3819/results,/api/v1/events/939/result/3
+"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Boulder,Men,Semi-Final,2016-04-30,/api/v1/category_rounds/3820/results,/api/v1/events/939/result/3
+"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Boulder,Men,Final,2016-04-30,/api/v1/category_rounds/3821/results,/api/v1/events/939/result/3
+"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Boulder,Women,Qualification,2016-04-30,/api/v1/category_rounds/3814/results,/api/v1/events/939/result/7
+"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Boulder,Women,Semi-Final,2016-04-30,/api/v1/category_rounds/3815/results,/api/v1/events/939/result/7
+"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Boulder,Women,Final,2016-04-30,/api/v1/category_rounds/3816/results,/api/v1/events/939/result/7
+"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Final,2016-04-30,/api/v1/category_rounds/3823/results,/api/v1/events/939/result/2
+"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Final,2016-04-30,/api/v1/category_rounds/3818/results,/api/v1/events/939/result/6
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Final,2016-05-07,/api/v1/category_rounds/3827/results,/api/v1/events/940/result/2
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Final,2016-05-07,/api/v1/category_rounds/3825/results,/api/v1/events/940/result/6
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2016,941,2016,NaviMumbai,Boulder,Men,Qualification,2016-05-14,/api/v1/category_rounds/3831/results,/api/v1/events/941/result/3
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2016,941,2016,NaviMumbai,Boulder,Men,Semi-Final,2016-05-14,/api/v1/category_rounds/3832/results,/api/v1/events/941/result/3
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2016,941,2016,NaviMumbai,Boulder,Men,Final,2016-05-14,/api/v1/category_rounds/3833/results,/api/v1/events/941/result/3
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2016,941,2016,NaviMumbai,Boulder,Women,Qualification,2016-05-14,/api/v1/category_rounds/3828/results,/api/v1/events/941/result/7
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2016,941,2016,NaviMumbai,Boulder,Women,Semi-Final,2016-05-14,/api/v1/category_rounds/3829/results,/api/v1/events/941/result/7
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2016,941,2016,NaviMumbai,Boulder,Women,Final,2016-05-14,/api/v1/category_rounds/3830/results,/api/v1/events/941/result/7
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2016,942,2016,Tyrol,Boulder,Men,Qualification,2016-05-20,/api/v1/category_rounds/3837/results,/api/v1/events/942/result/3
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2016,942,2016,Tyrol,Boulder,Men,Semi-Final,2016-05-20,/api/v1/category_rounds/3838/results,/api/v1/events/942/result/3
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2016,942,2016,Tyrol,Boulder,Men,Final,2016-05-20,/api/v1/category_rounds/3839/results,/api/v1/events/942/result/3
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2016,942,2016,Tyrol,Boulder,Women,Qualification,2016-05-20,/api/v1/category_rounds/3834/results,/api/v1/events/942/result/7
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2016,942,2016,Tyrol,Boulder,Women,Semi-Final,2016-05-20,/api/v1/category_rounds/3835/results,/api/v1/events/942/result/7
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2016,942,2016,Tyrol,Boulder,Women,Final,2016-05-20,/api/v1/category_rounds/3836/results,/api/v1/events/942/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Qualification,2016-06-10,/api/v1/category_rounds/3843/results,/api/v1/events/943/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Final,2016-06-10,/api/v1/category_rounds/3845/results,/api/v1/events/943/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Women,Qualification,2016-06-10,/api/v1/category_rounds/3840/results,/api/v1/events/943/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Women,Semi-Final,2016-06-10,/api/v1/category_rounds/3841/results,/api/v1/events/943/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Women,Final,2016-06-10,/api/v1/category_rounds/3842/results,/api/v1/events/943/result/7
+"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Men,Qualification,2016-07-11,/api/v1/category_rounds/3851/results,/api/v1/events/944/result/1
+"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Men,Semi-Final,2016-07-11,/api/v1/category_rounds/3852/results,/api/v1/events/944/result/1
+"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Men,Final,2016-07-11,/api/v1/category_rounds/3853/results,/api/v1/events/944/result/1
+"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Women,Qualification,2016-07-11,/api/v1/category_rounds/3846/results,/api/v1/events/944/result/5
+"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Women,Semi-Final,2016-07-11,/api/v1/category_rounds/3847/results,/api/v1/events/944/result/5
+"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Women,Final,2016-07-11,/api/v1/category_rounds/3848/results,/api/v1/events/944/result/5
+"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Final,2016-07-11,/api/v1/category_rounds/3855/results,/api/v1/events/944/result/2
+"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Qualification,2016-07-11,/api/v1/category_rounds/3849/results,/api/v1/events/944/result/6
+"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Women,Final,2016-07-11,/api/v1/category_rounds/3850/results,/api/v1/events/944/result/6
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Qualification,2016-07-15,/api/v1/category_rounds/3861/results,/api/v1/events/945/result/1
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Semi-Final,2016-07-15,/api/v1/category_rounds/3862/results,/api/v1/events/945/result/1
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Women,Qualification,2016-07-15,/api/v1/category_rounds/3856/results,/api/v1/events/945/result/5
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Women,Semi-Final,2016-07-15,/api/v1/category_rounds/3857/results,/api/v1/events/945/result/5
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Women,Final,2016-07-15,/api/v1/category_rounds/3858/results,/api/v1/events/945/result/5
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Men,Qualification,2016-07-15,/api/v1/category_rounds/3864/results,/api/v1/events/945/result/2
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Men,Final,2016-07-15,/api/v1/category_rounds/3865/results,/api/v1/events/945/result/2
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Final,2016-07-15,/api/v1/category_rounds/3860/results,/api/v1/events/945/result/6
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Qualification,2016-07-22,/api/v1/category_rounds/3869/results,/api/v1/events/946/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Final,2016-07-22,/api/v1/category_rounds/3871/results,/api/v1/events/946/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Women,Qualification,2016-07-22,/api/v1/category_rounds/3866/results,/api/v1/events/946/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Women,Semi-Final,2016-07-22,/api/v1/category_rounds/3867/results,/api/v1/events/946/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Women,Final,2016-07-22,/api/v1/category_rounds/3868/results,/api/v1/events/946/result/5
+IFSC Climbing Worldcup (B) - Munich (GER) 2016,947,2016,Munich,Boulder,Men,Qualification,2016-08-12,/api/v1/category_rounds/3875/results,/api/v1/events/947/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2016,947,2016,Munich,Boulder,Men,Semi-Final,2016-08-12,/api/v1/category_rounds/3876/results,/api/v1/events/947/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2016,947,2016,Munich,Boulder,Men,Final,2016-08-12,/api/v1/category_rounds/3877/results,/api/v1/events/947/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2016,947,2016,Munich,Boulder,Women,Qualification,2016-08-12,/api/v1/category_rounds/3872/results,/api/v1/events/947/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2016,947,2016,Munich,Boulder,Women,Semi-Final,2016-08-12,/api/v1/category_rounds/3873/results,/api/v1/events/947/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2016,947,2016,Munich,Boulder,Women,Final,2016-08-12,/api/v1/category_rounds/3874/results,/api/v1/events/947/result/7
+IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Qualification,2016-08-19,/api/v1/category_rounds/3881/results,/api/v1/events/948/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Semi-Final,2016-08-19,/api/v1/category_rounds/3882/results,/api/v1/events/948/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Women,Qualification,2016-08-19,/api/v1/category_rounds/3878/results,/api/v1/events/948/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Women,Semi-Final,2016-08-19,/api/v1/category_rounds/3879/results,/api/v1/events/948/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Women,Final,2016-08-19,/api/v1/category_rounds/3880/results,/api/v1/events/948/result/5
+"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Men,Qualification,2016-08-26,/api/v1/category_rounds/3889/results,/api/v1/events/949/result/1
+"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Men,Semi-Final,2016-08-26,/api/v1/category_rounds/3890/results,/api/v1/events/949/result/1
+"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Men,Final,2016-08-26,/api/v1/category_rounds/3891/results,/api/v1/events/949/result/1
+"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Women,Qualification,2016-08-26,/api/v1/category_rounds/3884/results,/api/v1/events/949/result/5
+"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Women,Semi-Final,2016-08-26,/api/v1/category_rounds/3885/results,/api/v1/events/949/result/5
+"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Women,Final,2016-08-26,/api/v1/category_rounds/3886/results,/api/v1/events/949/result/5
+"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Speed,Men,Qualification,2016-08-26,/api/v1/category_rounds/3892/results,/api/v1/events/949/result/2
+"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Speed,Men,Final,2016-08-26,/api/v1/category_rounds/3893/results,/api/v1/events/949/result/2
+"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Speed,Women,Qualification,2016-08-26,/api/v1/category_rounds/3887/results,/api/v1/events/949/result/6
+"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Speed,Women,Final,2016-08-26,/api/v1/category_rounds/3888/results,/api/v1/events/949/result/6
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Qualification,2016-09-14,/api/v1/category_rounds/3902/results,/api/v1/events/950/result/1
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Semi-Final,2016-09-14,/api/v1/category_rounds/3903/results,/api/v1/events/950/result/1
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Qualification,2016-09-14,/api/v1/category_rounds/3894/results,/api/v1/events/950/result/5
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Final,2016-09-14,/api/v1/category_rounds/3896/results,/api/v1/events/950/result/5
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Men,Qualification,2016-09-14,/api/v1/category_rounds/3905/results,/api/v1/events/950/result/3
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Men,Semi-Final,2016-09-14,/api/v1/category_rounds/3906/results,/api/v1/events/950/result/3
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Men,Final,2016-09-14,/api/v1/category_rounds/3907/results,/api/v1/events/950/result/3
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Women,Qualification,2016-09-14,/api/v1/category_rounds/3897/results,/api/v1/events/950/result/7
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3898/results,/api/v1/events/950/result/7
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Women,Final,2016-09-14,/api/v1/category_rounds/3899/results,/api/v1/events/950/result/7
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Men,Qualification,2016-09-14,/api/v1/category_rounds/3908/results,/api/v1/events/950/result/2
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Men,Final,2016-09-14,/api/v1/category_rounds/3909/results,/api/v1/events/950/result/2
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Final,2016-09-14,/api/v1/category_rounds/3901/results,/api/v1/events/950/result/6
+IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Men,Qualification,2016-10-18,/api/v1/category_rounds/3912/results,/api/v1/events/951/result/2
+IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Men,Final,2016-10-18,/api/v1/category_rounds/3913/results,/api/v1/events/951/result/2
+IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Final,2016-10-18,/api/v1/category_rounds/3911/results,/api/v1/events/951/result/6
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Qualification,2016-10-22,/api/v1/category_rounds/5993/results,/api/v1/events/1163/result/1
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Semi-Final,2016-10-22,/api/v1/category_rounds/5994/results,/api/v1/events/1163/result/1
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Women,Qualification,2016-10-22,/api/v1/category_rounds/5988/results,/api/v1/events/1163/result/5
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Women,Semi-Final,2016-10-22,/api/v1/category_rounds/5989/results,/api/v1/events/1163/result/5
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Women,Final,2016-10-22,/api/v1/category_rounds/5990/results,/api/v1/events/1163/result/5
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Speed,Men,Qualification,2016-10-22,/api/v1/category_rounds/5996/results,/api/v1/events/1163/result/2
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Speed,Men,Final,2016-10-22,/api/v1/category_rounds/5997/results,/api/v1/events/1163/result/2
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Speed,Women,Qualification,2016-10-22,/api/v1/category_rounds/5991/results,/api/v1/events/1163/result/6
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Speed,Women,Final,2016-10-22,/api/v1/category_rounds/5992/results,/api/v1/events/1163/result/6
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Men,Qualification,2016-11-26,/api/v1/category_rounds/3917/results,/api/v1/events/952/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Men,Semi-Final,2016-11-26,/api/v1/category_rounds/3918/results,/api/v1/events/952/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Men,Final,2016-11-26,/api/v1/category_rounds/3919/results,/api/v1/events/952/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Women,Qualification,2016-11-26,/api/v1/category_rounds/3914/results,/api/v1/events/952/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Women,Semi-Final,2016-11-26,/api/v1/category_rounds/3915/results,/api/v1/events/952/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Women,Final,2016-11-26,/api/v1/category_rounds/3916/results,/api/v1/events/952/result/5

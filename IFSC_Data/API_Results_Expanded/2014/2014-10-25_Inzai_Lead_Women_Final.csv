@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Women,Final,2014-10-25,/api/v1/category_rounds/3112/results,/api/v1/events/865/result/5,Top
+Markovic Mina,SLO,2,47+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Women,Final,2014-10-25,/api/v1/category_rounds/3112/results,/api/v1/events/865/result/5,47+
+Vidmar Maja,SLO,3,44+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Women,Final,2014-10-25,/api/v1/category_rounds/3112/results,/api/v1/events/865/result/5,44+
+Noguchi Akiyo,JPN,4,40+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Women,Final,2014-10-25,/api/v1/category_rounds/3112/results,/api/v1/events/865/result/5,40+
+Röck Magdalena,AUT,5,39+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Women,Final,2014-10-25,/api/v1/category_rounds/3112/results,/api/v1/events/865/result/5,39+
+Verhoeven Anak,BEL,6,38+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Women,Final,2014-10-25,/api/v1/category_rounds/3112/results,/api/v1/events/865/result/5,38+
+Janicot Hélène,FRA,7,38,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Women,Final,2014-10-25,/api/v1/category_rounds/3112/results,/api/v1/events/865/result/5,38
+Kobayashi Yuka,JPN,8,30+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Women,Final,2014-10-25,/api/v1/category_rounds/3112/results,/api/v1/events/865/result/5,30+

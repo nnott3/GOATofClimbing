@@ -1,0 +1,9 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup - Villach 1994,134,1994,Villach,Lead,Men,1994-04-15,/api/v1/events/134/result/1
+UIAA Worldcup - Villach 1994,134,1994,Villach,Lead,Women,1994-04-15,/api/v1/events/134/result/5
+UIAA Worldcup - Moscow 1994,135,1994,Moscow,Lead,Men,1994-04-28,/api/v1/events/135/result/1
+UIAA Worldcup - Moscow 1994,135,1994,Moscow,Lead,Women,1994-04-28,/api/v1/events/135/result/5
+UIAA Worldcup - Aix-les-Bains 1994,137,1994,Aix-les-Bains,Lead,Men,1994-11-17,/api/v1/events/137/result/1
+UIAA Worldcup - Aix-les-Bains 1994,137,1994,Aix-les-Bains,Lead,Women,1994-11-17,/api/v1/events/137/result/5
+UIAA Worldcup - Birmingham 1994,138,1994,Birmingham,Lead,Men,1994-11-25,/api/v1/events/138/result/1
+UIAA Worldcup - Birmingham 1994,138,1994,Birmingham,Lead,Women,1994-11-25,/api/v1/events/138/result/5

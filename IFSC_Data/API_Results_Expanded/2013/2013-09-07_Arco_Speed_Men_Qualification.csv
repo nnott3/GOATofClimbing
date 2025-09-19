@@ -1,0 +1,31 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Hroza Libor,CZE,1,6.130,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Zhong QiXin,CHN,2,6.410,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Kokorin Stanislav,RUS,3,6.490,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Dzienski Marcin,POL,4,6.500,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Vaitsekhovskii Evgenii,RUS,5,6.540,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Gontero Leonardo,ITA,6,6.580,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Komosinski Jedrzej,POL,7,6.630,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Sinitcyn Sergei,RUS,8,6.800,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Boldyrev Danyil,UKR,9,6.860,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Gontaryk Yaroslav,UKR,10,6.880,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Swirk Lukasz,POL,11,6.890,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Shevchenko Arsenii,RUS,12,6.960,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+LE COUSTER Yoann,FRA,13,6.990,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Santoni Alessandro,ITA,14,7.220,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Zhong Lincai,CHN,15,7.250,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Zinchenko Volodymyr,UKR,16,7.310,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Podchesov Kostiantyn,UKR,17,7.340,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Nambot Quentin,FRA,18,7.380,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Poliakov Anton,RUS,19,7.420,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Moro Guillaume,FRA,20,7.470,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Chelombytko Yevgeniy,UKR,21,7.750,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Zama Stanislao,ITA,22,7.910,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Kriz Jan,CZE,23,7.920,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Sirotti Gianluca,ITA,24,7.960,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Boulos Alessandro,ITA,25,8.030,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Fossali Ludovico,ITA,26,8.210,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Buoso Davide,ITA,27,8.610,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+McColl Sean,CAN,28,8.830,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Jankhoteli Giga,GEO,29,9.300,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2
+Yurko Oleksiy,UKR,30,fall,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,800,2013,Arco,Speed,Men,Qualification,2013-09-07,/api/v1/category_rounds/2588/results,/api/v1/events/800/result/2

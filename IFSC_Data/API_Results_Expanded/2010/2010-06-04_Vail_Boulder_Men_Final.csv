@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Woods Daniel,USA,1,2t4 4b11,IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Men,Final,2010-06-04,/api/v1/category_rounds/1376/results,/api/v1/events/611/result/3,2,2,2,2,X,1,X,6
+Hori Tsukuru,JPN,2,1t1 3b5,IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Men,Final,2010-06-04,/api/v1/category_rounds/1376/results,/api/v1/events/611/result/3,1,1,X,2,X,2,X,X
+Fischhuber Kilian,AUT,3,1t1 3b6,IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Men,Final,2010-06-04,/api/v1/category_rounds/1376/results,/api/v1/events/611/result/3,1,1,X,3,X,2,X,X
+Kruder Jernej,SLO,4,1t1 3b8,IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Men,Final,2010-06-04,/api/v1/category_rounds/1376/results,/api/v1/events/611/result/3,1,1,X,6,X,1,X,X
+Kaiser Francois,FRA,5,0t 2b5,IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Men,Final,2010-06-04,/api/v1/category_rounds/1376/results,/api/v1/events/611/result/3,X,X,X,3,X,2,X,X
+Jongeneelen Wouter,NED,6,0t 2b7,IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Men,Final,2010-06-04,/api/v1/category_rounds/1376/results,/api/v1/events/611/result/3,X,X,X,6,X,1,X,X

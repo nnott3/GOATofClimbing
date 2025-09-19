@@ -1,0 +1,24 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Sinitcyn Sergei,RUS,1,22.700,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Vaitsekhovskii Evgenii,RUS,2,23.360,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Styenkovyy Maksym,UKR,3,23.620,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Oleksy Tomasz,POL,4,24.480,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Abdrakhmanov Sergey,RUS,5,24.710,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Swirk Lukasz,POL,6,25.170,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Pociecha Jakub,POL,7,25.890,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Osipov Maksym,UKR,8,26.100,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Komosinski Jedrzej,POL,9,26.400,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Komondi Csaba,HUN,10,26.660,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Podchesov Kostiantyn,UKR,11,26.780,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Kokorin Stanislav,RUS,12,26.870,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Kalita Maciej,POL,13,27.200,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+De Las Salas Leonel,VEN,14,27.630,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Nigmanov Zufar,RUS,15,29.090,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Salimov Oleksandr,UKR,16,29.500,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Topal Yaroslav,UKR,17,33.140,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Puzon Mateusz,POL,18,33.230,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Sifra Martin,CZE,19,34.650,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Juhasz Gyula,HUN,20,40.430,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Molnar Gergõ,HUN,21,44.460,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Nieves Josmar,VEN,22,fall,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2
+Yurko Oleksiy,UKR,22,fall,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Men,Qualification,2009-04-18,/api/v1/category_rounds/1127/results,/api/v1/events/561/result/2

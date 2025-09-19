@@ -1,0 +1,25 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Jaubert Anouck,FRA,1,7.860,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Kaplina Iuliia,RUS,2,7.920,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Krasavina Mariia,RUS,3,8.190,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Brozek Anna,POL,4,8.310,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Buczek Klaudia,POL,5,8.670,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Dalla Brida Elisabetta,ITA,6,8.760,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Andrier Victoire,FRA,7,8.770,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Ropek Edyta,POL,8,8.900,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Marenych Alla,UKR,9,9.120,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Fleuret Elma,FRA,10,9.330,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Lach Nina,AUT,11,9.420,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Sarisson Aurelia,FRA,12,9.730,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Porta  Silvia,ITA,13,9.990,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Elmer Alexandra,AUT,14,10.010,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Prokopiuk Monika,POL,15,10.380,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Vasi Francesca,ITA,15,10.380,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Randi Giorgia,ITA,17,10.710,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Spurrell Christy,CAN,18,12.380,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Shiraishi Ashima,USA,19,12.590,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Watkin Philippa,GBR,20,14.010,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+de la Torre Jennifer,USA,21,14.810,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Wood Jennifer,GBR,22,15.290,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Morrison Kitty,GBR,23,17.200,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+Neame Joanna,GBR,24,22.400,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6

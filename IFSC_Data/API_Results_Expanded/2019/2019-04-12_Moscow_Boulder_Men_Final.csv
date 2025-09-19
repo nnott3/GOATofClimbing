@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Kruder Jernej,SLO,1,4T4z 8 6,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Men,Final,2019-04-12,/api/v1/category_rounds/5464/results,/api/v1/events/1113/result/3,2,2,1,1,4,2,1,1
+Ondra Adam,CZE,2,3T4z 5 7,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Men,Final,2019-04-12,/api/v1/category_rounds/5464/results,/api/v1/events/1113/result/3,1,1,1,1,3,3,X,2
+Ogata Yoshiyuki,JPN,3,3T3z 6 5,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Men,Final,2019-04-12,/api/v1/category_rounds/5464/results,/api/v1/events/1113/result/3,2,1,1,1,3,3,X,X
+Peharc Anze,SLO,4,2T3z 6 6,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Men,Final,2019-04-12,/api/v1/category_rounds/5464/results,/api/v1/events/1113/result/3,4,1,2,1,X,4,X,X
+Kawamata Rei,JPN,5,1T3z 2 6,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Men,Final,2019-04-12,/api/v1/category_rounds/5464/results,/api/v1/events/1113/result/3,X,X,2,1,X,4,X,1
+Timonov Vadim,RUS,6,1T3z 2 8,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Men,Final,2019-04-12,/api/v1/category_rounds/5464/results,/api/v1/events/1113/result/3,X,X,2,1,X,5,X,2

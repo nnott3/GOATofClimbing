@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Klingler Petra,SUI,1,3t4 4b6,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Women,Final,2016-09-14,/api/v1/category_rounds/3899/results,/api/v1/events/950/result/7,1,1,X,2,1,1,2,2
+Nonaka Miho,JPN,2,3t9 4b9,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Women,Final,2016-09-14,/api/v1/category_rounds/3899/results,/api/v1/events/950/result/7,2,2,X,2,3,3,4,2
+Noguchi Akiyo,JPN,3,2t2 4b7,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Women,Final,2016-09-14,/api/v1/category_rounds/3899/results,/api/v1/events/950/result/7,1,1,X,1,1,1,X,4
+Mascarenas Megan,USA,4,2t2 4b8,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Women,Final,2016-09-14,/api/v1/category_rounds/3899/results,/api/v1/events/950/result/7,1,1,X,4,1,1,X,2
+Stöhr Anna,AUT,5,2t5 4b12,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Women,Final,2016-09-14,/api/v1/category_rounds/3899/results,/api/v1/events/950/result/7,3,1,X,1,2,1,X,9
+Krasovskaia Elena,RUS,6,0t 2b5,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Women,Final,2016-09-14,/api/v1/category_rounds/3899/results,/api/v1/events/950/result/7,X,1,X,X,X,X,X,4

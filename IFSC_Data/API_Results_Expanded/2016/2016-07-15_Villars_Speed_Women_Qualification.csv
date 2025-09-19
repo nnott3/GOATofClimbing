@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Kaplina Iuliia,RUS,1,7.960,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Jaubert Anouck,FRA,2,8.030,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Ropek Edyta,POL,3,8.210,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Rudzinska Aleksandra,POL,4,8.230,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Buczek Klaudia,POL,5,8.290,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Timofeeva Elena,RUS,5,8.290,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Tsyganova Anna,RUS,7,8.340,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Sarisson Aurelia,FRA,8,8.620,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Kan Daria,RUS,9,8.660,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Ivanova Elizaveta,RUS,10,8.700,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Brozek Anna,POL,11,8.770,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Chudziak Patrycja,POL,12,8.810,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Fleuret Elma,FRA,13,8.870,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Motovilova Svetlana,RUS,14,9.000,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Lach Nina,AUT,15,9.130,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Elmer Alexandra,AUT,16,9.460,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Rojas Andrea,ECU,17,9.550,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Marenych Alla,UKR,18,9.590,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Prokopiuk Monika,POL,19,9.630,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Meister Erica,USA,20,9.860,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Dalla Brida Elisabetta,ITA,21,9.870,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Pichler Stefanie,AUT,22,9.910,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Randi Giorgia,ITA,23,10.450,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Porta  Silvia,ITA,24,10.480,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Fossali Giulia,ITA,25,10.760,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6
+Andrier Victoire,FRA,26,11.200,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Speed,Women,Qualification,2016-07-15,/api/v1/category_rounds/3859/results,/api/v1/events/945/result/6

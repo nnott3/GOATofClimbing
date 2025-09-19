@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,50-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,50-
+Romain Manuel,FRA,2,46,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,46
+Amma Sachi,JPN,3,46-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,46-
+McColl Sean,CAN,4,45+,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,45+
+Supper Gautier,FRA,5,44-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,44-
+Schubert Jakob,AUT,6,41-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,41-
+Tauporn Thomas,GER,7,41-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,41-
+Desgranges Romain,FRA,8,41-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,41-
+Skofic Domen,SLO,9,40-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,40-
+Ballet Thomas,FRA,10,35,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,35
+Lechner Mario,AUT,11,33-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,33-
+Guerimand Flavien,FRA,12,32,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,32
+Epih Sergej,SLO,13,31+,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,31+
+Reffo Silvio,ITA,14,31+,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,31+
+Primozic Urban,SLO,15,31+,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,31+
+Raztresen Jure,SLO,16,31+,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,31+
+Becan Klemen,SLO,17,31,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,31
+Rudigier Max,AUT,18,30+,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,30+
+Ischia Martino,ITA,19,30-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,30-
+Esteller Ocaña Victor,ESP,20,28-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,28-
+Jung Markus,GER,21,26,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,26
+Jubes Angarita Marco Antonio,ESP,22,25-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,25-
+Schellingerhout Elko,NED,23,23,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,23
+Tribout Adrien,FRA,24,21-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,21-
+Zupan Izidor,SLO,25,18,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,18
+Vettorata Francesco,ITA,26,9-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1,9-

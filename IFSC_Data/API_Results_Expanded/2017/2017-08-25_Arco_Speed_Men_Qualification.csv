@@ -1,0 +1,51 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Fossali Ludovico,ITA,1,5.810,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Alipourshenazandifar Reza,IRI,2,5.960,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Kokorin Stanislav,RUS,3,6.010,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Deulin Vladislav,RUS,4,6.020,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Dzienski Marcin,POL,5,6.030,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Shikov Aleksandr,RUS,6,6.060,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Gontero Leonardo,ITA,7,6.130,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Hroza Libor,CZE,7,6.130,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Zhong QiXin,CHN,9,6.170,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Santoni Alessandro,ITA,10,6.210,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Timofeev Dmitrii,RUS,10,6.210,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Zodda Gian Luca,ITA,12,6.280,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Bogomolov Arsenii,RUS,13,6.300,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Boldyrev Danyil,UKR,14,6.510,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Granja Carlos,ECU,15,6.530,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Moro Guillaume,FRA,16,6.570,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Finn-Henry Michael,CAN,17,6.730,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Halasa Rafal,POL,18,7.010,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Zama Stanislao,ITA,18,7.010,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Dorigatti Cristian,ITA,20,7.110,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Kriz Jan,CZE,21,7.170,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Bratschi Noah,USA,22,7.410,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Ernsberger Merritt,USA,23,7.530,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Knapp Lukas,AUT,24,7.540,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Peña Juan Martin,ECU,24,7.540,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Rodley Luke,USA,26,7.600,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Randi Gabriele,ITA,27,7.610,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Hammer Max,USA,28,7.640,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Erber Matthias,AUT,29,7.790,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+AU Chi-fung,HKG,30,7.920,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Piccolruaz David,ITA,31,8.110,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Romig Jordan,USA,32,8.240,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Artamonov  Georgy,RUS,33,8.250,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Hernandez Galo ,ECU,34,8.330,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Sandrin Leonardo,ITA,35,8.480,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Firnenburg David,GER,36,8.600,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+RIVADENEIRA  Nickolaie,ECU,37,8.710,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Filipiuk Ivan,UKR,38,8.870,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Lysenko Dmytro,UKR,39,9.160,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Cano Blazquez Javier,ESP,40,9.190,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Estevez  Isaac,ECU,41,9.320,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Cingari Alessandro,ITA,42,9.390,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Moreno Bryam,ECU,43,9.520,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Yau Ka-chun,HKG,44,9.680,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Lam Hei-yeung,HKG,45,10.400,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Flor Vazquez Jonatan,ESP,46,10.410,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Suarez Munne Gustavo Gabriel,ARG,47,14.370,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+CHRISTENSEN Santiago,ARG,48,False start,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Schenk Filip,ITA,48,False start,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+Strong Nicholas,USA,48,False start,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2

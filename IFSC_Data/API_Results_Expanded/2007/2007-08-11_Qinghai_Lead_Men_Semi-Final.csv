@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Lachat Cédric,SUI,1,52-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,52-
+Verhoeven Jorg,NED,2,51,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,51
+Julian  Puigblanque Ramón ,ESP,3,49-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,49-
+Mrázek Tomás,CZE,4,42.5,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,42.5
+Millet Sylvain,FRA,5,40.7+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,40.7+
+Winkler Daniel,SUI,6,40.7+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,40.7+
+Crespi Flavio,ITA,7,40.7,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,40.7
+Usobiaga Lakunza Patxi,ESP,8,40.5+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,40.5+
+Lama David,AUT,9,40.5+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,40.5+
+Dugit Fabien,FRA,10,40.5,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,40.5
+Amma Sachi,JPN,11,40,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,40
+Watanabe Kazuma,JPN,12,38+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,38+
+Kaurov Ivan,RUS,13,38,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,38
+Kim Jaha,KOR,14,37+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,37+
+Chernikov Mikhail,RUS,15,36+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,36+
+Baratzadeh Gholamali,IRI,16,36+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,36+
+Jafari Mahmoudabadi Mohammad,IRI,17,36-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,36-
+Liu Changzhong,CHN,18,35,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,35
+Jafari Mahmoudabadi Sobhan,IRI,19,33-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,33-
+Chang Yeu-Shiang,TPE,20,32-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,32-
+Jaggi Martin,SUI,21,27,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,27
+Wang Qinghua,CHN,22,26-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,26-
+Cai LuYuan,CHN,23,20-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,20-
+Kim Jabee,KOR,24,18,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,18
+PAN JinYu,CHN,25,17,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,17
+Farshad Yeganeh Artimes,IRI,26,11+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1,11+

@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Noguchi Akiyo,JPN,1,4t4 4b4,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Tuzhylina Svitlana,UKR,2,4t5 4b5,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Danion Juliette,FRA,3,3t3 4b4,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Abramchuk Yulia,RUS,4,3t4 4b5,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Bibik Olga,RUS,5,3t5 3b3,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Stöhr Anna,AUT,6,2t2 4b4,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Chereshneva Yana,RUS,7,2t2 4b6,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Levet Sandrine,FRA,8,2t2 3b3,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Shemulinkina  Tatiana,RUS,8,2t2 3b3,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Eiter Angela,AUT,8,2t2 3b3,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Ansade Maud,FRA,8,2t2 3b3,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Graftiaux Chloé,BEL,8,2t2 3b3,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Rajfova Silvie,CZE,13,2t3 3b3,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Claassen Paige,USA,13,2t3 3b3,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Shalagina Olga,UKR,15,2t3 3b4,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Lavarda Jenny,ITA,16,2t4 3b4,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Marchisio Stella,ITA,17,1t1 3b3,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+CRUZ MONTALBAN Esther,ESP,18,1t1 3b8,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Bacher Barbara,AUT,19,1t1 2b3,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+Perlova Nataliya,UKR,20,1t1 1b1,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7

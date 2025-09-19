@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+YURIKUSA Ao,JPN,1,29,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Final,2022-09-24,/api/v1/category_rounds/7795/results,/api/v1/events/1243/result/1,29
+Higuchi Masahiro,JPN,2,28,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Final,2022-09-24,/api/v1/category_rounds/7795/results,/api/v1/events/1243/result/1,28
+Halenke Sebastian,GER,3,28,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Final,2022-09-24,/api/v1/category_rounds/7795/results,/api/v1/events/1243/result/1,28
+Nishida Hidemasa,JPN,4,27+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Final,2022-09-24,/api/v1/category_rounds/7795/results,/api/v1/events/1243/result/1,27+
+YOSHIDA Satone,JPN,5,27+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Final,2022-09-24,/api/v1/category_rounds/7795/results,/api/v1/events/1243/result/1,27+
+LEE Dohyun,KOR,6,27+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Final,2022-09-24,/api/v1/category_rounds/7795/results,/api/v1/events/1243/result/1,27+
+Potocar Luka,SLO,7,25+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Final,2022-09-24,/api/v1/category_rounds/7795/results,/api/v1/events/1243/result/1,25+
+RAMADHAN RAVIANDI,INA,8,22+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Final,2022-09-24,/api/v1/category_rounds/7795/results,/api/v1/events/1243/result/1,22+

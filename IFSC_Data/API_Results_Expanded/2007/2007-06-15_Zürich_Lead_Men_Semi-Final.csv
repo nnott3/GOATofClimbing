@@ -1,0 +1,30 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Crespi Flavio,ITA,1,59+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,59+
+Millet Sylvain,FRA,2,59-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,59-
+Julian  Puigblanque Ramón ,ESP,3,58+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,58+
+Lachat Cédric,SUI,4,58,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,58
+Lama David,AUT,5,56,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,56
+Usobiaga Lakunza Patxi,ESP,6,55+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,55+
+Verhoeven Jorg,NED,7,53-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,53-
+Zardini Luca,ITA,8,46,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,46
+Mrázek Tomás,CZE,9,46-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,46-
+Desgranges Romain,FRA,10,45,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,45
+Lopez Mateos Eric ,ESP,11,43+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,43+
+Watanabe Kazuma,JPN,12,43,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,43
+Amma Sachi,JPN,13,41,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,41
+Winkler Daniel,SUI,14,39,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,39
+Hirayama Yuji,JPN,15,33,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,33
+Barbero Alfonso Pablo ,ESP,16,32-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,32-
+Becan Klemen,SLO,17,31+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,31+
+Midtboe Magnus,NOR,17,31+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,31+
+Fuselier Michaël,FRA,19,29-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,29-
+Sova Matej,SLO,20,27,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,27
+Comina Fabien,FRA,21,27-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,27-
+Neumärker Felix,GER,22,26,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,26
+Jaggi Martin,SUI,23,25,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,25
+Wagner Roland,AUT,23,25,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,25
+Fiori Alessandro,ITA,25,24,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,24
+Szekely Gabor,HUN,26,22-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,22-
+Gogol Mikhail,RUS,27,21+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,21+
+Kaurov Ivan,RUS,27,21+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,21+
+Jubes Angarita Marco Antonio,ESP,29,16-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1,16-

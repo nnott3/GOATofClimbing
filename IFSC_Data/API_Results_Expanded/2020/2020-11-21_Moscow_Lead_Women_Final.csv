@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Meshkova Viktoriia,RUS,1,36+ (3:53),"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Women,Final,2020-11-21,/api/v1/category_rounds/6223/results,/api/v1/events/1166/result/5,36+
+Adamovska Eliska,CZE,2,36+ (4:35),"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Women,Final,2020-11-21,/api/v1/category_rounds/6223/results,/api/v1/events/1166/result/5,36+
+Thompson-Smith Molly,GBR,3,31,"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Women,Final,2020-11-21,/api/v1/category_rounds/6223/results,/api/v1/events/1166/result/5,31
+Meul Hannah,GER,4,30+,"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Women,Final,2020-11-21,/api/v1/category_rounds/6223/results,/api/v1/events/1166/result/5,30+
+Prosekova Olesya,RUS,5,30,"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Women,Final,2020-11-21,/api/v1/category_rounds/6223/results,/api/v1/events/1166/result/5,30
+MEZENTSEVA Daria,RUS,6,28+,"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Women,Final,2020-11-21,/api/v1/category_rounds/6223/results,/api/v1/events/1166/result/5,28+
+Potapova Nika,UKR,7,18+,"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Women,Final,2020-11-21,/api/v1/category_rounds/6223/results,/api/v1/events/1166/result/5,18+
+Janosova Marketa,CZE,8,11,"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Women,Final,2020-11-21,/api/v1/category_rounds/6223/results,/api/v1/events/1166/result/5,11

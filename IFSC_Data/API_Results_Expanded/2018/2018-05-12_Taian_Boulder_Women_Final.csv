@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Noguchi Akiyo,JPN,1,4T4z 5 5,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Women,Final,2018-05-12,/api/v1/category_rounds/4944/results,/api/v1/events/1050/result/7,1,1,1,1,2,2,1,1
+Nonaka Miho,JPN,2,4T4z 10 7,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Women,Final,2018-05-12,/api/v1/category_rounds/4944/results,/api/v1/events/1050/result/7,1,1,1,1,5,4,3,1
+Gibert Fanny,FRA,3,2T3z 6 7,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Women,Final,2018-05-12,/api/v1/category_rounds/4944/results,/api/v1/events/1050/result/7,2,2,X,X,4,4,X,1
+Gejo Stasa,SRB,4,1T3z 3 7,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Women,Final,2018-05-12,/api/v1/category_rounds/4944/results,/api/v1/events/1050/result/7,X,1,3,3,X,3,X,X
+Färber Johanna,AUT,5,1T3z 4 10,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Women,Final,2018-05-12,/api/v1/category_rounds/4944/results,/api/v1/events/1050/result/7,4,1,X,4,X,5,X,X
+Condie Kyra,USA,6,0T3z 0 5,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Women,Final,2018-05-12,/api/v1/category_rounds/4944/results,/api/v1/events/1050/result/7,X,1,X,1,X,X,X,3

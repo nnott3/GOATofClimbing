@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+GARNBRET Janja,SLO,1,4T4z 5 5,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Women,Final,2022-04-08,/api/v1/category_rounds/7420/results,/api/v1/events/1233/result/7,2,2,1,1,1,1,1,1
+GROSSMAN Natalia,USA,2,3T4z 8 16,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Women,Final,2022-04-08,/api/v1/category_rounds/7420/results,/api/v1/events/1233/result/7,X,8,6,6,1,1,1,1
+Kümin Andrea,SUI,3,1T2z 1 3,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Women,Final,2022-04-08,/api/v1/category_rounds/7420/results,/api/v1/events/1233/result/7,X,X,X,2,1,1,X,X
+BERTONE Oriane,FRA,4,1T2z 1 5,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Women,Final,2022-04-08,/api/v1/category_rounds/7420/results,/api/v1/events/1233/result/7,X,X,X,4,1,1,X,X
+ITO Futaba,JPN,5,0T2z 0 8,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Women,Final,2022-04-08,/api/v1/category_rounds/7420/results,/api/v1/events/1233/result/7,X,4,X,X,X,4,X,X
+Gejo Stasa,SRB,6,0T1z 0 3,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Women,Final,2022-04-08,/api/v1/category_rounds/7420/results,/api/v1/events/1233/result/7,X,X,X,3,X,X,X,X

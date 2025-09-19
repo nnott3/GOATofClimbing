@@ -1,0 +1,8 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Yurina Valentina,RUS,1,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Women,2006-07-29,/api/v1/events/435/result/6
+Ryepko Olena,UKR,2,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Women,2006-07-29,/api/v1/events/435/result/6
+Ruyga Tatiana,RUS,3,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Women,2006-07-29,/api/v1/events/435/result/6
+Rodriguez Francis,VEN,4,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Women,2006-07-29,/api/v1/events/435/result/6
+Ropek Edyta,POL,5,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Women,2006-07-29,/api/v1/events/435/result/6
+Hrozova Lucie,CZE,6,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Women,2006-07-29,/api/v1/events/435/result/6
+Blanco Lucelia,VEN,7,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Women,2006-07-29,/api/v1/events/435/result/6

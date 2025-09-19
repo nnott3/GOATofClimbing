@@ -1,0 +1,43 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Cufar Martina,SLO,1,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Sarkany Muriel,BEL,2,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Minoret Chloé,FRA,3,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Schultz Annatina,SUI,4,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Go Mi-Sun,KOR,5,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+schöpf Bettina,AUT,6,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Knorr Damaris,GER,7,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Kryvonis Olena,UKR,8,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Levet Sandrine,FRA,9,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Lavarda Jenny,ITA,10,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Gros Natalija,SLO,11,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Kimura Rie,JPN,11,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Shalagina Olga,UKR,13,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Raffetseder Gerda,AUT,14,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Bacher Barbara,AUT,15,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Martin Delphine,FRA,15,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Ostapenko Olena,UKR,15,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Kotasova-Kostruhova Vera,CZE,18,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Benetti Lisa,ITA,19,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Petrignet Carole,FRA,20,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Kim Hyun-Jung,KOR,21,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Vidmar Katja,SLO,21,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Franko Lucka,SLO,23,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Nilsson Ingela,SWE,23,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Stendal Linn Karin,NOR,23,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Perlova Nataliya,UKR,26,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Eyer Alexandra,SUI,27,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Uhden Marietta,GER,27,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Louis Stéphanie,SUI,29,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Tusar Eva,SLO,29,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Iovane Luisa,ITA,31,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Lage Lisa,USA,31,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Trnkova Lenka,CZE,31,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Truden Sasa,SLO,31,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Frati Mirella,ITA,35,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Nagakai Hoshiko,JPN,36,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Guzzi Nastja,SLO,37,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Knabl Sabine,AUT,37,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Martin Sancho Berta,ESP,37,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Bacher Sabine,AUT,40,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Allen Rebecca,GBR,42,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5
+Moosburger Miriam,AUT,42,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Women,2001-11-16,/api/v1/events/248/result/5

@@ -1,0 +1,17 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Tuzhylina Svitlana,UKR,1,29.570,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Stenkovaya Anna,RUS,2,30.170,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Ruyga Tatiana,RUS,3,31.130,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Yurina Valentina,RUS,4,31.390,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Da Silva Rosmery,VEN,5,30.410,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Chereshneva Yana,RUS,6,34.830,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Blanco Lucelia,VEN,7,35.530,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Neliwati Evi,INA,8,fall,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Ropek Edyta,POL,9,33.270,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Zijlstra Vera,NED,10,39.870,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Piratinskaya Mayya,RUS,11,45.720,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Graftiaux Chloé,BEL,12,45.760,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Iskakova Aliya,KAZ,13,65.690,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Gros Natalija,SLO,14,fall,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Bacher Barbara,AUT,15,fall,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+Saurwein Katharina,AUT,16,fall,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6

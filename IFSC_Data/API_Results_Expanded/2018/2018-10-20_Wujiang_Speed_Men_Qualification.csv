@@ -1,0 +1,37 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Shikov Aleksandr,RUS,1,5.910,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Jaelolo Aspar,INA,2,5.922,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Mawem Bassa,FRA,3,5.923,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Timofeev Dmitrii,RUS,4,5.929,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Muhammad Alfian,INA,5,6.013,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Rukin Sergei,RUS,6,6.014,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Leonardo Veddriq,INA,7,6.100,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Boldyrev Danyil,UKR,8,6.110,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Deulin Vladislav,RUS,9,6.150,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Li JinXin,CHN,10,6.200,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Septo Wibowo Siburian Pangeran,INA,11,6.210,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Fossali Ludovico,ITA,12,6.250,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Zodda Gian Luca,ITA,13,6.278,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Alipourshenazandifar Reza,IRI,14,6.279,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Pavlenko Kostiantyn,UKR,15,6.280,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Shilov Aleksandr,RUS,16,6.370,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Muhammad Hinayah,INA,17,6.380,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Kriz Jan,CZE,18,6.390,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+LIN PengHui,CHN,19,6.410,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Sabri Sabri,INA,20,6.440,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Dzienski Marcin,POL,21,6.540,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Kokorin Stanislav,RUS,22,6.550,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+DUAN YuRong,CHN,23,6.680,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Alipour Shenazandifar Milad,IRI,24,6.770,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+CHEN ZhiXuan,CHN,25,6.780,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Moro Guillaume,FRA,26,7.140,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Schubert Jakob,AUT,27,7.630,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Lehmann Sascha,SUI,28,8.020,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Delfaniyan Ehsan,IRI,29,8.120,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Ogata Yoshiyuki,JPN,30,8.400,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Collin Nicolas,BEL,31,8.440,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Brosler John,USA,32,8.610,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Bombardi Marcello,ITA,33,9.100,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Doyle Aidan,CAN,34,9.190,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Timmermans Loïc,BEL,35,9.470,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+Samoilov Fedir,UKR,36,11.040,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2

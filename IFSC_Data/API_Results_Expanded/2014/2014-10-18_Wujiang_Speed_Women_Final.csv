@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/4_winner,1/4_time,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+Krasavina Mariia,,1,8.07,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Women,Final,2014-10-18,/api/v1/category_rounds/3104/results,/api/v1/events/864/result/6,True,8.603,True,7.94,True,8.07,,
+Jaubert Anouck,,2,8.10,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Women,Final,2014-10-18,/api/v1/category_rounds/3104/results,/api/v1/events/864/result/6,True,8.51,True,8.33,False,8.1,,
+Kaplina Iuliia,,3,8.23,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Women,Final,2014-10-18,/api/v1/category_rounds/3104/results,/api/v1/events/864/result/6,True,9.87,False,8.0,,,True,8.23
+Buczek Klaudia,,4,8.70,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Women,Final,2014-10-18,/api/v1/category_rounds/3104/results,/api/v1/events/864/result/6,True,8.675,False,9.25,,,False,8.7
+Ropek Edyta,,5,8.75,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Women,Final,2014-10-18,/api/v1/category_rounds/3104/results,/api/v1/events/864/result/6,False,8.756,,,,,,
+Chudziak Patrycja,,6,9.31,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Women,Final,2014-10-18,/api/v1/category_rounds/3104/results,/api/v1/events/864/result/6,False,9.315,,,,,,
+Prokopiuk-Kawecka Monika,,7,10.01,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Women,Final,2014-10-18,/api/v1/category_rounds/3104/results,/api/v1/events/864/result/6,False,10.017,,,,,,
+Marenych Alla,,8,10.83,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Women,Final,2014-10-18,/api/v1/category_rounds/3104/results,/api/v1/events/864/result/6,False,10.832,,,,,,

@@ -1,0 +1,31 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup - Bolzano (ITA) 2002,275,2002,Bolzano,Lead,Men,2002-04-26,/api/v1/events/275/result/1
+UIAA Worldcup - Bolzano (ITA) 2002,275,2002,Bolzano,Lead,Women,2002-04-26,/api/v1/events/275/result/5
+UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Men,2002-05-17,/api/v1/events/276/result/1
+UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Women,2002-05-17,/api/v1/events/276/result/6
+2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Men,2002-05-25,/api/v1/events/278/result/2
+3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
+UIAA Worldcup - Imst (AUT) 2002,279,2002,Imst,Lead,Men,2002-06-06,/api/v1/events/279/result/1
+UIAA Worldcup - Imst (AUT) 2002,279,2002,Imst,Lead,Women,2002-06-06,/api/v1/events/279/result/5
+UIAA Worldcup - Fiera di Primiero (ITA) 2002,280,2002,Fiera di Primiero,Boulder,Men,2002-06-13,/api/v1/events/280/result/3
+UIAA Worldcup - Fiera di Primiero (ITA) 2002,280,2002,Fiera di Primiero,Boulder,Women,2002-06-13,/api/v1/events/280/result/7
+UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Men,2002-06-24,/api/v1/events/281/result/2
+UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+UIAA Worldcup - Lecco (ITA) 2002 - boulder,282,2002,Lecco,Boulder,Men,2002-06-25,/api/v1/events/282/result/3
+UIAA Worldcup - Lecco (ITA) 2002 - boulder,282,2002,Lecco,Boulder,Women,2002-06-25,/api/v1/events/282/result/7
+UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
+UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
+UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
+UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Women,2002-08-23,/api/v1/events/284/result/5
+UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Speed,Men,2002-08-23,/api/v1/events/284/result/2
+UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Speed,Women,2002-08-23,/api/v1/events/284/result/6
+UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Men,2002-09-13,/api/v1/events/285/result/3
+UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
+UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Women,2002-10-17,/api/v1/events/286/result/5
+UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5

@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,53+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Men,Final,2015-07-10,/api/v1/category_rounds/3453/results,/api/v1/events/902/result/1,53+
+Ondra Adam,CZE,2,52+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Men,Final,2015-07-10,/api/v1/category_rounds/3453/results,/api/v1/events/902/result/1,52+
+Halenke Sebastian,GER,3,52,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Men,Final,2015-07-10,/api/v1/category_rounds/3453/results,/api/v1/events/902/result/1,52
+Desgranges Romain,FRA,4,51+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Men,Final,2015-07-10,/api/v1/category_rounds/3453/results,/api/v1/events/902/result/1,51+
+Supper Gautier,FRA,5,43+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Men,Final,2015-07-10,/api/v1/category_rounds/3453/results,/api/v1/events/902/result/1,43+
+Schubert Jakob,AUT,6,39+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Men,Final,2015-07-10,/api/v1/category_rounds/3453/results,/api/v1/events/902/result/1,39+
+Ghisolfi Stefano,ITA,7,38+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Men,Final,2015-07-10,/api/v1/category_rounds/3453/results,/api/v1/events/902/result/1,38+
+Fakirianov Dmitrii,RUS,8,29+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Men,Final,2015-07-10,/api/v1/category_rounds/3453/results,/api/v1/events/902/result/1,29+

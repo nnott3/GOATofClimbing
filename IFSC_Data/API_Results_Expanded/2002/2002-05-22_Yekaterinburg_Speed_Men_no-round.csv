@@ -1,0 +1,39 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Sinitcyn Sergei,RUS,1,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Peshekhonov Alexander,RUS,2,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Chaoulsky Alexandre,RUS,3,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Gadeev Alexei,RUS,4,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Soubbotine Iakov,RUS,5,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Baranov Vladislav,RUS,6,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Sadyrov Marat,RUS,7,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Styenkovyy Maksym,UKR,8,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Komondi Csaba,HUN,9,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Kouzovlev Nikolai,RUS,10,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Mikhailov Maxim,RUS,11,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Omeltchenko Denis,RUS,12,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Piniguine Serguei,RUS,13,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Konovalov Dmytro,UKR,14,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Zakharov Vladimir,UKR,15,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Netsvetaev-Dolgalev Vladimir,RUS,16,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Astachov Igor,RUS,17,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Khaidarchine Dmitri,RUS,18,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Kozmine Daniil,RUS,19,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Grebenyuk Oleg,UKR,20,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Salimov Oleksandr,UKR,21,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Goutorine Egor,RUS,22,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Honcharenko Ihor,UKR,23,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Gurchiani Zaza,GEO,24,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Shyshkovskyy Ivan,UKR,25,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Muhd Hatta,SGP,26,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Sergeyev (Liachenko) Alexandre,RUS,27,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Abbassi Amin,IRI,28,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Jafari Mahmoudabadi Mohammad,IRI,29,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Pirvasli Amir,IRI,30,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Bartha Attila,HUN,31,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Feradze Valeri,GEO,32,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Katsitadze Soso,GEO,33,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Mohd Ismail,SGP,34,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Gazdeliani Gurami,GEO,35,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Minatchev Evgueni,RUS,36,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Ron Ho,SGP,36,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2
+Sief Hossein,IRI,36,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Men,2002-05-22,/api/v1/events/277/result/2

@@ -1,0 +1,35 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Alipourshenazandifar Reza,IRI,1,5.580,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Fossali Ludovico,ITA,2,5.950,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Deulin Vladislav,RUS,3,5.960,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Jaelolo Aspar,INA,4,5.980,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Shilov Aleksandr,RUS,5,6.050,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Muhammad Hinayah,INA,6,6.070,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Shikov Aleksandr,RUS,6,6.070,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Kokorin Stanislav,RUS,8,6.130,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Zhong QiXin,CHN,9,6.180,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Timofeev Dmitrii,RUS,10,6.190,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Gontero Leonardo,ITA,11,6.240,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Moro Guillaume,FRA,12,6.260,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Abudzar Yulianto,INA,13,6.300,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Bogomolov Arsenii,RUS,13,6.300,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Sabri Sabri,INA,15,6.380,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Pavlenko Kostiantyn,UKR,16,6.390,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Artamonov  Georgy,RUS,17,6.400,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Rindi Sufriyanto,INA,18,6.410,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Li JinXin,CHN,19,6.420,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Ou ZhiYong,CHN,20,6.430,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Dzienski Marcin,POL,21,6.520,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Halasa Rafal,POL,22,6.530,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Santoni Alessandro,ITA,23,6.570,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Asrar Ehsan,IRI,24,6.610,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+WANG FengQi,CHN,25,6.720,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Lee Yongsu,KOR,26,7.010,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Zodda Gian Luca,ITA,27,7.210,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Hojer Jan,GER,28,7.280,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Kim Jungju,KOR,29,7.490,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Cano Blazquez Javier,ESP,30,8.950,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Levin Josh,USA,31,9.560,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Pastor Martínez Sergio,ESP,32,10.510,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Mohammadi Morteza,IRI,33,False start,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+Septo Wibowo Siburian Pangeran,INA,33,False start,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2

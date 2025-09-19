@@ -1,0 +1,51 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Crespi Flavio,ITA,1,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Lama David,AUT,2,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Mrázek Tomás,CZE,3,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Verhoeven Jorg,NED,4,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Zardini Luca,ITA,5,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Lachat Cédric,SUI,6,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Julian  Puigblanque Ramón ,ESP,7,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Dugit Fabien,FRA,8,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Winkler Daniel,SUI,9,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Millet Sylvain,FRA,10,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Stranik Martin,CZE,11,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Marin Garcia Eduard,ESP,12,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Bindhammer Christian,GER,13,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Desgranges Romain,FRA,14,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Lagni Bernardino,ITA,15,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Van der Werf Roman,NED,16,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Hequin Olivier,FRA,17,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Dugit Stephane,FRA,18,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Sova Matej,SLO,19,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Högström Magnus,SWE,20,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Bindhammer Andreas,GER,21,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Neumärker Felix,GER,22,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Ten Sijthoff Casper,NED,23,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Usobiaga Lakunza Patxi,ESP,24,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Hoppe Markus,GER,25,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Fuselier Michaël,FRA,26,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Reis Jürgen,AUT,27,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Wszolek Marcin,POL,27,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Jubes Angarita Marco Antonio,ESP,29,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Jaggi Martin,SUI,30,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+de Leeuw Nicky,NED,31,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Guerimand Flavien,FRA,31,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Tak Timo,NED,33,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Berezoski André,BRA,34,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Caude David,FRA,34,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Schulte Ferdinand,NED,36,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Thomas Jonathan,BEL,36,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Becan Klemen,SLO,38,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Bresnehan Jake,AUS,38,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Droetto Fabrizio,ITA,38,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Farcy Nicolas,BEL,38,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Gross Johan,SWE,38,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Timmermans Michael,BEL,43,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Barcza Charlelie,BEL,44,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Berger Noé,LUX,44,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Krastev Ivaylo,BUL,44,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Vanden Driessche Sam,BEL,44,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Midtboe Magnus,NOR,48,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Sarkany Frederic,BEL,49,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+Andersen Sören,DEN,50,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1

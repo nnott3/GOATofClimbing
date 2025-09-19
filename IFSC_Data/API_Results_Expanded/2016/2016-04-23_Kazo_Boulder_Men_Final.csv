@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Gelmanov Rustam,RUS,1,3t3 4b4,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Men,Final,2016-04-23,/api/v1/category_rounds/3813/results,/api/v1/events/938/result/3,1,1,X,1,1,1,1,1
+Piccolruaz Michael,ITA,2,2t2 4b8,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Men,Final,2016-04-23,/api/v1/category_rounds/3813/results,/api/v1/events/938/result/3,1,1,X,2,1,1,X,4
+Fujii Kokoro,JPN,3,2t4 4b8,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Men,Final,2016-04-23,/api/v1/category_rounds/3813/results,/api/v1/events/938/result/3,2,2,X,2,2,2,X,2
+Bonder Jeremy,FRA,4,2t8 4b12,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Men,Final,2016-04-23,/api/v1/category_rounds/3813/results,/api/v1/events/938/result/3,4,4,X,1,4,4,X,3
+Sharafutdinov Dmitrii,RUS,5,1t2 3b8,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Men,Final,2016-04-23,/api/v1/category_rounds/3813/results,/api/v1/events/938/result/3,2,1,X,3,X,4,X,X
+Rugens Rolands,LVA,6,0t 1b2,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Men,Final,2016-04-23,/api/v1/category_rounds/3813/results,/api/v1/events/938/result/3,X,2,X,X,X,X,X,X

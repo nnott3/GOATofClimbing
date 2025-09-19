@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Schubert Jakob,AUT,1,33,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Final,2011-09-07,/api/v1/category_rounds/1748/results,/api/v1/events/682/result/1,33
+Julian  Puigblanque Ramón ,ESP,2,33-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Final,2011-09-07,/api/v1/category_rounds/1748/results,/api/v1/events/682/result/1,33-
+Amma Sachi,JPN,3,24+,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Final,2011-09-07,/api/v1/category_rounds/1748/results,/api/v1/events/682/result/1,24+
+Tauporn Thomas,GER,4,24+,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Final,2011-09-07,/api/v1/category_rounds/1748/results,/api/v1/events/682/result/1,24+
+Romain Manuel,FRA,5,24-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Final,2011-09-07,/api/v1/category_rounds/1748/results,/api/v1/events/682/result/1,24-
+Min Hyunbin,KOR,6,24-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Final,2011-09-07,/api/v1/category_rounds/1748/results,/api/v1/events/682/result/1,24-
+Lechner Mario,AUT,7,13-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Final,2011-09-07,/api/v1/category_rounds/1748/results,/api/v1/events/682/result/1,13-
+Desgranges Romain,FRA,8,12,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Final,2011-09-07,/api/v1/category_rounds/1748/results,/api/v1/events/682/result/1,12

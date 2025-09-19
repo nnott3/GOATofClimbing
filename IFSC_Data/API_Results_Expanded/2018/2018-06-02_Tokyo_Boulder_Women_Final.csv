@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Noguchi Akiyo,JPN,1,3T3z 5 5,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Women,Final,2018-06-02,/api/v1/category_rounds/4954/results,/api/v1/events/1051/result/7,1,1,3,3,X,X,1,1
+Nonaka Miho,JPN,2,3T3z 6 6,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Women,Final,2018-06-02,/api/v1/category_rounds/4954/results,/api/v1/events/1051/result/7,2,2,3,3,X,X,1,1
+Kipriianova Ekaterina,RUS,3,2T2z 6 5,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Women,Final,2018-06-02,/api/v1/category_rounds/4954/results,/api/v1/events/1051/result/7,2,2,4,3,X,X,X,X
+Gejo Stasa,SRB,4,0T2z 0 5,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Women,Final,2018-06-02,/api/v1/category_rounds/4954/results,/api/v1/events/1051/result/7,X,4,X,X,X,X,X,1
+Bestvater Alma,GER,5,0T2z 0 6,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Women,Final,2018-06-02,/api/v1/category_rounds/4954/results,/api/v1/events/1051/result/7,X,X,X,3,X,X,X,3
+Ito Futaba,JPN,6,0T1z 0 9,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Women,Final,2018-06-02,/api/v1/category_rounds/4954/results,/api/v1/events/1051/result/7,X,9,X,X,X,X,X,X

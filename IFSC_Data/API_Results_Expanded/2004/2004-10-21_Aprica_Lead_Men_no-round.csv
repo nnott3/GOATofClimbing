@@ -1,0 +1,46 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Chabot Alexandre,FRA,1,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Mrázek Tomás,CZE,2,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Petrenko Maksym,UKR,3,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Crespi Flavio,ITA,4,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Usobiaga Lakunza Patxi,ESP,5,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Julian  Puigblanque Ramón ,ESP,6,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Millet Sylvain,FRA,7,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Zardini Luca,ITA,8,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Lo Piccolo Cédric,FRA,9,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Valjavec Tomaz,SLO,10,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Fuselier Michaël,FRA,11,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Bindhammer Christian,GER,12,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Pouvreau Gérome,FRA,12,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Repcik Juraj,SVK,12,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Verhoeven Jorg,NED,12,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Vinokur Vadim,USA,16,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Sova Matej,SLO,17,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Lagni Bernardino,ITA,18,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Winkler Daniel,SUI,19,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Droetto Fabrizio,ITA,20,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Marin Garcia Eduard,ESP,21,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Desgranges Romain,FRA,22,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Brenna Cristian,ITA,23,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Becan Klemen,SLO,24,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Colonetti Roberto,ITA,24,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Manzanedo César Ciudad,ESP,26,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Gnerro Alberto,ITA,27,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Gusak Igor,UKR,28,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Zbranek Jan,CZE,29,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Dugit Fabien,FRA,30,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Caude David,FRA,31,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Fichtinger Reinhard,AUT,31,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Moroni Gabriele,ITA,31,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Shaferov Sergei,BLR,34,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Gartmann Tobias,GER,35,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Ito Hidekazu,JPN,35,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Legrand Yannick,FRA,35,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Giupponi Luca,ITA,38,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Lois Tino,ESP,39,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Reis Jürgen,AUT,39,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Ceintre Arnaud,FRA,41,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Mol Dirk,NED,41,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Battaglia Massimo,ITA,43,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Svub Ondrej,SVK,43,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+Felix Roman,SUI,45,,UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1

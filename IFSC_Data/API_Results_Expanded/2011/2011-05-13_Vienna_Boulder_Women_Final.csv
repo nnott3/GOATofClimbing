@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Stöhr Anna,AUT,1,4t13 4b4,IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Women,Final,2011-05-13,/api/v1/category_rounds/1651/results,/api/v1/events/668/result/7,1,1,4,1,2,1,6,1
+Puccio Alex,USA,2,2t2 3b3,IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Women,Final,2011-05-13,/api/v1/category_rounds/1651/results,/api/v1/events/668/result/7,1,1,1,1,X,X,X,1
+Shalagina Olga,UKR,3,1t1 3b3,IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Women,Final,2011-05-13,/api/v1/category_rounds/1651/results,/api/v1/events/668/result/7,X,X,1,1,X,1,X,1
+Kim Jain,KOR,4,1t1 2b2,IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Women,Final,2011-05-13,/api/v1/category_rounds/1651/results,/api/v1/events/668/result/7,X,X,1,1,X,X,X,1
+Chevrier Anne-Laure,FRA,5,1t3 4b9,IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Women,Final,2011-05-13,/api/v1/category_rounds/1651/results,/api/v1/events/668/result/7,3,3,X,1,X,4,X,1
+Klingler Petra,SUI,6,1t4 4b8,IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Women,Final,2011-05-13,/api/v1/category_rounds/1651/results,/api/v1/events/668/result/7,X,2,X,1,4,4,X,1

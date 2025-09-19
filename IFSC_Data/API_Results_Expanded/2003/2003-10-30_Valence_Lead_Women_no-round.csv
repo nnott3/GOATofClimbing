@@ -1,0 +1,35 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Eiter Angela,AUT,1,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Sarkany Muriel,BEL,2,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Levet Sandrine,FRA,3,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Ciavaldini Caroline,FRA,4,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Bacher Barbara,AUT,5,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Minoret Chloé,FRA,5,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Lavarda Jenny,ITA,7,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Dufraisse Alizée,FRA,8,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Pinet Florence,FRA,9,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Franko Lucka,SLO,10,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Martin Delphine,FRA,11,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Vidmar Katja,SLO,12,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Vidmar Maja,SLO,13,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Knorr Damaris,GER,14,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Son Mélanie,FRA,15,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Louis Stéphanie,SUI,16,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Cufar Martina,SLO,17,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Huang Li-Ping,CHN,18,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Raveyre Emmanuelle,FRA,19,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Kysilkova Tereza,CZE,20,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Elez Eva,ESP,21,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Stendal Linn Karin,NOR,22,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Didillion Aurelie,FRA,23,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Nilsson Ingela,SWE,24,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Teso Emeline,FRA,25,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Mathieu Laure,FRA,26,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Hnizdilova Sona,CZE,27,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Lagoffun Sarah,FRA,27,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Largeron Marine,FRA,27,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Mathieu Claire,FRA,27,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Eyer Alexandra,SUI,31,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Li Chunhua,CHN,32,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Huang Bai-Le,TPE,33,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+Etter Susanne,SUI,34,,UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5

@@ -1,0 +1,18 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Jaubert Anouck,FRA,1,7.810,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Kaplina Iuliia,RUS,2,7.980,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Tsyganova Anna,RUS,3,8.110,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Buczek Klaudia,POL,4,8.170,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Rudzinska Aleksandra,POL,5,8.500,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Sarisson Aurelia,FRA,6,8.640,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Ita Triana Purnamasari,INA,7,8.650,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Brozek Anna,POL,8,8.880,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Marenych Alla,UKR,9,9.230,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+He CuiLian,CHN,10,9.340,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Lach Nina,AUT,11,9.390,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Dhorifatus Syafiiyah,INA,12,9.430,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Pichler Stefanie,AUT,13,9.540,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+Elmer Alexandra,AUT,14,9.690,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+PUBU ZhuoMa,CHN,15,10.360,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+TIAN PeiYang,CHN,16,10.410,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6
+BAIMA YuZhen,CHN,17,11.700,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Women,Qualification,2016-05-07,/api/v1/category_rounds/3824/results,/api/v1/events/940/result/6

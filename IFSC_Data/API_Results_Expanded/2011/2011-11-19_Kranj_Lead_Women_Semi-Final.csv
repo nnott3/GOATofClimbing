@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,Top
+Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,Top
+Eiter Angela,AUT,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,Top
+Ernst Johanna,AUT,4,42,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,42
+Posch Katharina,AUT,5,39-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,39-
+Vidmar Maja,SLO,6,38+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,38+
+Brumagne Mathilde,BEL,7,38,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,38
+Durif Charlotte,FRA,8,38,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,38
+Chereshneva Yana,RUS,9,37,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,37
+Bacher Barbara,AUT,10,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,37-
+Lavarda Jenny,ITA,11,36-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,36-
+Ciavaldini Caroline,FRA,12,34-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,34-
+Fakhritdinova Dinara,RUS,13,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,33+
+Schranz Christine,AUT,14,33,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,33
+Han Seuran,KOR,15,33-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,33-
+Dufraisse Alizée,FRA,16,33-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,33-
+Sandbu Maria Davies,NOR,17,30+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,30+
+Terenteva Galina,RUS,18,30+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,30+
+Sa Sol,KOR,19,29+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,29+
+Stotz Rebekka,SUI,20,29-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,29-
+Stütz Christina,AUT,21,28,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,28
+Gosar Asja,SLO,22,28-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,28-
+Shalagina Olga,UKR,23,27+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,27+
+van Bergen Nikki,NED,24,24.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,24.5
+Sigrist Manuela,SUI,25,16-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,16-
+Svobodova Tereza,CZE,26,16-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5,16-

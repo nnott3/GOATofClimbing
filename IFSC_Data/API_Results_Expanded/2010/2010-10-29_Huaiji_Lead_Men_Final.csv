@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Schubert Jakob,AUT,1,34+,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Men,Final,2010-10-29,/api/v1/category_rounds/1448/results,/api/v1/events/621/result/1,34+
+Romain Manuel,FRA,2,32-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Men,Final,2010-10-29,/api/v1/category_rounds/1448/results,/api/v1/events/621/result/1,32-
+Tauporn Thomas,GER,3,26,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Men,Final,2010-10-29,/api/v1/category_rounds/1448/results,/api/v1/events/621/result/1,26
+Julian  Puigblanque Ramón ,ESP,4,25,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Men,Final,2010-10-29,/api/v1/category_rounds/1448/results,/api/v1/events/621/result/1,25
+Lama David,AUT,5,25,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Men,Final,2010-10-29,/api/v1/category_rounds/1448/results,/api/v1/events/621/result/1,25
+Amma Sachi,JPN,6,25,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Men,Final,2010-10-29,/api/v1/category_rounds/1448/results,/api/v1/events/621/result/1,25
+Matsushima Akito,JPN,7,23,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Men,Final,2010-10-29,/api/v1/category_rounds/1448/results,/api/v1/events/621/result/1,23
+Ondra Adam,CZE,8,19-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Men,Final,2010-10-29,/api/v1/category_rounds/1448/results,/api/v1/events/621/result/1,19-

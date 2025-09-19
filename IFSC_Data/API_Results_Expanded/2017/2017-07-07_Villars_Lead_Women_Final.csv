@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,Top,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Final,2017-07-07,/api/v1/category_rounds/4301/results,/api/v1/events/991/result/5,Top
+Markovic Mina,SLO,2,42+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Final,2017-07-07,/api/v1/category_rounds/4301/results,/api/v1/events/991/result/5,42+
+Verhoeven Anak,BEL,3,37+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Final,2017-07-07,/api/v1/category_rounds/4301/results,/api/v1/events/991/result/5,37+
+Kim Jain,KOR,4,33+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Final,2017-07-07,/api/v1/category_rounds/4301/results,/api/v1/events/991/result/5,33+
+Pilz Jessica,AUT,5,33+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Final,2017-07-07,/api/v1/category_rounds/4301/results,/api/v1/events/991/result/5,33+
+Rogora Laura,ITA,6,31,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Final,2017-07-07,/api/v1/category_rounds/4301/results,/api/v1/events/991/result/5,31
+Schubert Hannah,AUT,7,28+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Final,2017-07-07,/api/v1/category_rounds/4301/results,/api/v1/events/991/result/5,28+
+Becerra Mathilde,FRA,8,12+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Final,2017-07-07,/api/v1/category_rounds/4301/results,/api/v1/events/991/result/5,12+

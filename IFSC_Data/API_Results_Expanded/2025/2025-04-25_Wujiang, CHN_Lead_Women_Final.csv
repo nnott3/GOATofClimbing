@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+MCNEICE Erin,GBR,1,41 (4:26),IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Final,2025-04-25,/api/v1/category_rounds/9960/results,/api/v1/events/1406/result/5,41,"2025-04-25_Wujiang, CHN_Lead_Women_Final.csv"
+SEO Chaehyun,KOR,1,41 (4:26),IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Final,2025-04-25,/api/v1/category_rounds/9960/results,/api/v1/events/1406/result/5,41,"2025-04-25_Wujiang, CHN_Lead_Women_Final.csv"
+SANDERS Annie,USA,3,39+,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Final,2025-04-25,/api/v1/category_rounds/9960/results,/api/v1/events/1406/result/5,39+,"2025-04-25_Wujiang, CHN_Lead_Women_Final.csv"
+ROGORA Laura,ITA,4,34+,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Final,2025-04-25,/api/v1/category_rounds/9960/results,/api/v1/events/1406/result/5,34+,"2025-04-25_Wujiang, CHN_Lead_Women_Final.csv"
+MACKENZIE Oceania,AUS,5,34+,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Final,2025-04-25,/api/v1/category_rounds/9960/results,/api/v1/events/1406/result/5,34+,"2025-04-25_Wujiang, CHN_Lead_Women_Final.csv"
+ZHANG Yuetong,CHN,6,33+,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Final,2025-04-25,/api/v1/category_rounds/9960/results,/api/v1/events/1406/result/5,33+,"2025-04-25_Wujiang, CHN_Lead_Women_Final.csv"
+JANICOT Hélène,FRA,7,33+,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Final,2025-04-25,/api/v1/category_rounds/9960/results,/api/v1/events/1406/result/5,33+,"2025-04-25_Wujiang, CHN_Lead_Women_Final.csv"
+APEL Anna Maria,GER,8,21,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Final,2025-04-25,/api/v1/category_rounds/9960/results,/api/v1/events/1406/result/5,21,"2025-04-25_Wujiang, CHN_Lead_Women_Final.csv"

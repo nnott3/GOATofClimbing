@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,Top,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,Top
+Verhoeven Anak,BEL,1,Top,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,Top
+Markovic Mina,SLO,3,45,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,45
+Vidmar Maja,SLO,4,44+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,44+
+Röck Magdalena,AUT,5,43+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,43+
+Janicot Hélène,FRA,5,43+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,43+
+Kobayashi Yuka,JPN,7,43+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,43+
+Durif Charlotte,FRA,8,40+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,40+
+Noguchi Akiyo,JPN,9,38+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,38+
+Malamid Evgeniia,RUS,10,37+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,37+
+Romain Salomé,FRA,11,35+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,35+
+Söderlund Matilda,SWE,12,34+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,34+
+Stotz Rebekka,SUI,13,34+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,34+
+Lavarda Jenny,ITA,14,34+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,34+
+Klingler Petra,SUI,15,22+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,22+
+Miller Delaney,USA,16,22+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,22+
+Schranz Christine,AUT,17,22+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,22+
+Posch Katharina,AUT,18,22+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,22+
+Chereshneva Yana,RUS,19,22+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,22+
+van Bergen Nikki,NED,19,22+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,22+
+Ota Risa,JPN,21,22+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,22+
+Rosero Carolina,ECU,22,22+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,22+
+Vejmolova Iva,CZE,23,22,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,22
+Bacher Barbara,AUT,24,22,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,22
+Kazbekova Ievgeniia,UKR,25,18+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,18+
+Fakhritdinova Dinara,RUS,26,0,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5,0

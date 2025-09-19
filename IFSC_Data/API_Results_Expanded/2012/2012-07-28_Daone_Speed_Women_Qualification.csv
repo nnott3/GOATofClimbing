@@ -1,0 +1,14 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Gaidamakina Alina,RUS,1,18.060,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Morandi Sara,ITA,2,20.090,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Ropek Edyta,POL,3,20.510,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Savisko Anastasiya,UKR,4,21.810,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Buczek Klaudia,POL,5,22.140,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Krasavina Mariia,RUS,6,22.240,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Levochkina  Yuliya,RUS,7,22.780,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Prokopiuk Monika,POL,8,23.330,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Yurina Valentina,RUS,9,23.560,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Vaytsekhovskaya Yulia,RUS,10,28.590,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Pichler Stefanie,AUT,11,31.360,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Motovilova Svetlana,RUS,12,33.470,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+Shelpakova Polina,RUS,13,fall,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6

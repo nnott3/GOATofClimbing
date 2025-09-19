@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,48+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,48+
+Desgranges Romain,FRA,2,48+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,48+
+Supper Gautier,FRA,3,47+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,47+
+McColl Sean,CAN,4,46+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,46+
+Ghisolfi Stefano,ITA,5,46+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,46+
+Schubert Jakob,AUT,6,45+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,45+
+Skofic Domen,SLO,7,45+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,45+
+Matsushima Akito,JPN,8,39+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,39+
+Ondra Adam,CZE,9,38+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,38+
+Midtboe Magnus,NOR,10,38+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,38+
+Min Hyunbin,KOR,11,37,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,37
+Shimatani Naoki,JPN,12,37,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,37
+KIM Hanwool,KOR,13,35,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,35
+JonasMcRae Elan,CAN,14,33,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,33
+Cano Blazquez Javier,ESP,15,31+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,31+
+Park Jihwan,KOR,16,31,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,31
+Lechner Mario,AUT,17,30+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,30+
+Hada Yuki,JPN,18,30+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,30+
+Sugimoto Rei,JPN,19,30+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,30+
+Kim Jabee,KOR,20,29,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,29
+Shimizu Hiroto,JPN,21,28+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,28+
+Wechsler Or,ISR,22,28+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,28+
+Chon Jongwon,KOR,23,27,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,27
+Timmermans Loïc,BEL,24,26+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,26+
+Iida Yuzuru,JPN,25,18+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,18+
+Cho Seungwoon,KOR,26,18+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1,18+

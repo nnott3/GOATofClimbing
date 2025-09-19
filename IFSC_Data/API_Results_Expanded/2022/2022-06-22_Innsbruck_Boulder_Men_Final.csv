@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Duffy Colin,USA,1,3T4z 12 9,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Men,Final,2022-06-22,/api/v1/category_rounds/7543/results,/api/v1/events/1238/result/3,1,1,X,1,6,5,5,2
+LEE DOHYUN,KOR,2,2T4z 10 12,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Men,Final,2022-06-22,/api/v1/category_rounds/7543/results,/api/v1/events/1238/result/3,2,1,X,1,8,8,X,2
+Ogata Yoshiyuki,JPN,3,2T4z 10 14,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Men,Final,2022-06-22,/api/v1/category_rounds/7543/results,/api/v1/events/1238/result/3,1,1,X,1,9,9,X,3
+CHON JONGWON,KOR,4,2T3z 2 3,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Men,Final,2022-06-22,/api/v1/category_rounds/7543/results,/api/v1/events/1238/result/3,1,1,X,1,X,X,1,1
+Fujii Kokoro,JPN,5,2T3z 3 4,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Men,Final,2022-06-22,/api/v1/category_rounds/7543/results,/api/v1/events/1238/result/3,1,1,X,1,X,X,2,2
+Flohé Yannick,GER,6,2T3z 7 7,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Men,Final,2022-06-22,/api/v1/category_rounds/7543/results,/api/v1/events/1238/result/3,1,1,X,1,X,X,6,5

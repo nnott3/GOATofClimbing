@@ -1,0 +1,13 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Ryepko Olena,UKR,1,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+Yurina Valentina,RUS,2,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+Zakharova Olga,UKR,3,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+Ostapenko Olena,UKR,4,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+Stenkovaya Anna,RUS,5,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+Abramchuk Yulia,RUS,6,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+Saulevich Olesya,RUS,7,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+Piratinskaya Mayya,RUS,8,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+Podgorbounskikh Zosia,RUS,9,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+Yun Gyong-Im,KOR,10,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+Valentim Vanessa,BRA,11,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6
+Shirawa Ana Luisa,BRA,12,,UIAA Worldcup - Lecco (ITA) 2002 - speed,281,2002,Lecco,Speed,Women,2002-06-24,/api/v1/events/281/result/6

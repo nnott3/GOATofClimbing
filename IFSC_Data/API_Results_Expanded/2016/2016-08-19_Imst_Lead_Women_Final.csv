@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Röck Magdalena,AUT,1,56+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Women,Final,2016-08-19,/api/v1/category_rounds/3880/results,/api/v1/events/948/result/5,56+
+Markovic Mina,SLO,2,56,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Women,Final,2016-08-19,/api/v1/category_rounds/3880/results,/api/v1/events/948/result/5,56
+Kim Jain,KOR,3,56,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Women,Final,2016-08-19,/api/v1/category_rounds/3880/results,/api/v1/events/948/result/5,56
+Verhoeven Anak,BEL,4,54,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Women,Final,2016-08-19,/api/v1/category_rounds/3880/results,/api/v1/events/948/result/5,54
+Garnbret Janja,SLO,5,50+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Women,Final,2016-08-19,/api/v1/category_rounds/3880/results,/api/v1/events/948/result/5,50+
+Chanourdie Julia,FRA,6,45+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Women,Final,2016-08-19,/api/v1/category_rounds/3880/results,/api/v1/events/948/result/5,45+
+Kalan Tjasa,SLO,7,45+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Women,Final,2016-08-19,/api/v1/category_rounds/3880/results,/api/v1/events/948/result/5,45+
+Koller Anne-Sophie,SUI,8,39,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Women,Final,2016-08-19,/api/v1/category_rounds/3880/results,/api/v1/events/948/result/5,39

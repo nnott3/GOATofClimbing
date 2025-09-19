@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+McArthur Hamish,GBR,1,TOP,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,TOP
+Schubert Jakob,AUT,2,40+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,40+
+Potocar Luka,SLO,3,40+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,40+
+Stranik Martin,CZE,4,40+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,40+
+Halenke Sebastian,GER,5,40,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,40
+Ghisolfi Stefano,ITA,6,40,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,40
+Narasaki Tomoa,JPN,7,38,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,38
+Ogata Yoshiyuki,JPN,8,37+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,37+
+Flohé Yannick,GER,9,37+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,37+
+Lehmann Sascha,SUI,10,35+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,35+
+Bosi William,GBR,11,35+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,35+
+YOSHIDA Satone,JPN,12,32,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,32
+Fujii Kokoro,JPN,13,31+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,31+
+Collin Nicolas,BEL,14,31+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,31+
+Verhoeven Jorg,NED,15,30,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,30
+Posch Mathias,AUT,16,28,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,28
+Min Hyunbin,KOR,17,27+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,27+
+Shevchenko Vladislav,CFR,18,27+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,27+
+Samoilov Fedir,UKR,19,27+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,27+
+Bombardi Marcello,ITA,20,27+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,27+
+Takata Tomoaki,JPN,21,26+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,26+
+Martin Philipp,GER,22,26+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,26+
+Schenk Filip,ITA,23,23+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,23+
+Bergant Martin,SLO,24,22+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,22+
+Skofic Domen,SLO,25,20+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,20+
+Ridal William,GBR,26,19+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1,19+

@@ -1,0 +1,14 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Sinitcyn Sergei,RUS,1,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Peshekhonov Alexander,RUS,2,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Styenkovyy Maksym,UKR,3,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Oleksy Tomasz,POL,4,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Chaoulsky Alexandre,RUS,5,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Mecherzynski-Wiktor Andrzej,POL,5,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Shyshkovskyy Ivan,UKR,5,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Soubbotine Iakov,RUS,5,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Vaitsekhovskii Evgenii,RUS,9,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Komondi Csaba,HUN,10,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Rosyid Nurrahman,INA,11,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Svacha Jiri,CZE,12,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+Boulbahaiem Salah,BEL,13,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2

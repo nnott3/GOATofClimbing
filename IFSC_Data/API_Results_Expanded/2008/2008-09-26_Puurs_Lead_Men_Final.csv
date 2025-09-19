@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,48-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Men,Final,2008-09-26,/api/v1/category_rounds/920/results,/api/v1/events/524/result/1,48-
+Mrázek Tomás,CZE,2,46-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Men,Final,2008-09-26,/api/v1/category_rounds/920/results,/api/v1/events/524/result/1,46-
+Verhoeven Jorg,NED,3,41-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Men,Final,2008-09-26,/api/v1/category_rounds/920/results,/api/v1/events/524/result/1,41-
+Lachat Cédric,SUI,4,37-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Men,Final,2008-09-26,/api/v1/category_rounds/920/results,/api/v1/events/524/result/1,37-
+Kryukov Valeriy,UKR,5,37-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Men,Final,2008-09-26,/api/v1/category_rounds/920/results,/api/v1/events/524/result/1,37-
+McColl Sean,CAN,6,35+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Men,Final,2008-09-26,/api/v1/category_rounds/920/results,/api/v1/events/524/result/1,35+
+Becan Klemen,SLO,7,31-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Men,Final,2008-09-26,/api/v1/category_rounds/920/results,/api/v1/events/524/result/1,31-
+Usobiaga Lakunza Patxi,ESP,8,25-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Men,Final,2008-09-26,/api/v1/category_rounds/920/results,/api/v1/events/524/result/1,25-

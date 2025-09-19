@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ghisolfi Stefano,ITA,1,42+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,42+
+Bailey Sean,USA,2,42+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,42+
+Fakirianov Dmitrii,RUS,3,40+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,40+
+Stranik Martin,CZE,4,39+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,39+
+Lehmann Sascha,SUI,5,37+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,37+
+Potocar Luka,SLO,6,37,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,37
+Ginés López Alberto,ESP,7,37,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,37
+Samoilov Fedir,UKR,8,37,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,37
+Baudrand Victor,CAN,9,37,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,37
+Skofic Domen,SLO,10,36+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,36+
+Flohé Yannick,GER,11,36+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,36+
+Higuchi Masahiro,JPN,12,36+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,36+
+Posch Mathias,AUT,13,36+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,36+
+Collin Nicolas,BEL,14,33+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,33+
+Bombardi Marcello,ITA,15,31.5+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,31.5+
+Avezou Sam,FRA,16,31.5+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,31.5+
+Halenke Sebastian,GER,17,31.5,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,31.5
+Grünenfelder Nino,SUI,18,31.5,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,31.5
+McArthur Hamish,GBR,19,31+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,31+
+Amagasa Sohta,JPN,20,31+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,31+
+Kuric Peter,SVK,21,31,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,31
+Fulkerson Ross,USA,22,28+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,28+
+FOURTEAU Joshua,FRA,23,28+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,28+
+Vancraeynest Ties,BEL,24,24,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,24
+Harrison Campbell,AUS,25,21,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,21
+Puman Hannes,SWE,26,5,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1,5

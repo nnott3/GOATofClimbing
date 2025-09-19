@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Oda Momoka,JPN,1,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Final,2013-11-16,/api/v1/category_rounds/2638/results,/api/v1/events/807/result/5,34+
+Noguchi Akiyo,JPN,2,34,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Final,2013-11-16,/api/v1/category_rounds/2638/results,/api/v1/events/807/result/5,34
+Markovic Mina,SLO,3,29+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Final,2013-11-16,/api/v1/category_rounds/2638/results,/api/v1/events/807/result/5,29+
+Kim Jain,KOR,4,29,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Final,2013-11-16,/api/v1/category_rounds/2638/results,/api/v1/events/807/result/5,29
+Röck Magdalena,AUT,5,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Final,2013-11-16,/api/v1/category_rounds/2638/results,/api/v1/events/807/result/5,26+
+Fakhritdinova Dinara,RUS,6,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Final,2013-11-16,/api/v1/category_rounds/2638/results,/api/v1/events/807/result/5,26+
+Verhoeven Anak,BEL,7,22.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Final,2013-11-16,/api/v1/category_rounds/2638/results,/api/v1/events/807/result/5,22.5+
+Vidmar Maja,SLO,8,22.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Final,2013-11-16,/api/v1/category_rounds/2638/results,/api/v1/events/807/result/5,22.5+

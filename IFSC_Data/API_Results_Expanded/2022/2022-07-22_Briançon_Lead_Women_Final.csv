@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,42+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Final,2022-07-22,/api/v1/category_rounds/7586/results,/api/v1/events/1241/result/5,42+
+SEO CHAEHYUN,KOR,2,41+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Final,2022-07-22,/api/v1/category_rounds/7586/results,/api/v1/events/1241/result/5,41+
+Grossman Natalia,USA,3,41,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Final,2022-07-22,/api/v1/category_rounds/7586/results,/api/v1/events/1241/result/5,41
+Raboutou Brooke,USA,4,41,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Final,2022-07-22,/api/v1/category_rounds/7586/results,/api/v1/events/1241/result/5,41
+Tanii Natsuki,JPN,5,37+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Final,2022-07-22,/api/v1/category_rounds/7586/results,/api/v1/events/1241/result/5,37+
+Rogora Laura,ITA,6,37+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Final,2022-07-22,/api/v1/category_rounds/7586/results,/api/v1/events/1241/result/5,37+
+Lukan Vita,SLO,7,18+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Final,2022-07-22,/api/v1/category_rounds/7586/results,/api/v1/events/1241/result/5,18+
+NAKAGAWA Ryu,JPN,8,18+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Final,2022-07-22,/api/v1/category_rounds/7586/results,/api/v1/events/1241/result/5,18+

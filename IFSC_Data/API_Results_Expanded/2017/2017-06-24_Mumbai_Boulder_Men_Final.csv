@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Chon Jongwon,KOR,1,4t10 4b10,IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Men,Final,2017-06-24,/api/v1/category_rounds/4298/results,/api/v1/events/990/result/3,1,1,2,2,1,1,6,6
+Sugimoto Rei,JPN,2,3t6 3b4,IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Men,Final,2017-06-24,/api/v1/category_rounds/4298/results,/api/v1/events/990/result/3,1,1,2,2,3,1,X,X
+Rubtsov  Aleksei,RUS,3,3t9 3b8,IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Men,Final,2017-06-24,/api/v1/category_rounds/4298/results,/api/v1/events/990/result/3,2,2,4,4,3,2,X,X
+Fujii Kokoro,JPN,4,1t1 3b9,IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Men,Final,2017-06-24,/api/v1/category_rounds/4298/results,/api/v1/events/990/result/3,1,1,X,X,X,2,X,6
+Schubert Jakob,AUT,5,1t1 3b11,IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Men,Final,2017-06-24,/api/v1/category_rounds/4298/results,/api/v1/events/990/result/3,1,1,X,5,X,X,X,5
+Narasaki Tomoa,JPN,6,1t1 2b2,IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Men,Final,2017-06-24,/api/v1/category_rounds/4298/results,/api/v1/events/990/result/3,1,1,X,X,X,1,X,X

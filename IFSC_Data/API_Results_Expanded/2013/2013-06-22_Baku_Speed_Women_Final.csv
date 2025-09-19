@@ -1,0 +1,17 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/8_winner,1/8_time,1/4_winner,1/4_time,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+Kaplina Iuliia,,1,8.08,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,True,9.96,True,8.36,True,8.05,True,8.08,,
+Gaidamakina Alina,,2,8.27,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,True,8.94,True,8.69,True,8.51,False,8.27,,
+Miroslaw Aleksandra,,3,8.64,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,True,8.91,True,8.54,False,8.47,,,True,8.64
+Heitz Margot,,4,9.69,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,True,9.4,True,9.33,False,9.38,,,False,9.69
+Buczek Klaudia,,5,9.17,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,True,9.18,False,9.17,,,,,,
+Jaubert Anouck,,6,9.24,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,True,9.21,False,9.24,,,,,,
+Krasavina Mariia,,7,10.08,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,True,9.86,False,10.08,,,,,,
+Levochkina  Yuliya,,8,11.44,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,True,9.28,False,11.44,,,,,,
+Savisko Anastasiya,,9,9.27,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,False,9.27,,,,,,,,
+Ulzhabayeva Tamara,,10,9.53,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,False,9.53,,,,,,,,
+Marenych Alla,,11,9.68,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,False,9.68,,,,,,,,
+Golikova Anastasiia,,12,10.03,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,False,10.03,,,,,,,,
+Pichler Stefanie,,13,10.06,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,False,10.06,,,,,,,,
+Elmer Alexandra,,14,10.40,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,False,10.4,,,,,,,,
+Brozek Anna,,15,11.26,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,False,11.26,,,,,,,,
+Iskakova Aliya,,16,15.52,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,796,2013,Baku,Speed,Women,Final,2013-06-22,/api/v1/category_rounds/2565/results,/api/v1/events/796/result/6,False,15.52,,,,,,,,

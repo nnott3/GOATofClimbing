@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+GRUPPER Jesse,USA,1,45+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,45+
+YURIKUSA Ao,JPN,1,45+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,45+
+DUFFY Colin,USA,3,43,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,43
+FLOHÉ Yannick,GER,4,41+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,41+
+POTOCAR Luka,SLO,4,41+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,41+
+SCHUBERT Jakob,AUT,4,41+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,41+
+HOMMA Taisei,JPN,7,40,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,40
+MEGOS Alexander,GER,8,38+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,38+
+YOSHIDA Satone,JPN,8,38+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,38+
+LEHMANN Sascha,SUI,10,38,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,38
+BAILEY Sean,USA,11,37+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,37+
+OGATA Yoshiyuki,JPN,12,36+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,36+
+HALENKE Sebastian,GER,13,33+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,33+
+PLACCI Giovanni,ITA,13,33+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,33+
+SCHALCK Mejdi,FRA,13,33+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,33+
+SCHERZ Stefan,AUT,13,33+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,33+
+STRANIK Martin,CZE,13,33+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,33+
+GHISOLFI Stefano,ITA,18,33,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,33
+SKOFIC Domen,SLO,18,33,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,33
+SCHENK Filip,ITA,20,31,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,31
+MARCUS Nimrod,ISR,21,29+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,29+
+LINACISORO MOLINA Mikel Asier,ESP,22,29,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,29
+VOGT Dimitri,SUI,23,26+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,26+
+GEFFROY Romaric,FRA,24,24+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,24+
+MCARTHUR Hamish,GBR,25,13+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,13+
+PUMAN Hannes,SWE,26,13,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1,13

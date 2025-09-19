@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Schubert Jakob,AUT,1,38+,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,38+
+Romain Manuel,FRA,2,37,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,37
+Amma Sachi,JPN,3,36+,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,36+
+Min Hyunbin,KOR,4,36-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,36-
+Julian  Puigblanque Ramón ,ESP,5,35-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,35-
+Tauporn Thomas,GER,5,35-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,35-
+Lechner Mario,AUT,7,34-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,34-
+Desgranges Romain,FRA,7,34-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,34-
+Matsushima Akito,JPN,9,30,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,30
+Chernikov Mikhail,RUS,10,30-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,30-
+Supper Gautier,FRA,10,30-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,30-
+Ito Hidekazu,JPN,12,28+,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,28+
+Son Sangwon,KOR,13,28-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,28-
+Shafiee Zul Fadzli,MAS,14,27-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,27-
+Kim Jabee,KOR,15,26,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,26
+Sim Seolbin,KOR,16,26,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,26
+Amri Amri,INA,17,26-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,26-
+Wang Qinghua,CHN,18,26-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,26-
+Nitta Tatsumi,JPN,19,25,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,25
+Watanabe Kazuma,JPN,20,25-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,25-
+Suolang Jiacuo,CHN,21,25-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,25-
+Shibata Masaki,JPN,22,22-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,22-
+Akbar Huda Wardana,INA,23,20-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,20-
+Qu HaiBin,CHN,24,20-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,20-
+Yogaswara Indra,INA,25,19-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,19-
+HO Sin-fai,HKG,26,19-,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1,19-

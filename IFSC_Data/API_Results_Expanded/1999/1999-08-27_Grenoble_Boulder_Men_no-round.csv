@@ -1,0 +1,55 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+DU LAC Daniel,FRA,1,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Core Christian,ITA,2,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Meyer Jérôme,FRA,3,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Petit François,FRA,4,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Fairfield Timmy,CAN,5,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Laurence Ludovic,FRA,6,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Kazbekov Serik,UKR,7,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Danis Jean Luc,FRA,8,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+ANDRADA JIMENEZ Daniel,ESP,9,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Chemoulinkine Serguei,RUS,10,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Meral Julien,FRA,11,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Oleksy Tomasz,POL,12,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Golob Jurij,SLO,13,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Chabot Alexandre,FRA,14,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Dutray Mathieu,FRA,15,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Finkel Christoph,GER,16,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Scarian Riccardo,ITA,17,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Jeandenand Damien,FRA,18,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Noe Frédéric,FRA,19,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Julien Stephane,FRA,20,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Lamiche Anthony,FRA,21,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Fischhuber Kilian,AUT,22,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Soucek Radovah,CZE,23,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Archambault Dan,CAN,24,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Haager Benedikt,GER,25,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Perot Frédéric,FRA,26,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Berger Yannick,FRA,27,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Mazille Julien,FRA,28,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Ceintre Arnaud,FRA,29,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Marnezy David,FRA,30,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Bresciani Matteo,ITA,31,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Stepanov Serguei,RUS,31,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Birtwistle Steve,CAN,33,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Coroller Frédéric,FRA,34,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Repcik Juraj,SVK,35,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Pont Gabriel,FRA,36,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Giudici Lucio,ITA,37,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+De Girolamo Vincent,FRA,38,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Elkaim Mathieu,FRA,39,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Rosaasen Nels,CAN,40,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Jongeneelen Jeroen,NED,41,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Pinier Nicolas,FRA,42,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Tcherechnev Oleg,RUS,43,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Daures Luc,FRA,44,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Giupponi Luca,ITA,44,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Fioravanti Roberto,ITA,46,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Clouet Aymeric,FRA,47,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Repcik Marek,SVK,47,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Chapelle Sylvain,FRA,49,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Afonso Daniel,FRA,50,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Januel Nicolas,FRA,50,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Fichtinger Reinhard,AUT,52,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Bloch Elliot,USA,53,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+Sadovski Eugeni,UKR,54,,UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3

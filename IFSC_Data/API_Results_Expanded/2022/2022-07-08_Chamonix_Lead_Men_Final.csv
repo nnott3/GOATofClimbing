@@ -1,0 +1,10 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ondra Adam,CZE,1,39+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Final,2022-07-08,/api/v1/category_rounds/7581/results,/api/v1/events/1240/result/1,39+
+Homma Taisei,JPN,2,39+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Final,2022-07-08,/api/v1/category_rounds/7581/results,/api/v1/events/1240/result/1,39+
+Bailey Sean,USA,3,29+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Final,2022-07-08,/api/v1/category_rounds/7581/results,/api/v1/events/1240/result/1,29+
+Potocar Luka,SLO,4,29+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Final,2022-07-08,/api/v1/category_rounds/7581/results,/api/v1/events/1240/result/1,29+
+Flohé Yannick,GER,5,29+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Final,2022-07-08,/api/v1/category_rounds/7581/results,/api/v1/events/1240/result/1,29+
+Avezou Sam,FRA,6,25+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Final,2022-07-08,/api/v1/category_rounds/7581/results,/api/v1/events/1240/result/1,25+
+McArthur Hamish,GBR,7,25+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Final,2022-07-08,/api/v1/category_rounds/7581/results,/api/v1/events/1240/result/1,25+
+Lehmann Sascha,SUI,8,20+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Final,2022-07-08,/api/v1/category_rounds/7581/results,/api/v1/events/1240/result/1,20+
+YOSHIDA Satone,JPN,9,12,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Final,2022-07-08,/api/v1/category_rounds/7581/results,/api/v1/events/1240/result/1,12

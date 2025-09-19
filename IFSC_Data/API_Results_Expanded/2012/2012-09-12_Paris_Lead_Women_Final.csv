@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Eiter Angela,AUT,1,48+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Women,Final,2012-09-12,/api/v1/category_rounds/2113/results,/api/v1/events/738/result/5,48+
+Kim Jain,KOR,2,44+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Women,Final,2012-09-12,/api/v1/category_rounds/2113/results,/api/v1/events/738/result/5,44+
+Ernst Johanna,AUT,3,42+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Women,Final,2012-09-12,/api/v1/category_rounds/2113/results,/api/v1/events/738/result/5,42+
+Oda Momoka,JPN,4,42+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Women,Final,2012-09-12,/api/v1/category_rounds/2113/results,/api/v1/events/738/result/5,42+
+Durif Charlotte,FRA,5,42+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Women,Final,2012-09-12,/api/v1/category_rounds/2113/results,/api/v1/events/738/result/5,42+
+Söderlund Matilda,SWE,6,39+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Women,Final,2012-09-12,/api/v1/category_rounds/2113/results,/api/v1/events/738/result/5,39+
+Janicot Hélène,FRA,7,30+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Women,Final,2012-09-12,/api/v1/category_rounds/2113/results,/api/v1/events/738/result/5,30+
+Malamid Evgeniia,RUS,8,30+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Women,Final,2012-09-12,/api/v1/category_rounds/2113/results,/api/v1/events/738/result/5,30+

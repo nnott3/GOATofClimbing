@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ghisolfi Stefano,ITA,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Men,Final,2018-07-11,/api/v1/category_rounds/4981/results,/api/v1/events/1054/result/1,Top
+Schubert Jakob,AUT,2,48+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Men,Final,2018-07-11,/api/v1/category_rounds/4981/results,/api/v1/events/1054/result/1,48+
+Megos Alexander,GER,3,46+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Men,Final,2018-07-11,/api/v1/category_rounds/4981/results,/api/v1/events/1054/result/1,46+
+Skofic Domen,SLO,4,46+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Men,Final,2018-07-11,/api/v1/category_rounds/4981/results,/api/v1/events/1054/result/1,46+
+Bosi William,GBR,5,43+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Men,Final,2018-07-11,/api/v1/category_rounds/4981/results,/api/v1/events/1054/result/1,43+
+Tanaka Shuta,JPN,6,43+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Men,Final,2018-07-11,/api/v1/category_rounds/4981/results,/api/v1/events/1054/result/1,43+
+Homma Taisei,JPN,7,40+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Men,Final,2018-07-11,/api/v1/category_rounds/4981/results,/api/v1/events/1054/result/1,40+
+Lehmann Sascha,SUI,8,30+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Men,Final,2018-07-11,/api/v1/category_rounds/4981/results,/api/v1/events/1054/result/1,30+

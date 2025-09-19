@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Schubert Jakob,AUT,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,Top
+Julian  Puigblanque Ramón ,ESP,2,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,Top
+Desgranges Romain,FRA,3,59+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,59+
+Skofic Domen,SLO,4,59+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,59+
+Ondra Adam,CZE,5,54+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,54+
+McColl Sean,CAN,6,53+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,53+
+Supper Gautier,FRA,7,53+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,53+
+Ghisolfi Stefano,ITA,8,49,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,49
+Halenke Sebastian,GER,9,48+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,48+
+Midtboe Magnus,NOR,10,47+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,47+
+Primozic Urban,SLO,11,46+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,46+
+Ballet Thomas,FRA,12,44+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,44+
+Lechner Mario,AUT,13,42,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,42
+Bombardi Marcello,ITA,14,41+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,41+
+Romain Manuel,FRA,15,41+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,41+
+Vettorata Francesco,ITA,16,41+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,41+
+Korenaga Keiichiro,JPN,17,40+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,40+
+Chernikov Mikhail,RUS,18,40+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,40+
+Timmermans Loïc,BEL,19,39+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,39+
+KIM Hanwool,KOR,20,38+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,38+
+Rudigier Max,AUT,21,31+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,31+
+JonasMcRae Elan,CAN,22,30+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,30+
+Parma Georg,AUT,23,29+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,29+
+Dornauer Alfons,AUT,24,29,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,29
+Köb Lukas,AUT,25,28,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,28
+Hanke Christoph,GER,26,27+,IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1,27+

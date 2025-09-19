@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Gros Natalija,SLO,1,2t7 3b3,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Women,Final,2007-06-22,/api/v1/category_rounds/643/results,/api/v1/events/477/result/7
+Shalagina Olga,UKR,2,1t1 2b2,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Women,Final,2007-06-22,/api/v1/category_rounds/643/results,/api/v1/events/477/result/7
+Noguchi Akiyo,JPN,3,1t2 3b3,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Women,Final,2007-06-22,/api/v1/category_rounds/643/results,/api/v1/events/477/result/7
+Perlova Nataliya,UKR,4,1t2 3b5,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Women,Final,2007-06-22,/api/v1/category_rounds/643/results,/api/v1/events/477/result/7
+Danion Juliette,FRA,5,1t4 2b3,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Women,Final,2007-06-22,/api/v1/category_rounds/643/results,/api/v1/events/477/result/7
+Graftiaux Chloé,BEL,6,1t9 4b13,IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Women,Final,2007-06-22,/api/v1/category_rounds/643/results,/api/v1/events/477/result/7

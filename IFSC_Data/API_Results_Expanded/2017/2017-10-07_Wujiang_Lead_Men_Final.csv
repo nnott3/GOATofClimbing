@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ghisolfi Stefano,ITA,1,Top,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Men,Final,2017-10-07,/api/v1/category_rounds/4342/results,/api/v1/events/995/result/1,Top
+Narasaki Tomoa,JPN,2,34,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Men,Final,2017-10-07,/api/v1/category_rounds/4342/results,/api/v1/events/995/result/1,34
+KIM Hanwool,KOR,3,30+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Men,Final,2017-10-07,/api/v1/category_rounds/4342/results,/api/v1/events/995/result/1,30+
+Skofic Domen,SLO,4,30+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Men,Final,2017-10-07,/api/v1/category_rounds/4342/results,/api/v1/events/995/result/1,30+
+Desgranges Romain,FRA,5,30+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Men,Final,2017-10-07,/api/v1/category_rounds/4342/results,/api/v1/events/995/result/1,30+
+Chon Jongwon,KOR,6,30+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Men,Final,2017-10-07,/api/v1/category_rounds/4342/results,/api/v1/events/995/result/1,30+
+Ogata Yoshiyuki,JPN,7,27+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Men,Final,2017-10-07,/api/v1/category_rounds/4342/results,/api/v1/events/995/result/1,27+
+Korenaga Keiichiro,JPN,8,24+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Men,Final,2017-10-07,/api/v1/category_rounds/4342/results,/api/v1/events/995/result/1,24+

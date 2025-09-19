@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+ANRAKU Sorato,JPN,1,45,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,45
+Roberts Toby,GBR,2,37+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,37+
+Grupper Jesse,USA,3,32+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,32+
+Flohé Yannick,GER,4,31+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,31+
+Megos Alexander,GER,5,29+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,29+
+Avezou Sam,FRA,6,29+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,29+
+Potocar Luka,SLO,7,27,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,27
+Ginés López Alberto,ESP,8,25+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,25+
+Ogata Yoshiyuki,JPN,9,21+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,21+
+Suzuki Neo,JPN,10,21+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,21+
+HIGUCHI Masahiro,JPN,11,21,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,21
+Lehmann Sascha,SUI,12,20+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,20+
+HOMMA Taisei,JPN,13,20+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,20+
+YOSHIDA Satone,JPN,13,20+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,20+
+OMATA Shion,JPN,15,20+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,20+
+Utelli Jonas,SUI,16,20,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,20
+NARASAKI Meichi,JPN,17,19+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,19+
+Lorenzi Simon,BEL,18,19+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,19+
+Ghisolfi Stefano,ITA,19,19,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,19
+Duval Arsène,FRA,20,17+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,17+
+Bergant Martin,SLO,21,17+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,17+
+Monchois Nao,FRA,22,17,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,17
+Bombardi Marcello,ITA,23,16+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,16+
+Scherz Stefan,AUT,24,16+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,16+
+Crep Lovro,SLO,25,16+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,16+
+Harrison Campbell,AUS,26,16,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1,16

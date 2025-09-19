@@ -1,0 +1,23 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ondra Adam,CZE,1,Top,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,Top
+Lama David,AUT,2,46-,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,46-
+Schubert Jakob,AUT,3,41-,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,41-
+Son Sangwon,KOR,3,41-,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,41-
+Amma Sachi,JPN,5,40+,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,40+
+Supper Gautier,FRA,6,38+,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,38+
+Chernikov Mikhail,RUS,7,29-,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,29-
+Usobiaga Lakunza Patxi,ESP,8,28,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,28
+Julian  Puigblanque Ramón ,ESP,9,28-,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,28-
+Romain Manuel,FRA,9,28-,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,28-
+Tauporn Thomas,GER,9,28-,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,28-
+Desgranges Romain,FRA,12,27,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,27
+Lechner Mario,AUT,13,27-,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,27-
+Min Hyunbin,KOR,14,25,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,25
+Esteller Ocaña Victor,ESP,15,23+,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,23+
+Verhoeven Jorg,NED,16,23,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,23
+Wang Qinghua,CHN,17,23-,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,23-
+Liu Changzhong,CHN,18,20-,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,20-
+Watanabe Kazuma,JPN,18,20-,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,20-
+Tsunoda Hiroki,JPN,20,13,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,13
+Ye Xiangyang,CHN,21,12+,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,12+
+Zhendinskiy Denis,KAZ,22,12,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1,12

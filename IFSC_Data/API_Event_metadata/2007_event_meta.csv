@@ -1,0 +1,128 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Men,Qualification,2007-03-30,/api/v1/category_rounds/594/results,/api/v1/events/468/result/3
+IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Men,Semi-Final,2007-03-30,/api/v1/category_rounds/595/results,/api/v1/events/468/result/3
+IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Men,Final,2007-03-30,/api/v1/category_rounds/596/results,/api/v1/events/468/result/3
+IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Qualification,2007-03-30,/api/v1/category_rounds/591/results,/api/v1/events/468/result/7
+IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Semi-Final,2007-03-30,/api/v1/category_rounds/592/results,/api/v1/events/468/result/7
+IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7
+IFSC Climbing Worldcup (S) - Tarnow (POL) 2007,469,2007,Tarnow,Speed,Men,Qualification,2007-04-13,/api/v1/category_rounds/599/results,/api/v1/events/469/result/2
+IFSC Climbing Worldcup (S) - Tarnow (POL) 2007,469,2007,Tarnow,Speed,Men,Final,2007-04-13,/api/v1/category_rounds/600/results,/api/v1/events/469/result/2
+IFSC Climbing Worldcup (S) - Tarnow (POL) 2007,469,2007,Tarnow,Speed,Women,Qualification,2007-04-13,/api/v1/category_rounds/597/results,/api/v1/events/469/result/6
+IFSC Climbing Worldcup (S) - Tarnow (POL) 2007,469,2007,Tarnow,Speed,Women,Final,2007-04-13,/api/v1/category_rounds/598/results,/api/v1/events/469/result/6
+IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Men,Qualification,2007-04-20,/api/v1/category_rounds/604/results,/api/v1/events/470/result/3
+IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Men,Semi-Final,2007-04-20,/api/v1/category_rounds/605/results,/api/v1/events/470/result/3
+IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Men,Final,2007-04-20,/api/v1/category_rounds/606/results,/api/v1/events/470/result/3
+IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Qualification,2007-04-20,/api/v1/category_rounds/601/results,/api/v1/events/470/result/7
+IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Semi-Final,2007-04-20,/api/v1/category_rounds/602/results,/api/v1/events/470/result/7
+IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7
+IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Men,Qualification,2007-04-27,/api/v1/category_rounds/610/results,/api/v1/events/471/result/3
+IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Men,Semi-Final,2007-04-27,/api/v1/category_rounds/611/results,/api/v1/events/471/result/3
+IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Men,Final,2007-04-27,/api/v1/category_rounds/612/results,/api/v1/events/471/result/3
+IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Qualification,2007-04-27,/api/v1/category_rounds/607/results,/api/v1/events/471/result/7
+IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Semi-Final,2007-04-27,/api/v1/category_rounds/608/results,/api/v1/events/471/result/7
+IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7
+IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Men,Qualification,2007-05-01,/api/v1/category_rounds/615/results,/api/v1/events/472/result/2
+IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Men,Final,2007-05-01,/api/v1/category_rounds/616/results,/api/v1/events/472/result/2
+IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Final,2007-05-01,/api/v1/category_rounds/614/results,/api/v1/events/472/result/6
+IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Semi-Final,2007-05-04,/api/v1/category_rounds/621/results,/api/v1/events/473/result/3
+IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3
+IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Qualification,2007-05-04,/api/v1/category_rounds/617/results,/api/v1/events/473/result/7
+IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Semi-Final,2007-05-04,/api/v1/category_rounds/618/results,/api/v1/events/473/result/7
+IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7
+IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Semi-Final,2007-05-11,/api/v1/category_rounds/627/results,/api/v1/events/474/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Qualification,2007-05-11,/api/v1/category_rounds/623/results,/api/v1/events/474/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Qualification,2007-06-08,/api/v1/category_rounds/632/results,/api/v1/events/475/result/3
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Final,2007-06-08,/api/v1/category_rounds/634/results,/api/v1/events/475/result/3
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Qualification,2007-06-08,/api/v1/category_rounds/629/results,/api/v1/events/475/result/7
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Semi-Final,2007-06-08,/api/v1/category_rounds/630/results,/api/v1/events/475/result/7
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7
+IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Qualification,2007-06-15,/api/v1/category_rounds/638/results,/api/v1/events/476/result/1
+IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Semi-Final,2007-06-15,/api/v1/category_rounds/639/results,/api/v1/events/476/result/1
+IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Final,2007-06-15,/api/v1/category_rounds/640/results,/api/v1/events/476/result/1
+IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Qualification,2007-06-15,/api/v1/category_rounds/635/results,/api/v1/events/476/result/5
+IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5
+IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Final,2007-06-15,/api/v1/category_rounds/637/results,/api/v1/events/476/result/5
+IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Men,Qualification,2007-06-22,/api/v1/category_rounds/644/results,/api/v1/events/477/result/3
+IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Men,Semi-Final,2007-06-22,/api/v1/category_rounds/645/results,/api/v1/events/477/result/3
+IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Men,Final,2007-06-22,/api/v1/category_rounds/646/results,/api/v1/events/477/result/3
+IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Women,Qualification,2007-06-22,/api/v1/category_rounds/641/results,/api/v1/events/477/result/7
+IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Women,Semi-Final,2007-06-22,/api/v1/category_rounds/642/results,/api/v1/events/477/result/7
+IFSC Climbing Worldcup (B) - Fiera di Primiero (ITA) 2007,477,2007,Fiera di Primiero,Boulder,Women,Final,2007-06-22,/api/v1/category_rounds/643/results,/api/v1/events/477/result/7
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Qualification,2007-07-11,/api/v1/category_rounds/652/results,/api/v1/events/478/result/1
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Final,2007-07-11,/api/v1/category_rounds/654/results,/api/v1/events/478/result/1
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Women,Qualification,2007-07-11,/api/v1/category_rounds/647/results,/api/v1/events/478/result/5
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Women,Semi-Final,2007-07-11,/api/v1/category_rounds/648/results,/api/v1/events/478/result/5
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Women,Final,2007-07-11,/api/v1/category_rounds/649/results,/api/v1/events/478/result/5
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Final,2007-07-11,/api/v1/category_rounds/656/results,/api/v1/events/478/result/2
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Women,Qualification,2007-07-11,/api/v1/category_rounds/650/results,/api/v1/events/478/result/6
+IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Women,Final,2007-07-11,/api/v1/category_rounds/651/results,/api/v1/events/478/result/6
+IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Qualification,2007-07-21,/api/v1/category_rounds/659/results,/api/v1/events/479/result/2
+IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Qualification,2007-07-21,/api/v1/category_rounds/657/results,/api/v1/events/479/result/6
+IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Qualification,2007-08-11,/api/v1/category_rounds/666/results,/api/v1/events/480/result/1
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Semi-Final,2007-08-11,/api/v1/category_rounds/667/results,/api/v1/events/480/result/1
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Semi-Final,2007-08-11,/api/v1/category_rounds/662/results,/api/v1/events/480/result/5
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Final,2007-08-11,/api/v1/category_rounds/663/results,/api/v1/events/480/result/5
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Qualification,2007-08-11,/api/v1/category_rounds/669/results,/api/v1/events/480/result/2
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Final,2007-08-11,/api/v1/category_rounds/665/results,/api/v1/events/480/result/6
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Lead,Women,Qualification,2007-09-17,/api/v1/category_rounds/671/results,/api/v1/events/481/result/5
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Lead,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/672/results,/api/v1/events/481/result/5
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Lead,Women,Final,2007-09-17,/api/v1/category_rounds/673/results,/api/v1/events/481/result/5
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Men,Qualification,2007-09-17,/api/v1/category_rounds/679/results,/api/v1/events/481/result/3
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Men,Semi-Final,2007-09-17,/api/v1/category_rounds/680/results,/api/v1/events/481/result/3
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Men,Final,2007-09-17,/api/v1/category_rounds/681/results,/api/v1/events/481/result/3
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Qualification,2007-09-17,/api/v1/category_rounds/674/results,/api/v1/events/481/result/7
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Semi-Final,2007-09-17,/api/v1/category_rounds/675/results,/api/v1/events/481/result/7
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Boulder,Women,Final,2007-09-17,/api/v1/category_rounds/676/results,/api/v1/events/481/result/7
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Qualification,2007-09-17,/api/v1/category_rounds/682/results,/api/v1/events/481/result/2
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Women,Qualification,2007-09-17,/api/v1/category_rounds/677/results,/api/v1/events/481/result/6
+IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Women,Final,2007-09-17,/api/v1/category_rounds/678/results,/api/v1/events/481/result/6
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Semi-Final,2007-09-28,/api/v1/category_rounds/690/results,/api/v1/events/482/result/1
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Final,2007-09-28,/api/v1/category_rounds/691/results,/api/v1/events/482/result/1
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Women,Qualification,2007-09-28,/api/v1/category_rounds/684/results,/api/v1/events/482/result/5
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Women,Semi-Final,2007-09-28,/api/v1/category_rounds/685/results,/api/v1/events/482/result/5
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Women,Final,2007-09-28,/api/v1/category_rounds/686/results,/api/v1/events/482/result/5
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Final,2007-09-28,/api/v1/category_rounds/693/results,/api/v1/events/482/result/2
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Qualification,2007-09-28,/api/v1/category_rounds/687/results,/api/v1/events/482/result/6
+IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Women,Final,2007-09-28,/api/v1/category_rounds/688/results,/api/v1/events/482/result/6
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Semi-Final,2007-10-13,/api/v1/category_rounds/698/results,/api/v1/events/483/result/1
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Qualification,2007-10-13,/api/v1/category_rounds/694/results,/api/v1/events/483/result/5
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5
+IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Final,2007-10-13,/api/v1/category_rounds/696/results,/api/v1/events/483/result/5
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Qualification,2007-11-02,/api/v1/category_rounds/703/results,/api/v1/events/484/result/1
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Semi-Final,2007-11-02,/api/v1/category_rounds/704/results,/api/v1/events/484/result/1
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Qualification,2007-11-02,/api/v1/category_rounds/700/results,/api/v1/events/484/result/5
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5
+IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Final,2007-11-02,/api/v1/category_rounds/702/results,/api/v1/events/484/result/5
+IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Semi-Final,2007-11-09,/api/v1/category_rounds/710/results,/api/v1/events/485/result/3
+IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Final,2007-11-09,/api/v1/category_rounds/711/results,/api/v1/events/485/result/3
+IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Semi-Final,2007-11-09,/api/v1/category_rounds/707/results,/api/v1/events/485/result/7
+IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Semi-Final,2007-11-17,/api/v1/category_rounds/716/results,/api/v1/events/486/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Semi-Final,2007-11-17,/api/v1/category_rounds/713/results,/api/v1/events/486/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Final,2007-11-17,/api/v1/category_rounds/714/results,/api/v1/events/486/result/5

@@ -1,0 +1,20 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Kaplina Iuliia,RUS,1,8.090,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Rudzinska Aleksandra,POL,2,8.240,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Jaubert Anouck,FRA,3,8.550,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Buczek Klaudia,POL,4,8.560,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Brozek Anna,POL,5,8.580,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Ropek Edyta,POL,6,8.960,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Sarisson Aurelia,FRA,7,8.990,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Andrier Victoire,FRA,8,9.160,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Fleuret Elma,FRA,9,9.180,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Motovilova Svetlana,RUS,9,9.180,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Marenych Alla,UKR,11,9.210,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Tsyganova Anna,RUS,12,9.240,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Niu Di,CHN,13,9.590,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+He CuiLian,CHN,14,9.840,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Lach Nina,AUT,15,9.910,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+PUBU ZhuoMa,CHN,16,10.330,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+Karami Azam,IRI,17,12.020,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+BAIMA YuZhen,CHN,18,13.130,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6
+zhuoma renzeng,CHN,19,14.220,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,951,2016,Wujiang,Speed,Women,Qualification,2016-10-18,/api/v1/category_rounds/3910/results,/api/v1/events/951/result/6

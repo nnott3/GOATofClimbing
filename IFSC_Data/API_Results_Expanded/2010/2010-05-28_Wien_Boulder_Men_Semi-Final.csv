@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Fischhuber Kilian,AUT,1,4t8 4b5,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,1,1,2,1,1,1,4,2
+Ondra Adam,CZE,2,3t3 4b6,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,1,1,1,1,1,1,X,3
+Watson Stewart,GBR,3,2t2 4b5,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,1,1,1,1,X,2
+Hori Tsukuru,JPN,4,2t4 4b6,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,1,1,3,1,X,3,X,1
+Müller Matthias,SUI,5,1t1 4b7,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,1,1,X,2,X,3
+Rubtsov  Aleksei,RUS,6,1t1 4b12,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,X,7,1,1,X,3
+Glairon Mondet Guillaume,FRA,7,1t1 3b8,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,1,1,X,5,X,2,X,X
+Barrans David,GBR,8,1t2 4b5,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,X,2,X,1,2,1
+Ennemoser Lukas,AUT,9,1t3 3b4,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,X,1,X,X,3,2
+Julien Stéphan,FRA,10,1t4 4b10,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,4,1,X,1,X,4,X,4
+Gelmanov Rustam,RUS,11,0t 4b4,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,X,1,X,1,X,1
+Ten Sijthoff Casper,NED,12,0t 4b7,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,2,X,2,X,1,X,2
+Caleyron Thomas,FRA,13,0t 3b4,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,X,X,X,1,X,2
+Kruder Jernej,SLO,13,0t 3b4,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,X,X,X,1,X,2
+Oleksy Tomasz,POL,13,0t 3b4,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,2,X,X,X,1,X,1
+Danker Stefan,GER,16,0t 3b5,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,X,X,X,1,X,3
+Kaiser Francois,FRA,17,0t 3b6,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,X,X,X,2,X,3
+Sommer Remo,SUI,17,0t 3b6,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,X,X,X,3,X,2
+Gaidioz Loïc,FRA,19,0t 3b8,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,2,X,X,X,1,X,5
+Rudigier Max,AUT,19,0t 3b8,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3,X,1,X,4,X,X,X,3

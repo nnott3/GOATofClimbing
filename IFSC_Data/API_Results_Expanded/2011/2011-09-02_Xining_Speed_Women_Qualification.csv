@@ -1,0 +1,19 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Krasavina Mariia,RUS,1,9.320,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+Gaidamakina Alina,RUS,2,9.840,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+He CuiLian,CHN,3,9.860,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+Ropek Edyta,POL,4,10.130,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+Levochkina  Yuliya,RUS,5,10.150,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+Alekseeva Kseniia,RUS,6,10.160,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+Neliwati Evi,INA,7,10.320,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+Tsyganova Anna,RUS,8,10.630,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+Lee Hung Ying,TPE,9,10.720,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+Kuznetsova Tamara,KAZ,10,10.730,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+PAN Xuhua,CHN,11,11.090,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+Tita Supita,INA,12,11.610,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+wang yang,CHN,13,11.710,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+RenZeng WangMu,CHN,14,12.170,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+RENQING LaMu,CHN,15,12.280,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+gesang wangmu,CHN,16,12.400,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+Wellyanti Santi,INA,17,12.480,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+JIANG Rong,CHN,18,13.650,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6

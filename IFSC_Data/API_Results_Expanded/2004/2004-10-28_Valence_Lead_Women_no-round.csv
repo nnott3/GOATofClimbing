@@ -1,0 +1,45 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Sarkany Muriel,BEL,1,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Ciavaldini Caroline,FRA,2,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Cufar Martina,SLO,2,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Lavarda Jenny,ITA,4,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Eiter Angela,AUT,5,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Gros Natalija,SLO,6,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+schöpf Bettina,AUT,7,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Eyer Alexandra,SUI,8,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Iaemourd Ekaterina,RUS,9,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Bacher Barbara,AUT,10,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Ostapenko Olena,UKR,11,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Vidmar Maja,SLO,12,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Franko Lucka,SLO,13,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Minoret Chloé,FRA,13,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Levet Sandrine,FRA,15,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Shalagina Olga,UKR,16,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Graftiaux Chloé,BEL,17,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Knorr Damaris,GER,18,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Vidmar Katja,SLO,19,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Mathieu Laure,FRA,20,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Ansade Maud,FRA,21,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Chevrier Anne-Laure,FRA,22,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Harnisch Martina,AUT,22,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Saurwein Katharina,AUT,22,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Graftiaux Alix,BEL,25,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Largeron Marine,FRA,25,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Nilsson Ingela,SWE,27,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Creamer Lucy,GBR,28,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Pinet Florence,FRA,29,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Asher Elizabeth,USA,30,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Lipenska Helena,CZE,30,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Policard Michaelle,FRA,30,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Etter Susanne,SUI,33,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Stendal Linn Karin,NOR,34,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Teso Emeline,FRA,34,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Giroux Elodie,FRA,36,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Ilic Caroline,FRA,37,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Hernandez Raquel,ESP,38,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Martin Delphine,FRA,39,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+De Backer Lara,BEL,40,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Marchandise Anne,FRA,41,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Oliveira Kimie,POR,42,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Asher Alexis,USA,43,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+Boavida Isabel,POR,44,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5

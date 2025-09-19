@@ -1,0 +1,57 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+YURIKUSA Ao,JPN,1,1.41,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,TOP,33+
+Lehmann Sascha,SUI,2,2.24,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,40+,TOP
+Ginés López Alberto,ESP,3,4.47,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,40+,32+
+Megos Alexander,GER,4,5.05,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,39+,33
+Homma Taisei,JPN,5,5.48,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,40+,29+
+Ogata Yoshiyuki,JPN,6,6.12,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,41+,27+
+Potocar Luka,SLO,6,6.12,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,41+,27+
+YOSHIDA Satone,JPN,8,7.14,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,39+,29+
+Flohé Yannick,GER,9,8.5,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,39+,28+
+McArthur Hamish,GBR,10,9.45,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,39+,28
+Higuchi Masahiro,JPN,11,10.25,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,32+,29+
+Marchaland Jules,FRA,12,11.46,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,37+,28
+LEE Dohyun,KOR,13,12.2,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,32+,28+
+Halenke Sebastian,GER,14,15.38,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,38+,26+
+Skofic Domen,SLO,15,16.2,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,32+,27+
+Placci Giovanni,ITA,16,18.97,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,30+,27+
+Stranik Martin,CZE,17,19.2,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,37+,24
+Schenk Filip,ITA,18,19.4,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,32+,26+
+Collin Nicolas,BEL,19,20.32,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,36+,24
+Baudrand Oscar,CAN,20,22.72,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,32+,24
+Bergant Martin,SLO,20,22.72,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,30+,26+
+Bombardi Marcello,ITA,20,22.72,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,30+,26+
+Gundolf Louis,AUT,23,23.64,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,31+,24+
+Lovenjak Sudar Zan,SLO,24,24.97,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,29+,26+
+Pope James,GBR,25,25.18,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,31+,24
+Scherz Stefan,AUT,26,25.96,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,32+,22+
+Coleman Nathaniel,USA,27,27.93,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,10+,27+
+Nishida Hidemasa,JPN,27,27.93,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,10+,27+
+Preskar Milan,SLO,27,27.93,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,10+,27+
+Piccolruaz Michael,ITA,30,27.96,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,30,24
+Vezonik Gregor,SLO,31,30.41,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,22+,26
+Grupper Jesse,USA,32,31.1,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,19,26+
+Hofherr Johannes,AUT,33,31.94,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,30,22+
+Parma Georg,AUT,34,33.41,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,29+,22+
+Ridal William,GBR,34,33.41,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,29+,22+
+Linacisoro Molina Mikel Asier,ESP,36,35.1,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,23+,22+
+Peharc Anze,SLO,36,35.1,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,23+,22+
+Potucek Simon,CZE,36,35.1,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,23+,22+
+Waterhouse Alex,GBR,39,36.18,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,23,22+
+Butterworth Samuel,GBR,40,37.74,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,22+,22+
+Kotar Matic,SLO,40,37.74,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,22+,22+
+Posch Mathias,AUT,42,39.17,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,10+,24
+Chan Cheung-chi Shoji,HKG,43,40.45,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,21,22+
+AU Chi-fung,HKG,44,41.16,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,20+,22+
+Fourbet Diego,FRA,45,43.01,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,22+,20+
+Grünenfelder Nino,SUI,46,43.36,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,22,21
+Baudrand Victor,CAN,47,43.43,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,21+,21+
+Martin Philipp,GER,48,43.73,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,21,22
+Hanna Benjamin,USA,49,44.28,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,22+,19+
+Flick Dimitri,SUI,50,47.96,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,15,20+
+Veselic Igor,SRB,51,50.84,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,12+,17
+De Alba Flores Santiago,MEX,52,50.99,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,10+,20+
+Potucek Stepan,CZE,52,50.99,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,10+,20+
+von Bothmer Till,GER,52,50.99,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,10+,20+
+Plevko Tomas,SVK,55,52.99,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,10+,18+
+Duval Arsène,FRA,56,53.96,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1,10+,14

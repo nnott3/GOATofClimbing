@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Vidmar Maja,SLO,1,Top,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,Top
+Eiter Angela,AUT,1,Top,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,Top
+Gros Natalija,SLO,1,Top,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,Top
+Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,Top
+Anda Villanueva Irati,ESP,1,Top,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,Top
+Ciavaldini Caroline,FRA,6,48+,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,48+
+Kobayashi Yuka,JPN,7,47-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,47-
+Sarkany Muriel,BEL,8,46+,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,46+
+Franko Lucka,SLO,8,46+,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,46+
+Ociepka Kinga,POL,10,45-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,45-
+Durif Charlotte,FRA,11,44,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,44
+Januel Caroline,FRA,12,40-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,40-
+Chereshneva Yana,RUS,13,40-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,40-
+Lavarda Jenny,ITA,14,35,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,35
+Bacher Barbara,AUT,15,35-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,35-
+Pinet Florence,FRA,16,34+,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,34+
+Ostapenko Olena,UKR,17,34-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,34-
+Saurwein Katharina,AUT,17,34-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,34-
+Taylor Vanessa,FRA,19,33+,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,33+
+Brumagne Mathilde,BEL,20,29+,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,29+
+schöpf Bettina,AUT,20,29+,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,29+
+Szekely Andrea Brigitta,HUN,22,29,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,29
+Thévenet Marine,FRA,23,29-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,29-
+Thomas Emeline,FRA,24,29-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,29-
+Eyer Alexandra,SUI,25,27,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,27
+Bibik Olga,RUS,26,23-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Women,Semi-Final,2007-11-02,/api/v1/category_rounds/701/results,/api/v1/events/484/result/5,23-

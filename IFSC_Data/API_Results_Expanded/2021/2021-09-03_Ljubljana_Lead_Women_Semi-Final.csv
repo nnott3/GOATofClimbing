@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,47+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,47+
+Rogora Laura,ITA,2,44+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,44+
+Lukan Vita,SLO,3,38+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,38+
+Grossman Natalia,USA,4,37+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,37+
+Rakovec Lucka,SLO,5,36+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,36+
+Seo Chaehyun,KOR,6,36,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,36
+Fakhritdinova Dinara,RUS,7,35+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,35+
+Tanii Natsuki,JPN,8,34+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,34+
+Krampl Mia,SLO,9,33+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,33+
+Skusek Lana,SLO,10,33+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,33+
+Thompson-Smith Molly,GBR,11,32,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,32
+ABE Momoko,JPN,12,31+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,31+
+Meul Hannah,GER,13,31+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,31+
+Pilz Jessica,AUT,14,31+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,31+
+NAKAGAWA Ryu,JPN,15,31+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,31+
+Arc Nolwenn,FRA,16,31+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,31+
+TAKAO Tomona,JPN,17,30,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,30
+Koller Anne-Sophie,SUI,18,29+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,29+
+Hulliger Michelle,SUI,19,27,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,27
+Wienand Roxana,GER,20,27,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,27
+Kotake Mei,JPN,21,20+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,20+
+Romain Salomé,FRA,22,20+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,20+
+Copar Sara,SLO,23,20+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,20+
+Fiser Julia,AUT,24,20+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,20+
+Tarkus Lucija,SLO,25,20+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,20+
+Pouget Camille,FRA,26,20+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5,20+

@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+ANRAKU Sorato,JPN,1,TOP,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,TOP
+HIGUCHI Masahiro,JPN,2,TOP,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,TOP
+Puman Hannes,SWE,3,46,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,46
+HOMMA Taisei,JPN,4,45+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,45+
+UEMURA Haruki,JPN,5,45+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,45+
+YOSHIDA Satone,JPN,6,43+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,43+
+OMATA Shion,JPN,7,43,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,43
+Ogata Yoshiyuki,JPN,8,43,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,43
+RAMADHAN RAVIANTO,INA,9,43,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,43
+Marchaland Jules,FRA,10,43,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,43
+Suzuki Neo,JPN,11,43,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,43
+YURIKUSA Ao,JPN,12,42+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,42+
+McArthur Hamish,GBR,13,42+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,42+
+Ghisolfi Stefano,ITA,14,41,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,41
+SONG Yunchan,KOR,15,40+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,40+
+Monchois Nao,FRA,16,40+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,40+
+Vancraeynest Ties,BEL,17,40,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,40
+Tomatis Giorgio,ITA,18,40,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,40
+Potocar Luka,SLO,19,39+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,39+
+Duval Arsène,FRA,20,39+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,39+
+PAN YUFEI,CHN,21,39+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,39+
+Pope James,GBR,21,39+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,39+
+Poles Jordi,FRA,23,39+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,39+
+Halenke Sebastian,GER,24,38+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,38+
+McColl Sean,CAN,25,37+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,37+
+Harrison Campbell,AUS,26,34+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1,34+

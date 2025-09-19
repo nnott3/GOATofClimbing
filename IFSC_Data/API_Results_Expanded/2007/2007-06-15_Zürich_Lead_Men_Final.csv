@@ -1,0 +1,8 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Verhoeven Jorg,NED,1,52,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Final,2007-06-15,/api/v1/category_rounds/640/results,/api/v1/events/476/result/1,52
+Usobiaga Lakunza Patxi,ESP,2,45-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Final,2007-06-15,/api/v1/category_rounds/640/results,/api/v1/events/476/result/1,45-
+Lachat Cédric,SUI,3,42-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Final,2007-06-15,/api/v1/category_rounds/640/results,/api/v1/events/476/result/1,42-
+Julian  Puigblanque Ramón ,ESP,4,28+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Final,2007-06-15,/api/v1/category_rounds/640/results,/api/v1/events/476/result/1,28+
+Millet Sylvain,FRA,5,26,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Final,2007-06-15,/api/v1/category_rounds/640/results,/api/v1/events/476/result/1,26
+Crespi Flavio,ITA,6,14,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Final,2007-06-15,/api/v1/category_rounds/640/results,/api/v1/events/476/result/1,14
+Lama David,AUT,7,14,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Men,Final,2007-06-15,/api/v1/category_rounds/640/results,/api/v1/events/476/result/1,14

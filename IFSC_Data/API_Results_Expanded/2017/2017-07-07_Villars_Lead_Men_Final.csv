@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Desgranges Romain,FRA,1,41,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Men,Final,2017-07-07,/api/v1/category_rounds/4306/results,/api/v1/events/991/result/1,41
+Skofic Domen,SLO,2,37,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Men,Final,2017-07-07,/api/v1/category_rounds/4306/results,/api/v1/events/991/result/1,37
+Samoilov Fedir,UKR,3,35+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Men,Final,2017-07-07,/api/v1/category_rounds/4306/results,/api/v1/events/991/result/1,35+
+Hojer Jan,GER,4,35+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Men,Final,2017-07-07,/api/v1/category_rounds/4306/results,/api/v1/events/991/result/1,35+
+Hada Yuki,JPN,5,35,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Men,Final,2017-07-07,/api/v1/category_rounds/4306/results,/api/v1/events/991/result/1,35
+Hanke Christoph,GER,6,34,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Men,Final,2017-07-07,/api/v1/category_rounds/4306/results,/api/v1/events/991/result/1,34
+Verhoeven Jorg,NED,7,33+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Men,Final,2017-07-07,/api/v1/category_rounds/4306/results,/api/v1/events/991/result/1,33+
+Bailey Sean,USA,8,32,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Men,Final,2017-07-07,/api/v1/category_rounds/4306/results,/api/v1/events/991/result/1,32

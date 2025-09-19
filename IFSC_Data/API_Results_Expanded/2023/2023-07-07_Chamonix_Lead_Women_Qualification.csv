@@ -1,0 +1,84 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+Hily Manon,FRA,1,4.42,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,TOP
+KUME Nonoha,JPN,1,4.42,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,TOP
+Pilz Jessica,AUT,1,4.42,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,TOP
+SEO Chaehyun,KOR,1,4.42,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,TOP
+Nonaka Miho,JPN,5,7.94,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,42+,TOP
+KIM Jain,KOR,6,8.83,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,35+
+Krampl Mia,SLO,6,8.83,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,35+
+Romain Salomé,FRA,6,8.83,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,35+
+Sanders Anastasia,USA,6,8.83,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,35+
+TANII Natsuki,JPN,6,8.83,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,35+
+Zhang YUETONG,CHN,11,12.75,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,32+
+Kazbekova Ievgeniia,UKR,12,13.19,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,46+,35+
+Tarkus Lucija,SLO,12,13.19,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,46+,35+
+Lukan Vita,SLO,14,15.87,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,42+,35+
+Mackenzie Oceania,AUS,14,15.87,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,42+,35+
+van der Meer Lynn,NED,14,15.87,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,42+,35+
+Pouget Camille,FRA,17,17.83,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,41+,35+
+ITO Futaba,JPN,18,18.82,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,23+
+NAKAGAWA Ryu,JPN,18,18.82,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,TOP,23+
+Janicot Hélène,FRA,20,19.04,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,46+,32+
+Skusek Lana,SLO,20,19.04,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,46+,32+
+Thompson-Smith Molly,GBR,22,19.6,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,39+,35+
+Adamovska Eliska,CZE,23,22.72,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,37,35+
+Copar Sara,SLO,24,22.91,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,42+,32+
+Potapova Nika,UKR,24,22.91,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,42+,32+
+Rogora Laura,ITA,26,25.75,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,46,31+
+Pötzi Mattea,AUT,27,26.69,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,40+,32+
+Tesio Giorgia,ITA,27,26.69,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,40+,32+
+Frangos Rebecca,CAN,29,27.39,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,40,32+
+Arc Nolwenn,FRA,30,30.0,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,38,32+
+Demmel Martina,GER,30,30.0,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,38,32+
+KOIKE Hana,JPN,32,31.42,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,42+,25+
+Chanourdie Julia,FRA,33,34.73,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,38,32
+Shiran Noa,ISR,34,35.33,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,39+,31+
+Hammelmüller Eva Maria,AUT,35,36.4,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,27+,32+
+Mellado Quinteros Ignacia,CHI,35,36.4,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,27+,32+
+Gejo Stasa,SRB,37,36.83,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,37+,32
+Totkova Aleksandra,BUL,38,36.91,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,42,23+
+Smetanova Michaela,CZE,39,37.47,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,38,31+
+KAKIZAKI Miu,JPN,40,40.53,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,41+,19
+Atkins Käthe,GER,41,41.66,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,36+,31+
+LUO ZHILU,CHN,42,41.73,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,37+,30+
+Meul Hannah,GER,43,41.76,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,39+,23+
+Yip Alannah,CAN,44,41.83,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,20,32+
+Scolaris Ilaria,ITA,45,42.14,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,27+,32
+Kerem Ayala,ISR,46,43.16,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,37+,26
+SA Sol,KOR,47,43.71,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,31+,31+
+Kremer Valeri,ISR,48,44.75,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,36+,27
+Mcneice Erin,GBR,49,46.12,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,21+,32
+Ghisolfi Claudia,ITA,50,47.36,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,26+,31+
+Koller Anne-Sophie,SUI,51,47.73,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,33+,24+
+Egli Liv,SUI,52,48.19,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,38,18+
+Caulier Chloe,BEL,53,49.7,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,37+,20
+Aguado Valentina,ARG,54,50.3,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,26+,28
+Peetermans Zoe,GBR,55,50.34,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,33+,23+
+Lerondel Meije,FRA,56,51.15,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,32,23+
+Wienand Roxana,GER,57,51.31,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,20+,31+
+Watillon Lucie,BEL,58,53.74,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,27+,23+
+Clark Adriene Akiko,USA,59,56.28,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,21,25
+Hafsaas Tina Johnsen,NOR,60,56.71,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,25+,23+
+Siruckova Tereza,CZE,61,57.42,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,23+,23+
+Sterrer Franziska,AUT,62,60.03,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,27+,18
+Köhler  Anja,BRA,63,60.65,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,20+,23+
+GARCIA MOLINA Zoe,ARG,64,61.73,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,21+,23
+Egli Zoé,SUI,65,61.99,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,27+,15+
+PLASSOUX DJIGA INA,FRA,65,61.99,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,27+,15+
+Battistella Viola,ITA,67,62.47,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,23+,18+
+Marigo Léa,FRA,68,64.0,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,21+,18+
+Mason Quinn,USA,69,66.67,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,21+,17
+Arnoldi Valentina,ITA,70,69.78,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,17,18+
+Earle Chloe,CAN,71,69.97,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,19+,18
+Capicchioni Mira,USA,72,70.7,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,18+,18
+Castillo Lianet,VEN,73,71.24,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,20,15+
+Bjarnason Svana,ISL,74,73.0,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,18+,15+
+Silva Muykuay,CHI,75,73.18,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,20,15
+De Magalhaes de Castro Bianca,BRA,76,77.0,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,16+,15
+Sepulveda Elizabeth,PUR,77,77.74,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,14+,15
+Arun Prateeksha,IND,78,78.23,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,14,15
+Scott Emily,AUS,79,78.25,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,16+,14+
+González Rámirez María Fernanda,MEX,80,79.16,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,17,10+
+Oates Tegwen,RSA,81,81.25,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,10+,11+
+Hidalgo Amezquita María Fernanda,MEX,82,81.5,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,13+,11
+Meyer Alyssa,RSA,83,81.74,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5,8+,11+

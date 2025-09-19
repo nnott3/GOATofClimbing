@@ -1,0 +1,38 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Kaplina Iuliia,RUS,1,7.600,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Jaubert Anouck,FRA,2,7.860,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Lestari Puji,INA,3,7.890,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Remizova Elena,RUS,4,7.950,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Krasavina Mariia,RUS,5,7.980,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Susanti Rahayu Aries,INA,6,7.990,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Brozek Anna,POL,7,8.090,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Tsyganova Anna,RUS,8,8.130,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Chudziak Patrycja,POL,9,8.240,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+SONG YiLing,CHN,9,8.240,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Agustina Sari,INA,11,8.250,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+He CuiLian,CHN,12,8.260,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+NI MingWei,CHN,13,8.360,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Timofeeva Elena,RUS,14,8.390,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Sallsabillah Rajiah,INA,15,8.490,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Andrier Victoire,FRA,16,8.600,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Sarisson Aurelia,FRA,17,8.660,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Barashchuk Ekaterina,RUS,18,8.670,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+DENG LiJuan,CHN,19,8.880,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Nurul Iqomah,INA,20,8.940,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Kolkotina Tetiana,UKR,21,8.980,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+QIU HaiMei,CHN,22,9.040,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+XIE GuiZhen,CHN,23,9.220,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Buczek Klaudia,POL,24,9.780,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Mudji  Mulyani,INA,25,9.810,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Mackenzie Oceania,AUS,26,10.040,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Ito Futaba,JPN,27,10.340,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Noguchi Akiyo,JPN,28,10.690,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Pilz Jessica,AUT,29,10.820,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Kim Jain,KOR,30,11.310,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Sepulveda Elizabeth ,USA,31,11.510,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Garnbret Janja,SLO,32,11.670,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Gibert Fanny,FRA,33,12.480,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Hily Manon,FRA,34,12.740,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Kurita Miu,JPN,34,12.740,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Doumont Heloïse,BEL,36,14.850,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+Frangos Rebecca,CAN,37,16.100,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6

@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Escobar Manuel,VEN,1,15.110,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Styenkovyy Maksym,UKR,2,15.990,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Sinitcyn Sergei,RUS,3,16.580,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Vaitsekhovskii Evgenii,RUS,4,16.830,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Shaulskiy Alexandr,RUS,5,18.000,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Osipov Maksym,UKR,6,18.580,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Salimov Oleksandr,UKR,7,18.590,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+De Las Salas Leonel,VEN,8,18.620,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Hroza Libor,CZE,8,18.620,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Carvajal Nestor,VEN,10,18.660,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Oleksy Tomasz,POL,11,18.700,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Shulga Olexiy,UKR,12,18.910,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Kosterin Alexander,RUS,13,19.240,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Peshekhonov Alexander,RUS,14,19.310,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Komondi Csaba,HUN,15,19.420,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Shyshkovskyy Ivan,UKR,16,19.970,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Swirk Lukasz,POL,17,20.100,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Skripov Anatoly,RUS,18,20.170,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Vorobyev Valeriy,RUS,19,20.830,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Komosinski Jedrzej,POL,20,21.780,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Sirotti Michel,ITA,21,24.980,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Preti Lucas,ITA,22,25.030,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Schmidl Matthias,ITA,23,26.110,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Amann Mark,AUT,24,27.550,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Boulbahaiem Salah,BEL,25,29.410,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2
+Stadlober Paul,AUT,26,31.780,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,513,2008,Trento,Speed,Men,Qualification,2008-04-27,/api/v1/category_rounds/845/results,/api/v1/events/513/result/2

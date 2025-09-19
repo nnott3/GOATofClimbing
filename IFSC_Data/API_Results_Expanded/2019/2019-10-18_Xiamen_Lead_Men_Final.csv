@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ondra Adam,CZE,1,Top,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Final,2019-10-18,/api/v1/category_rounds/5562/results,/api/v1/events/1124/result/1,Top
+Homma Taisei,JPN,2,Top,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Final,2019-10-18,/api/v1/category_rounds/5562/results,/api/v1/events/1124/result/1,Top
+Narasaki Tomoa,JPN,3,Top,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Final,2019-10-18,/api/v1/category_rounds/5562/results,/api/v1/events/1124/result/1,Top
+Harada Kai,JPN,4,31+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Final,2019-10-18,/api/v1/category_rounds/5562/results,/api/v1/events/1124/result/1,31+
+Ginés López Alberto,ESP,5,29+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Final,2019-10-18,/api/v1/category_rounds/5562/results,/api/v1/events/1124/result/1,29+
+Narasaki Meichi,JPN,6,26,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Final,2019-10-18,/api/v1/category_rounds/5562/results,/api/v1/events/1124/result/1,26
+Grupper Jesse,USA,7,25+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Final,2019-10-18,/api/v1/category_rounds/5562/results,/api/v1/events/1124/result/1,25+
+Bailey Sean,USA,8,23+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Final,2019-10-18,/api/v1/category_rounds/5562/results,/api/v1/events/1124/result/1,23+

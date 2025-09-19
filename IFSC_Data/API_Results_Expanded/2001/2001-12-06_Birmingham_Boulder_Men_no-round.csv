@@ -1,0 +1,45 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Calibani Mauro,ITA,1,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Core Christian,ITA,2,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Meyer Jérôme,FRA,3,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Smith Malcolm,GBR,4,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+DU LAC Daniel,FRA,5,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Chabot Alexandre,FRA,6,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Pons Pedro,ESP,7,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Rakhmetov Salavat,RUS,8,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Meral Julien,FRA,9,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Tuscan Frédéric,FRA,10,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Lachat Raphaël,SUI,11,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+ANDRADA JIMENEZ Daniel,ESP,12,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Jongeneelen Wouter,NED,13,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Parry Gareth,GBR,14,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Scarian Riccardo,ITA,15,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Legrand François,FRA,16,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Müller Matthias,SUI,17,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Macias Matutano Bruno,ESP,18,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Bitcon Ian,GBR,19,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Gibson Miles,GBR,20,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Schönenberger Urs,SUI,21,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Oleksy Tomasz,POL,22,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Saatsi Juha,FIN,23,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Skoczylas Dawid,POL,24,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Golob Jurij,SLO,25,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Soucek Radovah,CZE,25,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Dard Yohann,FRA,27,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Croxall Mark,GBR,28,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Grom Aljosa,SLO,29,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Bingham Richard,GBR,30,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Okano Hiroshi,JPN,30,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Dunning Steve,GBR,32,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Earl Andrew,GBR,33,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Chrastina Andrej,SVK,34,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Vincent Gary,GBR,35,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Sugden Tom,GBR,36,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Harris Andy,GBR,37,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Littlefair Stuart,GBR,38,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Kamf Gustav,SWE,39,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Pribil Jiri,CZE,39,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Teijsse Dennis,NED,41,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Mackenzie Roddy,GBR,42,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Campbell Stuart,GBR,43,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3
+Graham Chris,GBR,44,,UIAA Worldcup - Birmingham (GBR) 2001,249,2001,Birmingham,Boulder,Men,2001-12-06,/api/v1/events/249/result/3

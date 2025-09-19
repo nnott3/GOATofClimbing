@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Narasaki Tomoa,JPN,1,3t6 4b7,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Men,Final,2016-09-14,/api/v1/category_rounds/3907/results,/api/v1/events/950/result/3,3,3,X,1,2,2,1,1
+Ondra Adam,CZE,2,3t11 4b10,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Men,Final,2016-09-14,/api/v1/category_rounds/3907/results,/api/v1/events/950/result/3,5,5,X,1,4,3,2,1
+Cornu Manuel,FRA,3,2t9 3b8,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Men,Final,2016-09-14,/api/v1/category_rounds/3907/results,/api/v1/events/950/result/3,7,5,2,1,X,X,X,2
+Mawem Mickael,FRA,4,1t1 3b5,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Men,Final,2016-09-14,/api/v1/category_rounds/3907/results,/api/v1/events/950/result/3,X,X,1,1,X,3,X,1
+Bonder Jeremy,FRA,5,1t2 2b5,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Men,Final,2016-09-14,/api/v1/category_rounds/3907/results,/api/v1/events/950/result/3,X,X,X,3,X,X,2,2
+Hori Tsukuru,JPN,6,1t6 2b7,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Boulder,Men,Final,2016-09-14,/api/v1/category_rounds/3907/results,/api/v1/events/950/result/3,6,6,X,1,X,X,X,X

@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Desgranges Romain,FRA,1,44+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Men,Final,2016-08-26,/api/v1/category_rounds/3891/results,/api/v1/events/949/result/1,44+
+Schubert Jakob,AUT,2,44+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Men,Final,2016-08-26,/api/v1/category_rounds/3891/results,/api/v1/events/949/result/1,44+
+Fakirianov Dmitrii,RUS,3,42,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Men,Final,2016-08-26,/api/v1/category_rounds/3891/results,/api/v1/events/949/result/1,42
+Skofic Domen,SLO,4,39+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Men,Final,2016-08-26,/api/v1/category_rounds/3891/results,/api/v1/events/949/result/1,39+
+Ondra Adam,CZE,5,39+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Men,Final,2016-08-26,/api/v1/category_rounds/3891/results,/api/v1/events/949/result/1,39+
+Halenke Sebastian,GER,6,34+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Men,Final,2016-08-26,/api/v1/category_rounds/3891/results,/api/v1/events/949/result/1,34+
+Vettorata Francesco,ITA,7,32+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Men,Final,2016-08-26,/api/v1/category_rounds/3891/results,/api/v1/events/949/result/1,32+
+Julian  Puigblanque Ramón ,ESP,8,30+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Men,Final,2016-08-26,/api/v1/category_rounds/3891/results,/api/v1/events/949/result/1,30+

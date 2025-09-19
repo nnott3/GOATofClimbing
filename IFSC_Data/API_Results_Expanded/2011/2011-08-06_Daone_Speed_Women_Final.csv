@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Final_winner,Small Final_winner,1/2_winner
+Ropek Edyta,,1.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Women,Final,2011-08-06,/api/v1/category_rounds/1722/results,/api/v1/events/679/result/6,False,,
+Yurina Valentina,,2.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Women,Final,2011-08-06,/api/v1/category_rounds/1722/results,/api/v1/events/679/result/6,False,,
+Morandi Sara,,3.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Women,Final,2011-08-06,/api/v1/category_rounds/1722/results,/api/v1/events/679/result/6,,False,
+Krasavina Mariia,,4.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Women,Final,2011-08-06,/api/v1/category_rounds/1722/results,/api/v1/events/679/result/6,,False,
+Alekseeva Kseniia,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Women,Final,2011-08-06,/api/v1/category_rounds/1722/results,/api/v1/events/679/result/6,,,False
+BUD Gusaim Oleksandra,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Women,Final,2011-08-06,/api/v1/category_rounds/1722/results,/api/v1/events/679/result/6,,,False
+Gaidamakina Alina,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Women,Final,2011-08-06,/api/v1/category_rounds/1722/results,/api/v1/events/679/result/6,,,False
+Levochkina  Yuliya,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Women,Final,2011-08-06,/api/v1/category_rounds/1722/results,/api/v1/events/679/result/6,,,False

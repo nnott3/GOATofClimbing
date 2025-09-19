@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Garnbret Janja,SLO,1,2T3z 7 7,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Women,Final,2018-09-06,/api/v1/category_rounds/5035/results,/api/v1/events/1061/result/7,3,2,X,2,4,3,X,X
+Noguchi Akiyo,JPN,2,2T2z 4 3,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Women,Final,2018-09-06,/api/v1/category_rounds/5035/results,/api/v1/events/1061/result/7,X,X,X,X,2,1,2,2
+Gejo Stasa,SRB,3,1T2z 1 6,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Women,Final,2018-09-06,/api/v1/category_rounds/5035/results,/api/v1/events/1061/result/7,X,5,X,X,1,1,X,X
+Pilz Jessica,AUT,4,0T2z 0 4,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Women,Final,2018-09-06,/api/v1/category_rounds/5035/results,/api/v1/events/1061/result/7,X,X,X,X,X,1,X,3
+Nonaka Miho,JPN,5,0T2z 0 4,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Women,Final,2018-09-06,/api/v1/category_rounds/5035/results,/api/v1/events/1061/result/7,X,X,X,X,X,3,X,1
+Klingler Petra,SUI,6,0T0z 0 0,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Women,Final,2018-09-06,/api/v1/category_rounds/5035/results,/api/v1/events/1061/result/7,X,X,X,X,X,X,X,X

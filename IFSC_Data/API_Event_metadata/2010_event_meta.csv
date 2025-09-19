@@ -1,0 +1,104 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Men,Qualification,2010-04-30,/api/v1/category_rounds/1357/results,/api/v1/events/608/result/2
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Men,Final,2010-04-30,/api/v1/category_rounds/1358/results,/api/v1/events/608/result/2
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Final,2010-04-30,/api/v1/category_rounds/1356/results,/api/v1/events/608/result/6
+IFSC Climbing Worldcup (B) - Greifensee (SUI) 2010,609,2010,Greifensee,Boulder,Men,Qualification,2010-05-14,/api/v1/category_rounds/1362/results,/api/v1/events/609/result/3
+IFSC Climbing Worldcup (B) - Greifensee (SUI) 2010,609,2010,Greifensee,Boulder,Men,Semi-Final,2010-05-14,/api/v1/category_rounds/1363/results,/api/v1/events/609/result/3
+IFSC Climbing Worldcup (B) - Greifensee (SUI) 2010,609,2010,Greifensee,Boulder,Men,Final,2010-05-14,/api/v1/category_rounds/1364/results,/api/v1/events/609/result/3
+IFSC Climbing Worldcup (B) - Greifensee (SUI) 2010,609,2010,Greifensee,Boulder,Women,Qualification,2010-05-14,/api/v1/category_rounds/1359/results,/api/v1/events/609/result/7
+IFSC Climbing Worldcup (B) - Greifensee (SUI) 2010,609,2010,Greifensee,Boulder,Women,Semi-Final,2010-05-14,/api/v1/category_rounds/1360/results,/api/v1/events/609/result/7
+IFSC Climbing Worldcup (B) - Greifensee (SUI) 2010,609,2010,Greifensee,Boulder,Women,Final,2010-05-14,/api/v1/category_rounds/1361/results,/api/v1/events/609/result/7
+IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Qualification,2010-05-28,/api/v1/category_rounds/1368/results,/api/v1/events/610/result/3
+IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Semi-Final,2010-05-28,/api/v1/category_rounds/1369/results,/api/v1/events/610/result/3
+IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Men,Final,2010-05-28,/api/v1/category_rounds/1370/results,/api/v1/events/610/result/3
+IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Women,Qualification,2010-05-28,/api/v1/category_rounds/1365/results,/api/v1/events/610/result/7
+IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Women,Semi-Final,2010-05-28,/api/v1/category_rounds/1366/results,/api/v1/events/610/result/7
+IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Women,Final,2010-05-28,/api/v1/category_rounds/1367/results,/api/v1/events/610/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Men,Qualification,2010-06-04,/api/v1/category_rounds/1374/results,/api/v1/events/611/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Men,Semi-Final,2010-06-04,/api/v1/category_rounds/1375/results,/api/v1/events/611/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Men,Final,2010-06-04,/api/v1/category_rounds/1376/results,/api/v1/events/611/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Women,Qualification,2010-06-04,/api/v1/category_rounds/1371/results,/api/v1/events/611/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Women,Semi-Final,2010-06-04,/api/v1/category_rounds/1372/results,/api/v1/events/611/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2010,611,2010,Vail,Boulder,Women,Final,2010-06-04,/api/v1/category_rounds/1373/results,/api/v1/events/611/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",612,2010,Moscow,Boulder,Men,Qualification,2010-06-17,/api/v1/category_rounds/1382/results,/api/v1/events/612/result/3
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",612,2010,Moscow,Boulder,Men,Semi-Final,2010-06-17,/api/v1/category_rounds/1383/results,/api/v1/events/612/result/3
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",612,2010,Moscow,Boulder,Men,Final,2010-06-17,/api/v1/category_rounds/1384/results,/api/v1/events/612/result/3
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",612,2010,Moscow,Boulder,Women,Qualification,2010-06-17,/api/v1/category_rounds/1377/results,/api/v1/events/612/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",612,2010,Moscow,Boulder,Women,Semi-Final,2010-06-17,/api/v1/category_rounds/1378/results,/api/v1/events/612/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",612,2010,Moscow,Boulder,Women,Final,2010-06-17,/api/v1/category_rounds/1379/results,/api/v1/events/612/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",612,2010,Moscow,Speed,Men,Qualification,2010-06-17,/api/v1/category_rounds/1385/results,/api/v1/events/612/result/2
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",612,2010,Moscow,Speed,Men,Final,2010-06-17,/api/v1/category_rounds/1386/results,/api/v1/events/612/result/2
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",612,2010,Moscow,Speed,Women,Qualification,2010-06-17,/api/v1/category_rounds/1380/results,/api/v1/events/612/result/6
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",612,2010,Moscow,Speed,Women,Final,2010-06-17,/api/v1/category_rounds/1381/results,/api/v1/events/612/result/6
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2010,613,2010,Eindhoven,Boulder,Men,Qualification,2010-06-25,/api/v1/category_rounds/1390/results,/api/v1/events/613/result/3
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2010,613,2010,Eindhoven,Boulder,Men,Semi-Final,2010-06-25,/api/v1/category_rounds/1391/results,/api/v1/events/613/result/3
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2010,613,2010,Eindhoven,Boulder,Men,Final,2010-06-25,/api/v1/category_rounds/1392/results,/api/v1/events/613/result/3
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2010,613,2010,Eindhoven,Boulder,Women,Qualification,2010-06-25,/api/v1/category_rounds/1387/results,/api/v1/events/613/result/7
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2010,613,2010,Eindhoven,Boulder,Women,Semi-Final,2010-06-25,/api/v1/category_rounds/1388/results,/api/v1/events/613/result/7
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2010,613,2010,Eindhoven,Boulder,Women,Final,2010-06-25,/api/v1/category_rounds/1389/results,/api/v1/events/613/result/7
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2010,614,2010,Sheffield,Boulder,Men,Qualification,2010-07-03,/api/v1/category_rounds/1395/results,/api/v1/events/614/result/3
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2010,614,2010,Sheffield,Boulder,Men,Final,2010-07-03,/api/v1/category_rounds/1397/results,/api/v1/events/614/result/3
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2010,614,2010,Sheffield,Boulder,Men,Semi-Final,2010-07-03,/api/v1/category_rounds/1396/results,/api/v1/events/614/result/3
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2010,614,2010,Sheffield,Boulder,Women,Qualification,2010-07-03,/api/v1/category_rounds/1393/results,/api/v1/events/614/result/7
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2010,614,2010,Sheffield,Boulder,Women,Final,2010-07-03,/api/v1/category_rounds/1394/results,/api/v1/events/614/result/7
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2010,614,2010,Sheffield,Boulder,Women,Semi-Final,2010-07-03,/api/v1/category_rounds/9499/results,/api/v1/events/614/result/7
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Qualification,2010-07-12,/api/v1/category_rounds/1403/results,/api/v1/events/615/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Semi-Final,2010-07-12,/api/v1/category_rounds/1404/results,/api/v1/events/615/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Qualification,2010-07-12,/api/v1/category_rounds/1398/results,/api/v1/events/615/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Semi-Final,2010-07-12,/api/v1/category_rounds/1399/results,/api/v1/events/615/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Final,2010-07-12,/api/v1/category_rounds/1400/results,/api/v1/events/615/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Final,2010-07-12,/api/v1/category_rounds/1407/results,/api/v1/events/615/result/2
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Final,2010-07-12,/api/v1/category_rounds/1402/results,/api/v1/events/615/result/6
+IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Final,2010-07-24,/api/v1/category_rounds/1411/results,/api/v1/events/616/result/2
+IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Women,Qualification,2010-07-24,/api/v1/category_rounds/1408/results,/api/v1/events/616/result/6
+IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Women,Final,2010-07-24,/api/v1/category_rounds/1409/results,/api/v1/events/616/result/6
+IFSC Climbing Worldcup (B) - Munich (GER) 2010,617,2010,Munich,Boulder,Men,Qualification,2010-07-30,/api/v1/category_rounds/1415/results,/api/v1/events/617/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2010,617,2010,Munich,Boulder,Men,Semi-Final,2010-07-30,/api/v1/category_rounds/1416/results,/api/v1/events/617/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2010,617,2010,Munich,Boulder,Men,Final,2010-07-30,/api/v1/category_rounds/1417/results,/api/v1/events/617/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2010,617,2010,Munich,Boulder,Women,Qualification,2010-07-30,/api/v1/category_rounds/1412/results,/api/v1/events/617/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2010,617,2010,Munich,Boulder,Women,Semi-Final,2010-07-30,/api/v1/category_rounds/1413/results,/api/v1/events/617/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2010,617,2010,Munich,Boulder,Women,Final,2010-07-30,/api/v1/category_rounds/1414/results,/api/v1/events/617/result/7
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Qualification,2010-08-20,/api/v1/category_rounds/1422/results,/api/v1/events/618/result/1
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Men,Final,2010-08-20,/api/v1/category_rounds/1423/results,/api/v1/events/618/result/1
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Women,Qualification,2010-08-20,/api/v1/category_rounds/1418/results,/api/v1/events/618/result/5
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Lead,Women,Final,2010-08-20,/api/v1/category_rounds/1419/results,/api/v1/events/618/result/5
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Speed,Men,Qualification,2010-08-20,/api/v1/category_rounds/1424/results,/api/v1/events/618/result/2
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Speed,Men,Final,2010-08-20,/api/v1/category_rounds/1425/results,/api/v1/events/618/result/2
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Speed,Women,Qualification,2010-08-20,/api/v1/category_rounds/1420/results,/api/v1/events/618/result/6
+"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",618,2010,Xining,Speed,Women,Final,2010-08-20,/api/v1/category_rounds/1421/results,/api/v1/events/618/result/6
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Qualification,2010-08-28,/api/v1/category_rounds/1431/results,/api/v1/events/619/result/1
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Semi-Final,2010-08-28,/api/v1/category_rounds/1432/results,/api/v1/events/619/result/1
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Women,Qualification,2010-08-28,/api/v1/category_rounds/1426/results,/api/v1/events/619/result/5
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Women,Semi-Final,2010-08-28,/api/v1/category_rounds/1427/results,/api/v1/events/619/result/5
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Women,Final,2010-08-28,/api/v1/category_rounds/1428/results,/api/v1/events/619/result/5
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Men,Qualification,2010-08-28,/api/v1/category_rounds/1434/results,/api/v1/events/619/result/2
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Men,Final,2010-08-28,/api/v1/category_rounds/1435/results,/api/v1/events/619/result/2
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Women,Qualification,2010-08-28,/api/v1/category_rounds/1429/results,/api/v1/events/619/result/6
+"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Women,Final,2010-08-28,/api/v1/category_rounds/1430/results,/api/v1/events/619/result/6
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Men,Qualification,2010-09-24,/api/v1/category_rounds/1439/results,/api/v1/events/620/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Men,Semi-Final,2010-09-24,/api/v1/category_rounds/1440/results,/api/v1/events/620/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Men,Final,2010-09-24,/api/v1/category_rounds/1441/results,/api/v1/events/620/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Qualification,2010-09-24,/api/v1/category_rounds/1436/results,/api/v1/events/620/result/5
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Final,2010-09-24,/api/v1/category_rounds/1438/results,/api/v1/events/620/result/5
+"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Men,Qualification,2010-10-29,/api/v1/category_rounds/1446/results,/api/v1/events/621/result/1
+"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Men,Final,2010-10-29,/api/v1/category_rounds/1448/results,/api/v1/events/621/result/1
+"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Men,Semi-Final,2010-10-29,/api/v1/category_rounds/1447/results,/api/v1/events/621/result/1
+"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Qualification,2010-10-29,/api/v1/category_rounds/1442/results,/api/v1/events/621/result/5
+"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5
+"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Final,2010-10-29,/api/v1/category_rounds/1450/results,/api/v1/events/621/result/2
+"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Women,Qualification,2010-10-29,/api/v1/category_rounds/1444/results,/api/v1/events/621/result/6
+"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Women,Final,2010-10-29,/api/v1/category_rounds/1445/results,/api/v1/events/621/result/6
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Qualification,2010-11-13,/api/v1/category_rounds/1454/results,/api/v1/events/622/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Final,2010-11-13,/api/v1/category_rounds/1456/results,/api/v1/events/622/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Women,Qualification,2010-11-13,/api/v1/category_rounds/1451/results,/api/v1/events/622/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Women,Semi-Final,2010-11-13,/api/v1/category_rounds/1452/results,/api/v1/events/622/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Women,Final,2010-11-13,/api/v1/category_rounds/1453/results,/api/v1/events/622/result/5

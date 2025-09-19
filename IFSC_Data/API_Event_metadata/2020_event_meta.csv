@@ -1,0 +1,39 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,70,2020,Los Angeles,Combined,Men,Qualification,2020-02-24,/api/v1/category_rounds/487/results,/api/v1/events/70/result/4
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,70,2020,Los Angeles,Combined,Men,Final,2020-02-24,/api/v1/category_rounds/6020/results,/api/v1/events/70/result/4
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,70,2020,Los Angeles,Combined,Women,Qualification,2020-02-24,/api/v1/category_rounds/488/results,/api/v1/events/70/result/8
+IFSC Pan Am - Continental Championships (C) - Los Angeles (USA) 2020,70,2020,Los Angeles,Combined,Women,Final,2020-02-24,/api/v1/category_rounds/6021/results,/api/v1/events/70/result/8
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Final,2020-08-21,/api/v1/category_rounds/6138/results,/api/v1/events/65/result/1
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Semi-Final,2020-08-21,/api/v1/category_rounds/6137/results,/api/v1/events/65/result/5
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Final,2020-08-21,/api/v1/category_rounds/6139/results,/api/v1/events/65/result/5
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Men,Qualification,2020-11-21,/api/v1/category_rounds/6010/results,/api/v1/events/1166/result/1
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Men,Semi-Final,2020-11-21,/api/v1/category_rounds/6218/results,/api/v1/events/1166/result/1
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Men,Final,2020-11-21,/api/v1/category_rounds/6222/results,/api/v1/events/1166/result/1
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Women,Qualification,2020-11-21,/api/v1/category_rounds/6011/results,/api/v1/events/1166/result/5
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Women,Semi-Final,2020-11-21,/api/v1/category_rounds/6219/results,/api/v1/events/1166/result/5
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Lead,Women,Final,2020-11-21,/api/v1/category_rounds/6223/results,/api/v1/events/1166/result/5
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Speed,Men,Qualification,2020-11-21,/api/v1/category_rounds/6012/results,/api/v1/events/1166/result/2
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Speed,Men,Final,2020-11-21,/api/v1/category_rounds/6220/results,/api/v1/events/1166/result/2
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Speed,Women,Qualification,2020-11-21,/api/v1/category_rounds/6013/results,/api/v1/events/1166/result/6
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Speed,Women,Final,2020-11-21,/api/v1/category_rounds/6221/results,/api/v1/events/1166/result/6
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Boulder,Men,Qualification,2020-11-21,/api/v1/category_rounds/6014/results,/api/v1/events/1166/result/3
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Boulder,Men,Semi-Final,2020-11-21,/api/v1/category_rounds/6224/results,/api/v1/events/1166/result/3
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Boulder,Men,Final,2020-11-21,/api/v1/category_rounds/6226/results,/api/v1/events/1166/result/3
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Boulder,Women,Qualification,2020-11-21,/api/v1/category_rounds/6015/results,/api/v1/events/1166/result/7
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Boulder,Women,Semi-Final,2020-11-21,/api/v1/category_rounds/6225/results,/api/v1/events/1166/result/7
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Boulder,Women,Final,2020-11-21,/api/v1/category_rounds/6227/results,/api/v1/events/1166/result/7
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Combined,Men,Qualification,2020-11-21,/api/v1/category_rounds/6232/results,/api/v1/events/1166/result/4
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Combined,Men,Final,2020-11-21,/api/v1/category_rounds/6234/results,/api/v1/events/1166/result/4
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Combined,Women,Qualification,2020-11-21,/api/v1/category_rounds/6233/results,/api/v1/events/1166/result/8
+"IFSC Europe - Continental Championships (B,S,L,C) - Moscow (RUS) 2020",1166,2020,Moscow,Combined,Women,Final,2020-11-21,/api/v1/category_rounds/6235/results,/api/v1/events/1166/result/8
+IFSC Africa - Continental Championships (C) - Cape Town (RSA) 2020,1168,2020,Cape Town,Combined,Men,Qualification,2020-12-17,/api/v1/category_rounds/6018/results,/api/v1/events/1168/result/4
+IFSC Africa - Continental Championships (C) - Cape Town (RSA) 2020,1168,2020,Cape Town,Combined,Men,Final,2020-12-17,/api/v1/category_rounds/6104/results,/api/v1/events/1168/result/4
+IFSC Africa - Continental Championships (C) - Cape Town (RSA) 2020,1168,2020,Cape Town,Combined,Women,Qualification,2020-12-17,/api/v1/category_rounds/6019/results,/api/v1/events/1168/result/8
+IFSC Africa - Continental Championships (C) - Cape Town (RSA) 2020,1168,2020,Cape Town,Combined,Women,Final,2020-12-17,/api/v1/category_rounds/6105/results,/api/v1/events/1168/result/8
+IFSC Oceania - Continental Championships (C) - Sydney (AUS) 2020,1167,2020,Sydney,Combined,Men,Qualification,2020-12-19,/api/v1/category_rounds/6016/results,/api/v1/events/1167/result/4
+IFSC Oceania - Continental Championships (C) - Sydney (AUS) 2020,1167,2020,Sydney,Combined,Men,Final,2020-12-19,/api/v1/category_rounds/6260/results,/api/v1/events/1167/result/4
+IFSC Oceania - Continental Championships (C) - Sydney (AUS) 2020,1167,2020,Sydney,Combined,Women,Qualification,2020-12-19,/api/v1/category_rounds/6017/results,/api/v1/events/1167/result/8
+IFSC Oceania - Continental Championships (C) - Sydney (AUS) 2020,1167,2020,Sydney,Combined,Women,Final,2020-12-19,/api/v1/category_rounds/6261/results,/api/v1/events/1167/result/8

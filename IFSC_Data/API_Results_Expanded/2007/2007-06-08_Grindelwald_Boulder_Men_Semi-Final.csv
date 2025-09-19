@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Fischhuber Kilian,AUT,1,4t13 4b13,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Hukkataival Nalle,FIN,2,4t19 4b18,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Matsushima Akito,JPN,3,3t5 4b7,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Sharafutdinov Dmitrii,RUS,4,3t7 3b7,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Glairon Mondet Guillaume,FRA,5,2t8 4b12,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Verhoeven Jorg,NED,6,2t8 3b15,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Lachat Cédric,SUI,7,2t9 4b15,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Moroni Gabriele,ITA,8,2t10 3b10,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Chernikov Mikhail,RUS,9,2t10 3b16,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Julien Stéphan,FRA,10,2t11 4b15,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Jaggi Martin,SUI,11,2t12 3b20,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Core Christian,ITA,12,2t14 2b11,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Meyer Jérôme,FRA,13,1t2 3b11,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Baumann Jonas,GER,14,1t3 2b2,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Watson Stewart,GBR,15,1t4 2b9,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Würth Peter,GER,16,0t 3b16,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Pouvreau Gérome,FRA,17,0t 2b7,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Badia Nicolas,FRA,18,0t 1b2,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Rant Blaz,SLO,19,0t 1b3,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3
+Shalagin Mykhaylo,UKR,20,0t 1b9,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Semi-Final,2007-06-08,/api/v1/category_rounds/633/results,/api/v1/events/475/result/3

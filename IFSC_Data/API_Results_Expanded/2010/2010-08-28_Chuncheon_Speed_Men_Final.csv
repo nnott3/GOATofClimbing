@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/4_winner,1/4_time,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+Zhong QiXin,,1,6.52,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Men,Final,2010-08-28,/api/v1/category_rounds/1435/results,/api/v1/events/619/result/2,True,7.66,True,6.55,True,6.52,,
+Vaitsekhovskii Evgenii,,2,7.52,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Men,Final,2010-08-28,/api/v1/category_rounds/1435/results,/api/v1/events/619/result/2,True,9.13,True,9.22,False,7.52,,
+Hroza Libor,,3,6.75,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Men,Final,2010-08-28,/api/v1/category_rounds/1435/results,/api/v1/events/619/result/2,True,7.6,False,7.02,,,True,6.75
+Kokorin Stanislav,,4,6.78,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Men,Final,2010-08-28,/api/v1/category_rounds/1435/results,/api/v1/events/619/result/2,True,16.85,False,FALL,,,False,6.78
+Devyaterikov Artyom,,5,8.62,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Men,Final,2010-08-28,/api/v1/category_rounds/1435/results,/api/v1/events/619/result/2,False,8.62,,,,,,
+Sinitcyn Sergei,,6,9.39,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Men,Final,2010-08-28,/api/v1/category_rounds/1435/results,/api/v1/events/619/result/2,False,9.39,,,,,,
+Abdrakhmanov Sergey,,7,FALL,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Men,Final,2010-08-28,/api/v1/category_rounds/1435/results,/api/v1/events/619/result/2,False,FALL,,,,,,
+ZHANG Ning,,8,FALL,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Men,Final,2010-08-28,/api/v1/category_rounds/1435/results,/api/v1/events/619/result/2,False,FALL,,,,,,

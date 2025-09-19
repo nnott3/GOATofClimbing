@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ciavaldini Caroline,FRA,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Final,2011-07-12,/api/v1/category_rounds/1687/results,/api/v1/events/674/result/5,Top
+Eiter Angela,AUT,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Final,2011-07-12,/api/v1/category_rounds/1687/results,/api/v1/events/674/result/5,Top
+Kim Jain,KOR,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Final,2011-07-12,/api/v1/category_rounds/1687/results,/api/v1/events/674/result/5,Top
+Markovic Mina,SLO,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Final,2011-07-12,/api/v1/category_rounds/1687/results,/api/v1/events/674/result/5,Top
+Oda Momoka,JPN,5,48+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Final,2011-07-12,/api/v1/category_rounds/1687/results,/api/v1/events/674/result/5,48+
+Posch Katharina,AUT,6,48-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Final,2011-07-12,/api/v1/category_rounds/1687/results,/api/v1/events/674/result/5,48-
+Schranz Christine,AUT,6,48-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Final,2011-07-12,/api/v1/category_rounds/1687/results,/api/v1/events/674/result/5,48-
+DiGiulian Sasha,USA,8,39,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Final,2011-07-12,/api/v1/category_rounds/1687/results,/api/v1/events/674/result/5,39

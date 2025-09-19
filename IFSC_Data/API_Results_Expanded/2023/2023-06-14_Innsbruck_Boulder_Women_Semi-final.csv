@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Raboutou Brooke,USA,1,4T4z 19 19,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,2,2,6,6,3,3,8,8
+ITO Futaba,JPN,2,3T4z 6 7,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,2,2,X,1,2,2,2,2
+Nonaka Miho,JPN,3,3T4z 7 15,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,2,2,2,1,3,3,X,9
+Garnbret Janja,SLO,4,3T4z 9 12,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,1,1,6,3,2,2,X,6
+Grossman Natalia,USA,5,3T4z 9 14,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,4,4,X,5,4,4,1,1
+Mori Ai,JPN,6,2T3z 5 6,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,X,X,1,4,4,1,1
+Avezou Zélia,FRA,7,2T3z 5 7,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,X,X,2,4,4,1,1
+Kazbekova Ievgeniia,UKR,8,2T3z 8 11,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,X,X,3,5,5,3,3
+Gibert Fanny,FRA,9,2T3z 10 17,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,7,X,X,3,3,7,7
+Sanders Anastasia,USA,10,2T3z 16 14,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,X,X,1,11,11,5,2
+Pilz Jessica,AUT,11,1T3z 4 11,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,X,X,5,4,4,X,2
+Mackenzie Oceania,AUS,12,1T3z 5 12,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,4,X,3,5,5,X,X
+Buršíková Martina,SVK,13,1T2z 2 7,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,5,X,X,2,2,X,X
+AOYAGI Mia,JPN,14,1T2z 6 8,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,2,X,X,6,6,X,X
+Gejo Stasa,SRB,15,1T2z 7 6,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,1,X,X,7,5,X,X
+Moroni Camilla,ITA,16,1T1z 8 8,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,X,X,X,8,8,X,X
+Rogora Laura,ITA,17,0T2z 0 4,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,X,X,1,X,X,X,3
+SEO Chaehyun,KOR,18,0T1z 0 2,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,X,X,2,X,X,X,X
+ELHADJ MIMOUNE Selma,FRA,19,0T1z 0 3,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,3,X,X,X,X,X,X
+Hönig Afra,GER,20,0T1z 0 7,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7,X,X,X,X,X,7,X,X

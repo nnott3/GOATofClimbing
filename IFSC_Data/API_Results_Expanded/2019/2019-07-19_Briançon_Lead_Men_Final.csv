@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Nishida Hidemasa,JPN,1,39+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Men,Final,2019-07-19,/api/v1/category_rounds/5524/results,/api/v1/events/1120/result/1,39+
+Shimizu Hiroto,JPN,2,38+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Men,Final,2019-07-19,/api/v1/category_rounds/5524/results,/api/v1/events/1120/result/1,38+
+Tanaka Shuta,JPN,3,38+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Men,Final,2019-07-19,/api/v1/category_rounds/5524/results,/api/v1/events/1120/result/1,38+
+Bosi William,GBR,4,38,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Men,Final,2019-07-19,/api/v1/category_rounds/5524/results,/api/v1/events/1120/result/1,38
+McColl Sean,CAN,5,38,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Men,Final,2019-07-19,/api/v1/category_rounds/5524/results,/api/v1/events/1120/result/1,38
+Bailey Sean,USA,6,34+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Men,Final,2019-07-19,/api/v1/category_rounds/5524/results,/api/v1/events/1120/result/1,34+
+Skofic Domen,SLO,7,34+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Men,Final,2019-07-19,/api/v1/category_rounds/5524/results,/api/v1/events/1120/result/1,34+
+Bombardi Marcello,ITA,8,34+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Men,Final,2019-07-19,/api/v1/category_rounds/5524/results,/api/v1/events/1120/result/1,34+

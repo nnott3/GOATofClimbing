@@ -1,0 +1,35 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Sarkany Muriel,BEL,1,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Gros Natalija,SLO,2,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Levet Sandrine,FRA,3,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Vidmar Maja,SLO,4,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Cufar Martina,SLO,5,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Pouget Emilie,FRA,6,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Eiter Angela,AUT,7,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Knorr Damaris,GER,8,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Go Mi-Sun,KOR,9,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Raffetseder Gerda,AUT,10,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Vidmar Katja,SLO,11,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Uhden Marietta,GER,12,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Bacher Barbara,AUT,13,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Lavarda Jenny,ITA,14,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Eyer Alexandra,SUI,15,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Bodet Stéphanie,FRA,16,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Petrignet Carole,FRA,17,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Franko Lucka,SLO,18,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+schöpf Bettina,AUT,19,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Benetti Lisa,ITA,20,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Kim Hyun-Jung,KOR,21,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Nilsson Ingela,SWE,22,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Kimura Rie,JPN,23,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Iovane Luisa,ITA,24,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Chereshneva Venera,RUS,25,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Kryvonis Olena,UKR,26,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Abramchuk Yulia,RUS,27,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Novikova Natalia,RUS,28,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Ostapenko Olena,UKR,28,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Zeilemaker Monica,NED,30,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Planinc Katja,SLO,31,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Lipenska Helena,CZE,32,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Stendal Linn Karin,NOR,33,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5
+Yun Gyong-Im,KOR,34,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Women,2002-11-15,/api/v1/events/287/result/5

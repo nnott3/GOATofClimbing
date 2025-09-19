@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,47-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,47-
+Dufraisse Alizée,FRA,2,35-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,35-
+Markovic Mina,SLO,3,31-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,31-
+Eiter Angela,AUT,4,30,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,30
+Vidmar Maja,SLO,5,30-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,30-
+Posch Katharina,AUT,6,30-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,30-
+Bacher Barbara,AUT,7,30-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,30-
+Brumagne Mathilde,BEL,8,30-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,30-
+Chereshneva Yana,RUS,9,30-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,30-
+Malamid Evgeniia,RUS,10,30-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,30-
+Ciavaldini Caroline,FRA,11,29+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,29+
+Gros Natalija,SLO,12,29+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,29+
+Janicot Hélène,FRA,13,29+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,29+
+Eyer Alexandra,SUI,14,29,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,29
+Durif Charlotte,FRA,15,29-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,29-
+Lavarda Jenny,ITA,16,29-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,29-
+Schranz Christine,AUT,17,29-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,29-
+Kobayashi Yuka,JPN,18,28,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,28
+Sigrist Manuela,SUI,18,28,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,28
+Avoscan Sara,ITA,20,28-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,28-
+Ociepka Kinga,POL,21,28-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,28-
+van Bergen Nikki,NED,22,25+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,25+
+Gosar Asja,SLO,23,24,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,24
+Szekely Andrea Brigitta,HUN,24,24-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,24-
+Kusztelak Malgorzata,POL,25,17,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,17
+Aleman Sobrino Helena,ESP,26,15-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2010,620,2010,Puurs,Lead,Women,Semi-Final,2010-09-24,/api/v1/category_rounds/1437/results,/api/v1/events/620/result/5,15-

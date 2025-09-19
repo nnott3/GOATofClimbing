@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ghisolfi Stefano,ITA,1,37+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,37+
+Bombardi Marcello,ITA,2,36+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,36+
+Korenaga Keiichiro,JPN,2,36+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,36+
+Timmermans Loïc,BEL,2,36+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,36+
+Hada Yuki,JPN,5,34+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,34+
+McColl Sean,CAN,5,34+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,34+
+Shemla Yuval,ISR,5,34+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,34+
+Desgranges Romain,FRA,8,33+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,33+
+Fujii Kokoro,JPN,9,32,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,32
+Vettorata Francesco,ITA,9,32,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,32
+Hojer Jan,GER,11,30,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,30
+Puman Hannes,SWE,12,26+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,26+
+Schab Piotr,POL,13,24,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,24
+Skofic Domen,SLO,13,24,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,24
+Hanke Christoph,GER,15,24,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,24
+Bailey Sean,USA,16,23+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,23+
+Cano Blazquez Javier,ESP,16,23+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,23+
+Firnenburg David,GER,16,23+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,23+
+KIM Hanwool,KOR,16,23+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,23+
+Verhoeven Jorg,NED,16,23+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,23+
+Blein Charli,FRA,21,23+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,23+
+Halenke Sebastian,GER,22,23,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,23
+Monchois Nao,FRA,23,20+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,20+
+Julian  Puigblanque Ramón ,ESP,24,19+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,19+
+Higuchi Masahiro,JPN,25,13+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,13+
+Samoilov Fedir,UKR,26,2+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1,2+

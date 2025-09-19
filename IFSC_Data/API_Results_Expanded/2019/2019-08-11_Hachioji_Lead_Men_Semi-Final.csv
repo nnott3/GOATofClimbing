@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Megos Alexander,GER,1,40+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,40+
+Narasaki Tomoa,JPN,2,38,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,38
+McColl Sean,CAN,3,37+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,37+
+Ondra Adam,CZE,4,37+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,37+
+Harada Kai,JPN,5,31+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,31+
+Schubert Jakob,AUT,6,30+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,30+
+Ghisolfi Stefano,ITA,7,29+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,29+
+Puman Hannes,SWE,8,29+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,29+
+Konecny Jakub,CZE,9,29+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,29+
+Skofic Domen,SLO,10,29+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,29+
+Reuser Tim,NED,11,28+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,28+
+Narasaki Meichi,JPN,12,28+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,28+
+Fakirianov Dmitrii,RUS,13,27+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,27+
+Fujii Kokoro,JPN,14,26+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,26+
+Stranik Martin,CZE,15,26+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,26+
+Ruana Rudolph,USA,16,26+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,26+
+Bosi William,GBR,17,26+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,26+
+KIM Hanwool,KOR,17,26+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,26+
+Bombardi Marcello,ITA,19,26+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,26+
+Bergant Martin,SLO,20,26+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,26+
+Bailey Sean,USA,21,26,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,26
+Nishida Hidemasa,JPN,22,26,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,26
+Lehmann Sascha,SUI,23,25+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,25+
+Chon Jongwon,KOR,24,25+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,25+
+Desgranges Romain,FRA,25,21+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,21+
+Shevchenko Vladislav,RUS,26,14+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1,14+

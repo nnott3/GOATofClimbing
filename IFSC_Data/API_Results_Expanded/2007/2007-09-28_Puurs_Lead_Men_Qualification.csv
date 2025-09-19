@@ -1,0 +1,53 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,Top
+Usobiaga Lakunza Patxi,ESP,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,Top
+Midtboe Magnus,NOR,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,Top
+Mrázek Tomás,CZE,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,Top
+Verhoeven Jorg,NED,5,49-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,49-
+Lachat Cédric,SUI,5,49-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,49-
+Lama David,AUT,5,49-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,49-
+Lopez Mateos Eric ,ESP,8,48,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,48
+Fuselier Michaël,FRA,9,42-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,42-
+Zardini Luca,ITA,9,42-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,42-
+Millet Sylvain,FRA,9,42-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,42-
+Crespi Flavio,ITA,12,41+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,41+
+Desgranges Romain,FRA,12,41+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,41+
+Ten Sijthoff Casper,NED,12,41+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,41+
+Romain Manuel,FRA,15,41-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,41-
+Dugit Fabien,FRA,15,41-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,41-
+Tauporn Thomas,GER,15,41-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,41-
+Kim Jaha,KOR,18,39-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,39-
+Sharafutdinov Dmitrii,RUS,18,39-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,39-
+Fischhuber Kilian,AUT,18,39-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,39-
+Grosso Cesar,BRA,21,38-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,38-
+Szekely Gabor,HUN,22,36-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,36-
+Camargo Felipe,BRA,22,36-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,36-
+Berezoski André,BRA,24,33-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,33-
+Lai Chi-Wai,HKG,25,32-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,32-
+Amann Mark,AUT,25,32-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,32-
+Dzyubyak Yuriy,UKR,27,31+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,31+
+Sinitcyn Sergei,RUS,28,29+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,29+
+Berger Noé,LUX,29,27-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,27-
+Chu Ka-Wai,HKG,29,27-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,27-
+Heintz Benoit,FRA,29,27-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,27-
+Hequin Olivier,FRA,29,27-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,27-
+Huerta Mauricio,MEX,29,27-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,27-
+Kryukov Valeriy,UKR,29,27-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,27-
+Tak Timo,NED,29,27-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,27-
+Timmermans Michael,BEL,29,27-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,27-
+Ercan Rafet Serkan,TUR,37,26+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,26+
+Lecomte Michaël,BEL,37,26+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,26+
+Mignon Olivier,BEL,37,26+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,26+
+Pasquazzo Yannick,BEL,37,26+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,26+
+Reis Jürgen,AUT,37,26+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,26+
+Urbina Jonathan,VEN,37,26+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,26+
+Wörner Maximilian,GER,37,26+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,26+
+Vanden Driessche Sam,BEL,44,26,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,26
+de Leeuw Nicky,NED,45,21,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,21
+Libot Wanne,BEL,46,21-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,21-
+Lis Jurgen,BEL,46,21-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,21-
+Barcza Charlelie,BEL,48,20,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,20
+Ehlert Christian,MEX,48,20,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,20
+Vervoort Dirk,BEL,50,20-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,20-
+Vekla Pavlo,UKR,51,17-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,17-
+Freyria Edrick,MEX,52,11,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Lead,Men,Qualification,2007-09-28,/api/v1/category_rounds/689/results,/api/v1/events/482/result/1,11

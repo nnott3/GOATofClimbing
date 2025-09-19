@@ -1,0 +1,46 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Julian  Puigblanque Ramón ,ESP,1,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Crespi Flavio,ITA,2,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Chabot Alexandre,FRA,3,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Lachat Cédric,SUI,4,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Vinokur Vadim,USA,5,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Verhoeven Jorg,NED,6,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Zardini Luca,ITA,7,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Mrázek Tomás,CZE,8,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Bindhammer Christian,GER,9,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Usobiaga Lakunza Patxi,ESP,10,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Preußler Timo,GER,11,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Ovchinnikov Evgeny,RUS,12,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Sapey Anthony,SUI,13,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Fuselier Michaël,FRA,14,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Desgranges Romain,FRA,15,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Sova Matej,SLO,16,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Dugit Fabien,FRA,17,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Winkler Daniel,SUI,18,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Legrand Yannick,FRA,19,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Becan Klemen,SLO,20,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Favresse Olivier,BEL,21,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Brenna Cristian,ITA,22,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Ten Sijthoff Casper,NED,23,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Droetto Fabrizio,ITA,24,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Magin Philipp,GER,25,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Valjavec Tomaz,SLO,26,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Ito Hidekazu,JPN,27,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Schmid Thomas,SUI,28,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Hirayama Yuji,JPN,29,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Sommer Remo,SUI,29,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Repcik Juraj,SVK,31,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Guerimand Flavien,FRA,32,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Bindhammer Andreas,GER,33,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Tak Timo,NED,33,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Marin Garcia Eduard,ESP,35,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Mottart Didier,BEL,36,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Giupponi Luca,ITA,37,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Timmermans Michael,BEL,38,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+De Girolamo Vincent,FRA,39,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Millet Sylvain,FRA,39,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Reis Jürgen,AUT,39,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Gambaro Matteo,ITA,42,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Libot Wanne,BEL,43,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Thomas Jonathan,BEL,44,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1
+Materne Florian,BEL,45,,UIAA Worldcup (L) - Puurs (BEL) 2005,392,2005,Puurs,Lead,Men,2005-04-28,/api/v1/events/392/result/1

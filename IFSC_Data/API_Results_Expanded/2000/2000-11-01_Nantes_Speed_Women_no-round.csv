@@ -1,0 +1,18 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Ryepko Olena,UKR,1,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Zakharova Olga,UKR,2,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Podgorbounskikh Zosia,RUS,3,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Ruyga Tatiana,RUS,4,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Novikova Natalia,RUS,5,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Ostapenko Olena,UKR,6,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Piszczek Renata,POL,7,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Perlova Nataliya,UKR,8,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Piratinskaya Mayya,RUS,9,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Ryo Soléne,FRA,10,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Ropek Edyta,POL,11,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Verdier Emilie,FRA,12,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Kim Hyun-Jung,KOR,13,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Ene Mariana,ROU,14,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Go Mi-Sun,KOR,15,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Kotasova-Kostruhova Vera,CZE,16,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6
+Trnkova Lenka,CZE,17,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Women,2000-11-01,/api/v1/events/225/result/6

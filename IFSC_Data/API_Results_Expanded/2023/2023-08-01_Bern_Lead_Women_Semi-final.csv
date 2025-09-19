@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Mori Ai,JPN,1,52,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,52
+Garnbret Janja,SLO,2,47,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,47
+Raboutou Brooke,USA,3,44+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,44+
+Rogora Laura,ITA,4,37+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,37+
+Thompson-Smith Molly,GBR,4,37+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,37+
+Pilz Jessica,AUT,6,37,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,37
+SEO Chaehyun,KOR,6,37,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,37
+Krampl Mia,SLO,8,36+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,36+
+Nonaka Miho,JPN,8,36+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,36+
+Lukan Vita,SLO,10,35+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,35+
+Bertone Oriane,FRA,11,34+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,34+
+Hily Manon,FRA,12,33,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,33
+Janicot Hélène,FRA,13,32+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,32+
+KIM Jain,KOR,13,32+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,32+
+Sanders Anastasia,USA,13,32+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,32+
+SEO Yejoo,KOR,13,32+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,32+
+van der Meer Lynn,NED,13,32+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,32+
+KUME Nonoha,JPN,18,32,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,32
+Tarkus Lucija,SLO,18,32,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,32
+Avezou Zélia,FRA,20,28,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,28
+Copar Sara,SLO,21,27+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,27+
+Moroni Camilla,ITA,21,27+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,27+
+Pötzi Mattea,AUT,21,27+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,27+
+Gejo Stasa,SRB,24,25+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,25+
+LUO ZHILU,CHN,25,24,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,24
+Demmel Martina,GER,26,22+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5,22+

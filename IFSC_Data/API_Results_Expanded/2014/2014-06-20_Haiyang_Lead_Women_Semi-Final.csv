@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,39,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,39
+Röck Magdalena,AUT,2,35+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,35+
+Verhoeven Anak,BEL,2,35+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,35+
+Markovic Mina,SLO,2,35+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,35+
+Fakhritdinova Dinara,RUS,5,34+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,34+
+Janicot Hélène,FRA,6,34,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,34
+Ota Risa,JPN,7,33.5,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,33.5
+Durif Charlotte,FRA,8,33+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,33+
+Kobayashi Yuka,JPN,8,33+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,33+
+Posch Katharina,AUT,10,33+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,33+
+Oda Momoka,JPN,11,32+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,32+
+Malamid Evgeniia,RUS,12,32+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,32+
+Dufraisse Alizée,FRA,13,30+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,30+
+YOSHIMURA  Moe,JPN,14,22+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,22+
+van Bergen Nikki,NED,15,21+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,21+
+Bacher Barbara,AUT,16,21,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,21
+Brumagne Mathilde,BEL,17,19+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,19+
+Cho Haimi,KOR,18,18+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,18+
+RENQING LaMu,CHN,19,18+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,18+
+Kim Minseon,KOR,20,17,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,17
+Kim Seunghyun,KOR,21,16,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,16
+"Chiu Chi-Heng, Sharon",HKG,22,15,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,15
+Tajima Aika,JPN,23,11+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,11+
+Mizuguchi Tsukasa,JPN,24,11+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,11+
+Syarifah  Abdul Rohma,INA,25,11+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,11+
+JIANG Rong,CHN,26,11+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5,11+

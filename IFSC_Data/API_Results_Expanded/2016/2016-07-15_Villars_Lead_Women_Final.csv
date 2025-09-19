@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,48+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Women,Final,2016-07-15,/api/v1/category_rounds/3858/results,/api/v1/events/945/result/5,48+
+Verhoeven Anak,BEL,2,41+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Women,Final,2016-07-15,/api/v1/category_rounds/3858/results,/api/v1/events/945/result/5,41+
+Kim Jain,KOR,3,41+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Women,Final,2016-07-15,/api/v1/category_rounds/3858/results,/api/v1/events/945/result/5,41+
+Pilz Jessica,AUT,4,41+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Women,Final,2016-07-15,/api/v1/category_rounds/3858/results,/api/v1/events/945/result/5,41+
+Röck Magdalena,AUT,5,41+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Women,Final,2016-07-15,/api/v1/category_rounds/3858/results,/api/v1/events/945/result/5,41+
+Schranz Christine,AUT,6,26+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Women,Final,2016-07-15,/api/v1/category_rounds/3858/results,/api/v1/events/945/result/5,26+
+Kobayashi Yuka,JPN,7,26+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Women,Final,2016-07-15,/api/v1/category_rounds/3858/results,/api/v1/events/945/result/5,26+
+Romain Salomé,FRA,8,15,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Women,Final,2016-07-15,/api/v1/category_rounds/3858/results,/api/v1/events/945/result/5,15

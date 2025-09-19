@@ -1,0 +1,7 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup - Ekaterinburg 1996,152,1996,Ekaterinburg,Lead,Men,1996-09-18,/api/v1/events/152/result/1
+UIAA Worldcup - Ekaterinburg 1996,152,1996,Ekaterinburg,Lead,Women,1996-09-18,/api/v1/events/152/result/5
+UIAA Worldcup - Kranj 1996,153,1996,Kranj,Lead,Men,1996-11-23,/api/v1/events/153/result/1
+UIAA Worldcup - Kranj 1996,153,1996,Kranj,Lead,Women,1996-11-23,/api/v1/events/153/result/5
+UIAA Worldcup - Graz 1996,154,1996,Graz,Lead,Men,1996-12-14,/api/v1/events/154/result/1
+UIAA Worldcup - Graz 1996,154,1996,Graz,Lead,Women,1996-12-14,/api/v1/events/154/result/5

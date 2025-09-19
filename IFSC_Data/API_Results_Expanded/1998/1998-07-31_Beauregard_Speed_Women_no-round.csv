@@ -1,0 +1,10 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Zakharova Olga,UKR,1,,UIAA Worldcup - Beauregard (ITA) 1998,179,1998,Beauregard,Speed,Women,1998-07-31,/api/v1/events/179/result/6
+Ostapenko Olena,UKR,2,,UIAA Worldcup - Beauregard (ITA) 1998,179,1998,Beauregard,Speed,Women,1998-07-31,/api/v1/events/179/result/6
+Perlova Nataliya,UKR,3,,UIAA Worldcup - Beauregard (ITA) 1998,179,1998,Beauregard,Speed,Women,1998-07-31,/api/v1/events/179/result/6
+Piszczek Renata,POL,4,,UIAA Worldcup - Beauregard (ITA) 1998,179,1998,Beauregard,Speed,Women,1998-07-31,/api/v1/events/179/result/6
+Zaytseva Irina,RUS,5,,UIAA Worldcup - Beauregard (ITA) 1998,179,1998,Beauregard,Speed,Women,1998-07-31,/api/v1/events/179/result/6
+Piratinskaya Mayya,RUS,6,,UIAA Worldcup - Beauregard (ITA) 1998,179,1998,Beauregard,Speed,Women,1998-07-31,/api/v1/events/179/result/6
+Podgorbounskikh Zosia,RUS,7,,UIAA Worldcup - Beauregard (ITA) 1998,179,1998,Beauregard,Speed,Women,1998-07-31,/api/v1/events/179/result/6
+Usatiuk Marharyta,UKR,8,,UIAA Worldcup - Beauregard (ITA) 1998,179,1998,Beauregard,Speed,Women,1998-07-31,/api/v1/events/179/result/6
+Sabbion Paola,ITA,9,,UIAA Worldcup - Beauregard (ITA) 1998,179,1998,Beauregard,Speed,Women,1998-07-31,/api/v1/events/179/result/6

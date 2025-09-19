@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Noguchi Akiyo,JPN,1,2t2 3b5,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Women,Final,2010-05-28,/api/v1/category_rounds/1367/results,/api/v1/events/610/result/7,1,1,1,1,X,3,X,X
+Oda Momoka,JPN,2,2t3 2b3,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Women,Final,2010-05-28,/api/v1/category_rounds/1367/results,/api/v1/events/610/result/7,1,1,2,2,X,X,X,X
+Kim Jain,KOR,3,2t4 2b2,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Women,Final,2010-05-28,/api/v1/category_rounds/1367/results,/api/v1/events/610/result/7,1,1,3,1,X,X,X,X
+Graftiaux Chloé,BEL,4,1t1 4b6,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Women,Final,2010-05-28,/api/v1/category_rounds/1367/results,/api/v1/events/610/result/7,1,1,X,1,X,1,X,3
+Stöhr Anna,AUT,5,1t3 4b5,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Women,Final,2010-05-28,/api/v1/category_rounds/1367/results,/api/v1/events/610/result/7,3,1,X,1,X,1,X,2
+Johnson Alex,USA,6,0t 4b5,IFSC Climbing Worldcup (B) - Wien (AUT) 2010,610,2010,Wien,Boulder,Women,Final,2010-05-28,/api/v1/category_rounds/1367/results,/api/v1/events/610/result/7,X,1,X,1,X,1,X,2

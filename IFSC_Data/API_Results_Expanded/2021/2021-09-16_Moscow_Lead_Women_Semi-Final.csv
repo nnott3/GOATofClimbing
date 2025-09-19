@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Seo Chaehyun,KOR,1,TOP,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,TOP
+Grossman Natalia,USA,2,TOP,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,TOP
+Rogora Laura,ITA,2,TOP,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,TOP
+Pilz Jessica,AUT,4,41+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,41+
+Tanii Natsuki,JPN,5,41+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,41+
+Romain Salomé,FRA,6,40,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,40
+Raboutou Brooke,USA,7,39+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,39+
+Fakhritdinova Dinara,CFR,8,39+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,39+
+Adamovska Eliska,CZE,9,39+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,39+
+ABE Momoko,JPN,10,39+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,39+
+Thompson-Smith Molly,GBR,11,39,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,39
+Totkova Aleksandra,BUL,12,38,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,38
+NAKAGAWA Ryu,JPN,13,37,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,37
+Rakovec Lucka,SLO,14,35+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,35+
+Meshkova Viktoriia,CFR,15,33+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,33+
+Lukan Vita,SLO,16,30,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,30
+Kazbekova Ievgeniia,UKR,17,30,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,30
+Krasovskaia Elena,CFR,18,29,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,29
+Krampl Mia,SLO,19,28+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,28+
+Mellado Quinteros Ignacia,CHI,20,28+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,28+
+Slemensek Tjasa,SLO,21,28+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,28+
+Meul Hannah,GER,22,28+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,28+
+Kümin Andrea,SUI,23,27+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,27+
+Skusek Lana,SLO,24,24,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,24
+Fiser Julia,AUT,25,22,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,22
+Moroni Camilla,ITA,26,21+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,21+
+Hulliger Michelle,SUI,27,21+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5,21+

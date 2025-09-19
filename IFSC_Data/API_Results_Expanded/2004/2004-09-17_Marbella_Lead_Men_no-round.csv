@@ -1,0 +1,46 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Mrázek Tomás,CZE,1,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Pouvreau Gérome,FRA,2,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Usobiaga Lakunza Patxi,ESP,3,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Becan Klemen,SLO,4,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Fuselier Michaël,FRA,5,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Repcik Juraj,SVK,6,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Lagni Bernardino,ITA,7,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Chabot Alexandre,FRA,8,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Crespi Flavio,ITA,9,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Lachat Cédric,SUI,9,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Auclair François,FRA,11,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Desgranges Romain,FRA,11,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Bindhammer Christian,GER,13,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Brenna Cristian,ITA,14,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Vinokur Vadim,USA,14,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Millet Sylvain,FRA,16,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Julian  Puigblanque Ramón ,ESP,17,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Sarkany Frederic,BEL,18,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Gnerro Alberto,ITA,19,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Manzanedo César Ciudad,ESP,20,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Gusak Igor,UKR,21,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Sova Matej,SLO,21,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Caude David,FRA,23,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Lois Tino,ESP,23,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Pringle Ethan,USA,23,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Svub Ondrej,SVK,23,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Valjavec Tomaz,SLO,23,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Legrand Yannick,FRA,28,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Hoppe Markus,GER,29,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Bindhammer Andreas,GER,30,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Perez Luis Felix,ESP,31,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Zardini Luca,ITA,31,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Aranaz Igor,ESP,34,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Marin Garcia Eduard,ESP,34,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Abreu José,POR,36,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Escobar Manuel,VEN,36,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Jubes Marcos,VEN,38,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Holodiloff Dave,USA,39,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Neres André,POR,39,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Franco Jose Luis Penin,ESP,41,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Thanopoulos Aristomenes,GRE,41,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Ntourntourekas Loukas,GRE,43,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Chtenas Athanasios,GRE,44,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Faria Leopoldo,POR,45,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+Olles Ignacio Fuertes,ESP,46,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1

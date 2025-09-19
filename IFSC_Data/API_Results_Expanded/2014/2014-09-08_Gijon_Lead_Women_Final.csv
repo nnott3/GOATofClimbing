@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,Top,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Final,2014-09-08,/api/v1/category_rounds/3082/results,/api/v1/events/862/result/5,Top
+Markovic Mina,SLO,2,47+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Final,2014-09-08,/api/v1/category_rounds/3082/results,/api/v1/events/862/result/5,47+
+Röck Magdalena,AUT,3,47+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Final,2014-09-08,/api/v1/category_rounds/3082/results,/api/v1/events/862/result/5,47+
+Janicot Hélène,FRA,4,44+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Final,2014-09-08,/api/v1/category_rounds/3082/results,/api/v1/events/862/result/5,44+
+Vidmar Maja,SLO,5,36,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Final,2014-09-08,/api/v1/category_rounds/3082/results,/api/v1/events/862/result/5,36
+Verhoeven Anak,BEL,6,35+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Final,2014-09-08,/api/v1/category_rounds/3082/results,/api/v1/events/862/result/5,35+
+Kobayashi Yuka,JPN,7,35+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Final,2014-09-08,/api/v1/category_rounds/3082/results,/api/v1/events/862/result/5,35+
+Durif Charlotte,FRA,8,35,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Final,2014-09-08,/api/v1/category_rounds/3082/results,/api/v1/events/862/result/5,35

@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Sharafutdinov Dmitrii,RUS,1,3t9 3b5,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Final,2007-11-09,/api/v1/category_rounds/711/results,/api/v1/events/485/result/3
+Fischhuber Kilian,AUT,2,2t4 2b2,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Final,2007-11-09,/api/v1/category_rounds/711/results,/api/v1/events/485/result/3
+Julien Stéphan,FRA,3,1t1 2b2,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Final,2007-11-09,/api/v1/category_rounds/711/results,/api/v1/events/485/result/3
+Ennemoser Lukas,AUT,4,1t3 2b2,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Final,2007-11-09,/api/v1/category_rounds/711/results,/api/v1/events/485/result/3
+Gelmanov Rustam,RUS,5,1t4 2b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Final,2007-11-09,/api/v1/category_rounds/711/results,/api/v1/events/485/result/3
+Stranik Martin,CZE,6,1t5 2b3,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Final,2007-11-09,/api/v1/category_rounds/711/results,/api/v1/events/485/result/3

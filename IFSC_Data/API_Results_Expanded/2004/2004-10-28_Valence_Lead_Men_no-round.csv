@@ -1,0 +1,54 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Chabot Alexandre,FRA,1,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Bindhammer Christian,GER,2,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Mrázek Tomás,CZE,3,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Fuselier Michaël,FRA,4,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Auclair François,FRA,5,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Dugit Stephane,FRA,6,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Desgranges Romain,FRA,7,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Ovchinnikov Evgeny,RUS,8,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Crespi Flavio,ITA,9,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Lo Piccolo Cédric,FRA,10,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Dugit Fabien,FRA,11,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Legrand Yannick,FRA,12,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Verhoeven Jorg,NED,13,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Zardini Luca,ITA,13,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Fichtinger Reinhard,AUT,15,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Fischhuber Kilian,AUT,16,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Vinokur Vadim,USA,17,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Pagnoux Romain,FRA,18,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Becan Klemen,SLO,19,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Marin Garcia Eduard,ESP,19,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Gusak Igor,UKR,21,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Julian  Puigblanque Ramón ,ESP,21,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Usobiaga Lakunza Patxi,ESP,23,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Pouvreau Gérome,FRA,24,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Winkler Daniel,SUI,25,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Droetto Fabrizio,ITA,26,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Hoppe Markus,GER,27,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Brenna Cristian,ITA,28,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+De Girolamo Vincent,FRA,28,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Felix Roman,SUI,28,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Guerimand Flavien,FRA,28,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Petrenko Maksym,UKR,28,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Bergasse Remy,FRA,33,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Bindhammer Andreas,GER,33,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Ceintre Arnaud,FRA,33,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Comina Fabien,FRA,33,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Repcik Juraj,SVK,33,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Roth Cody,USA,38,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Pringle Ethan,USA,39,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Caude David,FRA,40,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Hanssens Stephane,BEL,40,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Holodiloff Dave,USA,42,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Reis Jürgen,AUT,43,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Ito Hidekazu,JPN,44,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Favresse Nicolas,BEL,45,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Giorgetti Arthur,FRA,46,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Sarkany Frederic,BEL,46,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Culver Aurélien,FRA,48,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Neres André,POR,49,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Shaferov Sergei,BLR,49,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Faria Leopoldo,POR,51,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Millet Sylvain,FRA,52,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+Lois Tino,ESP,53,,UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1

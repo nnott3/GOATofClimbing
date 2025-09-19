@@ -1,0 +1,23 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Kokorin Stanislav,RUS,1,13.740,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Swirk Lukasz,POL,2,14.600,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Hroza Libor,CZE,3,15.310,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Sinitcyn Sergei,RUS,4,15.320,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Vaitsekhovskii Evgenii,RUS,5,15.460,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Styenkovyy Maksym,UKR,6,15.560,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Komosinski Jedrzej,POL,7,16.000,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Oleksy Tomasz,POL,8,16.320,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Novikov Ivan,RUS,9,16.420,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Osipov Maksym,UKR,9,16.420,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Nigmanov Zufar,RUS,11,16.460,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Abdrakhmanov Sergey,RUS,12,16.970,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Ter-Minasyan Arman,RUS,13,18.330,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Shevchenko Arsenii,RUS,14,19.220,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Sirekanyan Vaginak,RUS,15,19.860,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Gontero Leonardo,ITA,16,19.940,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Sirotti Michel,ITA,17,20.300,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Sirotti Gianluca,ITA,18,21.100,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Escobar Manuel,VEN,19,24.790,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Nieves Josmar,VEN,20,26.730,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Boulbahaiem Salah,BEL,21,29.390,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2
+Modrzejewski Jan,POL,22,30.750,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,616,2010,Daone,Speed,Men,Qualification,2010-07-24,/api/v1/category_rounds/1410/results,/api/v1/events/616/result/2

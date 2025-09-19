@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Amma Sachi,JPN,1,43+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Men,Final,2012-07-12,/api/v1/category_rounds/2082/results,/api/v1/events/732/result/1,43+
+Julian  Puigblanque Ramón ,ESP,2,41+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Men,Final,2012-07-12,/api/v1/category_rounds/2082/results,/api/v1/events/732/result/1,41+
+McColl Sean,CAN,3,40+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Men,Final,2012-07-12,/api/v1/category_rounds/2082/results,/api/v1/events/732/result/1,40+
+Chernikov Mikhail,RUS,4,34+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Men,Final,2012-07-12,/api/v1/category_rounds/2082/results,/api/v1/events/732/result/1,34+
+Midtboe Magnus,NOR,5,25+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Men,Final,2012-07-12,/api/v1/category_rounds/2082/results,/api/v1/events/732/result/1,25+
+Ballet Thomas,FRA,6,25+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Men,Final,2012-07-12,/api/v1/category_rounds/2082/results,/api/v1/events/732/result/1,25+
+Tauporn Thomas,GER,7,20,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Men,Final,2012-07-12,/api/v1/category_rounds/2082/results,/api/v1/events/732/result/1,20
+Desgranges Romain,FRA,8,8+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Men,Final,2012-07-12,/api/v1/category_rounds/2082/results,/api/v1/events/732/result/1,8+

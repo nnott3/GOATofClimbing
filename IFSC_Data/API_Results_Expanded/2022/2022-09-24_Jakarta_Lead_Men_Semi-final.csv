@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Nishida Hidemasa,JPN,1,40+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,40+
+YOSHIDA Satone,JPN,2,37+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,37+
+Higuchi Masahiro,JPN,3,36+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,36+
+YURIKUSA Ao,JPN,3,36+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,36+
+Halenke Sebastian,GER,5,36+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,36+
+RAMADHAN RAVIANDI,INA,6,35,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,35
+Potocar Luka,SLO,7,33+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,33+
+LEE Dohyun,KOR,8,33+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,33+
+Ogata Yoshiyuki,JPN,9,33,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,33
+Bailey Sean,USA,10,32+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,32+
+Posch Mathias,AUT,11,32+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,32+
+Homma Taisei,JPN,12,31+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,31+
+Grupper Jesse,USA,13,31+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,31+
+RAMADHAN RAVIANTO,INA,14,31+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,31+
+Baudrand Oscar,CAN,15,31+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,31+
+Lehmann Sascha,SUI,16,27+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,27+
+Preskar Milan,SLO,17,27,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,27
+Chan Cheung-chi Shoji,HKG,18,25+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,25+
+MUSAUWIR MUSAUWIR,INA,19,24+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,24+
+Waterhouse Alex,GBR,20,22+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,22+
+RIZKY SYAHRAFLI SIMATUPANG MUHAMMAD,INA,21,22+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,22+
+Utelli Jonas,SUI,22,21+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,21+
+McArthur Hamish,GBR,23,21+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,21+
+Shemla Yuval,ISR,24,21+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,21+
+Scherz Stefan,AUT,25,21+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,21+
+Martin Philipp,GER,26,21+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1,21+

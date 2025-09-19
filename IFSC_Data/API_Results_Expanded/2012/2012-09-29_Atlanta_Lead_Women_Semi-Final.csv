@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Janicot Hélène,FRA,1,Top,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,Top
+Kim Jain,KOR,2,49+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,49+
+Vidmar Maja,SLO,3,43+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,43+
+Han Seuran,KOR,4,37+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,37+
+Ernst Johanna,AUT,5,37,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,37
+Markovic Mina,SLO,6,36+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,36+
+Posch Katharina,AUT,7,36+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,36+
+Fakhritdinova Dinara,RUS,8,36+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,36+
+Kobayashi Yuka,JPN,9,36+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,36+
+Becerra Mathilde,FRA,10,36+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,36+
+Durif Charlotte,FRA,11,36,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,36
+Malamid Evgeniia,RUS,12,36,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,36
+Röck Magdalena,AUT,13,36,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,36
+Brumagne Mathilde,BEL,14,36,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,36
+Schranz Christine,AUT,15,36,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,36
+van Bergen Nikki,NED,16,34+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,34+
+Miller Delaney,USA,17,34,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,34
+Rude Chelsea,USA,18,33+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,33+
+Söderlund Matilda,SWE,19,31+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,31+
+Lavarda Jenny,ITA,20,31+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,31+
+Bacher Barbara,AUT,21,31+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,31+
+Lamarche Iyma,CAN,22,28+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,28+
+Metcalf Francesca,USA,23,28+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,28+
+Szekely Andrea Brigitta,HUN,24,23,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,23
+Sethna Elise,CAN,25,23,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,23
+Condie Kyra,USA,26,22+,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5,22+

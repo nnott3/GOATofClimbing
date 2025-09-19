@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Jaubert Anouck,FRA,1,7.770,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Kaplina Iuliia,RUS,2,7.920,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Marenych Alla,UKR,3,8.050,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Timofeeva Elena,RUS,4,8.090,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Tsyganova Anna,RUS,5,8.220,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Sarisson Aurelia,FRA,6,8.330,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Brozek Anna,POL,7,8.360,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Krasavina Mariia,RUS,8,8.490,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Buczek Klaudia,POL,9,8.600,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Ropek Edyta,POL,10,8.730,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+He CuiLian,CHN,11,8.900,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+SONG YiLing,CHN,12,9.110,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Marlenova Assel,KAZ,13,9.170,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+NI MingWei,CHN,14,9.350,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Niu Di,CHN,15,9.430,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Panteleeva Iuliia,RUS,16,9.970,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+RenZeng WangMu,CHN,17,10.170,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Kuznetsova Tamara,KAZ,18,11.880,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Kümin Andrea,SUI,19,11.940,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+Yip Alannah,CAN,20,14.480,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6

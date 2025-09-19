@@ -1,0 +1,51 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Men,2003-05-22,/api/v1/events/307/result/1
+UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Boulder,Men,2003-05-30,/api/v1/events/308/result/3
+UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Boulder,Women,2003-05-30,/api/v1/events/308/result/7
+UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
+UIAA Worldcup - Yekaterinburg (RUS) 2003 (S),309,2003,Yekaterinburg,Speed,Men,2003-06-04,/api/v1/events/309/result/2
+UIAA Worldcup - Yekaterinburg (RUS) 2003 (S),309,2003,Yekaterinburg,Speed,Women,2003-06-04,/api/v1/events/309/result/6
+UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Men,2003-06-06,/api/v1/events/310/result/1
+UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
+UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Speed,Men,2003-06-06,/api/v1/events/310/result/2
+UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Speed,Women,2003-06-06,/api/v1/events/310/result/6
+UIAA Worldcup - Fiera di Primiero (ITA) 2003,311,2003,Fiera di Primiero,Boulder,Men,2003-06-13,/api/v1/events/311/result/3
+UIAA Worldcup - Fiera di Primiero (ITA) 2003,311,2003,Fiera di Primiero,Boulder,Women,2003-06-13,/api/v1/events/311/result/7
+UIAA Worldcup - Lecco (ITA) 2003 (speed),312,2003,Lecco,Speed,Men,2003-06-23,/api/v1/events/312/result/2
+UIAA Worldcup - Lecco (ITA) 2003 (speed),312,2003,Lecco,Speed,Women,2003-06-23,/api/v1/events/312/result/6
+UIAA Worldcup - Lecco (ITA) 2003 (boulder),313,2003,Lecco,Boulder,Men,2003-06-24,/api/v1/events/313/result/3
+UIAA Worldcup - Lecco (ITA) 2003 (boulder),313,2003,Lecco,Boulder,Women,2003-06-24,/api/v1/events/313/result/7
+UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
+UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Women,2003-06-27,/api/v1/events/314/result/5
+UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Men,2003-07-09,/api/v1/events/315/result/1
+UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
+UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Men,2003-07-09,/api/v1/events/315/result/3
+UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
+UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Speed,Men,2003-07-09,/api/v1/events/315/result/2
+UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Speed,Women,2003-07-09,/api/v1/events/315/result/6
+UIAA Worldcup - L'Argentière (FRA) 2003,316,2003,L'Argentière,Boulder,Men,2003-07-24,/api/v1/events/316/result/3
+UIAA Worldcup - L'Argentière (FRA) 2003,316,2003,L'Argentière,Boulder,Women,2003-07-24,/api/v1/events/316/result/7
+UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2
+UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Women,2003-07-25,/api/v1/events/317/result/6
+UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
+UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
+UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
+UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Women,2003-10-02,/api/v1/events/320/result/5
+UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
+UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Women,2003-10-10,/api/v1/events/321/result/5
+UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Men,2003-10-30,/api/v1/events/322/result/1
+UIAA Worldcup - Valence (FRA) 2003,322,2003,Valence,Lead,Women,2003-10-30,/api/v1/events/322/result/5
+UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
+UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Women,2003-11-14,/api/v1/events/323/result/5
+UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Women,2003-11-21,/api/v1/events/324/result/5
+UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Speed,Men,2003-11-21,/api/v1/events/324/result/2
+UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Speed,Women,2003-11-21,/api/v1/events/324/result/6
+UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Women,2003-12-04,/api/v1/events/325/result/5
+UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Boulder,Men,2003-12-04,/api/v1/events/325/result/3
+UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Boulder,Women,2003-12-04,/api/v1/events/325/result/7

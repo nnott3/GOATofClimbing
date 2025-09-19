@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+GARNBRET Janja,SLO,1,TOP,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Final,2022-09-24,/api/v1/category_rounds/7796/results,/api/v1/events/1243/result/5,TOP
+SEO Chaehyun,KOR,2,40,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Final,2022-09-24,/api/v1/category_rounds/7796/results,/api/v1/events/1243/result/5,40
+Krampl Mia,SLO,3,35+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Final,2022-09-24,/api/v1/category_rounds/7796/results,/api/v1/events/1243/result/5,35+
+Meul Hannah,GER,4,34+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Final,2022-09-24,/api/v1/category_rounds/7796/results,/api/v1/events/1243/result/5,34+
+Rogora Laura,ITA,5,34+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Final,2022-09-24,/api/v1/category_rounds/7796/results,/api/v1/events/1243/result/5,34+
+Lukan Vita,SLO,6,34+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Final,2022-09-24,/api/v1/category_rounds/7796/results,/api/v1/events/1243/result/5,34+
+NAKAGAWA Ryu,JPN,7,29+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Final,2022-09-24,/api/v1/category_rounds/7796/results,/api/v1/events/1243/result/5,29+
+Tanii Natsuki,JPN,8,19+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Final,2022-09-24,/api/v1/category_rounds/7796/results,/api/v1/events/1243/result/5,19+

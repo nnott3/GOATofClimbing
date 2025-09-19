@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Pilz Jessica,AUT,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Women,Final,2018-07-11,/api/v1/category_rounds/4976/results,/api/v1/events/1054/result/5,Top
+Garnbret Janja,SLO,2,50+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Women,Final,2018-07-11,/api/v1/category_rounds/4976/results,/api/v1/events/1054/result/5,50+
+Kim Jain,KOR,3,48+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Women,Final,2018-07-11,/api/v1/category_rounds/4976/results,/api/v1/events/1054/result/5,48+
+Shiraishi Ashima,USA,4,44,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Women,Final,2018-07-11,/api/v1/category_rounds/4976/results,/api/v1/events/1054/result/5,44
+Kotake Mei,JPN,5,42+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Women,Final,2018-07-11,/api/v1/category_rounds/4976/results,/api/v1/events/1054/result/5,42+
+Verhoeven Anak,BEL,6,41,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Women,Final,2018-07-11,/api/v1/category_rounds/4976/results,/api/v1/events/1054/result/5,41
+Noguchi Akiyo,JPN,7,40+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Women,Final,2018-07-11,/api/v1/category_rounds/4976/results,/api/v1/events/1054/result/5,40+
+Schubert Hannah,AUT,8,40+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Women,Final,2018-07-11,/api/v1/category_rounds/4976/results,/api/v1/events/1054/result/5,40+

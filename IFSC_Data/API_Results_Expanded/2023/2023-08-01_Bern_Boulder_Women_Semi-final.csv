@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Garnbret Janja,SLO,1,4T4z 4 4,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,1,1,1,1,1,1
+Raboutou Brooke,USA,2,4T4z 9 6,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,1,1,6,3,1,1
+Bertone Oriane,FRA,3,3T4z 4 5,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,1,2,2,1,1
+Grossman Natalia,USA,4,3T4z 4 6,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,2,2,2,1,1
+Mori Ai,JPN,5,3T4z 6 8,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,2,2,3,3,X,2
+Avezou Zélia,FRA,6,3T4z 9 8,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,1,5,5,3,1
+Mackenzie Oceania,AUS,7,3T4z 12 14,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,3,8,8,3,2
+Pilz Jessica,AUT,8,3T4z 19 14,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,2,17,10,1,1
+Cohaut Flavy,FRA,9,3T3z 9 4,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,2,2,X,X,6,1,1,1
+Kerem Ayala,ISR,10,3T3z 15 13,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,X,9,7,5,5
+Kruder Julija,SLO,11,2T4z 2 12,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,4,X,6,1,1
+Buršíková Martina,SVK,12,2T3z 8 4,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,X,1,X,X,7,2,1,1
+Klingler Petra,SUI,13,2T3z 9 4,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,X,X,2,8,1
+Sanders Anastasia,USA,14,2T3z 12 15,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,6,X,X,11,8
+Condie Kyra,USA,15,2T3z 13 6,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,X,1,X,X,10,4,3,1
+Sterrer Franziska,AUT,16,2T2z 4 2,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,X,X,X,3,1
+Rekabi Elnaz,IRI,17,1T4z 1 21,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,1,X,12,X,7
+Thompson-Smith Molly,GBR,18,1T3z 1 12,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,1,1,X,1,X,X,X,10
+Hönig Afra,GER,19,1T3z 3 16,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,3,1,X,X,X,13,X,2
+Kazbekova Ievgeniia,UKR,20,1T3z 10 12,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7,X,1,X,X,10,10,X,1

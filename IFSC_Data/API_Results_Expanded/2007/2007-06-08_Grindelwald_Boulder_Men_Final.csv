@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Fischhuber Kilian,AUT,1,4t6 4b5,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Final,2007-06-08,/api/v1/category_rounds/634/results,/api/v1/events/475/result/3
+Matsushima Akito,JPN,2,3t6 4b6,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Final,2007-06-08,/api/v1/category_rounds/634/results,/api/v1/events/475/result/3
+Hukkataival Nalle,FIN,3,3t6 4b7,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Final,2007-06-08,/api/v1/category_rounds/634/results,/api/v1/events/475/result/3
+Verhoeven Jorg,NED,4,3t9 4b4,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Final,2007-06-08,/api/v1/category_rounds/634/results,/api/v1/events/475/result/3
+Glairon Mondet Guillaume,FRA,5,3t10 4b10,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Final,2007-06-08,/api/v1/category_rounds/634/results,/api/v1/events/475/result/3
+Sharafutdinov Dmitrii,RUS,6,3t13 4b8,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Men,Final,2007-06-08,/api/v1/category_rounds/634/results,/api/v1/events/475/result/3

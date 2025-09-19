@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Min Hyunbin,KOR,1,33,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Men,Final,2012-10-20,/api/v1/category_rounds/2160/results,/api/v1/events/744/result/1,33
+Amma Sachi,JPN,2,32+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Men,Final,2012-10-20,/api/v1/category_rounds/2160/results,/api/v1/events/744/result/1,32+
+McColl Sean,CAN,3,29+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Men,Final,2012-10-20,/api/v1/category_rounds/2160/results,/api/v1/events/744/result/1,29+
+Romain Manuel,FRA,4,26+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Men,Final,2012-10-20,/api/v1/category_rounds/2160/results,/api/v1/events/744/result/1,26+
+Julian  Puigblanque Ramón ,ESP,5,25+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Men,Final,2012-10-20,/api/v1/category_rounds/2160/results,/api/v1/events/744/result/1,25+
+Schubert Jakob,AUT,6,23+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Men,Final,2012-10-20,/api/v1/category_rounds/2160/results,/api/v1/events/744/result/1,23+
+Midtboe Magnus,NOR,7,23+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Men,Final,2012-10-20,/api/v1/category_rounds/2160/results,/api/v1/events/744/result/1,23+
+Ghisolfi Stefano,ITA,8,20+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Men,Final,2012-10-20,/api/v1/category_rounds/2160/results,/api/v1/events/744/result/1,20+

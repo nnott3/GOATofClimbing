@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Skofic Domen,SLO,1,41+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,41+
+Megos Alexander,GER,2,39+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,39+
+Joannes Thomas,FRA,3,39,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,39
+Schubert Jakob,AUT,4,38+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,38+
+Desgranges Romain,FRA,5,37+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,37+
+Ghisolfi Stefano,ITA,6,37+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,37+
+Shimizu Hiroto,JPN,7,37,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,37
+Lehmann Sascha,SUI,8,36+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,36+
+Homma Taisei,JPN,9,36+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,36+
+Bailey Sean,USA,10,36+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,36+
+Julian  Puigblanque Ramón ,ESP,11,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,35+
+Hada Yuki,JPN,12,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,35+
+McColl Sean,CAN,13,33+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,33+
+Puman Hannes,SWE,14,32+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,32+
+Rudigier Max,AUT,15,32,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,32
+Nakano Minoru,JPN,16,32,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,32
+Min Hyunbin,KOR,17,30+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,30+
+Monchois Nao,FRA,18,30+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,30+
+Nakagami Taito,JPN,19,30,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,30
+Vettorata Francesco,ITA,20,29,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,29
+Higuchi Masahiro,JPN,21,26+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,26+
+Konecny Jakub,CZE,22,21+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,21+
+Bombardi Marcello,ITA,23,21,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,21
+Avezou Sam,FRA,24,21,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,21
+Pope James,GBR,25,20,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,20
+GEFFROY Romaric,FRA,26,14+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1,14+

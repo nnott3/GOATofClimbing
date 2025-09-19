@@ -1,0 +1,23 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Netsvetaev-Dolgalev Vladimir,RUS,1,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Schlesener Christian,GER,2,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Hilgers Stephan,GER,3,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Buchwald Markus,GER,4,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Hümmer Christian,GER,5,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Marcisz Andrzej,POL,5,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Rakhmetov Kairat,KAZ,5,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Weisser Pavel,CZE,8,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Galiakbarov Raikhan,RUS,9,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Jurkowski Jacek,POL,9,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Kilarski Mateusz,POL,9,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Mihal Rudolf,SVK,9,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Minaev Alexandre,RUS,9,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Mus Johan,BEL,9,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Rakhmetov Salavat,RUS,9,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Tchertov Alexei,RUS,9,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Englekirk Doug,USA,17,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Tribout Jean-Baptiste,FRA,18,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Julsrud Hjarrand,NOR,19,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Borcea Dan Alexandro,ROU,20,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Belbea Daniel,ROU,21,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2
+Prodan Cristinel Constantin,ROU,22,,UIAA Worldcup - Frankfurt 1993,124,1993,Frankfurt,Speed,Men,1993-04-01,/api/v1/events/124/result/2

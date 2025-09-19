@@ -1,0 +1,26 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Boldyrev Danyil,UKR,1,5.890,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Dzienski Marcin,POL,2,6.130,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Zhong QiXin,CHN,3,6.200,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Hroza Libor,CZE,4,6.230,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Alipourshenazandifar Reza,IRI,5,6.240,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Mawem Bassa,FRA,6,6.350,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Kokorin Stanislav,RUS,7,6.380,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Nambot Quentin,FRA,8,6.640,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Komosinski Jedrzej,POL,9,6.670,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Vaitsekhovskii Evgenii,RUS,10,6.730,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Maimuratov Amir,KAZ,11,6.760,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Stewart-Patterson Robert,CAN,12,6.870,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Shilov Aleksandr,RUS,13,6.900,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Gontero Leonardo,ITA,14,7.000,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Ou ZhiYong,CHN,15,7.110,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Luzhetskii Sergei,RUS,16,7.250,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Khaibullin Rishat,KAZ,17,7.290,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Chae Sungjoon,KOR,18,7.490,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Kim Hyunjae,KOR,19,7.500,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+LIN PengHui,CHN,20,7.530,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Sordyl Tomasz,POL,21,8.130,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Egizbayev Kanat,KAZ,22,8.250,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Kim Jungju,KOR,23,8.360,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+AU Chi-fung,HKG,24,9.350,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+Hyun Jekyoung,KOR,25,10.720,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2

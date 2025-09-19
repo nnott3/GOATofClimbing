@@ -1,0 +1,117 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Qualification,2023-04-21,/api/v1/category_rounds/7669/results,/api/v1/events/1291/result/3
+IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Semi-final,2023-04-21,/api/v1/category_rounds/8120/results,/api/v1/events/1291/result/3
+IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Men,Final,2023-04-21,/api/v1/category_rounds/8122/results,/api/v1/events/1291/result/3
+IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Women,Qualification,2023-04-21,/api/v1/category_rounds/7670/results,/api/v1/events/1291/result/7
+IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Women,Semi-final,2023-04-21,/api/v1/category_rounds/8121/results,/api/v1/events/1291/result/7
+IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Women,Final,2023-04-21,/api/v1/category_rounds/8123/results,/api/v1/events/1291/result/7
+IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Qualification,2023-04-28,/api/v1/category_rounds/7671/results,/api/v1/events/1292/result/3
+IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3
+IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Women,Qualification,2023-04-28,/api/v1/category_rounds/7672/results,/api/v1/events/1292/result/7
+IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Women,Semi-final,2023-04-28,/api/v1/category_rounds/8155/results,/api/v1/events/1292/result/7
+IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2
+IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2
+IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Women,Qualification,2023-04-28,/api/v1/category_rounds/7674/results,/api/v1/events/1292/result/6
+IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Women,Final,2023-04-28,/api/v1/category_rounds/8085/results,/api/v1/events/1292/result/6
+IFSC World Cup Jakarta 2023,1293,2023,Indonesia,Speed,Men,Qualification,2023-05-06,/api/v1/category_rounds/7675/results,/api/v1/events/1293/result/2
+IFSC World Cup Jakarta 2023,1293,2023,Indonesia,Speed,Men,Final,2023-05-06,/api/v1/category_rounds/8088/results,/api/v1/events/1293/result/2
+IFSC World Cup Jakarta 2023,1293,2023,Indonesia,Speed,Women,Qualification,2023-05-06,/api/v1/category_rounds/7676/results,/api/v1/events/1293/result/6
+IFSC World Cup Jakarta 2023,1293,2023,Indonesia,Speed,Women,Final,2023-05-06,/api/v1/category_rounds/8089/results,/api/v1/events/1293/result/6
+IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Boulder,Men,Qualification,2023-05-19,/api/v1/category_rounds/7677/results,/api/v1/events/1294/result/3
+IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Boulder,Men,Semi-final,2023-05-19,/api/v1/category_rounds/8194/results,/api/v1/events/1294/result/3
+IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Boulder,Men,Final,2023-05-19,/api/v1/category_rounds/8196/results,/api/v1/events/1294/result/3
+IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Boulder,Women,Qualification,2023-05-19,/api/v1/category_rounds/7678/results,/api/v1/events/1294/result/7
+IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Boulder,Women,Semi-final,2023-05-19,/api/v1/category_rounds/8195/results,/api/v1/events/1294/result/7
+IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Boulder,Women,Final,2023-05-19,/api/v1/category_rounds/8197/results,/api/v1/events/1294/result/7
+IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2
+IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Final,2023-05-19,/api/v1/category_rounds/8090/results,/api/v1/events/1294/result/2
+IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Women,Qualification,2023-05-19,/api/v1/category_rounds/7680/results,/api/v1/events/1294/result/6
+IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Women,Final,2023-05-19,/api/v1/category_rounds/8091/results,/api/v1/events/1294/result/6
+IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Men,Qualification,2023-06-02,/api/v1/category_rounds/7681/results,/api/v1/events/1295/result/3
+IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Men,Semi-final,2023-06-02,/api/v1/category_rounds/8206/results,/api/v1/events/1295/result/3
+IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Men,Final,2023-06-02,/api/v1/category_rounds/8208/results,/api/v1/events/1295/result/3
+IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Women,Qualification,2023-06-02,/api/v1/category_rounds/7682/results,/api/v1/events/1295/result/7
+IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Women,Semi-final,2023-06-02,/api/v1/category_rounds/8207/results,/api/v1/events/1295/result/7
+IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Women,Final,2023-06-02,/api/v1/category_rounds/8209/results,/api/v1/events/1295/result/7
+IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Men,Qualification,2023-06-09,/api/v1/category_rounds/7683/results,/api/v1/events/1296/result/3
+IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Men,Semi-final,2023-06-09,/api/v1/category_rounds/8202/results,/api/v1/events/1296/result/3
+IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Men,Final,2023-06-09,/api/v1/category_rounds/8204/results,/api/v1/events/1296/result/3
+IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7
+IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Semi-final,2023-06-09,/api/v1/category_rounds/8203/results,/api/v1/events/1296/result/7
+IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Final,2023-06-09,/api/v1/category_rounds/8205/results,/api/v1/events/1296/result/7
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Qualification,2023-06-14,/api/v1/category_rounds/7685/results,/api/v1/events/1297/result/3
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8250/results,/api/v1/events/1297/result/3
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Qualification,2023-06-14,/api/v1/category_rounds/7686/results,/api/v1/events/1297/result/7
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8251/results,/api/v1/events/1297/result/7
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Women,Final,2023-06-14,/api/v1/category_rounds/8253/results,/api/v1/events/1297/result/7
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Final,2023-06-14,/api/v1/category_rounds/8264/results,/api/v1/events/1297/result/1
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5
+IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Final,2023-06-14,/api/v1/category_rounds/8265/results,/api/v1/events/1297/result/5
+IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1
+IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Semi-final,2023-06-30,/api/v1/category_rounds/8260/results,/api/v1/events/1298/result/1
+IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Final,2023-06-30,/api/v1/category_rounds/8262/results,/api/v1/events/1298/result/1
+IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5
+IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Semi-final,2023-06-30,/api/v1/category_rounds/8261/results,/api/v1/events/1298/result/5
+IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5
+IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Speed,Men,Qualification,2023-06-30,/api/v1/category_rounds/7691/results,/api/v1/events/1298/result/2
+IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Speed,Men,Final,2023-06-30,/api/v1/category_rounds/8118/results,/api/v1/events/1298/result/2
+IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Speed,Women,Qualification,2023-06-30,/api/v1/category_rounds/7692/results,/api/v1/events/1298/result/6
+IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Speed,Women,Final,2023-06-30,/api/v1/category_rounds/8119/results,/api/v1/events/1298/result/6
+IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Qualification,2023-07-07,/api/v1/category_rounds/7693/results,/api/v1/events/1299/result/1
+IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Semi-final,2023-07-07,/api/v1/category_rounds/8330/results,/api/v1/events/1299/result/1
+IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1
+IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Qualification,2023-07-07,/api/v1/category_rounds/7694/results,/api/v1/events/1299/result/5
+IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Semi-final,2023-07-07,/api/v1/category_rounds/8331/results,/api/v1/events/1299/result/5
+IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Women,Final,2023-07-07,/api/v1/category_rounds/8333/results,/api/v1/events/1299/result/5
+IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Qualification,2023-07-07,/api/v1/category_rounds/7695/results,/api/v1/events/1299/result/2
+IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2
+IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Women,Qualification,2023-07-07,/api/v1/category_rounds/7696/results,/api/v1/events/1299/result/6
+IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Women,Final,2023-07-07,/api/v1/category_rounds/8335/results,/api/v1/events/1299/result/6
+IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Qualification,2023-07-14,/api/v1/category_rounds/7697/results,/api/v1/events/1300/result/1
+IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Semi-final,2023-07-14,/api/v1/category_rounds/8316/results,/api/v1/events/1300/result/1
+IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1
+IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Women,Qualification,2023-07-14,/api/v1/category_rounds/7698/results,/api/v1/events/1300/result/5
+IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Women,Semi-final,2023-07-14,/api/v1/category_rounds/8317/results,/api/v1/events/1300/result/5
+IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Women,Final,2023-07-14,/api/v1/category_rounds/8329/results,/api/v1/events/1300/result/5
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Qualification,2023-08-01,/api/v1/category_rounds/7699/results,/api/v1/events/1301/result/3
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Final,2023-08-01,/api/v1/category_rounds/8320/results,/api/v1/events/1301/result/3
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Qualification,2023-08-01,/api/v1/category_rounds/7700/results,/api/v1/events/1301/result/7
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8319/results,/api/v1/events/1301/result/7
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Women,Final,2023-08-01,/api/v1/category_rounds/8321/results,/api/v1/events/1301/result/7
+IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1
+IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1
+IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Final,2023-08-01,/api/v1/category_rounds/8324/results,/api/v1/events/1301/result/1
+IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5
+IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8323/results,/api/v1/events/1301/result/5
+IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Final,2023-08-01,/api/v1/category_rounds/8325/results,/api/v1/events/1301/result/5
+IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Men,Qualification,2023-08-01,/api/v1/category_rounds/7703/results,/api/v1/events/1301/result/2
+IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Men,Final,2023-08-01,/api/v1/category_rounds/8326/results,/api/v1/events/1301/result/2
+IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6
+IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Final,2023-08-01,/api/v1/category_rounds/8327/results,/api/v1/events/1301/result/6
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder&lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/8348/results,/api/v1/events/1301/result/617
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder&lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8350/results,/api/v1/events/1301/result/617
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder&lead,Men,Final,2023-08-01,/api/v1/category_rounds/8352/results,/api/v1/events/1301/result/617
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder&lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/8349/results,/api/v1/events/1301/result/618
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder&lead,Women,Semi-final,2023-08-01,/api/v1/category_rounds/8351/results,/api/v1/events/1301/result/618
+IFSC World Championships Bern 2023,1301,2023,Bern,Boulder&lead,Women,Final,2023-08-01,/api/v1/category_rounds/8353/results,/api/v1/events/1301/result/618
+IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Qualification,2023-09-08,/api/v1/category_rounds/7705/results,/api/v1/events/1302/result/1
+IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Semi-final,2023-09-08,/api/v1/category_rounds/8432/results,/api/v1/events/1302/result/1
+IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Men,Final,2023-09-08,/api/v1/category_rounds/8434/results,/api/v1/events/1302/result/1
+IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Qualification,2023-09-08,/api/v1/category_rounds/7706/results,/api/v1/events/1302/result/5
+IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Semi-final,2023-09-08,/api/v1/category_rounds/8433/results,/api/v1/events/1302/result/5
+IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5
+IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Men,Qualification,2023-09-22,/api/v1/category_rounds/7707/results,/api/v1/events/1303/result/1
+IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Men,Semi-final,2023-09-22,/api/v1/category_rounds/8500/results,/api/v1/events/1303/result/1
+IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Men,Final,2023-09-22,/api/v1/category_rounds/8502/results,/api/v1/events/1303/result/1
+IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Qualification,2023-09-22,/api/v1/category_rounds/7708/results,/api/v1/events/1303/result/5
+IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Semi-final,2023-09-22,/api/v1/category_rounds/8501/results,/api/v1/events/1303/result/5
+IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5
+IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Speed,Men,Qualification,2023-09-22,/api/v1/category_rounds/7709/results,/api/v1/events/1303/result/2
+IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Speed,Men,Final,2023-09-22,/api/v1/category_rounds/8086/results,/api/v1/events/1303/result/2
+IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Speed,Women,Qualification,2023-09-22,/api/v1/category_rounds/7710/results,/api/v1/events/1303/result/6
+IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Speed,Women,Final,2023-09-22,/api/v1/category_rounds/8087/results,/api/v1/events/1303/result/6

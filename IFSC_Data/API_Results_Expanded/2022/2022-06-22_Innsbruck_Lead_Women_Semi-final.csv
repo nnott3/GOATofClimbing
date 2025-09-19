@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+GARNBRET Janja,SLO,1,TOP,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,TOP
+PILZ Jessica,AUT,1,TOP,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,TOP
+RABOUTOU Brooke,USA,1,TOP,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,TOP
+ROGORA Laura,ITA,1,TOP,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,TOP
+SEO CHAEHYUN,KOR,1,TOP,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,TOP
+GROSSMAN Natalia,USA,6,43+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,43+
+TANII Natsuki,JPN,7,41+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,41+
+LUKAN Vita,SLO,8,40,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,40
+MEUL Hannah,GER,9,37+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,37+
+HILY Manon,FRA,10,35+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,35+
+THOMPSON-SMITH Molly,GBR,10,35+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,35+
+NAKAGAWA Ryu,JPN,12,35,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,35
+TOTKOVA Aleksandra,BUL,13,34+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,34+
+ADAMOVSKA Eliska,CZE,14,32+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,32+
+MORONI Camilla,ITA,15,28+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,28+
+KAZBEKOVA Ievgeniia,UKR,16,27+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,27+
+ITO Futaba,JPN,17,26+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,26+
+RAKOVEC Lucka,SLO,18,23+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,23+
+SKUSEK Lana,SLO,18,23+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,23+
+TESIO Giorgia,ITA,18,23+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,23+
+COPAR Sara,SLO,21,22+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,22+
+COSTANZA Melina,USA,21,22+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,22+
+KOIKE Hana,JPN,21,22+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,22+
+KRAMPL Mia,SLO,21,22+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,22+
+OTA Risa,JPN,25,20+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,20+
+YIP Alannah,CAN,25,20+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,20+
+MELLADO QUINTEROS Ignacia,CHI,27,20,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5,20

@@ -1,0 +1,118 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2017 ,985,2017,Meiringen,Boulder,Men,Qualification,2017-04-07,/api/v1/category_rounds/4258/results,/api/v1/events/985/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2017 ,985,2017,Meiringen,Boulder,Men,Semi-Final,2017-04-07,/api/v1/category_rounds/4259/results,/api/v1/events/985/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2017 ,985,2017,Meiringen,Boulder,Men,Final,2017-04-07,/api/v1/category_rounds/4260/results,/api/v1/events/985/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2017 ,985,2017,Meiringen,Boulder,Women,Qualification,2017-04-07,/api/v1/category_rounds/4255/results,/api/v1/events/985/result/7
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2017 ,985,2017,Meiringen,Boulder,Women,Semi-Final,2017-04-07,/api/v1/category_rounds/4256/results,/api/v1/events/985/result/7
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2017 ,985,2017,Meiringen,Boulder,Women,Final,2017-04-07,/api/v1/category_rounds/4257/results,/api/v1/events/985/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Boulder,Men,Qualification,2017-04-22,/api/v1/category_rounds/4266/results,/api/v1/events/986/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Boulder,Men,Semi-Final,2017-04-22,/api/v1/category_rounds/4267/results,/api/v1/events/986/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Boulder,Men,Final,2017-04-22,/api/v1/category_rounds/4268/results,/api/v1/events/986/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Boulder,Women,Qualification,2017-04-22,/api/v1/category_rounds/4261/results,/api/v1/events/986/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Boulder,Women,Semi-Final,2017-04-22,/api/v1/category_rounds/4262/results,/api/v1/events/986/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Boulder,Women,Final,2017-04-22,/api/v1/category_rounds/4263/results,/api/v1/events/986/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Final,2017-04-22,/api/v1/category_rounds/4270/results,/api/v1/events/986/result/2
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Qualification,2017-04-22,/api/v1/category_rounds/4264/results,/api/v1/events/986/result/6
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Women,Final,2017-04-22,/api/v1/category_rounds/4265/results,/api/v1/events/986/result/6
+"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Boulder,Men,Qualification,2017-04-29,/api/v1/category_rounds/4276/results,/api/v1/events/987/result/3
+"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Boulder,Men,Semi-Final,2017-04-29,/api/v1/category_rounds/4277/results,/api/v1/events/987/result/3
+"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Boulder,Men,Final,2017-04-29,/api/v1/category_rounds/4278/results,/api/v1/events/987/result/3
+"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Boulder,Women,Qualification,2017-04-29,/api/v1/category_rounds/4271/results,/api/v1/events/987/result/7
+"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Boulder,Women,Semi-Final,2017-04-29,/api/v1/category_rounds/4272/results,/api/v1/events/987/result/7
+"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Boulder,Women,Final,2017-04-29,/api/v1/category_rounds/4273/results,/api/v1/events/987/result/7
+"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Men,Qualification,2017-04-29,/api/v1/category_rounds/4279/results,/api/v1/events/987/result/2
+"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Men,Final,2017-04-29,/api/v1/category_rounds/4280/results,/api/v1/events/987/result/2
+"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Final,2017-04-29,/api/v1/category_rounds/4275/results,/api/v1/events/987/result/6
+"IFSC Climbing Worldcup (B) - Hachioji, Tokyo (JPN) 2017",988,2017,Tokyo,Boulder,Men,Qualification,2017-05-06,/api/v1/category_rounds/4284/results,/api/v1/events/988/result/3
+"IFSC Climbing Worldcup (B) - Hachioji, Tokyo (JPN) 2017",988,2017,Tokyo,Boulder,Men,Semi-Final,2017-05-06,/api/v1/category_rounds/4285/results,/api/v1/events/988/result/3
+"IFSC Climbing Worldcup (B) - Hachioji, Tokyo (JPN) 2017",988,2017,Tokyo,Boulder,Men,Final,2017-05-06,/api/v1/category_rounds/4286/results,/api/v1/events/988/result/3
+"IFSC Climbing Worldcup (B) - Hachioji, Tokyo (JPN) 2017",988,2017,Tokyo,Boulder,Women,Qualification,2017-05-06,/api/v1/category_rounds/4281/results,/api/v1/events/988/result/7
+"IFSC Climbing Worldcup (B) - Hachioji, Tokyo (JPN) 2017",988,2017,Tokyo,Boulder,Women,Semi-Final,2017-05-06,/api/v1/category_rounds/4282/results,/api/v1/events/988/result/7
+"IFSC Climbing Worldcup (B) - Hachioji, Tokyo (JPN) 2017",988,2017,Tokyo,Boulder,Women,Final,2017-05-06,/api/v1/category_rounds/4283/results,/api/v1/events/988/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2017,989,2017,Vail,Boulder,Men,Qualification,2017-06-09,/api/v1/category_rounds/4290/results,/api/v1/events/989/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2017,989,2017,Vail,Boulder,Men,Semi-Final,2017-06-09,/api/v1/category_rounds/4291/results,/api/v1/events/989/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2017,989,2017,Vail,Boulder,Men,Final,2017-06-09,/api/v1/category_rounds/4292/results,/api/v1/events/989/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2017,989,2017,Vail,Boulder,Women,Qualification,2017-06-09,/api/v1/category_rounds/4287/results,/api/v1/events/989/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2017,989,2017,Vail,Boulder,Women,Semi-Final,2017-06-09,/api/v1/category_rounds/4288/results,/api/v1/events/989/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2017,989,2017,Vail,Boulder,Women,Final,2017-06-09,/api/v1/category_rounds/4289/results,/api/v1/events/989/result/7
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Men,Qualification,2017-06-24,/api/v1/category_rounds/4296/results,/api/v1/events/990/result/3
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Men,Semi-Final,2017-06-24,/api/v1/category_rounds/4297/results,/api/v1/events/990/result/3
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Men,Final,2017-06-24,/api/v1/category_rounds/4298/results,/api/v1/events/990/result/3
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Women,Qualification,2017-06-24,/api/v1/category_rounds/4293/results,/api/v1/events/990/result/7
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Women,Semi-Final,2017-06-24,/api/v1/category_rounds/4294/results,/api/v1/events/990/result/7
+IFSC Climbing Worldcup (B) - Navi Mumbai (IND) 2017,990,2017,Mumbai,Boulder,Women,Final,2017-06-24,/api/v1/category_rounds/4295/results,/api/v1/events/990/result/7
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Men,Qualification,2017-07-07,/api/v1/category_rounds/4304/results,/api/v1/events/991/result/1
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Men,Semi-Final,2017-07-07,/api/v1/category_rounds/4305/results,/api/v1/events/991/result/1
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Men,Final,2017-07-07,/api/v1/category_rounds/4306/results,/api/v1/events/991/result/1
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Qualification,2017-07-07,/api/v1/category_rounds/4299/results,/api/v1/events/991/result/5
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Final,2017-07-07,/api/v1/category_rounds/4301/results,/api/v1/events/991/result/5
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Speed,Men,Qualification,2017-07-07,/api/v1/category_rounds/4307/results,/api/v1/events/991/result/2
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Speed,Men,Final,2017-07-07,/api/v1/category_rounds/4308/results,/api/v1/events/991/result/2
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Speed,Women,Qualification,2017-07-07,/api/v1/category_rounds/4302/results,/api/v1/events/991/result/6
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Speed,Women,Final,2017-07-07,/api/v1/category_rounds/4303/results,/api/v1/events/991/result/6
+IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Qualification,2017-07-12,/api/v1/category_rounds/6001/results,/api/v1/events/1164/result/1
+IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Semi-Final,2017-07-12,/api/v1/category_rounds/6002/results,/api/v1/events/1164/result/1
+IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Men,Final,2017-07-12,/api/v1/category_rounds/6003/results,/api/v1/events/1164/result/1
+IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Qualification,2017-07-12,/api/v1/category_rounds/5998/results,/api/v1/events/1164/result/5
+IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5
+IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Final,2017-07-12,/api/v1/category_rounds/6000/results,/api/v1/events/1164/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Men,Qualification,2017-07-28,/api/v1/category_rounds/6007/results,/api/v1/events/1165/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Men,Semi-Final,2017-07-28,/api/v1/category_rounds/6008/results,/api/v1/events/1165/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Men,Final,2017-07-28,/api/v1/category_rounds/6009/results,/api/v1/events/1165/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Qualification,2017-07-28,/api/v1/category_rounds/6004/results,/api/v1/events/1165/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Final,2017-07-28,/api/v1/category_rounds/6006/results,/api/v1/events/1165/result/5
+IFSC Climbing Worldcup (B) - Munich (GER) 2017 ,992,2017,Munich,Boulder,Men,Qualification,2017-08-18,/api/v1/category_rounds/4312/results,/api/v1/events/992/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2017 ,992,2017,Munich,Boulder,Men,Semi-Final,2017-08-18,/api/v1/category_rounds/4313/results,/api/v1/events/992/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2017 ,992,2017,Munich,Boulder,Men,Final,2017-08-18,/api/v1/category_rounds/4314/results,/api/v1/events/992/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2017 ,992,2017,Munich,Boulder,Women,Qualification,2017-08-18,/api/v1/category_rounds/4309/results,/api/v1/events/992/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2017 ,992,2017,Munich,Boulder,Women,Semi-Final,2017-08-18,/api/v1/category_rounds/4310/results,/api/v1/events/992/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2017 ,992,2017,Munich,Boulder,Women,Final,2017-08-18,/api/v1/category_rounds/4311/results,/api/v1/events/992/result/7
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Men,Qualification,2017-08-25,/api/v1/category_rounds/4320/results,/api/v1/events/993/result/1
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Men,Semi-Final,2017-08-25,/api/v1/category_rounds/4321/results,/api/v1/events/993/result/1
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Men,Final,2017-08-25,/api/v1/category_rounds/4322/results,/api/v1/events/993/result/1
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Women,Qualification,2017-08-25,/api/v1/category_rounds/4315/results,/api/v1/events/993/result/5
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Women,Semi-Final,2017-08-25,/api/v1/category_rounds/4316/results,/api/v1/events/993/result/5
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Women,Final,2017-08-25,/api/v1/category_rounds/4317/results,/api/v1/events/993/result/5
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Qualification,2017-08-25,/api/v1/category_rounds/4323/results,/api/v1/events/993/result/2
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Men,Final,2017-08-25,/api/v1/category_rounds/4324/results,/api/v1/events/993/result/2
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Women,Qualification,2017-08-25,/api/v1/category_rounds/4318/results,/api/v1/events/993/result/6
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Speed,Women,Final,2017-08-25,/api/v1/category_rounds/4319/results,/api/v1/events/993/result/6
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Qualification,2017-09-23,/api/v1/category_rounds/4330/results,/api/v1/events/994/result/1
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Semi-Final,2017-09-23,/api/v1/category_rounds/4331/results,/api/v1/events/994/result/1
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Women,Qualification,2017-09-23,/api/v1/category_rounds/4325/results,/api/v1/events/994/result/5
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Women,Semi-Final,2017-09-23,/api/v1/category_rounds/4326/results,/api/v1/events/994/result/5
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Women,Final,2017-09-23,/api/v1/category_rounds/4327/results,/api/v1/events/994/result/5
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Men,Qualification,2017-09-23,/api/v1/category_rounds/4333/results,/api/v1/events/994/result/2
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Men,Final,2017-09-23,/api/v1/category_rounds/4334/results,/api/v1/events/994/result/2
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Qualification,2017-09-23,/api/v1/category_rounds/4328/results,/api/v1/events/994/result/6
+"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Speed,Women,Final,2017-09-23,/api/v1/category_rounds/4329/results,/api/v1/events/994/result/6
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Men,Qualification,2017-10-07,/api/v1/category_rounds/4340/results,/api/v1/events/995/result/1
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Men,Semi-Final,2017-10-07,/api/v1/category_rounds/4341/results,/api/v1/events/995/result/1
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Men,Final,2017-10-07,/api/v1/category_rounds/4342/results,/api/v1/events/995/result/1
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Women,Qualification,2017-10-07,/api/v1/category_rounds/4335/results,/api/v1/events/995/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Women,Semi-Final,2017-10-07,/api/v1/category_rounds/4336/results,/api/v1/events/995/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Lead,Women,Final,2017-10-07,/api/v1/category_rounds/4337/results,/api/v1/events/995/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Speed,Men,Qualification,2017-10-07,/api/v1/category_rounds/4343/results,/api/v1/events/995/result/2
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Speed,Men,Final,2017-10-07,/api/v1/category_rounds/4344/results,/api/v1/events/995/result/2
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Speed,Women,Qualification,2017-10-07,/api/v1/category_rounds/4338/results,/api/v1/events/995/result/6
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",995,2017,Wujiang,Speed,Women,Final,2017-10-07,/api/v1/category_rounds/4339/results,/api/v1/events/995/result/6
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Men,Qualification,2017-10-14,/api/v1/category_rounds/4349/results,/api/v1/events/996/result/1
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Men,Final,2017-10-14,/api/v1/category_rounds/4351/results,/api/v1/events/996/result/1
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Men,Semi-Final,2017-10-14,/api/v1/category_rounds/4350/results,/api/v1/events/996/result/1
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Qualification,2017-10-14,/api/v1/category_rounds/4345/results,/api/v1/events/996/result/5
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Qualification,2017-10-14,/api/v1/category_rounds/4352/results,/api/v1/events/996/result/2
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Men,Final,2017-10-14,/api/v1/category_rounds/4353/results,/api/v1/events/996/result/2
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Women,Qualification,2017-10-14,/api/v1/category_rounds/4347/results,/api/v1/events/996/result/6
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Speed,Women,Final,2017-10-14,/api/v1/category_rounds/4348/results,/api/v1/events/996/result/6
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Men,Qualification,2017-11-11,/api/v1/category_rounds/4357/results,/api/v1/events/997/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Men,Semi-Final,2017-11-11,/api/v1/category_rounds/4358/results,/api/v1/events/997/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Men,Final,2017-11-11,/api/v1/category_rounds/4359/results,/api/v1/events/997/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Qualification,2017-11-11,/api/v1/category_rounds/4354/results,/api/v1/events/997/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Final,2017-11-11,/api/v1/category_rounds/4356/results,/api/v1/events/997/result/5

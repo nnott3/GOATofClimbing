@@ -1,0 +1,53 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Eiter Angela,AUT,1,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Eyer Alexandra,SUI,2,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Kobayashi Yuka,JPN,3,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Vidmar Maja,SLO,4,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Pinet Florence,FRA,5,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Januel Caroline,FRA,6,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Kryvonis Olena,UKR,7,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Kim Jain,KOR,8,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Conan Fanny,FRA,9,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Levet Sandrine,FRA,9,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Ciavaldini Caroline,FRA,11,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Graftiaux Chloé,BEL,12,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Lavarda Jenny,ITA,13,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Ociepka Kinga,POL,13,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Saurwein Katharina,AUT,15,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Bacher Barbara,AUT,16,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Chevrier Anne-Laure,FRA,16,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Ostapenko Olena,UKR,18,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Franko Lucka,SLO,19,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Malamid Evgeniia,RUS,20,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Berry Samantha,AUS,21,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Cufar Martina,SLO,21,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Alekseeva Kseniia,RUS,23,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Crouvisier Stéphanie,FRA,23,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Iaemourd Ekaterina,RUS,23,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Largeron Marine,FRA,26,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Raffetseder Gerda,AUT,27,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Mathieu Laure,FRA,28,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Hnizdilova Sona,CZE,29,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Gros Natalija,SLO,30,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Etter Susanne,SUI,31,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Rodriguez Francis,VEN,32,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Stendal Linn Karin,NOR,32,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Giroux Elodie,FRA,34,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Graftiaux Alix,BEL,34,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Ruh Nadine,GER,34,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Thévenet Marine,FRA,34,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Kusztelak Malgorzata,POL,38,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Souvorova Antonina,RUS,38,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Fergeau Celine,FRA,40,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Landeghem Sandr Van,FRA,41,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Liu Hiu Ying,HKG,41,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Griffiths Laura,USA,43,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Cardoso Janine,BRA,44,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Martin Sophie,FRA,45,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Chudobova Katerina,CZE,46,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Deslandes Lea,FRA,47,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Hawke Emma,NZL,47,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Zijlstra Evelien,NED,49,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Watts Amanda,AUS,50,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Ingre Mizuho,SWE,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5
+Archana Bangalore Subbarao,IND,52,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Women,2005-07-12,/api/v1/events/397/result/5

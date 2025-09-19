@@ -1,0 +1,17 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/8_winner,1/8_time,1/4_winner,1/4_time,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+LEONARDO VEDDRIQ,INA,1,5.01,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,True,5.19,True,4.902,True,4.932,True,5.017,,
+LONG JINBAO,CHN,2,5.12,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,True,5.293,True,5.233,True,5.181,False,5.121,,
+WANG XINSHANG,CHN,3,5.11,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,True,5.207,True,5.964,False,11.86,,,True,5.118
+LONG JIANGUO,CHN,4,6.37,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,True,5.471,True,5.139,False,6.352,,,False,6.378
+SHIN Euncheol,KOR,5,8.69 (5.13),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,True,WILDCARD,False,8.698,,,,,,
+WU PENG,CHN,6,6.13 (5.19),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,True,5.198,False,6.133,,,,,,
+ASPAR ASPAR,INA,7,5.24 (5.22),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,True,5.238,False,5.242,,,,,,
+Zurloni Matteo,ITA,8,8.04 (5.23),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,True,5.307,False,8.043,,,,,,
+Watson Samuel,USA,9,5.42 (5.02),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,False,5.426,,,,,,,,
+ADI MULYONO RAHMAD,INA,10,5.29 (5.23),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,False,5.295,,,,,,,,
+Fossali Ludovico,ITA,11,5.25,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,False,5.251,,,,,,,,
+Brosler John,USA,12,7.16 (5.28),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,False,7.165,,,,,,,,
+Tkach Yaroslav,UKR,13,5.37 (5.35),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,False,5.378,,,,,,,,
+Maimuratov Amir,KAZ,14,FALSE START (5.38),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,False,FALSE START,,,,,,,,
+WANG MINHUI,CHN,15,5.62 (5.39),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,False,5.625,,,,,,,,
+Mawem Bassa,FRA,16,5.59 (5.43),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Final,2023-04-28,/api/v1/category_rounds/8084/results,/api/v1/events/1292/result/2,False,5.59,,,,,,,,

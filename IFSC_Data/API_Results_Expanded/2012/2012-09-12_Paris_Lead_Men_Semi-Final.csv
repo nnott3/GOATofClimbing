@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,Top,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,Top
+Schubert Jakob,AUT,2,55+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,55+
+McColl Sean,CAN,3,54+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,54+
+Ondra Adam,CZE,4,52+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,52+
+Verhoeven Jorg,NED,5,49+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,49+
+Desgranges Romain,FRA,5,49+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,49+
+Amma Sachi,JPN,5,49+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,49+
+Min Hyunbin,KOR,5,49+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,49+
+Midtboe Magnus,NOR,9,46+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,46+
+Romain Manuel,FRA,10,44+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,44+
+Matsushima Akito,JPN,10,44+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,44+
+Lechner Mario,AUT,12,43+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,43+
+Lachat Cédric,SUI,13,43,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,43
+Ballet Thomas,FRA,14,42+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,42+
+Chernikov Mikhail,RUS,14,42+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,42+
+Ghisolfi Stefano,ITA,16,41+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,41+
+Primozic Urban,SLO,16,41+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,41+
+Skofic Domen,SLO,16,41+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,41+
+Kryukov Valeriy,UKR,19,41,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,41
+Tauporn Thomas,GER,20,40+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,40+
+Park Jihwan,KOR,21,40,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,40
+Marin Garcia Eduard,ESP,22,33+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,33+
+Joannes Thomas,FRA,23,32+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,32+
+Esteller Ocaña Victor,ESP,23,32+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,32+
+Becan Klemen,SLO,23,32+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,32+
+Zazulin Evgenii,RUS,23,32+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,32+
+Kim Jabee,KOR,27,30+,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1,30+

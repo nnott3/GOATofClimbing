@@ -1,0 +1,22 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,Top,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,Top
+Markovic Mina,SLO,1,Top,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,Top
+Eiter Angela,AUT,1,Top,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,Top
+Brumagne Mathilde,BEL,4,37-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,37-
+Gros Natalija,SLO,5,34-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,34-
+Kobayashi Yuka,JPN,6,34-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,34-
+Durif Charlotte,FRA,7,34-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,34-
+Posch Katharina,AUT,8,33+,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,33+
+Noguchi Akiyo,JPN,8,33+,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,33+
+Ciavaldini Caroline,FRA,10,33+,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,33+
+Bacher Barbara,AUT,11,33,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,33
+Janicot Hélène,FRA,12,33,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,33
+Oda Momoka,JPN,13,33,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,33
+Chereshneva Yana,RUS,14,33-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,33-
+Schranz Christine,AUT,15,33-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,33-
+Malamid Evgeniia,RUS,16,33-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,33-
+Vidmar Maja,SLO,17,24-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,24-
+PAN Xuhua,CHN,18,23-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,23-
+Gosar Asja,SLO,19,20-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,20-
+Ota Risa,JPN,20,15,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,15
+RENQING LaMu,CHN,21,15-,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Lead,Women,Final,2010-10-29,/api/v1/category_rounds/1443/results,/api/v1/events/621/result/5,15-

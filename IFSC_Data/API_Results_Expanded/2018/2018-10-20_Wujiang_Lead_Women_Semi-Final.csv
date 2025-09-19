@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,36+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,36+
+Kim Jain,KOR,1,36+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,36+
+Pilz Jessica,AUT,3,36,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,36
+Noguchi Akiyo,JPN,4,35+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,35+
+Posch Katharina,AUT,5,31,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,31
+Kalan Tjasa,SLO,6,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Krampl Mia,SLO,6,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Hily Manon,FRA,8,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Schubert Hannah,AUT,9,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Hirano Natsumi,JPN,10,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Schranz Christine,AUT,11,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Ito Futaba,JPN,12,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Kotake Mei,JPN,13,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Kurita Miu,JPN,14,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Onoe Aya,JPN,15,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Doumont Heloïse,BEL,16,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Gibert Fanny,FRA,17,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Kim Lan,KOR,18,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22+
+Mackenzie Oceania,AUS,19,22,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22
+XIANG HongChun,CHN,20,22,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,22
+Hafsaas Tina Johnsen,NOR,21,21,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,21
+Markovic Mina,SLO,22,17+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,17+
+Fiser Julia,AUT,23,17,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,17
+Fakhritdinova Dinara,RUS,24,13+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,13+
+CHEN ZhuoYing,CHN,25,13+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,13+
+Tsyganova Anna,RUS,26,13+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5,13+

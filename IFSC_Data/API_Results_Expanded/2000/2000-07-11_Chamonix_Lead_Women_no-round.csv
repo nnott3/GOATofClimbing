@@ -1,0 +1,56 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Bodet Stéphanie,FRA,1,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Cufar Martina,SLO,2,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Sansoz Liv,FRA,3,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Sarkany Muriel,BEL,3,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Minoret Chloé,FRA,5,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Choumilova Elena,RUS,6,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Lavarda Jenny,ITA,7,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Go Mi-Sun,KOR,8,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Novikova Natalia,RUS,8,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Piszczek Renata,POL,8,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Schultz Annatina,SUI,8,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Tusar Eva,SLO,8,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Uhden Marietta,GER,8,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Eyer Alexandra,SUI,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+schöpf Bettina,AUT,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Bereciartu Urruzola Josune,ESP,16,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Bihr Isabelle,FRA,16,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Gronkiewicz-Marcisz Iwona,POL,16,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Levet Sandrine,FRA,16,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Martha Cécile,FRA,16,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Ovtchinnikova Elena,USA,16,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Petrignet Carole,FRA,16,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Bibik Olga,RUS,23,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Kryvonis Olena,UKR,23,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Martin Delphine,FRA,23,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Motteau Myriam,FRA,26,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Raffetseder Gerda,AUT,27,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Kim Hyun-Jung,KOR,28,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Trnkova Lenka,CZE,28,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Louis Stéphanie,SUI,30,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Kotasova-Kostruhova Vera,CZE,31,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Nagakai Hoshiko,JPN,31,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Sedlmayer Katrin,GER,31,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Rouiga Irina,RUS,34,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Nagyova Sylvie,CZE,35,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Nilsson Ingela,SWE,35,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Allen Rebecca,GBR,37,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Iovane Luisa,ITA,37,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Kimura Rie,JPN,37,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Zeilemaker Monica,NED,37,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Cintalova Katarina,SVK,41,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Cintalova Zuzana,SVK,41,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+CRUZ MONTALBAN Esther,ESP,43,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Martin Sancho Berta,ESP,43,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Arran Anne,GBR,45,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Knorr Damaris,GER,46,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Laszlo Helene Belle,NOR,47,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Blom Brodersen Marianne,NOR,48,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+May Abigail,GBR,48,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Walder Ulla,ITA,50,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Stendal Linn Karin,NOR,51,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Wallin Lou,SWE,51,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Ropek Edyta,POL,53,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Truden Sasa,SLO,54,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5
+Perlova Nataliya,UKR,55,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Lead,Women,2000-07-11,/api/v1/events/218/result/5

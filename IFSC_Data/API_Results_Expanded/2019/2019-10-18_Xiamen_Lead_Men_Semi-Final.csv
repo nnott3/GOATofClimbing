@@ -1,0 +1,26 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Harada Kai,JPN,1,35+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,35+
+Ondra Adam,CZE,2,31+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,31+
+Ginés López Alberto,ESP,2,31+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,31+
+Grupper Jesse,USA,2,31+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,31+
+Narasaki Meichi,JPN,5,31+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,31+
+Homma Taisei,JPN,6,31+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,31+
+Bailey Sean,USA,6,31+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,31+
+Narasaki Tomoa,JPN,8,31+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,31+
+Pope James,GBR,9,31+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,31+
+Halenke Sebastian,GER,10,31,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,31
+Fujii Kokoro,JPN,11,28+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,28+
+Bombardi Marcello,ITA,12,28+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,28+
+Flohé Yannick,GER,13,27+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,27+
+Ghisolfi Stefano,ITA,13,27+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,27+
+Konecny Jakub,CZE,15,27+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,27+
+Hanke Christoph,GER,16,27+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,27+
+Pan YuFei,CHN,17,25+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,25+
+Rubtsov  Aleksei,RUS,18,24+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,24+
+Stranik Martin,CZE,19,24+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,24+
+Piccolruaz Michael,ITA,20,22,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,22
+Khazanov Alex,ISR,21,20+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,20+
+Lee Dohyun,KOR,22,18,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,18
+Shevchenko Vladislav,RUS,23,17+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,17+
+Lee Sungsu,KOR,24,14,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,14
+Desgranges Romain,FRA,25,8+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1,8+

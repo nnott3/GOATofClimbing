@@ -1,0 +1,72 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Pouvreau Gérome,FRA,1,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Mrázek Tomás,CZE,2,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Petit François,FRA,3,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Chabot Alexandre,FRA,4,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Hirayama Yuji,JPN,5,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Julian  Puigblanque Ramón ,ESP,6,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Bindhammer Christian,GER,7,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Lagni Bernardino,ITA,8,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Ovchinnikov Evgeny,RUS,9,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Kazbekov Serik,UKR,10,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Petrenko Maksym,UKR,11,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Brenna Cristian,ITA,12,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Caude David,FRA,12,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Wandeler Simon,SUI,14,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Bindhammer Andreas,GER,15,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Douloub Iouri,RUS,15,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Achermann Thomas,SUI,17,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Felix Roman,SUI,18,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Lachat Cédric,SUI,19,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Legrand François,FRA,20,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Giupponi Luca,ITA,21,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Valjavec Tomaz,SLO,22,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Barbero Alfonso Pablo ,ESP,23,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Lella Donato,ITA,23,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Reis Jürgen,AUT,23,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Fischhuber Kilian,AUT,26,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Charafoutdinov Denis,RUS,27,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Dewilde Paul,FRA,27,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Garbov Kalin,BUL,27,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Repcik Juraj,SVK,27,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Ten Sijthoff Casper,NED,27,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Nytorp Tomi,FIN,32,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Nourmamatov Serguei,RUS,33,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Shalagin Mykhaylo,UKR,33,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Van der Werf Roman,NED,33,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Crespi Flavio,ITA,36,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Dewhurst Adam,GBR,36,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Kryvosheytsev Yevgen,UKR,36,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Repcik Marek,SVK,36,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Decker Martin,GER,40,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Wszolek Marcin,POL,41,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Han Jung-Hee,KOR,42,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Belhaj Said,SWE,43,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Gnerro Alberto,ITA,43,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Schulte Ferdinand,NED,43,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Solansky Petr,CZE,43,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Videnovski Milen,BUL,43,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Zemski Alexei,RUS,43,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Mogaki Keita,JPN,49,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Usobiaga Lakunza Patxi,ESP,49,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Meikl Alexander,AUT,51,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Grom Aljosa,SLO,52,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Gusak Igor,UKR,52,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Bosma Peter,SWE,54,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Jacobs Erik,NED,54,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Sova Matej,SLO,54,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Prytz Jan Fredrick,NOR,57,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Elliott Robert,GBR,58,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Krastev Ivaylo,BUL,58,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Mobråten Martin,NOR,58,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Matsushima Akito,JPN,61,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Felix Martin,SUI,62,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Lautner Jiri,CZE,62,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Idegren Martin,SWE,64,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Chrastina Andrej,SVK,65,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Djambazov Todor,BUL,65,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Norel Andre,NED,67,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Silan Liam,NZL,67,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Lee Dhe-Hee,KOR,69,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Saga Atsushi,JPN,69,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1
+Hideharu Mizuno,JPN,71,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Lead,Men,2001-09-05,/api/v1/events/244/result/1

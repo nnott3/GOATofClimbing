@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Ryepko Olena,UKR,1,,UIAA Worldcup - Beauregard (ITA) 2000,219,2000,Beauregard,Speed,Women,2000-07-21,/api/v1/events/219/result/6
+Zakharova Olga,UKR,2,,UIAA Worldcup - Beauregard (ITA) 2000,219,2000,Beauregard,Speed,Women,2000-07-21,/api/v1/events/219/result/6
+Podgorbounskikh Zosia,RUS,3,,UIAA Worldcup - Beauregard (ITA) 2000,219,2000,Beauregard,Speed,Women,2000-07-21,/api/v1/events/219/result/6
+Piszczek Renata,POL,4,,UIAA Worldcup - Beauregard (ITA) 2000,219,2000,Beauregard,Speed,Women,2000-07-21,/api/v1/events/219/result/6
+Ruyga Tatiana,RUS,5,,UIAA Worldcup - Beauregard (ITA) 2000,219,2000,Beauregard,Speed,Women,2000-07-21,/api/v1/events/219/result/6
+Ropek Edyta,POL,6,,UIAA Worldcup - Beauregard (ITA) 2000,219,2000,Beauregard,Speed,Women,2000-07-21,/api/v1/events/219/result/6
+Perlova Nataliya,UKR,7,,UIAA Worldcup - Beauregard (ITA) 2000,219,2000,Beauregard,Speed,Women,2000-07-21,/api/v1/events/219/result/6
+Novikova Natalia,RUS,8,,UIAA Worldcup - Beauregard (ITA) 2000,219,2000,Beauregard,Speed,Women,2000-07-21,/api/v1/events/219/result/6

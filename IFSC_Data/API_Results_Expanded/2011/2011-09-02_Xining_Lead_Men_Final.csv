@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Schubert Jakob,AUT,1,Top,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Men,Final,2011-09-02,/api/v1/category_rounds/1738/results,/api/v1/events/681/result/1,Top
+Amma Sachi,JPN,2,Top,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Men,Final,2011-09-02,/api/v1/category_rounds/1738/results,/api/v1/events/681/result/1,Top
+Romain Manuel,FRA,3,Top,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Men,Final,2011-09-02,/api/v1/category_rounds/1738/results,/api/v1/events/681/result/1,Top
+Desgranges Romain,FRA,4,Top,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Men,Final,2011-09-02,/api/v1/category_rounds/1738/results,/api/v1/events/681/result/1,Top
+Julian  Puigblanque Ramón ,ESP,5,45-,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Men,Final,2011-09-02,/api/v1/category_rounds/1738/results,/api/v1/events/681/result/1,45-
+Tauporn Thomas,GER,6,42,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Men,Final,2011-09-02,/api/v1/category_rounds/1738/results,/api/v1/events/681/result/1,42
+Matsushima Akito,JPN,7,34-,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Men,Final,2011-09-02,/api/v1/category_rounds/1738/results,/api/v1/events/681/result/1,34-
+Min Hyunbin,KOR,8,13,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Men,Final,2011-09-02,/api/v1/category_rounds/1738/results,/api/v1/events/681/result/1,13

@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Higuchi Masahiro,JPN,1,41+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,41+
+Potocar Luka,SLO,2,41,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,41
+Halenke Sebastian,GER,3,40+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,40+
+YOSHIDA Satone,JPN,4,40+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,40+
+Samoilov Fedir,UKR,5,37+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,37+
+Preskar Milan,SLO,6,34+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,34+
+YURIKUSA Ao,JPN,7,33+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,33+
+Skofic Domen,SLO,8,29+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,29+
+Bergant Martin,SLO,9,29+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,29+
+Stranik Martin,CZE,10,29+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,29+
+Avezou Sam,FRA,11,29+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,29+
+Ghisolfi Stefano,ITA,12,29,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,29
+Posch Mathias,AUT,13,28+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,28+
+Flohé Yannick,GER,14,27+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,27+
+Bailey Sean,USA,15,26+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,26+
+Monchois Nao,FRA,16,26,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,26
+Verhoeven Jorg,NED,17,25+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,25+
+Hanke Christoph,GER,18,25+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,25+
+Ridal William,GBR,19,25,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,25
+Bombardi Marcello,ITA,20,25,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,25
+Placci Giovanni,ITA,21,25,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,25
+Pope James,GBR,22,24,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,24
+MURASHITA Zento,JPN,23,23+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,23+
+Nakagami Taito,JPN,24,23+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,23+
+Gotta Alberto,ITA,25,21+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,21+
+Lehmann Sascha,SUI,26,11+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1,11+

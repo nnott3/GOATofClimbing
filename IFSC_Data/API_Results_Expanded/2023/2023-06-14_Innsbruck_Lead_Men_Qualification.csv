@@ -1,0 +1,112 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+ANRAKU Sorato,JPN,1.0,2.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,41+,TOP
+Duffy Colin,USA,2.0,4.03,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,41+,41+
+Lehmann Sascha,SUI,2.0,4.03,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,41,TOP
+Megos Alexander,GER,2.0,4.03,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,41,TOP
+YOSHIDA Satone,JPN,2.0,4.03,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,41+,41+
+Schubert Jakob,AUT,6.0,5.48,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,39+,TOP
+Roberts Toby,GBR,7.0,6.42,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,41+,38+
+HOMMA Taisei,JPN,8.0,7.65,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,41,40+
+YURIKUSA Ao,JPN,9.0,9.87,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,38+,42+
+Ogata Yoshiyuki,JPN,10.0,13.12,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,41,36
+HIGUCHI Masahiro,JPN,11.0,14.07,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,39+,38+
+LEE Dohyun,KOR,11.0,14.07,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,37,40+
+Potocar Luka,SLO,13.0,15.2,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,39,39
+Schalck Mejdi,FRA,13.0,15.2,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,39,39
+Grupper Jesse,USA,15.0,16.43,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,39+,36+
+NARASAKI Tomoa,JPN,15.0,16.43,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,39+,36+
+NARASAKI Meichi,JPN,17.0,17.87,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,40,34
+Jenft Paul,FRA,18.0,19.27,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,39,36+
+PAN YUFEI,CHN,19.0,20.06,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,28,39+
+Ginés López Alberto,ESP,20.0,22.05,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,21,40+
+SONG Yunchan,KOR,21.0,22.62,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,39,34+
+Bombardi Marcello,ITA,22.0,24.19,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,33+,36+
+Tomatis Giorgio,ITA,22.0,24.19,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,33+,36+
+Preskar Milan,SLO,24.0,26.7,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,17+,39+
+OMATA Shion,JPN,25.0,26.83,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,25,37+
+Scherz Stefan,AUT,26.0,27.46,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,33+,35
+McArthur Hamish,GBR,27.0,27.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,21,39
+Posch Mathias,AUT,28.0,29.43,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,25+,36+
+Puman Hannes,SWE,29.0,30.02,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,29,36
+Countryman Dillon,USA,30.0,30.38,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,33+,34
+Monchois Nao,FRA,30.0,30.38,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,33+,34
+Avezou Sam,FRA,32.0,30.4,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,30,35+
+Utelli Jonas,SUI,33.0,30.43,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,38+,30+
+Marchaland Jules,FRA,34.0,30.67,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,21+,37
+Flohé Yannick,GER,35.0,31.84,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,33+,33+
+Bailey Sean,USA,36.0,32.4,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,39+,17+
+Piccolruaz Michael,ITA,37.0,37.09,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,32,31+
+Baudrand Oscar,CAN,38.0,37.97,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,23,34+
+CHON Jongwon,KOR,39.0,38.33,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,33+,27+
+Lorenzi Simon,BEL,40.0,39.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,33,29
+Kuric Peter,SVK,41.0,40.53,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,32+,28
+Bergant Martin,SLO,42.0,42.4,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,18,34+
+Linacisoro Molina Mikel Asier,ESP,43.0,43.25,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,23+,31+
+Schenk Filip,ITA,44.0,43.78,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,21,34
+Rusev Nikolay,BUL,45.0,45.1,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,27+,27+
+Collin Nicolas,BEL,46.0,45.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,24+,29+
+Van Duysen Hannes,BEL,47.0,46.14,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,21+,31+
+Gundolf Louis,AUT,48.0,46.91,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,17+,34
+Grünenfelder Nino,SUI,49.0,47.84,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,38,2
+Galla Zach,USA,50.0,47.9,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,26+,25+
+Shemla Yuval,ISR,51.0,48.19,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,21,31+
+Stranik Martin,CZE,52.0,48.22,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,17,34
+Baudrand Victor,CAN,53.0,48.86,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,25+,25+
+Khazanov Alex,ISR,54.0,49.58,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,23+,27+
+Kirov Slav,BUL,55.0,49.8,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,17+,32+
+Uznik Nicolai,AUT,56.0,51.26,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,23,27+
+Gruber Raffael,AUT,57.0,54.27,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,17+,30+
+MacDougall Jack,GBR,58.0,56.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,21+,25
+Vogt Dimitri,SUI,59.0,57.12,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,23+,23+
+Bendazzoli Giorgio,ITA,60.0,59.54,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,23+,23
+Nagel Yannick,GER,61.0,60.08,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,30+
+Potucek Simon,CZE,61.0,60.08,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,30+
+Hanke Christoph,GER,63.0,60.83,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,17,27+
+Tusnády  Nimród Sebestyén,HUN,64.0,60.93,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,21+,23+
+Hofherr Johannes,AUT,65.0,61.16,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,18,25
+McColl Sean,CAN,66.0,61.95,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,29+
+Vezonik Gregor,SLO,67.0,63.64,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,21,23+
+Martin Philipp,GER,68.0,63.91,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15,31+
+Serlachius Fredrik,SWE,69.0,67.53,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,26+
+Crep Lovro,SLO,70.0,68.64,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,25+
+Uznik Timo,AUT,71.0,71.09,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,24+
+GOH WEN BIN Luke,SGP,72.0,71.24,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,18,17+
+Parks Dylan,AUS,73.0,72.15,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,24
+Wimmer Julian,AUT,74.0,73.26,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15,27+
+Butterworth Samuel,GBR,75.0,75.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,23+
+Maibam Chingkheinganba,IND,75.0,75.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,23+
+SORIA SANCHEZ Lautaro Nicolás,ARG,75.0,75.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,23+
+Urrutia Joaquin,CHI,75.0,75.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,23+
+Villegas García Thor,MEX,75.0,75.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,23+
+Chan Cheung-chi Shoji,HKG,80.0,76.34,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,17+,16+
+Foroughian Radin,IRI,81.0,76.93,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15+,24+
+Pope James,GBR,82.0,78.7,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,23
+Ayala Benjamin,CHI,83.0,80.67,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15,24
+AU Chi-fung,HKG,84.0,81.55,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,17+
+HUANG JINBIN,CHN,84.0,81.55,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,17+
+Lequerica Buscaglia Diego,PER,84.0,81.55,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,17+
+O'Neill Michael,IRL,84.0,81.55,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,17+
+Panfilov Alexey,KAZ,84.0,81.55,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,17+
+Bakhmet-Smolenskyi Illia,UKR,89.0,84.41,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15,23+
+Martin Nathan,LUX,89.0,84.41,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15,23+
+Rodrigues Bellotto Mateus,BRA,89.0,84.41,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15,23+
+Lopez Valdez Hector,MEX,92.0,86.08,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16+,16
+Curtis Calrin,RSA,93.0,88.25,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15+,17+
+Plevko Tomas,SVK,93.0,88.25,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15+,17+
+Devyaterikov Artyom,KAZ,95.0,93.15,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15+,16
+Cink Jachym,CZE,96.0,93.43,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,16,15
+GREGORINI Bautista,ARG,97.0,93.54,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,14,17+
+Pare Maxim,AUS,98.0,95.74,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15+,14
+Castellanos Luis,VEN,99.0,96.24,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,15,16
+VOLYRAKIS Michail,GRE,100.0,96.47,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,14+,16+
+Snorrason Birgir Óli,ISL,101.0,97.92,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,13+,16+
+Di Nino Gianstefano,VEN,102.0,99.72,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,13+,16
+Schwark Richard,BRA,103.0,101.75,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,13+,15
+Arnarson Guðmundur Freyr,ISL,104.0,102.47,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,10+,15+
+Ivanov Jovan,MKD,105.0,105.0,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,7,12+
+Sambath Pheaktra,CAM,106.0,106.74,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,6,10+
+Sivakov Roman,LTU,107.0,106.96,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,13,
+Vargas Claros Marcelo Ignacio,ESA,108.0,107.0,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,6+,3
+Markov Matej,MKD,109.0,107.24,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,3+,10+
+Merino Ordóñez Daniel Alejandro,HON,110.0,109.0,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,2+,2+
+Marne Hritik,IND,,DNS,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Qualification,2023-06-14,/api/v1/category_rounds/7687/results,/api/v1/events/1297/result/1,DNS,DNS

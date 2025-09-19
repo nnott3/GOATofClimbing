@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Seo Chaehyun,KOR,1,TOP,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Final,2021-09-16,/api/v1/category_rounds/6770/results,/api/v1/events/1185/result/5,TOP
+Grossman Natalia,USA,2,37 (4:22),"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Final,2021-09-16,/api/v1/category_rounds/6770/results,/api/v1/events/1185/result/5,37
+Rogora Laura,ITA,3,37 (5:01),"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Final,2021-09-16,/api/v1/category_rounds/6770/results,/api/v1/events/1185/result/5,37
+Pilz Jessica,AUT,4,36+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Final,2021-09-16,/api/v1/category_rounds/6770/results,/api/v1/events/1185/result/5,36+
+Raboutou Brooke,USA,5,35+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Final,2021-09-16,/api/v1/category_rounds/6770/results,/api/v1/events/1185/result/5,35+
+Tanii Natsuki,JPN,6,32+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Final,2021-09-16,/api/v1/category_rounds/6770/results,/api/v1/events/1185/result/5,32+
+Fakhritdinova Dinara,CFR,7,32+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Final,2021-09-16,/api/v1/category_rounds/6770/results,/api/v1/events/1185/result/5,32+
+Romain Salomé,FRA,8,25+,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Final,2021-09-16,/api/v1/category_rounds/6770/results,/api/v1/events/1185/result/5,25+

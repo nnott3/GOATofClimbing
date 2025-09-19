@@ -1,0 +1,20 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Tsyganova Anna,RUS,1,8.400,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Kaplina Iuliia,RUS,2,8.470,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Jaubert Anouck,FRA,3,8.520,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Buczek Klaudia,POL,4,8.770,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Ropek Edyta,POL,5,8.920,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Sarisson Aurelia,FRA,6,8.990,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Lach Nina,AUT,7,9.280,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Brozek Anna,POL,8,9.320,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Ita Triana Purnamasari,INA,9,9.560,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Marenych Alla,UKR,10,9.610,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Rudzinska Aleksandra,POL,11,9.620,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Pichler Stefanie,AUT,12,9.940,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Elmer Alexandra,AUT,13,10.020,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Dhorifatus Syafiiyah,INA,14,10.360,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+He CuiLian,CHN,15,10.510,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+TIAN PeiYang,CHN,16,11.320,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+RENQING LaMu,CHN,17,13.620,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+Oba Miwa,JPN,18,fall,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6
+PUBU ZhuoMa,CHN,18,False start,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Women,Qualification,2016-04-30,/api/v1/category_rounds/3817/results,/api/v1/events/939/result/6

@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Verhoeven Anak,BEL,1,Top,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Women,Final,2016-08-26,/api/v1/category_rounds/3886/results,/api/v1/events/949/result/5,Top
+Kim Jain,KOR,2,49+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Women,Final,2016-08-26,/api/v1/category_rounds/3886/results,/api/v1/events/949/result/5,49+
+Garnbret Janja,SLO,3,29+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Women,Final,2016-08-26,/api/v1/category_rounds/3886/results,/api/v1/events/949/result/5,29+
+Becerra Mathilde,FRA,4,29,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Women,Final,2016-08-26,/api/v1/category_rounds/3886/results,/api/v1/events/949/result/5,29
+Markovic Mina,SLO,5,27+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Women,Final,2016-08-26,/api/v1/category_rounds/3886/results,/api/v1/events/949/result/5,27+
+Koller Anne-Sophie,SUI,6,26+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Women,Final,2016-08-26,/api/v1/category_rounds/3886/results,/api/v1/events/949/result/5,26+
+Kobayashi Yuka,JPN,7,25,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Women,Final,2016-08-26,/api/v1/category_rounds/3886/results,/api/v1/events/949/result/5,25
+Chanourdie Julia,FRA,8,15+,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",949,2016,Arco,Lead,Women,Final,2016-08-26,/api/v1/category_rounds/3886/results,/api/v1/events/949/result/5,15+

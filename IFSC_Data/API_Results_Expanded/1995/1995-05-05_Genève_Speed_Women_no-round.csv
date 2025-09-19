@@ -1,0 +1,12 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Richer Natalie,FRA,1,,UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6
+Avezou Cecile,FRA,2,,UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6
+Piszczek Renata,POL,3,,UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6
+Ruyga Tatiana,RUS,4,,UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6
+Arran Anne,GBR,5,,UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6
+Butler Felicity,GBR,5,,UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6
+Lukancic Metka,SLO,5,,UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6
+Zaytseva Irina,RUS,5,,UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6
+Cufar Martina,SLO,9,,UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6
+Cioroianu Elena,ROU,10,,UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6
+Perlova Nataliya,UKR,11,,UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6

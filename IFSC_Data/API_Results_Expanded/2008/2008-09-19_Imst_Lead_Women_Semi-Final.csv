@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ernst Johanna,AUT,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,Top
+Vidmar Maja,SLO,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,Top
+Ciavaldini Caroline,FRA,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,Top
+Sarkany Muriel,BEL,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,Top
+Noguchi Akiyo,JPN,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,Top
+Malamid Evgeniia,RUS,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,Top
+Shalagina Olga,UKR,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,Top
+Markovic Mina,SLO,8,45-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,45-
+Eyer Alexandra,SUI,9,41,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,41
+Chereshneva Yana,RUS,10,41-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,41-
+Saurwein Katharina,AUT,10,41-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,41-
+Anda Villanueva Irati,ESP,12,40+,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,40+
+Gros Natalija,SLO,13,40,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,40
+schöpf Bettina,AUT,14,40-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,40-
+Durif Charlotte,FRA,15,40-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,40-
+Bacher Barbara,AUT,16,39-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,39-
+Fakhritdinova Dinara,RUS,17,38-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,38-
+Lavarda Jenny,ITA,18,37+,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,37+
+Ociepka Kinga,POL,19,35-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,35-
+Wurm Juliane,GER,20,35-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,35-
+Thévenet Marine,FRA,21,35-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,35-
+Pinet Florence,FRA,22,35-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,35-
+Schranz Barbara,AUT,23,34,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,34
+Kim Jain,KOR,24,32-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,32-
+Schranz Christine,AUT,25,21-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,21-
+Gosar Asja,SLO,26,20+,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Women,Semi-Final,2008-09-19,/api/v1/category_rounds/908/results,/api/v1/events/523/result/5,20+

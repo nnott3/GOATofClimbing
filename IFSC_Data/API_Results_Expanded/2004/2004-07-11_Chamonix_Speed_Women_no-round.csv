@@ -1,0 +1,16 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Ruyga Tatiana,RUS,1,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Stenkovaya Anna,RUS,2,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Yurina Valentina,RUS,3,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Zakharova Olga,UKR,4,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Piratinskaya Mayya,RUS,5,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Saulevich Olesya,RUS,6,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Karesova Eliska,CZE,7,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Ropek Edyta,POL,8,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Hendrawati Agung Ethi,INA,9,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Ostapenko Olena,UKR,10,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Liu Gui-Ying,CHN,11,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Herzog Nina,AUT,12,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Huang Li-Ping,CHN,13,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Couchot Mathilde,FRA,14,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+Nilsson Kristina,SWE,14,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6

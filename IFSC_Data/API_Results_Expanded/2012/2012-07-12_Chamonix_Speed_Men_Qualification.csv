@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Kokorin Stanislav,RUS,1,6.563,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Boldyrev Danyil,UKR,2,6.601,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Novikov Ivan,RUS,3,6.604,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Abdrakhmanov Sergey,RUS,4,6.609,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Gontaryk Yaroslav,UKR,5,6.687,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Astashkin Evgeny,RUS,6,6.707,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Swirk Lukasz,POL,7,6.719,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Vaitsekhovskii Evgenii,RUS,8,6.758,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Sinitcyn Sergei,RUS,9,6.858,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Shevchenko Arsenii,RUS,10,6.891,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Yurko Oleksiy,UKR,11,6.911,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Komosinski Jedrzej,POL,12,7.028,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Hroza Libor,CZE,13,7.044,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Mawem Bassa,FRA,14,7.072,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Dzienski Marcin,POL,15,7.079,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+LE COUSTER Yoann,FRA,16,7.222,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Halasa Rafal,POL,17,7.256,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Escobar Manuel,VEN,18,7.262,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Gontero Leonardo,ITA,19,7.481,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Moro Guillaume,FRA,20,7.620,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Timofeev Dmitrii,RUS,21,7.731,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Kriz Jan,CZE,22,7.760,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Sikora Paweł,POL,23,8.222,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Vedenchuk Viacheslav,RUS,24,8.485,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+Guevara Tomas,VEN,25,8.829,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+McColl Sean,CAN,26,11.490,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2

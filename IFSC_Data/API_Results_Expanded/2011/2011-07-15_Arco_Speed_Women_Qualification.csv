@@ -1,0 +1,56 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Krasavina Mariia,RUS,1,10.190,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Tsyganova Anna,RUS,2,10.240,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Alekseeva Kseniia,RUS,3,10.300,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Heitz Margot,FRA,3,10.300,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+He CuiLian,CHN,5,10.370,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Titova Natalia,RUS,6,10.470,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Morandi Sara,ITA,7,10.500,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Ropek Edyta,POL,8,10.670,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Jaubert Anouck,FRA,9,10.700,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Levochkina  Yuliya,RUS,10,10.870,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Neliwati Evi,INA,11,10.930,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Blanco Lucelia,VEN,12,11.020,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Savisko Anastasiya,UKR,13,11.240,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Kuznetsova Tamara,KAZ,14,11.280,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Prokopiuk Monika,POL,15,11.500,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+BUD Gusaim Oleksandra,UKR,16,11.580,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Buczek Klaudia,POL,17,11.710,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+PAN Xuhua,CHN,18,12.020,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Ryepko Olena,UKR,19,12.200,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Klingler Petra,SUI,20,12.280,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Yurina Valentina,RUS,21,12.370,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Pichler Stefanie,AUT,22,12.620,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Haag Isabell,GER,23,12.820,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Wellyanti Santi,INA,24,12.970,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Riddle Dana,USA,25,13.390,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Bryakina Anastassiya,KAZ,26,13.590,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Kolokovska Anna,UKR,27,13.720,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Wilda Baco Achmad,INA,28,14.030,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Soboleva Yevgeniya,KAZ,29,14.060,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Esmaeilzadeh Farnaz,IRI,30,14.190,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Esmailzadeh Farnaz,IRI,30,14.190,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+RENQING LaMu,CHN,31,14.710,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Facci Michela,ITA,32,14.820,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Korcova Simona,SVK,33,15.600,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Rojas Andrea,ECU,34,15.690,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Irsaliyeva Dinara,KAZ,35,15.870,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Stotz Rebekka,SUI,36,16.530,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Johnson Alex,USA,37,16.940,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Miller Delaney,USA,38,17.260,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Rosero Carolina,ECU,39,17.740,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Sethna Elise,CAN,40,18.250,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Stöhr Anna,AUT,41,18.400,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Imrei  Kata,HUN,42,18.490,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Georgieva Maria,BUL,43,19.190,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Lavarda Jenny,ITA,44,19.450,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Metcalf Amelia,USA,45,20.190,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Bacher Barbara,AUT,46,22.660,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Gros Natalija,SLO,47,22.890,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Hafsaas Tina Johnsen,NOR,48,24.140,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Markovic Mina,SLO,49,24.510,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Dufraisse Alizée,FRA,50,24.850,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Eyer Alexandra,SUI,51,27.610,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+DiGiulian Sasha,USA,52,43.870,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Korcova Lucia,SVK,53,fall,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+Kurdiani Mariam,GEO,53,fall,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6

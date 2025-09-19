@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Mascarenas Megan,USA,1,3t4 4b5,IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Women,Final,2015-06-05,/api/v1/category_rounds/3422/results,/api/v1/events/899/result/7,1,1,1,1,2,1,X,2
+Noguchi Akiyo,JPN,2,2t4 3b6,IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Women,Final,2015-06-05,/api/v1/category_rounds/3422/results,/api/v1/events/899/result/7,X,2,3,3,1,1,X,X
+Coxsey Shauna,GBR,3,2t4 3b7,IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Women,Final,2015-06-05,/api/v1/category_rounds/3422/results,/api/v1/events/899/result/7,X,X,3,3,1,1,X,3
+Nonaka Miho,JPN,4,1t1 2b2,IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Women,Final,2015-06-05,/api/v1/category_rounds/3422/results,/api/v1/events/899/result/7,1,1,X,X,X,1,X,X
+Stöhr Anna,AUT,5,1t2 2b5,IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Women,Final,2015-06-05,/api/v1/category_rounds/3422/results,/api/v1/events/899/result/7,X,3,2,2,X,X,X,X
+Hayes Margo,USA,6,1t4 2b5,IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Women,Final,2015-06-05,/api/v1/category_rounds/3422/results,/api/v1/events/899/result/7,X,X,4,4,X,1,X,X

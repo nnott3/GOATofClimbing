@@ -1,0 +1,112 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Men,Qualification,2025-04-18,/api/v1/category_rounds/9381/results,/api/v1/events/1405/result/3
+IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Men,Semi-final,2025-04-18,/api/v1/category_rounds/9953/results,/api/v1/events/1405/result/3
+IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Men,Final,2025-04-18,/api/v1/category_rounds/9955/results,/api/v1/events/1405/result/3
+IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Qualification,2025-04-18,/api/v1/category_rounds/9382/results,/api/v1/events/1405/result/7
+IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7
+IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Final,2025-04-18,/api/v1/category_rounds/9956/results,/api/v1/events/1405/result/7
+IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Men,Qualification,2025-04-25,/api/v1/category_rounds/9383/results,/api/v1/events/1406/result/1
+IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Men,Semi-final,2025-04-25,/api/v1/category_rounds/9957/results,/api/v1/events/1406/result/1
+IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Men,Final,2025-04-25,/api/v1/category_rounds/9959/results,/api/v1/events/1406/result/1
+IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5
+IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Semi-final,2025-04-25,/api/v1/category_rounds/9958/results,/api/v1/events/1406/result/5
+IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Final,2025-04-25,/api/v1/category_rounds/9960/results,/api/v1/events/1406/result/5
+IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Speed,Men,Qualification,2025-04-25,/api/v1/category_rounds/9385/results,/api/v1/events/1406/result/2
+IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Speed,Men,Final,2025-04-25,/api/v1/category_rounds/9961/results,/api/v1/events/1406/result/2
+IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Speed,Women,Qualification,2025-04-25,/api/v1/category_rounds/9386/results,/api/v1/events/1406/result/6
+IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Speed,Women,Final,2025-04-25,/api/v1/category_rounds/9962/results,/api/v1/events/1406/result/6
+IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1
+IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1
+IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Final,2025-05-02,/api/v1/category_rounds/9983/results,/api/v1/events/1407/result/1
+IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Qualification,2025-05-02,/api/v1/category_rounds/9388/results,/api/v1/events/1407/result/5
+IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5
+IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Final,2025-05-02,/api/v1/category_rounds/9984/results,/api/v1/events/1407/result/5
+IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2
+IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Final,2025-05-02,/api/v1/category_rounds/9985/results,/api/v1/events/1407/result/2
+IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Women,Qualification,2025-05-02,/api/v1/category_rounds/9390/results,/api/v1/events/1407/result/6
+IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Women,Final,2025-05-02,/api/v1/category_rounds/9986/results,/api/v1/events/1407/result/6
+IFSC World Cup Curitiba 2025,1408,2025,"Curitiba, BRA",Boulder,Men,Qualification,2025-05-16,/api/v1/category_rounds/9391/results,/api/v1/events/1408/result/3
+IFSC World Cup Curitiba 2025,1408,2025,"Curitiba, BRA",Boulder,Men,Semi-final,2025-05-16,/api/v1/category_rounds/9987/results,/api/v1/events/1408/result/3
+IFSC World Cup Curitiba 2025,1408,2025,"Curitiba, BRA",Boulder,Men,Final,2025-05-16,/api/v1/category_rounds/9989/results,/api/v1/events/1408/result/3
+IFSC World Cup Curitiba 2025,1408,2025,"Curitiba, BRA",Boulder,Women,Qualification,2025-05-16,/api/v1/category_rounds/9392/results,/api/v1/events/1408/result/7
+IFSC World Cup Curitiba 2025,1408,2025,"Curitiba, BRA",Boulder,Women,Semi-final,2025-05-16,/api/v1/category_rounds/9988/results,/api/v1/events/1408/result/7
+IFSC World Cup Curitiba 2025,1408,2025,"Curitiba, BRA",Boulder,Women,Final,2025-05-16,/api/v1/category_rounds/9990/results,/api/v1/events/1408/result/7
+IFSC World Cup Salt Lake City 2025,1409,2025,"Salt Lake City, USA",Boulder,Men,Qualification,2025-05-23,/api/v1/category_rounds/9393/results,/api/v1/events/1409/result/3
+IFSC World Cup Salt Lake City 2025,1409,2025,"Salt Lake City, USA",Boulder,Men,Semi-final,2025-05-23,/api/v1/category_rounds/10031/results,/api/v1/events/1409/result/3
+IFSC World Cup Salt Lake City 2025,1409,2025,"Salt Lake City, USA",Boulder,Men,Final,2025-05-23,/api/v1/category_rounds/10033/results,/api/v1/events/1409/result/3
+IFSC World Cup Salt Lake City 2025,1409,2025,"Salt Lake City, USA",Boulder,Women,Qualification,2025-05-23,/api/v1/category_rounds/9394/results,/api/v1/events/1409/result/7
+IFSC World Cup Salt Lake City 2025,1409,2025,"Salt Lake City, USA",Boulder,Women,Semi-final,2025-05-23,/api/v1/category_rounds/10032/results,/api/v1/events/1409/result/7
+IFSC World Cup Salt Lake City 2025,1409,2025,"Salt Lake City, USA",Boulder,Women,Final,2025-05-23,/api/v1/category_rounds/10034/results,/api/v1/events/1409/result/7
+IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2
+IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Final,2025-05-31,/api/v1/category_rounds/10041/results,/api/v1/events/1455/result/2
+IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6
+IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Final,2025-05-31,/api/v1/category_rounds/10042/results,/api/v1/events/1455/result/6
+IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Qualification,2025-06-06,/api/v1/category_rounds/9395/results,/api/v1/events/1410/result/3
+IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3
+IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Final,2025-06-06,/api/v1/category_rounds/10039/results,/api/v1/events/1410/result/3
+IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Qualification,2025-06-06,/api/v1/category_rounds/9396/results,/api/v1/events/1410/result/7
+IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7
+IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Qualification,2025-06-13,/api/v1/category_rounds/9397/results,/api/v1/events/1411/result/3
+IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3
+IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Final,2025-06-13,/api/v1/category_rounds/10045/results,/api/v1/events/1411/result/3
+IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Qualification,2025-06-13,/api/v1/category_rounds/9398/results,/api/v1/events/1411/result/7
+IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7
+IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Final,2025-06-13,/api/v1/category_rounds/10046/results,/api/v1/events/1411/result/7
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Qualification,2025-06-25,/api/v1/category_rounds/9399/results,/api/v1/events/1412/result/3
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Final,2025-06-25,/api/v1/category_rounds/10121/results,/api/v1/events/1412/result/3
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Women,Qualification,2025-06-25,/api/v1/category_rounds/9400/results,/api/v1/events/1412/result/7
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Women,Semi-final,2025-06-25,/api/v1/category_rounds/10120/results,/api/v1/events/1412/result/7
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Women,Final,2025-06-25,/api/v1/category_rounds/10122/results,/api/v1/events/1412/result/7
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Lead,Men,Qualification,2025-06-25,/api/v1/category_rounds/9401/results,/api/v1/events/1412/result/1
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Lead,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10095/results,/api/v1/events/1412/result/1
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Lead,Men,Final,2025-06-25,/api/v1/category_rounds/10097/results,/api/v1/events/1412/result/1
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Lead,Women,Qualification,2025-06-25,/api/v1/category_rounds/9402/results,/api/v1/events/1412/result/5
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Lead,Women,Semi-final,2025-06-25,/api/v1/category_rounds/10096/results,/api/v1/events/1412/result/5
+IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Lead,Women,Final,2025-06-25,/api/v1/category_rounds/10098/results,/api/v1/events/1412/result/5
+IFSC World Cup Krakow 2025,1413,2025,"Krakow, POL",Speed,Men,Qualification,2025-07-05,/api/v1/category_rounds/9403/results,/api/v1/events/1413/result/2
+IFSC World Cup Krakow 2025,1413,2025,"Krakow, POL",Speed,Men,Final,2025-07-05,/api/v1/category_rounds/10093/results,/api/v1/events/1413/result/2
+IFSC World Cup Krakow 2025,1413,2025,"Krakow, POL",Speed,Women,Qualification,2025-07-05,/api/v1/category_rounds/9404/results,/api/v1/events/1413/result/6
+IFSC World Cup Krakow 2025,1413,2025,"Krakow, POL",Speed,Women,Final,2025-07-05,/api/v1/category_rounds/10094/results,/api/v1/events/1413/result/6
+IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1
+IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1
+IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Final,2025-07-11,/api/v1/category_rounds/10135/results,/api/v1/events/1414/result/1
+IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5
+IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Semi-final,2025-07-11,/api/v1/category_rounds/10134/results,/api/v1/events/1414/result/5
+IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Final,2025-07-11,/api/v1/category_rounds/10136/results,/api/v1/events/1414/result/5
+IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Speed,Men,Qualification,2025-07-11,/api/v1/category_rounds/9407/results,/api/v1/events/1414/result/2
+IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Speed,Men,Final,2025-07-11,/api/v1/category_rounds/10137/results,/api/v1/events/1414/result/2
+IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Speed,Women,Qualification,2025-07-11,/api/v1/category_rounds/9408/results,/api/v1/events/1414/result/6
+IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Speed,Women,Final,2025-07-11,/api/v1/category_rounds/10138/results,/api/v1/events/1414/result/6
+IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Men,Qualification,2025-07-18,/api/v1/category_rounds/9740/results,/api/v1/events/1454/result/1
+IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Men,Semi-final,2025-07-18,/api/v1/category_rounds/10165/results,/api/v1/events/1454/result/1
+IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Men,Final,2025-07-18,/api/v1/category_rounds/10167/results,/api/v1/events/1454/result/1
+IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Qualification,2025-07-18,/api/v1/category_rounds/9741/results,/api/v1/events/1454/result/5
+IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5
+IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Final,2025-07-18,/api/v1/category_rounds/10168/results,/api/v1/events/1454/result/5
+IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Men,Qualification,2025-09-05,/api/v1/category_rounds/9411/results,/api/v1/events/1416/result/1
+IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Men,Semi-final,2025-09-05,/api/v1/category_rounds/10250/results,/api/v1/events/1416/result/1
+IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Men,Final,2025-09-05,/api/v1/category_rounds/10252/results,/api/v1/events/1416/result/1
+IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Women,Qualification,2025-09-05,/api/v1/category_rounds/9412/results,/api/v1/events/1416/result/5
+IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Women,Semi-final,2025-09-05,/api/v1/category_rounds/10251/results,/api/v1/events/1416/result/5
+IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Women,Final,2025-09-05,/api/v1/category_rounds/10253/results,/api/v1/events/1416/result/5
+IFSC World Cup Guiyang 2025,1467,2025,"Guiyang, CHN",Speed,Men,Qualification,2025-09-12,/api/v1/category_rounds/10035/results,/api/v1/events/1467/result/2
+IFSC World Cup Guiyang 2025,1467,2025,"Guiyang, CHN",Speed,Men,Final,2025-09-12,/api/v1/category_rounds/10237/results,/api/v1/events/1467/result/2
+IFSC World Cup Guiyang 2025,1467,2025,"Guiyang, CHN",Speed,Women,Qualification,2025-09-12,/api/v1/category_rounds/10036/results,/api/v1/events/1467/result/6
+IFSC World Cup Guiyang 2025,1467,2025,"Guiyang, CHN",Speed,Women,Final,2025-09-12,/api/v1/category_rounds/10238/results,/api/v1/events/1467/result/6
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Lead,Men,Qualification,2025-09-21,/api/v1/category_rounds/9413/results,/api/v1/events/1417/result/1
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Lead,Men,Semi-final,2025-09-21,/api/v1/category_rounds/10285/results,/api/v1/events/1417/result/1
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Lead,Men,Final,2025-09-21,/api/v1/category_rounds/10287/results,/api/v1/events/1417/result/1
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Lead,Women,Qualification,2025-09-21,/api/v1/category_rounds/9414/results,/api/v1/events/1417/result/5
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Lead,Women,Semi-final,2025-09-21,/api/v1/category_rounds/10286/results,/api/v1/events/1417/result/5
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Lead,Women,Final,2025-09-21,/api/v1/category_rounds/10288/results,/api/v1/events/1417/result/5
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Speed,Men,Qualification,2025-09-21,/api/v1/category_rounds/9415/results,/api/v1/events/1417/result/2
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Speed,Men,Final,2025-09-21,/api/v1/category_rounds/10289/results,/api/v1/events/1417/result/2
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Speed,Women,Qualification,2025-09-21,/api/v1/category_rounds/9416/results,/api/v1/events/1417/result/6
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Speed,Women,Final,2025-09-21,/api/v1/category_rounds/10290/results,/api/v1/events/1417/result/6
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Boulder,Men,Qualification,2025-09-21,/api/v1/category_rounds/9417/results,/api/v1/events/1417/result/3
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Boulder,Men,Semi-final,2025-09-21,/api/v1/category_rounds/10291/results,/api/v1/events/1417/result/3
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Boulder,Men,Final,2025-09-21,/api/v1/category_rounds/10293/results,/api/v1/events/1417/result/3
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Boulder,Women,Qualification,2025-09-21,/api/v1/category_rounds/9418/results,/api/v1/events/1417/result/7
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Boulder,Women,Semi-final,2025-09-21,/api/v1/category_rounds/10292/results,/api/v1/events/1417/result/7
+IFSC World Championships Seoul 2025,1417,2025,"Seoul, KOR",Boulder,Women,Final,2025-09-21,/api/v1/category_rounds/10294/results,/api/v1/events/1417/result/7

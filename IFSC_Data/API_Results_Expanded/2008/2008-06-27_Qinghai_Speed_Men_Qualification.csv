@@ -1,0 +1,12 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Zhong QiXin,CHN,1,8.110,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Speed,Men,Qualification,2008-06-27,/api/v1/category_rounds/879/results,/api/v1/events/518/result/2
+Li Guangpu,CHN,2,8.520,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Speed,Men,Qualification,2008-06-27,/api/v1/category_rounds/879/results,/api/v1/events/518/result/2
+Chen Xiaojie,CHN,3,9.090,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Speed,Men,Qualification,2008-06-27,/api/v1/category_rounds/879/results,/api/v1/events/518/result/2
+ZHANG Ning,CHN,4,9.300,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Speed,Men,Qualification,2008-06-27,/api/v1/category_rounds/879/results,/api/v1/events/518/result/2
+Vaitsekhovskii Evgenii,RUS,5,9.690,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Speed,Men,Qualification,2008-06-27,/api/v1/category_rounds/879/results,/api/v1/events/518/result/2
+Perov Aleksey,KAZ,6,10.790,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Speed,Men,Qualification,2008-06-27,/api/v1/category_rounds/879/results,/api/v1/events/518/result/2
+Sinitcyn Sergei,RUS,6,10.790,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Speed,Men,Qualification,2008-06-27,/api/v1/category_rounds/879/results,/api/v1/events/518/result/2
+PAN JinYu,CHN,8,10.980,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Speed,Men,Qualification,2008-06-27,/api/v1/category_rounds/879/results,/api/v1/events/518/result/2
+Styenkovyy Maksym,UKR,9,11.540,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Speed,Men,Qualification,2008-06-27,/api/v1/category_rounds/879/results,/api/v1/events/518/result/2
+Osipov Maksym,UKR,10,12.440,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Speed,Men,Qualification,2008-06-27,/api/v1/category_rounds/879/results,/api/v1/events/518/result/2
+Molchanov Alexey,KAZ,11,13.100,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Speed,Men,Qualification,2008-06-27,/api/v1/category_rounds/879/results,/api/v1/events/518/result/2

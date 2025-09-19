@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,Top
+Pilz Jessica,AUT,2,55+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,55+
+Verhoeven Anak,BEL,2,55+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,55+
+Markovic Mina,SLO,4,55+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,55+
+Janicot Hélène,FRA,5,48+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,48+
+Schranz Christine,AUT,6,48+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,48+
+Kalan Tjasa,SLO,7,47+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,47+
+Kobayashi Yuka,JPN,8,45+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,45+
+Rosen Kajsa,SWE,9,45+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,45+
+Chanourdie Julia,FRA,10,45+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,45+
+Miller Delaney,USA,11,45,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,45
+Kim Jain,KOR,12,44+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,44+
+Ota Risa,JPN,13,44+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,44+
+Posch Katharina,AUT,14,44+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,44+
+Romain Salomé,FRA,15,44+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,44+
+Becerra Mathilde,FRA,16,44+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,44+
+Ghisolfi Claudia,ITA,17,44+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,44+
+Kazbekova Ievgeniia,UKR,18,44+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,44+
+Schubert Hannah,AUT,19,39+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,39+
+Fakhritdinova Dinara,RUS,20,34,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,34
+Lavarda Jenny,ITA,21,28+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,28+
+Stotz Rebekka,SUI,22,28+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,28+
+van Bergen Nikki,NED,23,27+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,27+
+Röck Magdalena,AUT,24,27+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,27+
+Gollo Asja,ITA,25,27+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,27+
+Choong Katherine,SUI,26,27+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5,27+

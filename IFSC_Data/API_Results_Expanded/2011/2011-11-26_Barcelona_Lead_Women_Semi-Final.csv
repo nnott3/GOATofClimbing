@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Eiter Angela,AUT,1,Top,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,Top
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,Top
+Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,Top
+Ernst Johanna,AUT,1,Top,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,Top
+Schranz Christine,AUT,5,46+,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,46+
+Posch Katharina,AUT,6,45+,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,45+
+Vidmar Maja,SLO,7,45-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,45-
+Brumagne Mathilde,BEL,7,45-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,45-
+Han Seuran,KOR,9,42-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,42-
+Dufraisse Alizée,FRA,10,41-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,41-
+Ciavaldini Caroline,FRA,11,41-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,41-
+Bacher Barbara,AUT,12,39-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,39-
+Becerra Mathilde,FRA,12,39-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,39-
+Chereshneva Yana,RUS,12,39-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,39-
+Durif Charlotte,FRA,12,39-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,39-
+Janicot Hélène,FRA,12,39-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,39-
+Sa Sol,KOR,17,37-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,37-
+Shalagina Olga,UKR,18,36-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,36-
+Gosar Asja,SLO,19,35,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,35
+Onoe Aya,JPN,20,33-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,33-
+Stütz Christina,AUT,21,32+,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,32+
+Ostapenko Olena,UKR,22,29+,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,29+
+Lopez Daniela,VEN,23,27+,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,27+
+Medvedieva Olga,UKR,24,18-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,18-
+JIANG Rong,CHN,25,15-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,15-
+Lavarda Jenny,ITA,26,14+,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5,14+

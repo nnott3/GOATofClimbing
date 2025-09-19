@@ -1,0 +1,41 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Auclair François,FRA,1,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Mrázek Tomás,CZE,2,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Mogaki Keita,JPN,3,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Preußler Timo,GER,4,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Usobiaga Lakunza Patxi,ESP,5,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Vinokur Vadim,USA,6,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Bindhammer Andreas,GER,7,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Son Sangwon,KOR,8,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Julian  Puigblanque Ramón ,ESP,9,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Pouvreau Gérome,FRA,9,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Chabot Alexandre,FRA,11,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Millet Sylvain,FRA,11,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Ten Sijthoff Casper,NED,13,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Ovchinnikov Evgeny,RUS,14,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Cao Rongwu,CHN,15,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Tan Sze Ping,SGP,16,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Marin Garcia Eduard,ESP,17,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Bindhammer Christian,GER,18,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Crespi Flavio,ITA,19,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Liu Changzhong,CHN,20,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Salada Arman,PHI,21,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Lai Chi-Wai,HKG,22,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Pahati Jaime Amiel,PHI,22,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Cho Kyu-Bog,KOR,24,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Zhao Kai,CHN,25,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Lok Chi-Wai,HKG,26,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Kartiko Bondan,INA,27,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Hazlee Mohd,SGP,28,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Chu Ka-Wai,HKG,29,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Chen Chih-Yung,TPE,30,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Huang Kuo-Wei,TPE,30,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Sandoval Simon H.,PHI,30,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Xin Ri-Long,CHN,30,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Wu Yen-Yi,TPE,34,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Liu Xi-Nan,CHN,35,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Tsang Kai Shun,HKG,35,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Batsukh Batkhuu,MGL,37,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Ye Xiangyang,CHN,37,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Och Tumur,MGL,39,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1
+Jangar G.,MGL,40,,UIAA Worldcup - Shenzen (CHN) 2003,324,2003,Shenzen,Lead,Men,2003-11-21,/api/v1/events/324/result/1

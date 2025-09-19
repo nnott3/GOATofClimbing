@@ -1,0 +1,47 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Julian  Puigblanque Ramón ,ESP,1,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Chabot Alexandre,FRA,2,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Auclair François,FRA,3,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Fuselier Michaël,FRA,4,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Kryvosheytsev Yevgen,UKR,5,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Usobiaga Lakunza Patxi,ESP,6,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Douloub Iouri,RUS,7,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Pouvreau Gérome,FRA,8,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Caude David,FRA,9,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Marin Garcia Eduard,ESP,9,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Ovchinnikov Evgeny,RUS,11,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Crespi Flavio,ITA,12,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Millet Sylvain,FRA,12,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Preußler Timo,GER,12,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Fischhuber Kilian,AUT,15,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Lagni Bernardino,ITA,16,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+McColl Sean,CAN,16,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Bindhammer Andreas,GER,18,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Bindhammer Christian,GER,19,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Fichtinger Reinhard,AUT,19,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Bosma Peter,SWE,21,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Gnerro Alberto,ITA,21,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Hoppe Markus,GER,23,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Valjavec Tomaz,SLO,23,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Mrázek Tomás,CZE,25,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Becan Klemen,SLO,26,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Sova Matej,SLO,26,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Vinokur Vadim,USA,28,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Zardini Luca,ITA,28,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Caleyron Thomas,FRA,30,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Reis Jürgen,AUT,30,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Colonetti Roberto,ITA,32,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Jaggi Martin,SUI,32,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Sordo Christian,ITA,32,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Achermann Thomas,SUI,35,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Borowka Andre,GER,35,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Doyle Mike,CAN,37,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Gusak Igor,UKR,37,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Desgranges Romain,FRA,39,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Gartmann Tobias,GER,39,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Rant Blaz,SLO,41,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Ten Sijthoff Casper,NED,41,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Roth Cody,USA,43,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Talon Oliver,FRA,43,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+Ding Xianghua,CHN,45,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1
+ZHAO Lei,CHN,45,,UIAA Worldcup - Aprica (ITA) 2003,320,2003,Aprica,Lead,Men,2003-10-02,/api/v1/events/320/result/1

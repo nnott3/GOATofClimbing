@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Skofic Domen,SLO,1,Top,IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Men,Final,2015-09-26,/api/v1/category_rounds/3485/results,/api/v1/events/907/result/1,Top
+Schubert Jakob,AUT,2,50+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Men,Final,2015-09-26,/api/v1/category_rounds/3485/results,/api/v1/events/907/result/1,50+
+Julian  Puigblanque Ramón ,ESP,3,49+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Men,Final,2015-09-26,/api/v1/category_rounds/3485/results,/api/v1/events/907/result/1,49+
+Supper Gautier,FRA,4,48+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Men,Final,2015-09-26,/api/v1/category_rounds/3485/results,/api/v1/events/907/result/1,48+
+Ghisolfi Stefano,ITA,5,42,IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Men,Final,2015-09-26,/api/v1/category_rounds/3485/results,/api/v1/events/907/result/1,42
+Desgranges Romain,FRA,6,41,IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Men,Final,2015-09-26,/api/v1/category_rounds/3485/results,/api/v1/events/907/result/1,41
+Higuchi Masahiro,JPN,7,37+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Men,Final,2015-09-26,/api/v1/category_rounds/3485/results,/api/v1/events/907/result/1,37+
+Rudigier Max,AUT,8,29+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Men,Final,2015-09-26,/api/v1/category_rounds/3485/results,/api/v1/events/907/result/1,29+

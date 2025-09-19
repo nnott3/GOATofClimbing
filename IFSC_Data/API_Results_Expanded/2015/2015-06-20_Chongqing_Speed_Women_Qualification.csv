@@ -1,0 +1,17 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Kaplina Iuliia,RUS,1,7.560,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Krasavina Mariia,RUS,2,8.010,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Jaubert Anouck,FRA,3,8.270,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Ropek Edyta,POL,4,8.690,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Marenych Alla,UKR,5,8.760,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Rudzinska Aleksandra,POL,6,8.830,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Kuznetsova Tamara,KAZ,7,8.930,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Chudziak Patrycja,POL,8,8.980,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Lach Nina,AUT,9,9.160,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Tsyganova Anna,RUS,10,9.340,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Prokopiuk Monika,POL,11,9.460,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Brozek Anna,POL,12,9.860,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Marlenova Assel,KAZ,13,9.950,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Buczek Klaudia,POL,14,10.280,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+Zhiznevskaya Alexandra,KAZ,15,10.770,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+"Sim Mingxin, Judith",SGP,16,15.000,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6

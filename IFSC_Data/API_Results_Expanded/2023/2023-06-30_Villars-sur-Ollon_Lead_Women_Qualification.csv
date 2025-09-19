@@ -1,0 +1,87 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+Garnbret Janja,SLO,1.0,2.24,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,TOP,TOP
+Pilz Jessica,AUT,2.0,3.32,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,41+,TOP
+Grossman Natalia,USA,3.0,3.54,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,TOP,37+
+Raboutou Brooke,USA,3.0,3.54,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,TOP,37+
+SEO Chaehyun,KOR,5.0,4.24,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,39+,TOP
+Rogora Laura,ITA,6.0,7.66,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,TOP,20+
+KIM Jain,KOR,7.0,8.22,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,39+,34+
+KUME Nonoha,JPN,8.0,8.37,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,36+,37+
+Krampl Mia,SLO,9.0,10.25,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,36+,34+
+Thompson-Smith Molly,GBR,10.0,10.39,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,39+,29+
+TANII Natsuki,JPN,11.0,11.37,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,41+,20+
+Romain Salomé,FRA,12.0,11.83,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,36+,30+
+Pötzi Mattea,AUT,13.0,14.14,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,34+,30+
+Hily Manon,FRA,14.0,14.54,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,39+,20+
+Zhang YUETONG,CHN,14.0,14.54,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,39+,20+
+Lukan Vita,SLO,16.0,15.97,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,30+,30+
+Skusek Lana,SLO,17.0,18.14,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,36+,20+
+van der Meer Lynn,NED,18.0,20.57,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,35+,20+
+Dörffel Lucia,GER,19.0,21.68,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,34+,20+
+NAKAGAWA Ryu,JPN,20.0,22.74,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,33,20+
+Rakovec Lucka,SLO,21.0,24.48,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,30+,20+
+Bertone Oriane,FRA,22.0,25.65,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,30,20+
+Janicot Hélène,FRA,23.0,26.32,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,36+,16+
+Rekabi Elnaz,IRI,24.0,26.77,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,29+,20+
+SA Sol,KOR,24.0,26.77,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,29+,20+
+Sanders Anastasia,USA,24.0,26.77,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,29+,20+
+Condie Kyra,USA,27.0,28.68,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,29,20+
+Kazbekova Ievgeniia,UKR,27.0,28.68,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,29,20+
+LUO ZHILU,CHN,27.0,28.68,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,29,20+
+KOIKE Hana,JPN,30.0,29.01,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,36,16+
+Frangos Rebecca,CAN,31.0,29.37,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,32,17+
+Klingler Petra,SUI,32.0,29.88,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,28+,20+
+ITO Futaba,JPN,33.0,30.27,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,28,20+
+Egli Liv,SUI,34.0,30.92,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,30+,17+
+KAKIZAKI Miu,JPN,34.0,30.92,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,30+,17+
+Wienand Roxana,GER,36.0,31.23,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,27,20+
+Nonaka Miho,JPN,37.0,34.35,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,34+,15
+Caulier Chloe,BEL,38.0,35.95,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,20+
+Mcneice Erin,GBR,38.0,35.95,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,20+
+Kremer Valeri,ISR,40.0,38.48,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23,20+
+Hammelmüller Eva Maria,AUT,41.0,39.45,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,27,17+
+Scolaris Ilaria,ITA,42.0,40.62,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,25+,17+
+Aguado Valentina,ARG,43.0,41.62,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,29,16+
+Demmel Martina,GER,43.0,41.62,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,29,16+
+Hulliger Michelle,SUI,45.0,44.18,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,29+,14+
+Hafsaas Tina Johnsen,NOR,46.0,45.32,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,27,16+
+Atkins Käthe,GER,47.0,45.41,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,17+
+Peetermans Zoe,GBR,48.0,47.2,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,24+,16+
+Egli Zoé,SUI,49.0,47.78,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,17
+Ghisolfi Claudia,ITA,50.0,48.85,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,27,16
+Castillo Lianet,VEN,51.0,52.18,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,16+
+Coscoy Cloe,USA,51.0,52.18,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,16+
+Galeova Ema,CZE,51.0,52.18,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,16+
+Koller Anne-Sophie,SUI,51.0,52.18,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,16+
+Looser Noé,SUI,51.0,52.18,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,16+
+Shiran Noa,ISR,51.0,52.18,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,16+
+Ramezani Rahil,IRI,57.0,52.73,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,21+,17
+Copar Sara,SLO,58.0,54.55,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,24,14+
+Kümin Andrea,SUI,58.0,54.55,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,24,14+
+Papetti Federica,ITA,60.0,56.24,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,16
+Arc Nolwenn,FRA,61.0,56.5,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,22+,16+
+Arnoldi Valentina,ITA,62.0,57.16,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,22,16+
+Chapman Indiana,CAN,63.0,59.33,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,14+
+Clark Adriene Akiko,USA,63.0,59.33,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,14+
+Contreras Alejandra,CHI,63.0,59.33,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,14+
+Sterrer Franziska,AUT,63.0,59.33,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,23+,14+
+Janosova Marketa,CZE,67.0,64.25,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,22+,14+
+Bjarnason Svana,ISL,68.0,68.35,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,15,14+
+GARCIA MOLINA Zoe,ARG,69.0,69.0,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,19,14
+Silva Muykuay,CHI,70.0,69.24,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,19+,13
+Farhat de Araujo Fraga Timo Laura,BRA,71.0,71.74,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,15,13
+Scott Emily,AUS,72.0,71.97,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,18+,11+
+Hanggi Correia Mariana,BRA,73.0,72.48,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,15+,11+
+Sepulveda Elizabeth,PUR,74.0,73.48,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,14,12+
+Earle Chloe,CAN,75.0,73.5,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,15,11+
+Oates Tegwen,RSA,76.0,76.99,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,8+,10
+Arun Prateeksha,IND,77.0,77.24,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,11+,9+
+Hidalgo Amezquita María Fernanda,MEX,78.0,77.75,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,11,9+
+Meyer Alyssa,RSA,79.0,79.25,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,8,9+
+Trajkoska Sara,MKD,79.0,79.25,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,8,9+
+Duron Antonio Iris Pamela,HON,81.0,80.5,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,8,8+
+Im Vinnith,CAM,82.0,82.0,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,5,7+
+Hernandez Guerrero Grecia Daniela,ESA,83.0,83.0,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,2,4+
+KOBETS Anastasia,UKR,,DNS,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,DNS,DNS
+Potapova Nika,UKR,,DNS,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,DNS,DNS
+Tarkus Lucija,SLO,,DNS,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Qualification,2023-06-30,/api/v1/category_rounds/7690/results,/api/v1/events/1298/result/5,DNS,DNS

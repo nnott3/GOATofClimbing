@@ -1,0 +1,22 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+McColl Sean,CAN,1,Top,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,Top
+Desgranges Romain,FRA,2,40,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,40
+Skofic Domen,SLO,3,36,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,36
+Julian  Puigblanque Ramón ,ESP,4,34,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,34
+Matsushima Akito,JPN,5,33+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,33+
+Ghisolfi Stefano,ITA,6,33+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,33+
+Supper Gautier,FRA,7,33+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,33+
+Lechner Mario,AUT,8,25,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,25
+Ma ZiDa,CHN,9,25,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,25
+JonasMcRae Elan,CAN,10,24+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,24+
+Qu Changfeng,CHN,11,24+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,24+
+Midtboe Magnus,NOR,12,24,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,24
+Cano Blazquez Javier,ESP,13,24,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,24
+Wang Qinghua,CHN,14,23+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,23+
+Nomura Shinichiro,JPN,15,23,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,23
+Wechsler Or,ISR,16,22,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,22
+Schubert Jakob,AUT,17,18,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,18
+Timmermans Loïc,BEL,18,18,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,18
+Ondra Adam,CZE,19,17+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,17+
+Jech Martin,CZE,20,17+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,17+
+Messer Shane,USA,21,17+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1,17+

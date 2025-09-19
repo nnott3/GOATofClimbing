@@ -1,0 +1,14 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Zakharova Olga,UKR,1,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Ryepko Olena,UKR,2,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Yurina Valentina,RUS,3,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Ochtchepkova Olga,RUS,4,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Saulevich Olesya,RUS,5,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Piratinskaya Mayya,RUS,6,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Podgorbounskikh Zosia,RUS,7,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Stenkovaya Anna,RUS,8,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Kleochina Olesia,RUS,9,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Ostapenko Olena,UKR,10,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Evstigneeva Olga,RUS,11,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Sutkina Svetlana,RUS,12,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6
+Ryzhkova Margarita,RUS,13,,2. UIAA Worldcup - Yekaterinburg (RUS) 2002,277,2002,Yekaterinburg,Speed,Women,2002-05-22,/api/v1/events/277/result/6

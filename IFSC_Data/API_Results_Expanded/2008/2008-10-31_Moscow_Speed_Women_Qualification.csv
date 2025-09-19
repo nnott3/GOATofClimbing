@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Stenkovaya Anna,RUS,1,33.370,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Blanco Lucelia,VEN,2,33.590,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Yurina Valentina,RUS,3,33.720,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Ropek Edyta,POL,4,35.070,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Li Chunhua,CHN,5,35.100,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Ryepko Olena,UKR,6,35.280,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Gallyamova Anna,RUS,7,36.960,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Titova Natalia,RUS,8,37.290,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Tuzhylina Svitlana,UKR,9,37.340,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Bezhko Olga,UKR,10,38.170,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Evstigneeva Olga,RUS,11,38.800,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Morozkina Olga,RUS,12,39.520,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Sheremetyeva Olena,UKR,13,39.710,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Alekseeva Kseniia,RUS,14,40.190,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Gaidamakina Alina,RUS,15,40.250,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Troepolskaya Yulia,RUS,16,41.070,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+ Koroleva Natalia,RUS,17,41.440,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Krasavina Mariia,RUS,18,41.670,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Mylnikova Anna,RUS,19,42.120,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Boyarskikh  Ekaterina,RUS,20,43.270,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Mykhailova Olga,UKR,21,43.910,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Terenteva Galina,RUS,22,44.490,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Levochkina  Yuliya,RUS,23,45.170,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Vaytsekhovskaya Yulia,RUS,24,45.650,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Shahmatova  Evgeniya,RUS,25,51.070,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6
+Iskakova Aliya,KAZ,26,63.220,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,525,2008,Moscow,Speed,Women,Qualification,2008-10-31,/api/v1/category_rounds/926/results,/api/v1/events/525/result/6

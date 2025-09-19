@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,Top,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,Top
+Pilz Jessica,AUT,2,37,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,37
+Kazbekova Ievgeniia,UKR,3,36+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,36+
+Kim Jain,KOR,4,33+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,33+
+Krampl Mia,SLO,5,33+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,33+
+Hafsaas Tina Johnsen,NOR,6,32+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,32+
+Verhoeven Anak,BEL,7,32,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,32
+Chanourdie Julia,FRA,8,31,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,31
+Koller Anne-Sophie,SUI,9,31,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,31
+Raboutou Brooke,USA,10,31,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,31
+Arc Nolwenn,FRA,11,31,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,31
+Schubert Hannah,AUT,12,29,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,29
+Markovic Mina,SLO,13,28+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,28+
+Lukan Vita,SLO,14,28+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,28+
+Romain Salomé,FRA,15,28+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,28+
+Becerra Mathilde,FRA,16,28+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,28+
+Ota Risa,JPN,17,28+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,28+
+Hulliger Michelle,SUI,18,27+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,27+
+Fiser Julia,AUT,19,27+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,27+
+Berthier Nolwen,FRA,20,27+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,27+
+Posch Katharina,AUT,21,27+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,27+
+Janicot Hélène,FRA,22,27+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,27+
+Rogora Laura,ITA,23,26+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,26+
+Lavarda Jenny,ITA,24,25+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,25+
+Hayes Margo,USA,25,24+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,24+
+Emeleva Luiza,RUS,26,23+,IFSC Climbing Worldcup (L) - Chamonix (FRA) 2017,1164,2017,Chamonix,Lead,Women,Semi-Final,2017-07-12,/api/v1/category_rounds/5999/results,/api/v1/events/1164/result/5,23+

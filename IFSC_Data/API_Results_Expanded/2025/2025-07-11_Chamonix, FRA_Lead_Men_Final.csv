@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+ANRAKU Sorato,JPN,1,TOP,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Final,2025-07-11,/api/v1/category_rounds/10135/results,/api/v1/events/1414/result/1,TOP,"2025-07-11_Chamonix, FRA_Lead_Men_Final.csv"
+GINÉS LÓPEZ Alberto,ESP,2,43+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Final,2025-07-11,/api/v1/category_rounds/10135/results,/api/v1/events/1414/result/1,43+,"2025-07-11_Chamonix, FRA_Lead_Men_Final.csv"
+SCHENK Filip,ITA,3,43+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Final,2025-07-11,/api/v1/category_rounds/10135/results,/api/v1/events/1414/result/1,43+,"2025-07-11_Chamonix, FRA_Lead_Men_Final.csv"
+YOSHIDA Satone,JPN,4,39+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Final,2025-07-11,/api/v1/category_rounds/10135/results,/api/v1/events/1414/result/1,39+,"2025-07-11_Chamonix, FRA_Lead_Men_Final.csv"
+DUFFY Colin,USA,5,38+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Final,2025-07-11,/api/v1/category_rounds/10135/results,/api/v1/events/1414/result/1,38+,"2025-07-11_Chamonix, FRA_Lead_Men_Final.csv"
+UTELLI Jonas,SUI,6,36,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Final,2025-07-11,/api/v1/category_rounds/10135/results,/api/v1/events/1414/result/1,36,"2025-07-11_Chamonix, FRA_Lead_Men_Final.csv"
+POTOCAR Luka,SLO,7,31,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Final,2025-07-11,/api/v1/category_rounds/10135/results,/api/v1/events/1414/result/1,31,"2025-07-11_Chamonix, FRA_Lead_Men_Final.csv"
+OMATA Shion,JPN,8,29+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Final,2025-07-11,/api/v1/category_rounds/10135/results,/api/v1/events/1414/result/1,29+,"2025-07-11_Chamonix, FRA_Lead_Men_Final.csv"

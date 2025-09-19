@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,42,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Women,Final,2017-09-23,/api/v1/category_rounds/4327/results,/api/v1/events/994/result/5,42
+Pilz Jessica,AUT,2,42,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Women,Final,2017-09-23,/api/v1/category_rounds/4327/results,/api/v1/events/994/result/5,42
+Kim Jain,KOR,3,41+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Women,Final,2017-09-23,/api/v1/category_rounds/4327/results,/api/v1/events/994/result/5,41+
+Shiraishi Ashima,USA,4,41,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Women,Final,2017-09-23,/api/v1/category_rounds/4327/results,/api/v1/events/994/result/5,41
+Chanourdie Julia,FRA,5,40+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Women,Final,2017-09-23,/api/v1/category_rounds/4327/results,/api/v1/events/994/result/5,40+
+Verhoeven Anak,BEL,6,40,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Women,Final,2017-09-23,/api/v1/category_rounds/4327/results,/api/v1/events/994/result/5,40
+Slaney Hannah,GBR,7,36+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Women,Final,2017-09-23,/api/v1/category_rounds/4327/results,/api/v1/events/994/result/5,36+
+Hafsaas Tina Johnsen,NOR,8,13+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Women,Final,2017-09-23,/api/v1/category_rounds/4327/results,/api/v1/events/994/result/5,13+

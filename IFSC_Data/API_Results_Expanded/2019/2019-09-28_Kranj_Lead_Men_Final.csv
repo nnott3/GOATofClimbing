@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ondra Adam,CZE,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Men,Final,2019-09-28,/api/v1/category_rounds/5554/results,/api/v1/events/1123/result/1,Top
+Harada Kai,JPN,2,32,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Men,Final,2019-09-28,/api/v1/category_rounds/5554/results,/api/v1/events/1123/result/1,32
+Ginés López Alberto,ESP,3,31.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Men,Final,2019-09-28,/api/v1/category_rounds/5554/results,/api/v1/events/1123/result/1,31.5+
+McColl Sean,CAN,4,30+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Men,Final,2019-09-28,/api/v1/category_rounds/5554/results,/api/v1/events/1123/result/1,30+
+Fujii Kokoro,JPN,5,27+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Men,Final,2019-09-28,/api/v1/category_rounds/5554/results,/api/v1/events/1123/result/1,27+
+Ghisolfi Stefano,ITA,6,25+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Men,Final,2019-09-28,/api/v1/category_rounds/5554/results,/api/v1/events/1123/result/1,25+
+Schubert Jakob,AUT,7,12+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Men,Final,2019-09-28,/api/v1/category_rounds/5554/results,/api/v1/events/1123/result/1,12+
+Stranik Martin,CZE,8,12+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Men,Final,2019-09-28,/api/v1/category_rounds/5554/results,/api/v1/events/1123/result/1,12+

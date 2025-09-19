@@ -1,0 +1,19 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+He CuiLian,CHN,1,9.280,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Heitz Margot,FRA,2,9.510,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Titova Natalia,RUS,3,9.530,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Gaidamakina Alina,RUS,4,9.650,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Rudzinska Aleksandra,POL,5,9.730,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Ropek Edyta,POL,6,9.760,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Krasavina Mariia,RUS,7,9.820,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Polekhina Kseniya,RUS,8,9.890,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+wang yang,CHN,9,10.220,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Jaubert Anouck,FRA,10,10.280,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Bruckner Esther,FRA,11,10.490,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Prokopiuk Monika,POL,12,10.540,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Savisko Anastasiya,UKR,13,10.930,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+Levochkina  Yuliya,RUS,14,11.480,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+PAN Xuhua,CHN,15,11.560,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+RenZeng WangMu,CHN,16,12.160,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+gesang wangmu,CHN,17,13.320,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+JIANG Rong,CHN,18,13.970,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6

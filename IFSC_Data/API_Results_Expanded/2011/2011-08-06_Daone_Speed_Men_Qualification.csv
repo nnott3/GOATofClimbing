@@ -1,0 +1,16 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Kokorin Stanislav,RUS,1,12.330,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Swirk Lukasz,POL,2,13.090,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Abdrakhmanov Sergey,RUS,3,13.940,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Komosinski Jedrzej,POL,4,14.270,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Vaitsekhovskii Evgenii,RUS,5,14.280,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Sinitcyn Sergei,RUS,6,15.440,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Nigmanov Zufar,RUS,7,15.470,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Shevchenko Arsenii,RUS,8,16.410,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Hroza Libor,CZE,9,17.610,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Sirotti Gianluca,ITA,10,18.170,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Podchesov Kostiantyn,UKR,11,18.430,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Sikora Paweł,POL,12,18.520,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Sirotti Michel,ITA,13,19.790,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Bosler Fabian,GER,14,33.860,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+Porscha Maximilian,GER,15,36.150,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2

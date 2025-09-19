@@ -1,0 +1,11 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Schubert Jakob,AUT,1,36+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Final,2018-09-06,/api/v1/category_rounds/5042/results,/api/v1/events/1061/result/1,36+
+Ondra Adam,CZE,2,36+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Final,2018-09-06,/api/v1/category_rounds/5042/results,/api/v1/events/1061/result/1,36+
+Megos Alexander,GER,3,33.5,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Final,2018-09-06,/api/v1/category_rounds/5042/results,/api/v1/events/1061/result/1,33.5
+Narasaki Meichi,JPN,4,31+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Final,2018-09-06,/api/v1/category_rounds/5042/results,/api/v1/events/1061/result/1,31+
+Skofic Domen,SLO,5,29+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Final,2018-09-06,/api/v1/category_rounds/5042/results,/api/v1/events/1061/result/1,29+
+Konecny Jakub,CZE,6,29+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Final,2018-09-06,/api/v1/category_rounds/5042/results,/api/v1/events/1061/result/1,29+
+Takata Tomoaki,JPN,6,29+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Final,2018-09-06,/api/v1/category_rounds/5042/results,/api/v1/events/1061/result/1,29+
+Lehmann Sascha,SUI,8,23,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Final,2018-09-06,/api/v1/category_rounds/5042/results,/api/v1/events/1061/result/1,23
+Bombardi Marcello,ITA,9,20+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Final,2018-09-06,/api/v1/category_rounds/5042/results,/api/v1/events/1061/result/1,20+
+Harada Kai,JPN,10,16+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Final,2018-09-06,/api/v1/category_rounds/5042/results,/api/v1/events/1061/result/1,16+

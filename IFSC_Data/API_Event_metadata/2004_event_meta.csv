@@ -1,0 +1,39 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup - Birmingham (GBR) 2004,347,2004,Birmingham,Boulder,Men,2004-04-02,/api/v1/events/347/result/3
+UIAA Worldcup - Birmingham (GBR) 2004,347,2004,Birmingham,Boulder,Women,2004-04-02,/api/v1/events/347/result/7
+UIAA Worldcup - Erlangen (GER) 2004,348,2004,Erlangen,Boulder,Men,2004-04-15,/api/v1/events/348/result/3
+UIAA Worldcup - Erlangen (GER) 2004,348,2004,Erlangen,Boulder,Women,2004-04-15,/api/v1/events/348/result/7
+UIAA Worldcup - Puurs (BEL) 2004,349,2004,Puurs,Lead,Men,2004-04-23,/api/v1/events/349/result/1
+UIAA Worldcup - Puurs (BEL) 2004,349,2004,Puurs,Lead,Women,2004-04-23,/api/v1/events/349/result/5
+UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Men,2004-05-28,/api/v1/events/350/result/1
+UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+UIAA Worldcup - Fiera di Primiero (ITA) 2004,351,2004,Fiera di Primiero,Boulder,Men,2004-06-18,/api/v1/events/351/result/3
+UIAA Worldcup - Fiera di Primiero (ITA) 2004,351,2004,Fiera di Primiero,Boulder,Women,2004-06-18,/api/v1/events/351/result/7
+UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
+UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Women,2004-07-11,/api/v1/events/352/result/5
+UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Men,2004-07-11,/api/v1/events/352/result/2
+UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Speed,Women,2004-07-11,/api/v1/events/352/result/6
+UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Men,2004-07-16,/api/v1/events/353/result/2
+UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Women,2004-07-16,/api/v1/events/353/result/6
+UIAA Worldcup - L'Argentière La Bessée (FRA) 2004,354,2004,L'Argentière La Bessée,Boulder,Men,2004-07-28,/api/v1/events/354/result/3
+UIAA Worldcup - L'Argentière La Bessée (FRA) 2004,354,2004,L'Argentière La Bessée,Boulder,Women,2004-07-28,/api/v1/events/354/result/7
+UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Men,2004-08-19,/api/v1/events/355/result/3
+UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
+UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Men,2004-09-17,/api/v1/events/356/result/1
+UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
+UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
+UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Women,2004-09-24,/api/v1/events/357/result/7
+UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Men,2004-10-01,/api/v1/events/358/result/1
+UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
+UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Speed,Men,2004-10-01,/api/v1/events/358/result/2
+UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Speed,Women,2004-10-01,/api/v1/events/358/result/6
+UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Men,2004-10-21,/api/v1/events/359/result/1
+UIAA Worldcup - Aprica (ITA) 2004,359,2004,Aprica,Lead,Women,2004-10-21,/api/v1/events/359/result/5
+UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Men,2004-10-28,/api/v1/events/360/result/1
+UIAA Worldcup - Valence (FRA) 2004,360,2004,Valence,Lead,Women,2004-10-28,/api/v1/events/360/result/5
+UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/1
+UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Women,2004-11-11,/api/v1/events/361/result/5
+UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
+UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Women,2004-11-11,/api/v1/events/361/result/413
+UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Men,2004-11-19,/api/v1/events/362/result/1
+UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5

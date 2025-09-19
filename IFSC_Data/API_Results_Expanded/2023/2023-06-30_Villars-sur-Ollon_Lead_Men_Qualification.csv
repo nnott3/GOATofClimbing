@@ -1,0 +1,96 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+Ondra Adam,CZE,1.0,3.0,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,41,33
+Schubert Jakob,AUT,2.0,3.32,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,40+,TOP
+Roberts Toby,GBR,3.0,4.69,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,40+,35
+Ogata Yoshiyuki,JPN,4.0,5.2,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,38,TOP
+YOSHIDA Satone,JPN,5.0,6.16,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,36+,TOP
+Lehmann Sascha,SUI,6.0,7.78,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,40+,30+
+Suzuki Neo,JPN,6.0,7.78,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,40+,30+
+OMATA Shion,JPN,8.0,9.23,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,37,34+
+HIGUCHI Masahiro,JPN,9.0,10.22,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,40+,28+
+ANRAKU Sorato,JPN,10.0,10.42,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,37,34
+PAN YUFEI,CHN,11.0,11.25,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,38+,30+
+Megos Alexander,GER,12.0,13.16,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,40+,26+
+Uznik Nicolai,AUT,13.0,13.56,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,38+,29+
+Bailey Sean,USA,14.0,14.14,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,40,28
+Scherz Stefan,AUT,14.0,14.14,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,34+,33+
+Duffy Colin,USA,16.0,14.7,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,38,29+
+Grupper Jesse,USA,17.0,16.91,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,40+,22+
+Monchois Nao,FRA,18.0,18.03,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,34+,30
+Jenft Paul,FRA,19.0,18.24,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,40+,21+
+HOMMA Taisei,JPN,20.0,20.51,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18+,34+
+Potocar Luka,SLO,21.0,20.68,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,36+,27+
+UEMURA Haruki,JPN,21.0,20.68,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,36+,27+
+Marchaland Jules,FRA,23.0,22.09,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,33+,29+
+Bombardi Marcello,ITA,24.0,23.72,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,34+,27+
+McArthur Hamish,GBR,25.0,24.46,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,36+,26+
+Shemla Yuval,ISR,25.0,24.46,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,36+,26+
+Stranik Martin,CZE,27.0,26.69,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,34,27
+YURIKUSA Ao,JPN,28.0,27.71,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,28+,29+
+Grünenfelder Nino,SUI,29.0,28.06,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,34+,26+
+Utelli Jonas,SUI,30.0,29.62,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31+,27+
+SONG Yunchan,KOR,31.0,29.96,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,34,26+
+McColl Sean,CAN,32.0,32.0,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,32+,26+
+Poles Jordi,FRA,33.0,32.79,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,34+,25+
+Van Duysen Hannes,BEL,34.0,34.99,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18+,29+
+Countryman Dillon,USA,35.0,35.05,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31+,26+
+Flohé Yannick,GER,35.0,35.05,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31+,26+
+Tomatis Giorgio,ITA,37.0,36.21,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,33+,25+
+Pope James,GBR,38.0,37.65,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31,26+
+Xiberras Joseph,GBR,38.0,37.65,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31,26+
+Lorenzi Simon,BEL,40.0,38.24,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,32,25+
+Flick Dimitri,SUI,41.0,38.75,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31+,26
+Gundolf Louis,AUT,41.0,38.75,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31+,26
+Baudrand Oscar,CAN,43.0,40.95,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31+,25+
+Preskar Milan,SLO,44.0,41.05,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,27+,26+
+Schenk Filip,ITA,45.0,41.95,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,35,14+
+Martin Philipp,GER,46.0,42.74,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,27,26+
+Piccolruaz Michael,ITA,47.0,43.04,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31+,25
+Baudrand Victor,CAN,48.0,45.96,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,32+,21
+Collin Nicolas,BEL,49.0,47.96,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,27+,25+
+Posch Mathias,AUT,49.0,47.96,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,27+,25+
+Linacisoro Molina Mikel Asier,ESP,51.0,48.57,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31+,21+
+Vogt Dimitri,SUI,51.0,48.57,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31+,21+
+Galla Zach,USA,53.0,50.37,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,26,25+
+Ginés López Alberto,ESP,54.0,50.41,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,27+,25
+RAMADHAN RAVIANDI,INA,55.0,51.2,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,27+,24+
+Hanke Christoph,GER,56.0,51.72,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,27+,23+
+Chan Cheung-chi Shoji,HKG,57.0,51.91,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,28,22
+RAMADHAN RAVIANTO,INA,58.0,52.18,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,31,21+
+Marcus Nimrod,ISR,59.0,52.74,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,27+,22+
+Milne Maximillian,GBR,60.0,56.53,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,30+,20+
+Mawem Mickael,FRA,61.0,57.45,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,25+,22
+HAN MINSUNG,KOR,62.0,59.03,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,21+,22+
+Serlachius Fredrik,SWE,63.0,61.25,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,23,21+
+Tusnády  Nimród Sebestyén,HUN,64.0,61.98,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,22+,21+
+AUEAREECHIT Auswin,THA,65.0,63.13,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,27+,18+
+Crep Lovro,SLO,66.0,64.4,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,24,20+
+Kolasangian Reza,IRI,67.0,64.87,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18+,22
+Kruder Jernej,SLO,68.0,65.31,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,19+,21+
+HUANG JINBIN,CHN,69.0,65.71,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,22+,20+
+Bergant Martin,SLO,70.0,68.03,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18+,21+
+Pilehforoushan Alireza,IRI,71.0,68.43,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,22,20
+Maibam Chingkheinganba,IND,72.0,69.86,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,22,18+
+Cink Jachym,CZE,73.0,69.98,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,20+,20
+Malosti Luca,ITA,74.0,72.12,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18+,20+
+AU Chi-fung,HKG,75.0,72.15,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,20+,17+
+Lopez Valdez Hector,MEX,76.0,73.68,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,19+,16+
+Jost Dario,SUI,77.0,75.35,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18,20+
+Vargas Benjamin,CHI,78.0,78.23,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18+,14+
+Villegas García Thor,MEX,78.0,78.23,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18+,14+
+Rodrigues Bellotto Mateus,BRA,80.0,80.16,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18+,13+
+SORIA SANCHEZ Lautaro Nicolás,ARG,80.0,80.16,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18+,13+
+Urrutia Joaquin,CHI,82.0,81.58,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18+,10+
+GREGORINI Bautista,ARG,83.0,81.73,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18,14+
+Martin Nathan,LUX,83.0,81.73,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18,14+
+Lequerica Buscaglia Diego,PER,85.0,82.4,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,7,19+
+Iasi Hanada Rodrigo,BRA,86.0,85.72,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,18,10
+Marne Hritik,IND,87.0,85.73,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,12+,13+
+Arnarson Guðmundur Freyr,ISL,88.0,87.49,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,15+,9+
+Castellanos Luis,VEN,89.0,87.98,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,9+,12+
+Sambath Pheaktra,CAM,90.0,89.5,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,12,8+
+Di Nino Gianstefano,VEN,91.0,89.97,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,12+,6
+Vargas Claros Marcelo Ignacio,ESA,92.0,91.5,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,8,6+
+Markov Matej,MKD,93.0,91.75,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,8+,6
+Merino Ordóñez Daniel Alejandro,HON,94.0,94.0,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,5+,3
+Osadchyi Leonid,UKR,,DNS,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Men,Qualification,2023-06-30,/api/v1/category_rounds/7689/results,/api/v1/events/1298/result/1,DNS,DNS

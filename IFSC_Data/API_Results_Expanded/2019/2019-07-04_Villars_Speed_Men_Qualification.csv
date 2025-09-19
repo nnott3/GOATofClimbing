@@ -1,0 +1,85 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Shikov Aleksandr,RUS,1,5.630,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Mawem Bassa,FRA,2,5.686,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Timofeev Dmitrii,RUS,3,5.716,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+LONG JinBao,CHN,4,5.755,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+CAO Long,CHN,5,5.799,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Rudatskiy Lev,RUS,6,5.803,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Lee Seungbeom,KOR,7,5.871,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Zhong QiXin,CHN,8,5.873,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Rukin Sergei,RUS,9,5.909,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Alipourshenazandifar Reza,IRI,10,5.923,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Deulin Vladislav,RUS,11,5.956,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Boldyrev Danyil,UKR,12,5.964,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Kriz Jan,CZE,13,6.040,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Shilov Aleksandr,RUS,14,6.099,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Fossali Ludovico,ITA,15,6.142,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Khaibullin Rishat,KAZ,16,6.149,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Dzienski Marcin,POL,17,6.170,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Kokorin Stanislav,RUS,18,6.199,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Pavlenko Kostiantyn,UKR,19,6.245,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Muhammad Alfian,INA,20,6.252,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+CHEN ZhiXing,CHN,21,6.280,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Cornu Manuel,FRA,22,6.388,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Rebreyend Pierre,FRA,23,6.391,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Granja Carlos,ECU,24,6.430,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Noya Cardona Erik,ESP,25,6.492,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Fujii Kokoro,JPN,26,6.497,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Zodda Gian Luca,ITA,27,6.503,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Narasaki Tomoa,JPN,28,6.562,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Iarilovets Nikolai,RUS,29,6.564,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Khabibullin Artem,RUS,30,6.650,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Hojer Jan,GER,31,6.671,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Knapp Lukas,AUT,32,6.721,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Harada Kai,JPN,33,6.753,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Pan YuFei,CHN,34,6.798,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Piccolruaz Michael,ITA,35,6.987,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Bosi William,GBR,36,7.072,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Coleman Nathaniel,USA,37,7.114,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+AU Chi-fung,HKG,38,7.136,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Grosso Cesar,BRA,39,7.149,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Narasaki Meichi,JPN,40,7.204,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Schubert Jakob,AUT,41,7.268,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Chon Jongwon,KOR,42,7.282,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Galla Zach,USA,43,7.377,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Valencia Danny,ECU,44,7.463,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Ruana Rudolph,USA,45,7.464,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Sugimoto Rei,JPN,46,7.479,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+McColl Sean,CAN,47,7.694,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Mawem Mickael,FRA,48,7.713,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Linacisoro Molina Mikel Asier,ESP,49,7.753,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Lee Dohyun,KOR,50,7.788,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Kruder Jernej,SLO,51,7.804,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Ghisolfi Stefano,ITA,52,7.849,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Lorenzi Simon,BEL,53,7.864,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Marcus Nimrod,ISR,54,8.038,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Plangger Tobias,AUT,55,8.062,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Levin Ram,ISR,56,8.095,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Cosser Christopher,RSA,57,8.115,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+KIM Hanwool,KOR,58,8.173,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Vettorata Francesco,ITA,59,8.197,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Ginés López Alberto,ESP,60,8.285,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Peharc Anze,SLO,61,8.324,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Megos Alexander,GER,62,8.329,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Flohé Yannick,GER,63,8.346,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Avezou Leo,FRA,64,8.357,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Erber Matthias,AUT,65,8.455,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Kim Jabee,KOR,66,8.519,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Brosler John,USA,67,8.540,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Cano Blazquez Javier,ESP,68,8.778,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Bombardi Marcello,ITA,69,8.789,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Potocar Luka,SLO,70,8.834,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Reuser Tim,NED,71,8.843,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Escobar Ronny,CHI,72,8.858,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Bailey Sean,USA,73,9.238,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Maimuratov Amir,KAZ,74,9.691,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Harrison Campbell,AUS,75,9.795,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Padin Simón,ARG,76,10.078,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Skofic Domen,SLO,77,10.149,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Konecny Jakub,CZE,78,10.594,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Aljaro Jose Maria,CHI,79,10.722,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Collin Nicolas,BEL,80,12.071,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Jaelolo Aspar,INA,81,False start,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Fakirianov Dmitrii,RUS,81,fall,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Roji Fatchur,INA,81,False start,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+Stranik Martin,CZE,81,False start,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2

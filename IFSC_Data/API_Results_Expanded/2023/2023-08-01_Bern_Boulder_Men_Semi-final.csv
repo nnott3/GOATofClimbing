@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+ANRAKU Sorato,JPN,1,4T4z 11 5,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,1,1,2,1,2,1,6,2
+Mawem Mickael,FRA,2,3T4z 7 8,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,2,2,X,3,3,1,2,2
+FUJII Kokoro,JPN,3,3T4z 10 6,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,3,3,X,1,3,1,4,1
+Schalck Mejdi,FRA,4,3T3z 8 6,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,3,3,X,X,3,1,2,2
+LEE Dohyun,KOR,5,3T3z 10 8,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,1,1,X,X,3,1,6,6
+Uznik Nicolai,AUT,6,2T4z 2 7,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,1,1,X,4,X,1,1,1
+Ogata Yoshiyuki,JPN,7,2T4z 3 5,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,2,1,X,2,X,1,1,1
+Ondra Adam,CZE,8,2T4z 5 8,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,1,1,X,1,X,3,4,3
+Flohé Yannick,GER,9,2T4z 6 8,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,1,1,X,1,X,2,5,4
+Avezou Sam,FRA,10,2T3z 3 4,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,1,1,X,X,X,1,2,2
+Jenft Paul,FRA,11,2T3z 3 5,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,1,1,X,X,X,2,2,2
+Schubert Jakob,AUT,12,2T3z 3 13,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,1,1,X,X,2,1,X,11
+NARASAKI Tomoa,JPN,13,2T3z 4 4,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,1,1,X,X,3,2,X,1
+NARASAKI Meichi,JPN,14,2T3z 6 12,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,5,5,X,X,1,1,X,6
+Cornu Manuel,FRA,15,2T3z 8 12,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,6,6,X,X,X,4,2,2
+MacDougall Jack,GBR,16,2T3z 8 14,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,4,4,X,X,4,1,X,9
+Megos Alexander,GER,17,2T3z 9 5,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,2,2,X,X,X,2,7,1
+Clémence Julien,SUI,18,1T2z 4 5,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,4,4,X,X,X,1,X,X
+Roberts Toby,GBR,19,0T1z 0 2,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,X,X,X,X,X,2,X,X
+Kleesattel Max,GER,20,0T1z 0 4,IFSC World Championships Bern 2023,1301,2023,Bern,Boulder,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8318/results,/api/v1/events/1301/result/3,X,X,X,X,X,4,X,X

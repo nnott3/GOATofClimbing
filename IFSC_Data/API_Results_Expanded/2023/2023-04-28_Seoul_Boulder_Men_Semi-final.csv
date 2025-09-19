@@ -1,0 +1,20 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Schalck Mejdi,FRA,1,2T3z 2 7,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,1,1,X,5,1,1,X,X
+NARASAKI Tomoa,JPN,2,2T3z 6 10,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,3,3,X,6,3,1,X,X
+CHON Jongwon,KOR,3,2T2z 2 2,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,1,1,1,1,X,X
+LEE Dohyun,KOR,4,1T2z 1 9,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,8,1,1,X,X
+Cornu Manuel,FRA,5,1T2z 4 5,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,4,4,X,X,X,1,X,X
+Uznik Nicolai,AUT,6,1T1z 2 2,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,X,2,2,X,X
+Flohé Yannick,GER,7,1T1z 3 1,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,X,3,1,X,X
+Roberts Toby,GBR,8,1T1z 3 3,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,X,3,3,X,X
+INOUE Yuji,JPN,9,1T1z 4 4,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,X,4,4,X,X
+Avezou Sam,FRA,10,1T1z 5 3,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,X,5,3,X,X
+Milne Maximillian,GBR,11,0T2z 0 4,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,2,X,2,X,X
+Ogata Yoshiyuki,JPN,12,0T2z 0 7,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,5,X,2,X,X
+Van Duysen Hannes,BEL,13,0T2z 0 8,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,6,X,X,X,2,X,X
+Lorenzi Simon,BEL,14,0T1z 0 1,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,X,X,1,X,X
+Ginés López Alberto,ESP,15,0T1z 0 2,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,X,X,2,X,X
+Collin Nicolas,BEL,16,0T1z 0 3,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,X,X,3,X,X
+Bailey Sean,USA,17,0T1z 0 4,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,X,X,4,X,X
+Ternant Mathieu,FRA,17,0T1z 0 4,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,X,X,4,X,X
+KAYOTANI Ritsu,JPN,19,0T0z 0 0,IFSC World Cup Seoul 2023,1292,2023,Seoul,Boulder,Men,Semi-final,2023-04-28,/api/v1/category_rounds/8154/results,/api/v1/events/1292/result/3,X,X,X,X,X,X,X,X

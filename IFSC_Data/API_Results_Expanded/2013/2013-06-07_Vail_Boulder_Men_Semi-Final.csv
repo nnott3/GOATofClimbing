@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Fischhuber Kilian,AUT,1,4t6 4b5,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,1,1,1,1,2,2,2,1
+McColl Sean,CAN,2,4t8 4b6,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,3,1,1,1,2,2,2,2
+Sharafutdinov Dmitrii,RUS,3,3t4 4b5,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,X,1,1,1,1,1,2,2
+Gelmanov Rustam,RUS,4,3t9 3b7,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,4,3,3,2,X,X,2,2
+Robinson Paul,USA,5,3t10 3b7,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,4,1,2,2,X,X,4,4
+Verhoeven Jorg,NED,6,2t3 4b6,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,X,1,1,1,2,2,X,2
+Kruder Jernej,SLO,7,2t3 3b5,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,2,1,1,1,X,X,X,3
+Caleyron Thomas,FRA,8,2t4 2b4,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,3,3,1,1,X,X,X,X
+Schubert Jakob,AUT,9,2t5 2b5,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,2,2,3,3,X,X,X,X
+Woods Daniel,USA,10,2t6 2b2,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,2,1,4,1,X,X,X,X
+Huerta Mauricio,MEX,11,2t7 2b2,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,5,1,X,X,X,X,2,1
+Glairon Mondet Guillaume,FRA,12,1t1 4b10,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,1,1,X,1,X,3,X,5
+Barrans David,GBR,13,1t3 3b8,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,3,1,X,1,X,X,X,6
+Bonder Jeremy,FRA,14,1t3 3b11,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,3,3,X,5,X,X,X,3
+Hori Tsukuru,JPN,15,1t3 2b2,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,3,1,X,1,X,X,X,X
+Becan Klemen,SLO,16,1t5 4b14,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,X,1,X,4,X,4,5,5
+Sugimoto Rei,JPN,17,0t 3b8,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,X,3,X,3,X,2,X,X
+Sugita Masatoshi,JPN,18,0t 2b2,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,X,1,X,1,X,X,X,X
+Traversi Carlo,USA,19,0t 2b2,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,X,1,X,1,X,X,X,X
+Ozawa Shinta,JPN,20,0t 2b3,IFSC Climbing Worldcup (B) - Vail (USA) 2013,795,2013,Vail,Boulder,Men,Semi-Final,2013-06-07,/api/v1/category_rounds/2562/results,/api/v1/events/795/result/3,X,1,X,2,X,X,X,X

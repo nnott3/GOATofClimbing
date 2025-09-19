@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,45,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,45
+Oda Momoka,JPN,2,44+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,44+
+Markovic Mina,SLO,3,44+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,44+
+Röck Magdalena,AUT,4,42+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,42+
+Fakhritdinova Dinara,RUS,5,42+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,42+
+Janicot Hélène,FRA,6,42+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,42+
+Noguchi Akiyo,JPN,7,42+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,42+
+Verhoeven Anak,BEL,8,42+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,42+
+Lavarda Jenny,ITA,9,38,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,38
+Bacher Barbara,AUT,10,38,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,38
+Posch Katharina,AUT,11,37+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,37+
+Brumagne Mathilde,BEL,12,37+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,37+
+Romain Salomé,FRA,13,36+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,36+
+Stotz Rebekka,SUI,14,36,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,36
+Kobayashi Yuka,JPN,15,29+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,29+
+van Bergen Nikki,NED,16,29+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,29+
+Sa Sol,KOR,17,28+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,28+
+Ghisolfi Claudia,ITA,18,27+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,27+
+Sigrist Manuela,SUI,19,22+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,22+
+Hafsaas Tina Johnsen,NOR,20,22+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,22+
+Sustersic Tina,SLO,21,22+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,22+
+Malamid Evgeniia,RUS,22,19+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,19+
+Choong Katherine,SUI,23,19+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,19+
+Stütz Christina,AUT,24,19+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,19+
+Nonaka Miho,JPN,25,19+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,19+
+Holzmann Patricia,GER,26,17+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Women,Semi-Final,2013-09-20,/api/v1/category_rounds/2591/results,/api/v1/events/801/result/5,17+

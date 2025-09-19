@@ -1,0 +1,17 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/8_winner,1/8_time,1/4_winner,1/4_time,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+ADI MULYONO RAHMAD,INA,1,5.01,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,True,5.281,True,5.079,True,4.979,True,5.017,,
+Khaibullin Rishat,KAZ,2,5.05,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,True,5.237,True,5.096,True,5.123,False,5.052,,
+NURSAMSA RAHARJATI,INA,3,5.323,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,True,5.075,True,5.11,False,4.987,,,True,5.323
+YASUKAWA Jun,JPN,4,5.324,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,True,WILDCARD,True,5.353,False,6.204,,,False,5.324
+Brosler John,USA,5,6.84 (5.15),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,True,5.151,False,6.849,,,,,,
+Fossali Ludovico,ITA,6,6.52 (5.18),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,True,5.483,False,6.529,,,,,,
+WU PENG,CHN,7,6.56 (5.23),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,True,5.55,False,6.56,,,,,,
+LONG JINBAO,CHN,8,6.61 (5.26),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,True,6.035,False,6.611,,,,,,
+LEONARDO VEDDRIQ,INA,9,FALSE START (4.98),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,False,FALSE START,,,,,,,,
+Watson Samuel,USA,10,6.60 (5.03),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,False,6.609,,,,,,,,
+LONG JIANGUO,CHN,11,5.17 (5.06),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,False,5.174,,,,,,,,
+Zurloni Matteo,ITA,12,FALL (5.14),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,False,FALL,,,,,,,,
+Rebreyend Pierre,FRA,13,FALL (5.18),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,False,FALL,,,,,,,,
+ASPAR ASPAR,INA,14,6.72 (5.19),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,False,6.721,,,,,,,,
+SHIN Euncheol,KOR,15,9.22 (5.23),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,False,9.224,,,,,,,,
+MUHAMMAD FAJRI ALFIAN,INA,16,5.37 (5.24),IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Speed,Men,Final,2023-07-07,/api/v1/category_rounds/8334/results,/api/v1/events/1299/result/2,False,5.37,,,,,,,,

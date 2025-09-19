@@ -1,0 +1,34 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Sarkany Muriel,BEL,1,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Levet Sandrine,FRA,2,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Minoret Chloé,FRA,3,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Eiter Angela,AUT,4,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Cufar Martina,SLO,5,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Lavarda Jenny,ITA,6,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+schöpf Bettina,AUT,7,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Bacher Barbara,AUT,8,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Ciavaldini Caroline,FRA,9,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Pouget Emilie,FRA,9,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Vidmar Maja,SLO,9,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Kosmac Ana,SLO,12,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Knorr Damaris,GER,13,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Franko Lucka,SLO,14,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Eyer Alexandra,SUI,15,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Raffetseder Gerda,AUT,16,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Martin Delphine,FRA,17,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Cintalova Zuzana,SVK,18,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Hnizdilova Sona,CZE,19,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Iovane Luisa,ITA,20,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Malamid Evgeniia,RUS,21,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Käyhkö Janina,FIN,22,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Benetti Lisa,ITA,23,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Nilsson Ingela,SWE,24,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Lipenska Helena,CZE,25,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Knabl Sabine,AUT,26,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Kysilkova Tereza,CZE,27,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Moosburger Miriam,AUT,28,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Stendal Linn Karin,NOR,29,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Louis Stéphanie,SUI,30,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Bacher Sabine,AUT,31,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Crouvisier Stéphanie,FRA,31,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5
+Kimura Rie,JPN,33,,UIAA Worldcup - Imst (AUT) 2003,307,2003,Imst,Lead,Women,2003-05-22,/api/v1/events/307/result/5

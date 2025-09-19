@@ -1,0 +1,43 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Boldyrev Danyil,UKR,1,6.040,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Alipourshenazandifar Reza,IRI,2,6.080,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Deulin Vladislav,RUS,3,6.170,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Hroza Libor,CZE,3,6.170,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Kokorin Stanislav,RUS,5,6.240,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Gontero Leonardo,ITA,6,6.250,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Mawem Bassa,FRA,7,6.370,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Shikov Aleksandr,RUS,8,6.380,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Zhong QiXin,CHN,8,6.380,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Pavlenko Kostiantyn,UKR,10,6.400,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Artamonov  Georgy,RUS,11,6.550,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Li JinXin,CHN,12,6.570,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Fossali Ludovico,ITA,13,6.620,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Bogomolov Arsenii,RUS,14,6.660,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Shilov Aleksandr,RUS,15,6.690,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+LIN PengHui,CHN,16,6.820,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Lee Yongsu,KOR,17,6.910,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Dzienski Marcin,POL,18,7.000,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Santoni Alessandro,ITA,19,7.060,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Huang DiChong,CHN,20,7.110,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Chae Sungjoon,KOR,21,7.230,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Myrzabekov Alimzhan,KAZ,22,7.340,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Devyaterikov Artyom,KAZ,23,7.750,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Molchanov Alexey,KAZ,24,7.760,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+WANG FengQi,CHN,25,7.930,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+AU Chi-fung,HKG,26,7.990,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Son Jongseok,KOR,27,8.150,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Panfilov Alexey,KAZ,28,8.220,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Yurin Andrey,KAZ,29,8.300,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+McColl Sean,CAN,30,8.450,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Mo ShuangXi,CHN,31,8.500,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Seo Sungbo,KOR,32,8.620,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Pan YuFei,CHN,33,9.140,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Yau Ka-chun,HKG,34,10.020,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Cano Blazquez Javier,ESP,35,10.080,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Verdasco Urizal Sergio,ESP,36,10.390,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Chan Cheung-chi Shoji,HKG,37,10.400,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Lam Hei-yeung,HKG,38,10.470,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Flor Vazquez Jonatan,ESP,39,11.260,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Pastor Martínez Sergio,ESP,40,11.430,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Roca Lopez Pol,ESP,41,11.560,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2
+Kim Jabee,KOR,42,11.960,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",986,2017,Chongqing,Speed,Men,Qualification,2017-04-22,/api/v1/category_rounds/4269/results,/api/v1/events/986/result/2

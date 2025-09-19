@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ondra Adam,CZE,1,47+,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Men,Final,2009-08-08,/api/v1/category_rounds/1196/results,/api/v1/events/571/result/1,47+
+Julian  Puigblanque Ramón ,ESP,2,47+,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Men,Final,2009-08-08,/api/v1/category_rounds/1196/results,/api/v1/events/571/result/1,47+
+Amma Sachi,JPN,3,43.5-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Men,Final,2009-08-08,/api/v1/category_rounds/1196/results,/api/v1/events/571/result/1,43.5-
+McColl Sean,CAN,4,25,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Men,Final,2009-08-08,/api/v1/category_rounds/1196/results,/api/v1/events/571/result/1,25
+Usobiaga Lakunza Patxi,ESP,5,21-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Men,Final,2009-08-08,/api/v1/category_rounds/1196/results,/api/v1/events/571/result/1,21-
+Schubert Jakob,AUT,6,21-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Men,Final,2009-08-08,/api/v1/category_rounds/1196/results,/api/v1/events/571/result/1,21-
+Midtboe Magnus,NOR,7,20+,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Men,Final,2009-08-08,/api/v1/category_rounds/1196/results,/api/v1/events/571/result/1,20+
+Tauporn Thomas,GER,8,17-,IFSC Climbing Worldcup (L) - Barcelona (ESP) 2009,571,2009,Barcelona,Lead,Men,Final,2009-08-08,/api/v1/category_rounds/1196/results,/api/v1/events/571/result/1,17-

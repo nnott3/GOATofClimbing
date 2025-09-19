@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ernst Johanna,AUT,1,Top,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,Top
+Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,Top
+Oda Momoka,JPN,3,35-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,35-
+Vidmar Maja,SLO,4,34+,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,34+
+Durif Charlotte,FRA,4,34+,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,34+
+Eiter Angela,AUT,6,34+,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,34+
+DiGiulian Sasha,USA,7,34-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,34-
+Noguchi Akiyo,JPN,8,32+,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,32+
+Schranz Christine,AUT,9,30+,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,30+
+Ciavaldini Caroline,FRA,10,29-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,29-
+Rude Chelsea,USA,11,29-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,29-
+Ota Risa,JPN,12,27-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,27-
+Claassen Paige,USA,13,27-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,27-
+Posch Katharina,AUT,14,26+,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,26+
+Miller Delaney,USA,15,26,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,26
+Johnson Alex,USA,16,25+,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,25+
+Saurwein Katharina,AUT,17,25-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,25-
+Kiersch Michaela,USA,18,20,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,20
+Sniezek Audrey,USA,19,20-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,20-
+Yip Alannah,CAN,20,20-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,20-
+Harrington Emily,USA,21,19-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,19-
+Hensley Tiffany,USA,22,19-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,19-
+Kelleway Maegan,CAN,23,19-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,19-
+Metcalf Amelia,USA,24,17-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,17-
+Dorey Alyrene,USA,25,15,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,15
+Sutton Amanda,USA,26,6-,IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5,6-

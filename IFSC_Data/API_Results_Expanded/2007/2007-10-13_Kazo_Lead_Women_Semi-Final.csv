@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Eiter Angela,AUT,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,Top
+Kobayashi Yuka,JPN,2,53+,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,53+
+Vidmar Maja,SLO,3,51-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,51-
+Anda Villanueva Irati,ESP,3,51-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,51-
+Kim Jain,KOR,3,51-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,51-
+Durif Charlotte,FRA,3,51-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,51-
+Sarkany Muriel,BEL,3,51-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,51-
+Gros Natalija,SLO,8,50,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,50
+Ciavaldini Caroline,FRA,9,49+,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,49+
+Bacher Barbara,AUT,10,49-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,49-
+Markovic Mina,SLO,10,49-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,49-
+Noguchi Akiyo,JPN,12,48+,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,48+
+Eyer Alexandra,SUI,13,48-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,48-
+Saurwein Katharina,AUT,13,48-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,48-
+Kimura Rie,JPN,15,41-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,41-
+Raffetseder Gerda,AUT,16,41-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,41-
+Ikeda Yoko,JPN,17,39-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,39-
+Sakakibara Yuko,JPN,18,38,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,38
+Endo Yuka,JPN,19,35-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,35-
+Tanaka Aki,JPN,20,33,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,33
+Watanabe Saari,JPN,21,33,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,33
+Tsutsumi Kiyoe,JPN,22,32-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,32-
+Matthews Sarah,AUS,23,32-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,32-
+Monma Nozomi,JPN,24,30,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,30
+Zhang Dan,CHN,25,30,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,30
+Kubrakova  Natalia,RUS,26,23+,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Women,Semi-Final,2007-10-13,/api/v1/category_rounds/695/results,/api/v1/events/483/result/5,23+

@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ghisolfi Stefano,ITA,1,42+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Final,2021-07-17,/api/v1/category_rounds/6666/results,/api/v1/events/1196/result/1,42+
+Fakirianov Dmitrii,RUS,2,39+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Final,2021-07-17,/api/v1/category_rounds/6666/results,/api/v1/events/1196/result/1,39+
+Stranik Martin,CZE,3,37+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Final,2021-07-17,/api/v1/category_rounds/6666/results,/api/v1/events/1196/result/1,37+
+Bailey Sean,USA,4,36,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Final,2021-07-17,/api/v1/category_rounds/6666/results,/api/v1/events/1196/result/1,36
+Lehmann Sascha,SUI,5,35,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Final,2021-07-17,/api/v1/category_rounds/6666/results,/api/v1/events/1196/result/1,35
+Samoilov Fedir,UKR,6,35,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Final,2021-07-17,/api/v1/category_rounds/6666/results,/api/v1/events/1196/result/1,35
+Ginés López Alberto,ESP,7,27+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Final,2021-07-17,/api/v1/category_rounds/6666/results,/api/v1/events/1196/result/1,27+
+Potocar Luka,SLO,8,22,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Final,2021-07-17,/api/v1/category_rounds/6666/results,/api/v1/events/1196/result/1,22

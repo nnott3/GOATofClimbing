@@ -1,0 +1,20 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Podgorbounskikh Zosia,RUS,1,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Zakharova Olga,UKR,2,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Ryepko Olena,UKR,3,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Inozemtseva Yulia,RUS,4,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Piszczek Renata,POL,5,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Novikova Natalia,RUS,6,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Ovtchinnikova Elena,USA,7,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Trnkova Lenka,CZE,8,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Perlova Nataliya,UKR,9,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Ruyga Tatiana,RUS,10,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Piratinskaya Mayya,RUS,11,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Go Mi-Sun,KOR,12,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Abramchuk Yulia,RUS,13,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Wrobel Urszula,POL,14,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Nieselt Eva,GER,15,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Ostapenko Olena,UKR,16,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Choumilova Elena,RUS,17,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Kuhngaberova Jitka,CZE,18,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+Cardoso Janine,BRA,19,,UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6

@@ -1,0 +1,93 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Qualification,2015-05-17,/api/v1/category_rounds/3412/results,/api/v1/events/897/result/2
+IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Men,Final,2015-05-17,/api/v1/category_rounds/3413/results,/api/v1/events/897/result/2
+IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Women,Qualification,2015-05-17,/api/v1/category_rounds/3410/results,/api/v1/events/897/result/6
+IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,897,2015,Saanich,Speed,Women,Final,2015-05-17,/api/v1/category_rounds/3411/results,/api/v1/events/897/result/6
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2015,898,2015,Toronto,Boulder,Men,Qualification,2015-05-30,/api/v1/category_rounds/3417/results,/api/v1/events/898/result/3
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2015,898,2015,Toronto,Boulder,Men,Semi-Final,2015-05-30,/api/v1/category_rounds/3418/results,/api/v1/events/898/result/3
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2015,898,2015,Toronto,Boulder,Men,Final,2015-05-30,/api/v1/category_rounds/3419/results,/api/v1/events/898/result/3
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2015,898,2015,Toronto,Boulder,Women,Qualification,2015-05-30,/api/v1/category_rounds/3414/results,/api/v1/events/898/result/7
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2015,898,2015,Toronto,Boulder,Women,Semi-Final,2015-05-30,/api/v1/category_rounds/3415/results,/api/v1/events/898/result/7
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2015,898,2015,Toronto,Boulder,Women,Final,2015-05-30,/api/v1/category_rounds/3416/results,/api/v1/events/898/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Men,Qualification,2015-06-05,/api/v1/category_rounds/3423/results,/api/v1/events/899/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Men,Semi-Final,2015-06-05,/api/v1/category_rounds/3424/results,/api/v1/events/899/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Men,Final,2015-06-05,/api/v1/category_rounds/3425/results,/api/v1/events/899/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Women,Qualification,2015-06-05,/api/v1/category_rounds/3420/results,/api/v1/events/899/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Women,Semi-Final,2015-06-05,/api/v1/category_rounds/3421/results,/api/v1/events/899/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2015,899,2015,Vail,Boulder,Women,Final,2015-06-05,/api/v1/category_rounds/3422/results,/api/v1/events/899/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Boulder,Men,Qualification,2015-06-20,/api/v1/category_rounds/3431/results,/api/v1/events/900/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Boulder,Men,Semi-Final,2015-06-20,/api/v1/category_rounds/3432/results,/api/v1/events/900/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Boulder,Men,Final,2015-06-20,/api/v1/category_rounds/3433/results,/api/v1/events/900/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Boulder,Women,Qualification,2015-06-20,/api/v1/category_rounds/3426/results,/api/v1/events/900/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Boulder,Women,Semi-Final,2015-06-20,/api/v1/category_rounds/3427/results,/api/v1/events/900/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Boulder,Women,Final,2015-06-20,/api/v1/category_rounds/3428/results,/api/v1/events/900/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Final,2015-06-20,/api/v1/category_rounds/3435/results,/api/v1/events/900/result/2
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Qualification,2015-06-20,/api/v1/category_rounds/3429/results,/api/v1/events/900/result/6
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Women,Final,2015-06-20,/api/v1/category_rounds/3430/results,/api/v1/events/900/result/6
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Boulder,Men,Qualification,2015-06-26,/api/v1/category_rounds/3441/results,/api/v1/events/901/result/3
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Boulder,Men,Semi-Final,2015-06-26,/api/v1/category_rounds/3442/results,/api/v1/events/901/result/3
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Boulder,Men,Final,2015-06-26,/api/v1/category_rounds/3443/results,/api/v1/events/901/result/3
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Boulder,Women,Qualification,2015-06-26,/api/v1/category_rounds/3436/results,/api/v1/events/901/result/7
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Boulder,Women,Semi-Final,2015-06-26,/api/v1/category_rounds/3437/results,/api/v1/events/901/result/7
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Boulder,Women,Final,2015-06-26,/api/v1/category_rounds/3438/results,/api/v1/events/901/result/7
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Qualification,2015-06-26,/api/v1/category_rounds/3444/results,/api/v1/events/901/result/2
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Men,Final,2015-06-26,/api/v1/category_rounds/3445/results,/api/v1/events/901/result/2
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Women,Qualification,2015-06-26,/api/v1/category_rounds/3439/results,/api/v1/events/901/result/6
+"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",901,2015,Haiyang,Speed,Women,Final,2015-06-26,/api/v1/category_rounds/3440/results,/api/v1/events/901/result/6
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Men,Qualification,2015-07-10,/api/v1/category_rounds/3451/results,/api/v1/events/902/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Men,Semi-Final,2015-07-10,/api/v1/category_rounds/3452/results,/api/v1/events/902/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Men,Final,2015-07-10,/api/v1/category_rounds/3453/results,/api/v1/events/902/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Women,Qualification,2015-07-10,/api/v1/category_rounds/3446/results,/api/v1/events/902/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Women,Semi-Final,2015-07-10,/api/v1/category_rounds/3447/results,/api/v1/events/902/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Lead,Women,Final,2015-07-10,/api/v1/category_rounds/3448/results,/api/v1/events/902/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Final,2015-07-10,/api/v1/category_rounds/3455/results,/api/v1/events/902/result/2
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Women,Qualification,2015-07-10,/api/v1/category_rounds/3449/results,/api/v1/events/902/result/6
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Women,Final,2015-07-10,/api/v1/category_rounds/3450/results,/api/v1/events/902/result/6
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Men,Qualification,2015-07-17,/api/v1/category_rounds/3459/results,/api/v1/events/903/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Men,Semi-Final,2015-07-17,/api/v1/category_rounds/3460/results,/api/v1/events/903/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Men,Final,2015-07-17,/api/v1/category_rounds/3461/results,/api/v1/events/903/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Qualification,2015-07-17,/api/v1/category_rounds/3456/results,/api/v1/events/903/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Final,2015-07-17,/api/v1/category_rounds/3458/results,/api/v1/events/903/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Men,Qualification,2015-07-31,/api/v1/category_rounds/3465/results,/api/v1/events/904/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Men,Semi-Final,2015-07-31,/api/v1/category_rounds/3466/results,/api/v1/events/904/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Men,Final,2015-07-31,/api/v1/category_rounds/3467/results,/api/v1/events/904/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Qualification,2015-07-31,/api/v1/category_rounds/3462/results,/api/v1/events/904/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Semi-Final,2015-07-31,/api/v1/category_rounds/3463/results,/api/v1/events/904/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Final,2015-07-31,/api/v1/category_rounds/3464/results,/api/v1/events/904/result/5
+IFSC Climbing Worldcup (B) - Munich (GER) 2015,905,2015,Munich,Boulder,Men,Qualification,2015-08-14,/api/v1/category_rounds/3471/results,/api/v1/events/905/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2015,905,2015,Munich,Boulder,Men,Semi-Final,2015-08-14,/api/v1/category_rounds/3472/results,/api/v1/events/905/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2015,905,2015,Munich,Boulder,Men,Final,2015-08-14,/api/v1/category_rounds/3473/results,/api/v1/events/905/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2015,905,2015,Munich,Boulder,Women,Qualification,2015-08-14,/api/v1/category_rounds/3468/results,/api/v1/events/905/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2015,905,2015,Munich,Boulder,Women,Semi-Final,2015-08-14,/api/v1/category_rounds/3469/results,/api/v1/events/905/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2015,905,2015,Munich,Boulder,Women,Final,2015-08-14,/api/v1/category_rounds/3470/results,/api/v1/events/905/result/7
+IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Qualification,2015-08-21,/api/v1/category_rounds/3477/results,/api/v1/events/906/result/1
+IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Semi-Final,2015-08-21,/api/v1/category_rounds/3478/results,/api/v1/events/906/result/1
+IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1
+IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Qualification,2015-08-21,/api/v1/category_rounds/3474/results,/api/v1/events/906/result/5
+IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5
+IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Final,2015-08-21,/api/v1/category_rounds/3476/results,/api/v1/events/906/result/5
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Men,Qualification,2015-09-26,/api/v1/category_rounds/3483/results,/api/v1/events/907/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Men,Semi-Final,2015-09-26,/api/v1/category_rounds/3484/results,/api/v1/events/907/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Men,Final,2015-09-26,/api/v1/category_rounds/3485/results,/api/v1/events/907/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Women,Qualification,2015-09-26,/api/v1/category_rounds/3480/results,/api/v1/events/907/result/5
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Women,Semi-Final,2015-09-26,/api/v1/category_rounds/3481/results,/api/v1/events/907/result/5
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2015 ,907,2015,Puurs,Lead,Women,Final,2015-09-26,/api/v1/category_rounds/3482/results,/api/v1/events/907/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Qualification,2015-10-17,/api/v1/category_rounds/3491/results,/api/v1/events/908/result/1
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Semi-Final,2015-10-17,/api/v1/category_rounds/3492/results,/api/v1/events/908/result/1
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Qualification,2015-10-17,/api/v1/category_rounds/3486/results,/api/v1/events/908/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Final,2015-10-17,/api/v1/category_rounds/3488/results,/api/v1/events/908/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Final,2015-10-17,/api/v1/category_rounds/3495/results,/api/v1/events/908/result/2
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Women,Qualification,2015-10-17,/api/v1/category_rounds/3489/results,/api/v1/events/908/result/6
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Women,Final,2015-10-17,/api/v1/category_rounds/3490/results,/api/v1/events/908/result/6
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Qualification,2015-11-14,/api/v1/category_rounds/3499/results,/api/v1/events/909/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Semi-Final,2015-11-14,/api/v1/category_rounds/3500/results,/api/v1/events/909/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Qualification,2015-11-14,/api/v1/category_rounds/3496/results,/api/v1/events/909/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Semi-Final,2015-11-14,/api/v1/category_rounds/3497/results,/api/v1/events/909/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5

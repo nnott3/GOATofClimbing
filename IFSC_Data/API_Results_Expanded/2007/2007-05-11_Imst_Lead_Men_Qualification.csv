@@ -1,0 +1,58 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Lama David,AUT,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,Top
+Mrázek Tomás,CZE,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,Top
+Verhoeven Jorg,NED,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,Top
+Julian  Puigblanque Ramón ,ESP,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,Top
+Usobiaga Lakunza Patxi,ESP,5,51-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,51-
+Marin Garcia Eduard,ESP,6,49+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,49+
+Crespi Flavio,ITA,6,49+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,49+
+Amma Sachi,JPN,8,49,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,49
+Hirayama Yuji,JPN,9,48-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,48-
+Fuselier Michaël,FRA,10,46-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,46-
+Lopez Mateos Eric ,ESP,11,43,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,43
+Dugit Fabien,FRA,12,43-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,43-
+Lachat Cédric,SUI,13,42-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,42-
+Fischhuber Kilian,AUT,13,42-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,42-
+Bindhammer Christian,GER,13,42-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,42-
+Stranik Martin,CZE,16,41+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,41+
+Becan Klemen,SLO,16,41+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,41+
+Guerimand Flavien,FRA,16,41+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,41+
+Millet Sylvain,FRA,19,41,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,41
+Desgranges Romain,FRA,19,41,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,41
+Romain Manuel,FRA,19,41,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,41
+Zardini Luca,ITA,22,41-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,41-
+Midtboe Magnus,NOR,22,41-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,41-
+Winkler Daniel,SUI,24,40-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,40-
+Ten Sijthoff Casper,NED,25,38+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,38+
+Chernikov Mikhail,RUS,25,38+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,38+
+Van der Werf Roman,NED,27,38,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,38
+Gogol Mikhail,RUS,28,36+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,36+
+Jubes Angarita Marco Antonio,ESP,29,31-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,31-
+Kaurov Ivan,RUS,29,31-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,31-
+Jaggi Martin,SUI,31,29,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,29
+Kryukov Valeriy,UKR,31,29,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,29
+De Mattia Nicola,ITA,33,29-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,29-
+Fiori Alessandro,ITA,33,29-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,29-
+Neyer Thomas,AUT,33,29-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,29-
+Sova Matej,SLO,33,29-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,29-
+Heintz Benoit,FRA,37,28,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,28
+Danker Stefan,GER,38,28-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,28-
+Bindhammer Andreas,GER,39,27+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,27+
+Schmid Thomas,SUI,39,27+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,27+
+Berezoski André,BRA,41,27,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,27
+Hlavacek Jakub,CZE,42,25-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,25-
+Pintar Matevz,SLO,43,24+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,24+
+Coretti Manuel,ITA,44,24-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,24-
+Ruh Matthias,SUI,44,24-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,24-
+Svub Ondrej,SVK,44,24-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,24-
+Amann Mark,AUT,47,23+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,23+
+Muran Dalibor,CZE,47,23+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,23+
+Reis Jürgen,AUT,49,22.5,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,22.5
+Baxter Adrian,GBR,50,22,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,22
+Wszolek Marcin,POL,50,22,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,22
+Porebski Rafal,POL,52,22-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,22-
+Kostka Matus,SVK,53,21-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,21-
+Tak Timo,NED,53,21-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,21-
+Svub Matej,SVK,55,20,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,20
+Perov Aleksey,KAZ,56,18-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,18-
+Laine Julien,FRA,57,15,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Qualification,2007-05-11,/api/v1/category_rounds/626/results,/api/v1/events/474/result/1,15

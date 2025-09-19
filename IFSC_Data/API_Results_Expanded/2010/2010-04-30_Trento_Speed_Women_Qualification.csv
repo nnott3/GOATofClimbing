@@ -1,0 +1,16 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Alekseeva Kseniia,RUS,1,11.510,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Levochkina  Yuliya,RUS,2,11.530,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Evstigneeva Olga,RUS,3,11.810,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Blanco Lucelia,VEN,4,12.130,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Ropek Edyta,POL,5,12.280,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Morandi Sara,ITA,6,12.410,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Sheremetyeva Olena,UKR,7,12.700,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Boyarskikh  Ekaterina,RUS,8,12.800,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+BUD Gusaim Oleksandra,UKR,9,13.100,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Savisko Anastasiya,UKR,10,13.280,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Morandi Jessica,ITA,11,13.310,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Kolokovska Anna,UKR,12,13.680,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Ryepko Olena,UKR,13,13.970,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Miroslaw Karina,POL,14,14.150,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6
+Prokopiuk Monika,POL,15,14.290,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,608,2010,Trento,Speed,Women,Qualification,2010-04-30,/api/v1/category_rounds/1355/results,/api/v1/events/608/result/6

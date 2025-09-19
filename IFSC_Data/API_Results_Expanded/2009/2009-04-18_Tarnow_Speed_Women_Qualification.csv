@@ -1,0 +1,20 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Stenkovaya Anna,RUS,1,32.090,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Ropek Edyta,POL,2,33.050,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Tuzhylina Svitlana,UKR,3,35.680,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Blanco Lucelia,VEN,4,35.720,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Buczek Klaudia,POL,5,37.670,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Alekseeva Kseniia,RUS,6,38.620,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Yurina Valentina,RUS,7,38.900,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Savisko Anastasiya,UKR,8,39.180,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Gaidamakina Alina,RUS,9,39.290,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Ryepko Olena,UKR,10,40.120,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Prokopiuk Monika,POL,11,40.470,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+BUD Gusaim Oleksandra,UKR,12,40.710,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Boyarskikh  Ekaterina,RUS,13,45.230,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Wicha Katarzyna,POL,14,45.520,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Levochkina  Yuliya,RUS,15,45.660,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Miroslaw Karina,POL,16,46.040,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Miroslaw Katarzyna,POL,17,48.240,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Rudzinska Malgorzata,POL,18,49.030,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6
+Maneva Radiana,BUL,19,58.530,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,561,2009,Tarnow,Speed,Women,Qualification,2009-04-18,/api/v1/category_rounds/1125/results,/api/v1/events/561/result/6

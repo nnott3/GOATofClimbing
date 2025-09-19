@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Verhoeven Jorg,NED,1,47+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Men,Final,2012-08-10,/api/v1/category_rounds/2100/results,/api/v1/events/735/result/1,47+
+Schubert Jakob,AUT,2,46+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Men,Final,2012-08-10,/api/v1/category_rounds/2100/results,/api/v1/events/735/result/1,46+
+Amma Sachi,JPN,3,46+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Men,Final,2012-08-10,/api/v1/category_rounds/2100/results,/api/v1/events/735/result/1,46+
+Midtboe Magnus,NOR,4,44.5+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Men,Final,2012-08-10,/api/v1/category_rounds/2100/results,/api/v1/events/735/result/1,44.5+
+Julian  Puigblanque Ramón ,ESP,5,35+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Men,Final,2012-08-10,/api/v1/category_rounds/2100/results,/api/v1/events/735/result/1,35+
+Lachat Cédric,SUI,6,32+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Men,Final,2012-08-10,/api/v1/category_rounds/2100/results,/api/v1/events/735/result/1,32+
+Desgranges Romain,FRA,7,27+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Men,Final,2012-08-10,/api/v1/category_rounds/2100/results,/api/v1/events/735/result/1,27+
+Tauporn Thomas,GER,8,27+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Men,Final,2012-08-10,/api/v1/category_rounds/2100/results,/api/v1/events/735/result/1,27+

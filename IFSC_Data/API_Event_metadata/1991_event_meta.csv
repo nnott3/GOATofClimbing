@@ -1,0 +1,17 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup - Wien 1991,100,1991,Wien,Lead,Men,1991-04-25,/api/v1/events/100/result/1
+UIAA Worldcup - Wien 1991,100,1991,Wien,Lead,Women,1991-04-25,/api/v1/events/100/result/5
+UIAA Worldcup - Clusone 1991,101,1991,Clusone,Lead,Men,1991-08-29,/api/v1/events/101/result/1
+UIAA Worldcup - Clusone 1991,101,1991,Clusone,Lead,Women,1991-08-29,/api/v1/events/101/result/5
+UIAA Worldcup - Innsbruck 1991,102,1991,Innsbruck,Lead,Men,1991-09-19,/api/v1/events/102/result/1
+UIAA Worldcup - Innsbruck 1991,102,1991,Innsbruck,Lead,Women,1991-09-19,/api/v1/events/102/result/5
+UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Lead,Men,1991-10-01,/api/v1/events/103/result/1
+UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Lead,Women,1991-10-01,/api/v1/events/103/result/5
+UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Men,1991-10-01,/api/v1/events/103/result/2
+UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6
+UIAA Worldcup - Tokio 1991,104,1991,Tokio,Lead,Men,1991-10-15,/api/v1/events/104/result/1
+UIAA Worldcup - Tokio 1991,104,1991,Tokio,Lead,Women,1991-10-15,/api/v1/events/104/result/5
+UIAA Worldcup - Nürnberg 1991,105,1991,Nürnberg,Lead,Men,1991-10-30,/api/v1/events/105/result/1
+UIAA Worldcup - Nürnberg 1991,105,1991,Nürnberg,Lead,Women,1991-10-30,/api/v1/events/105/result/5
+UIAA Worldcup - Birmingham 1991,106,1991,Birmingham,Lead,Men,1991-12-04,/api/v1/events/106/result/1
+UIAA Worldcup - Birmingham 1991,106,1991,Birmingham,Lead,Women,1991-12-04,/api/v1/events/106/result/5

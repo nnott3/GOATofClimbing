@@ -1,0 +1,31 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Eiter Angela,AUT,1,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Gros Natalija,SLO,2,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Levet Sandrine,FRA,3,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Vidmar Maja,SLO,3,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Sarkany Muriel,BEL,5,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Shalagina Olga,UKR,6,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Eyer Alexandra,SUI,7,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Knorr Damaris,GER,8,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Franko Lucka,SLO,9,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Lavarda Jenny,ITA,10,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Cufar Martina,SLO,11,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Bacher Barbara,AUT,12,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Kobayashi Yuka,JPN,12,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Markovic Mina,SLO,14,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Ciavaldini Caroline,FRA,15,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Saurwein Katharina,AUT,16,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Raffetseder Gerda,AUT,17,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Graftiaux Chloé,BEL,18,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Harnisch Martina,AUT,18,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Martin Delphine,FRA,20,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Stöhr Anna,AUT,20,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Vidmar Katja,SLO,20,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Go Mi-Sun,KOR,23,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Iovane Luisa,ITA,24,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Knoche Lisa,GER,24,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Kysilkova Tereza,CZE,26,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Ostapenko Olena,UKR,26,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Stendal Linn Karin,NOR,28,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Ruh Nadine,GER,29,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5
+Nilwik Rachel,NED,30,,UIAA Worldcup - Kranj (SLO) 2004,362,2004,Kranj,Lead,Women,2004-11-19,/api/v1/events/362/result/5

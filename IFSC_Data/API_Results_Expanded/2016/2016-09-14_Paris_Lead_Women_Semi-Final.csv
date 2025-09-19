@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,47+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,47+
+Markovic Mina,SLO,2,46+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,46+
+Kim Jain,KOR,3,46,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,46
+Verhoeven Anak,BEL,4,45,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,45
+Chanourdie Julia,FRA,5,44+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,44+
+Pilz Jessica,AUT,6,42+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,42+
+Röck Magdalena,AUT,7,37+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,37+
+Buhrfeind Claire,USA,7,37+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,37+
+Ring Alina,SUI,7,37+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,37+
+Schranz Christine,AUT,10,32+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,32+
+Becerra Mathilde,FRA,10,32+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,32+
+Romain Salomé,FRA,12,32,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,32
+Koller Anne-Sophie,SUI,13,31+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,31+
+Posch Katharina,AUT,13,31+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,31+
+Kobayashi Yuka,JPN,13,31+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,31+
+Durif Charlotte,FRA,13,31+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,31+
+Hayes Margo,USA,17,28+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,28+
+Doumont Heloïse,BEL,17,28+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,28+
+Schubert Hannah,AUT,19,27+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,27+
+Miller Delaney,USA,19,27+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,27+
+Kamin Rebeka,SLO,21,26+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,26+
+Hafsaas Tina Johnsen,NOR,21,26+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,26+
+Arc Nolwenn,FRA,23,26,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,26
+Janicot Hélène,FRA,23,26,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,26
+Thompson-Smith Molly,GBR,25,25+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,25+
+Fakhritdinova Dinara,RUS,26,25,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Women,Semi-Final,2016-09-14,/api/v1/category_rounds/3895/results,/api/v1/events/950/result/5,25

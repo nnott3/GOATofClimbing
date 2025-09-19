@@ -1,0 +1,55 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Pons Pedro,ESP,1,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+ANDRADA JIMENEZ Daniel,ESP,2,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+DU LAC Daniel,FRA,3,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Giudici Lucio,ITA,4,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Fairfield Timmy,CAN,5,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Julien Stephane,FRA,6,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Chabot Alexandre,FRA,7,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Tuscan Frédéric,FRA,8,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Meral Julien,FRA,9,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Dutray Mathieu,FRA,10,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Rakhmetov Salavat,RUS,11,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Meyer Jérôme,FRA,12,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Laurence Ludovic,FRA,13,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Golob Jurij,SLO,14,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Auclair François,FRA,15,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Cabane Rafael,FRA,16,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Pont Gabriel,FRA,17,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Cabessut Romain,FRA,18,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Core Christian,ITA,19,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Noe Frédéric,FRA,20,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Dard Yohann,FRA,21,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Lagarigues Laurent,FRA,22,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Jeandenand Damien,FRA,23,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Harbourg Pierre,FRA,24,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Felgerolle Benjamin,FRA,25,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Januel Nicolas,FRA,26,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Pinier Nicolas,FRA,27,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Cehovin Urh,SLO,28,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Gallot-Lavallee Mathieu,FRA,29,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Petit François,FRA,30,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Gras Julien,FRA,31,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Scarian Riccardo,ITA,32,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Jourjon Jean Baptiste,FRA,33,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Sabthier Benoit,FRA,33,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Philippe Jonathan,FRA,35,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Soucek Radovah,CZE,35,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Laurence Emmanuel,FRA,37,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Danis Jean Luc,FRA,38,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Daures Luc,FRA,39,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Boudier Laurent,FRA,40,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Brechet Alexandre,FRA,41,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Chapelle Sylvain,FRA,42,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Filoche Laurent,FRA,43,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Bussu Marco,ITA,44,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Guennebaud Gael,FRA,44,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Mallet Sylvain,FRA,44,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Girard Antoine,FRA,47,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Foubert Benoît,FRA,48,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Boulet Arnaud,FRA,49,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Bloch Elliot,USA,50,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Tavola Daniele,ITA,51,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Louvet Jérome,FRA,52,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Aunet Jimmy,FRA,53,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3
+Boure Denis,FRA,54,,UIAA Worldcup - Millau (FRA) 2000,217,2000,Millau,Boulder,Men,2000-05-31,/api/v1/events/217/result/3

@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Grossman Natalia,USA,1,TOP,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,TOP
+Rakovec Lucka,SLO,2,TOP,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,TOP
+Adamovska Eliska,CZE,3,TOP,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,TOP
+Lukan Vita,SLO,4,TOP,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,TOP
+Shiraishi Ashima,USA,5,TOP,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,TOP
+Totkova Aleksandra,BUL,6,41,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,41
+Skusek Lana,SLO,7,38,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,38
+NAKAGAWA Ryu,JPN,8,36+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,36+
+Tanii Natsuki,JPN,9,36+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,36+
+Moroni Camilla,ITA,10,31+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,31+
+Slemensek Tjasa,SLO,11,31,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,31
+Thompson-Smith Molly,GBR,12,30,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,30
+Hammelmüller Eva Maria,AUT,13,30,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,30
+Pouget Camille,FRA,14,29,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,29
+Demmel Martina,GER,15,29,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,29
+Meul Hannah,GER,16,29,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,29
+Romain Salomé,FRA,17,29,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,29
+Fiser Julia,AUT,18,27+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,27+
+Arthaud Nina,FRA,19,27+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,27+
+Bertone Oriane,FRA,20,27+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,27+
+Gibert Fanny,FRA,21,27+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,27+
+Sterrer Franziska,AUT,22,27+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,27+
+Tesio Giorgia,ITA,23,26+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,26+
+Pötzi Mattea,AUT,24,26+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,26+
+ABE Momoko,JPN,25,21+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,21+
+Tarkus Lucija,SLO,26,20+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5,20+

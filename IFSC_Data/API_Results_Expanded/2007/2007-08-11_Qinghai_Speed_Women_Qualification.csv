@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+He Cuifang,CHN,1,33.830,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Yurina Valentina,RUS,2,34.570,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Stenkovaya Anna,RUS,3,34.780,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Ruyga Tatiana,RUS,4,36.230,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Ropek Edyta,POL,5,37.360,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Li Chunhua,CHN,6,37.810,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+He CuiLian,CHN,7,39.560,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Cheng Lai-Sho,HKG,8,39.730,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Zhang Dan,CHN,9,43.870,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+peng huanmiao,CHN,10,43.950,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Chereshneva Yana,RUS,11,45.740,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Caprez Nina,SUI,12,49.320,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Malamid Evgeniia,RUS,13,51.690,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Saurwein Katharina,AUT,14,51.970,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Soltaninejad Sajedeh,IRI,15,53.380,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Li Xuqing,CHN,16,56.920,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Karami Azam,IRI,17,58.200,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Lee Hung Ying,TPE,18,60.940,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Esmailzadeh Farnaz,IRI,19,fall,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6
+Piratinskaya Mayya,RUS,19,fall,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Women,Qualification,2007-08-11,/api/v1/category_rounds/664/results,/api/v1/events/480/result/6

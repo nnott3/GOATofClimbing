@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Moroni Gabriele,ITA,1,2T4z 3 6,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Men,Final,2018-06-02,/api/v1/category_rounds/4957/results,/api/v1/events/1051/result/3,2,2,X,1,X,2,1,1
+Narasaki Tomoa,JPN,2,1T3z 1 6,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Men,Final,2018-06-02,/api/v1/category_rounds/4957/results,/api/v1/events/1051/result/3,X,X,X,2,X,3,1,1
+Sugimoto Rei,JPN,3,1T3z 4 8,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Men,Final,2018-06-02,/api/v1/category_rounds/4957/results,/api/v1/events/1051/result/3,X,X,X,1,4,2,X,5
+Chon Jongwon,KOR,4,1T2z 2 6,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Men,Final,2018-06-02,/api/v1/category_rounds/4957/results,/api/v1/events/1051/result/3,X,4,2,2,X,X,X,X
+Rubtsov  Aleksei,RUS,5,0T2z 0 4,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Men,Final,2018-06-02,/api/v1/category_rounds/4957/results,/api/v1/events/1051/result/3,X,X,X,1,X,3,X,X
+Harada Kai,JPN,6,0T1z 0 8,IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Men,Final,2018-06-02,/api/v1/category_rounds/4957/results,/api/v1/events/1051/result/3,X,X,X,8,X,X,X,X

@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,TOP,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,TOP
+Rogora Laura,ITA,2,45+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,45+
+Rakovec Lucka,SLO,3,40+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,40+
+Totkova Aleksandra,BUL,4,36+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,36+
+ABE Momoko,JPN,5,35+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,35+
+Lukan Vita,SLO,6,35+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,35+
+Krampl Mia,SLO,7,35,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,35
+Grossman Natalia,USA,8,34+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,34+
+Romain Salomé,FRA,9,34+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,34+
+Chanourdie Julia,FRA,10,34+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,34+
+Skusek Lana,SLO,11,33,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,33
+Bertone Oriane,FRA,12,32+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,32+
+Fiser Julia,AUT,13,32+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,32+
+Tarkus Lucija,SLO,14,32+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,32+
+Hammelmüller Eva Maria,AUT,15,31+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,31+
+Kümin Andrea,SUI,16,31+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,31+
+Condie Kyra,USA,17,30+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,30+
+Gibert Fanny,FRA,18,27+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,27+
+Atkins Käthe,GER,19,23,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,23
+Coscoy Cloe,USA,20,21,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,21
+Ito Futaba,JPN,21,20+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,20+
+Slemensek Tjasa,SLO,22,20,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,20
+KAKIZAKI Miu,JPN,23,20,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,20
+Fakhritdinova Dinara,RUS,24,14+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,14+
+Demmel Martina,GER,25,12+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,12+
+Duffy Julia,USA,26,12,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5,12

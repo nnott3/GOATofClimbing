@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Garnbret Janja,SLO,1,4T4z 4 4,IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Women,Final,2018-08-17,/api/v1/category_rounds/5002/results,/api/v1/events/1057/result/7,1,1,1,1,1,1,1,1
+Nonaka Miho,JPN,2,4T4z 5 5,IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Women,Final,2018-08-17,/api/v1/category_rounds/5002/results,/api/v1/events/1057/result/7,2,2,1,1,1,1,1,1
+Noguchi Akiyo,JPN,3,4T4z 7 6,IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Women,Final,2018-08-17,/api/v1/category_rounds/5002/results,/api/v1/events/1057/result/7,3,2,1,1,2,2,1,1
+Gibert Fanny,FRA,4,1T4z 1 8,IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Women,Final,2018-08-17,/api/v1/category_rounds/5002/results,/api/v1/events/1057/result/7,X,4,1,1,X,2,X,1
+Kadic Katja,SLO,5,1T2z 1 5,IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Women,Final,2018-08-17,/api/v1/category_rounds/5002/results,/api/v1/events/1057/result/7,X,X,1,1,X,4,X,X
+Kipriianova Ekaterina,RUS,6,0T3z 0 5,IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Women,Final,2018-08-17,/api/v1/category_rounds/5002/results,/api/v1/events/1057/result/7,X,X,X,1,X,3,X,1

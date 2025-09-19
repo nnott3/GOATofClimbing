@@ -1,0 +1,35 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Vidmar Maja,SLO,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Ernst Johanna,AUT,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Ciavaldini Caroline,FRA,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Noguchi Akiyo,JPN,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Anda Villanueva Irati,ESP,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Gros Natalija,SLO,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+schöpf Bettina,AUT,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Sarkany Muriel,BEL,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Chereshneva Yana,RUS,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Eyer Alexandra,SUI,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Schranz Christine,AUT,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Durif Charlotte,FRA,1,Top,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,Top
+Bacher Barbara,AUT,15,47-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,47-
+Graftiaux Chloé,BEL,16,46+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,46+
+Shalagina Olga,UKR,17,46,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,46
+Han Seuran,KOR,17,46,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,46
+Thévenet Marine,FRA,19,43+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,43+
+Pinet Florence,FRA,20,42+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,42+
+Couchot Mathilde,FRA,21,42,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,42
+Lavarda Jenny,ITA,22,40,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,40
+Zijlstra Vera,NED,23,34,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,34
+Stendal Linn Karin,NOR,24,34-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,34-
+Wurm Juliane,GER,24,34-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,34-
+Graftiaux Alix,BEL,26,33,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,33
+CARTAS BARRERA Andrea,ESP,27,33-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,33-
+Rodriguez Francis,VEN,28,25,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,25
+Shin Woon-Seon,KOR,28,25,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,25
+Piola Anouk,SUI,30,24+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,24+
+Mikushkina Anna,RUS,31,24-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,24-
+Tanaka Aki,JPN,31,24-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,24-
+Morozkina Olga,RUS,33,23.5,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,23.5
+Cardoso Janine,BRA,34,22-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Qualification,2008-09-26,/api/v1/category_rounds/913/results,/api/v1/events/524/result/5,22-

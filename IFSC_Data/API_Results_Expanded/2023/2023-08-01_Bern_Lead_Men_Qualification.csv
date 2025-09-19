@@ -1,0 +1,130 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+Schubert Jakob,AUT,1.0,1.0,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,42+,32+
+ANRAKU Sorato,JPN,1.0,2.0,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,39+,36+
+Avezou Sam,FRA,1.0,2.0,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,39,37
+Lehmann Sascha,SUI,4.0,2.24,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,41+,31+
+Grupper Jesse,USA,5.0,3.35,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,41+,30+
+Roberts Toby,GBR,5.0,2.83,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,39+,35
+SONG Yunchan,KOR,7.0,4.97,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,38,30+
+Ondra Adam,CZE,7.0,3.16,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,39+,34+
+Ginés López Alberto,ESP,9.0,5.48,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,37,31
+Flohé Yannick,GER,9.0,5.98,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,38+,33
+Grünenfelder Nino,SUI,11.0,7.25,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,37+,28
+YURIKUSA Ao,JPN,11.0,6.71,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,30,35+
+Megos Alexander,GER,13.0,7.35,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,41,25+
+McColl Sean,CAN,13.0,8.06,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,34,33
+Jenft Paul,FRA,15.0,10.06,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,37+,25+
+Duffy Colin,USA,15.0,8.25,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,35+,32+
+Schalck Mejdi,FRA,17.0,10.1,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,34+,26+
+Ogata Yoshiyuki,JPN,17.0,8.46,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,38+,29+
+Utelli Jonas,SUI,19.0,10.68,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,33,29
+NARASAKI Tomoa,JPN,19.0,9.67,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,31+,32+
+Bailey Sean,USA,21.0,11.0,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,38,23+
+Schenk Filip,ITA,21.0,10.58,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,36+,24+
+Stranik Martin,CZE,23.0,11.48,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,33+,26+
+Ghisolfi Stefano,ITA,23.0,11.73,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,30+,31+
+LEE Dohyun,KOR,25.0,11.62,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,37,25+
+PAN YUFEI,CHN,25.0,11.62,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,37,25+
+Bombardi Marcello,ITA,25.0,12.85,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,30,31+
+Collin Nicolas,BEL,28.0,13.25,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,34+,24
+Van Duysen Hannes,BEL,29.0,12.45,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,33+,26
+Martin Philipp,GER,29.0,14.14,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,30+,24+
+Pope James,GBR,31.0,14.47,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,33+,25+
+NARASAKI Meichi,JPN,31.0,14.46,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,29,31+
+Potocar Luka,SLO,33.0,16.93,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,33+,24+
+Lorenzi Simon,BEL,33.0,18.55,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,28+,24+
+McArthur Hamish,GBR,33.0,18.55,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,28+,24+
+Marcus Nimrod,ISR,36.0,17.23,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,32,25+
+Baudrand Oscar,CAN,37.0,20.07,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,33+,22+
+Uznik Nicolai,AUT,37.0,18.57,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,30,18
+CHON Jongwon,KOR,39.0,20.17,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,32,24+
+Harrison Campbell,AUS,39.0,20.17,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,32,24+
+Puman Hannes,SWE,39.0,19.17,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,29+,23
+Kuric Peter,SVK,42.0,22.3,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,26+,24
+Countryman Dillon,USA,43.0,22.14,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,27+,24+
+Flick Dimitri,SUI,43.0,24.03,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,29+,17+
+Potucek Simon,CZE,45.0,25.26,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,26,23+
+Khazanov Alex,ISR,45.0,26.64,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,28+,17+
+Milne Maximillian,GBR,45.0,26.64,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,28+,17+
+Shemla Yuval,ISR,48.0,25.36,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,33+,15+
+Galla Zach,USA,49.0,26.12,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,32,20
+Vancraeynest Ties,BEL,49.0,28.14,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,27+,17+
+Mawem Mickael,FRA,51.0,26.25,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,27+,22+
+Lovenjak Sudar Zan,SLO,51.0,29.01,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,26+,17+
+TRI RAMADANI PUTRA,INA,53.0,26.74,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,32,19+
+Tomatis Giorgio,ITA,53.0,30.07,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,9+,24+
+Moroni Gabriele,ITA,55.0,28.2,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,27+,20+
+Kirov Slav,BUL,55.0,30.67,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,24+,17+
+MUSAUWIR MUSAUWIR,INA,55.0,30.67,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,24+,17+
+Tusnády  Nimród Sebestyén,HUN,55.0,30.67,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,24+,17+
+Serlachius Fredrik,SWE,59.0,29.98,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,23+,22
+Levin Ram,ISR,60.0,31.43,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,19+,22+
+Linacisoro Molina Mikel Asier,ESP,60.0,31.43,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,19+,22+
+MacDougall Jack,GBR,60.0,31.43,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,19+,22+
+McNamee Guy,CAN,63.0,31.98,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,23+,17+
+Scherz Stefan,AUT,63.0,31.98,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,18,20+
+Kolasangian Reza,IRI,65.0,31.52,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,27+,16
+GOH WEN BIN Luke,SGP,65.0,35.18,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,21+,17+
+Martin Nathan,LUX,65.0,35.18,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,21+,17+
+Peharc Anze,SLO,65.0,35.18,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,21+,17+
+Rusev Nikolay,BUL,65.0,35.18,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,21+,17+
+Soin Dylan,AUS,65.0,35.18,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,21+,17+
+Vályi  Gergő,HUN,65.0,35.18,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,21+,17+
+Baudrand Victor,CAN,72.0,33.23,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,21+,18
+Janse van Rensburg Mel,RSA,73.0,35.57,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,11+,23+
+Maibam Chingkheinganba,IND,74.0,35.71,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,20,16
+Moreno Montoya Jair Octavio,MEX,75.0,37.01,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,20+,15+
+McNamee Kindar,CAN,76.0,37.55,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,25+,13+
+ABDI MUHAMMAD FERZA FERNADA,INA,77.0,39.12,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,15+,17+
+Boondech Teeraphon,THA,77.0,38.03,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,22+,17
+INTRACHUPONGSE ARDCH,THA,79.0,39.71,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,19+,15+
+Levin Geva,ISR,79.0,39.71,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,19+,15+
+Urrutia Joaquin,CHI,79.0,38.11,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,19+,17+
+BIM SIGRID,INA,82.0,39.17,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,18,17+
+Cink Jachym,CZE,83.0,40.51,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,13+,19+
+GREGORINI Bautista,ARG,83.0,40.62,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,15+,17+
+Kirov Boyan,BUL,85.0,42.26,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,19+,13+
+Parks Dylan,AUS,85.0,42.26,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,19+,13+
+Rodrigues Bellotto Mateus,BRA,85.0,40.85,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,21+,17
+HAN MINSUNG,KOR,88.0,41.22,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,14,17+
+Lopez Valdez Hector,MEX,89.0,42.76,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,13,18
+KIM DOHYEON,KOR,89.0,41.7,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,22+,15
+Vogt Dimitri,SUI,91.0,43.69,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,14+,15+
+Gruzitis Edvards,LAT,91.0,42.04,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,24+,
+RIZKY SYAHRAFLI SIMATUPANG MUHAMMAD,INA,93.0,46.5,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,14+,13+
+Pare Maxim,AUS,93.0,43.08,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,21+,15+
+SORIA SANCHEZ Lautaro Nicolás,ARG,95.0,46.9,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,13,15+
+Ho Foganholo Felipe ,BRA,95.0,43.23,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,20+,17
+Čulić Lovre,CRO,97.0,47.46,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,15+,12+
+Tkachuk Mykhayil,UKR,97.0,45.48,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,19+,16+
+Panfilov Alexey,KAZ,99.0,49.38,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,14+,12+
+Potucek Stepan,CZE,99.0,49.38,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,14+,12+
+Kern Gabriel,SWE,99.0,46.67,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,19+,15+
+Vargas Benjamin,CHI,102.0,47.87,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,14,17
+De Alba Flores Santiago,MEX,103.0,49.91,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,13,13+
+Villegas García Thor,MEX,103.0,48.74,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,16+,15+
+Devyaterikov Artyom,KAZ,105.0,51.21,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,14+,11+
+Ayala Benjamin,CHI,105.0,51.2,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,16,15
+Castellanos Luis,VEN,107.0,52.44,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,12+,13
+Suter Alejo,ARG,107.0,53.25,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,13+,15
+Di Nino Gianstefano,VEN,109.0,53.65,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,13+,11+
+Vasko Roman,UKR,109.0,53.81,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,9,15+
+Sivakov Roman,LTU,111.0,54.22,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,14,11
+TORRIJO EMILIANO,CHI,111.0,54.98,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,9+,15
+Pino León,CHI,113.0,55.2,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,11+,12+
+Vázquez Diego Ernesto,MEX,113.0,55.2,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,11+,12+
+Flores Emilio,GUA,113.0,54.99,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,11+,13
+Trpovski Viktor,MKD,116.0,56.96,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,10,9
+Snorrason Birgir Óli,ISL,117.0,59.92,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,4,11+
+Marne Hritik,IND,117.0,58.72,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,8+,11+
+Maikotov Azat,KAZ,119.0,60.0,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,10,11
+Arnarson Guðmundur Freyr,ISL,119.0,59.24,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,8+,9+
+PUERTA WONG KENU,PER,121.0,60.19,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,11+,3+
+Ivanov Jovan,MKD,121.0,59.25,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,9,6+
+Obregon Tulio,ECU,123.0,60.5,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,9,11
+Cornu Manuel,FRA,123.0,61.5,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,4,5+
+Markov Matej,MKD,125.0,62.0,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,8,10+
+Bergant Martin,SLO,,DNS,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,DNS,DNS
+Meyer Albin,SWE,,DNS,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,DNS,DNS
+Foroughian Radin,IRI,,DNS,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,DNS,DNS
+Yanev Aiden,AUS,,DNS,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Qualification,2023-08-01,/api/v1/category_rounds/7701/results,/api/v1/events/1301/result/1,DNS,DNS

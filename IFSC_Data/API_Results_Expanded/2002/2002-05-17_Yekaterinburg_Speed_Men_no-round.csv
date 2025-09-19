@@ -1,0 +1,41 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Peshekhonov Alexander,RUS,1,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Sinitcyn Sergei,RUS,2,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Minatchev Evgueni,RUS,3,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Zemski Alexei,RUS,4,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Styenkovyy Maksym,UKR,5,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Sadyrov Marat,RUS,6,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Soubbotine Iakov,RUS,7,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Chaoulsky Alexandre,RUS,8,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Netsvetaev-Dolgalev Vladimir,RUS,9,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Piniguine Serguei,RUS,10,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Kryvosheytsev Yevgen,UKR,11,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Komondi Csaba,HUN,12,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Nourmamatov Serguei,RUS,13,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Kouzovlev Nikolai,RUS,14,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Mikhailov Maxim,RUS,15,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Baranov Vladislav,RUS,16,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Gadeev Alexei,RUS,17,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Kozmine Daniil,RUS,18,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Zakharov Vladimir,UKR,19,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Astachov Igor,RUS,20,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Salimov Oleksandr,UKR,21,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Gusak Igor,UKR,22,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Konovalov Dmytro,UKR,23,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Khopko Alexander,RUS,24,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Gurchiani Zaza,GEO,25,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Sergeyev (Liachenko) Alexandre,RUS,26,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Grebenyuk Oleg,UKR,27,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Abbassi Amin,IRI,28,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Pirvasli Amir,IRI,29,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Bartha Attila,HUN,30,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Jafari Mahmoudabadi Mohammad,IRI,31,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Katsitadze Soso,GEO,32,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Eremin Nikolay,BLR,33,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Feradze Valeri,GEO,33,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Gazdeliani Gurami,GEO,33,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Honcharenko Ihor,UKR,33,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Khaidarchine Dmitri,RUS,33,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Masleonkin Evgeny,RUS,33,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Shyshkovskyy Ivan,UKR,33,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2
+Sief Hossein,IRI,33,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Speed,Men,2002-05-17,/api/v1/events/276/result/2

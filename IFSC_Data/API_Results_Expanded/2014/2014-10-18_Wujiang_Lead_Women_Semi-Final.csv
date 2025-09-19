@@ -1,0 +1,17 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Vidmar Maja,SLO,1,36+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,36+
+Markovic Mina,SLO,2,35+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,35+
+Röck Magdalena,AUT,3,35+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,35+
+Verhoeven Anak,BEL,4,35,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,35
+Posch Katharina,AUT,4,35,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,35
+Kobayashi Yuka,JPN,6,31+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,31+
+Janicot Hélène,FRA,7,30+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,30+
+Onoe Aya,JPN,8,26+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,26+
+Schranz Christine,AUT,9,22+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,22+
+Kim Jain,KOR,10,21+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,21+
+van Bergen Nikki,NED,11,20+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,20+
+Bacher Barbara,AUT,12,20+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,20+
+Fakhritdinova Dinara,RUS,13,20,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,20
+Durif Charlotte,FRA,14,20,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,20
+Fredman Netta,ISR,15,19+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,19+
+Niu Di,CHN,16,18+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5,18+

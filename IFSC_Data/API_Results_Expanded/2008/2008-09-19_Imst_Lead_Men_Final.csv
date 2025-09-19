@@ -1,0 +1,11 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Lama David,AUT,1,50+,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Men,Final,2008-09-19,/api/v1/category_rounds/912/results,/api/v1/events/523/result/1,50+
+Julian  Puigblanque Ramón ,ESP,2,50,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Men,Final,2008-09-19,/api/v1/category_rounds/912/results,/api/v1/events/523/result/1,50
+McColl Sean,CAN,3,41+,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Men,Final,2008-09-19,/api/v1/category_rounds/912/results,/api/v1/events/523/result/1,41+
+Verhoeven Jorg,NED,4,41-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Men,Final,2008-09-19,/api/v1/category_rounds/912/results,/api/v1/events/523/result/1,41-
+Lachat Cédric,SUI,5,40+,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Men,Final,2008-09-19,/api/v1/category_rounds/912/results,/api/v1/events/523/result/1,40+
+Mrázek Tomás,CZE,5,40+,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Men,Final,2008-09-19,/api/v1/category_rounds/912/results,/api/v1/events/523/result/1,40+
+Schubert Jakob,AUT,7,40-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Men,Final,2008-09-19,/api/v1/category_rounds/912/results,/api/v1/events/523/result/1,40-
+Becan Klemen,SLO,8,39+,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Men,Final,2008-09-19,/api/v1/category_rounds/912/results,/api/v1/events/523/result/1,39+
+Kryukov Valeriy,UKR,9,39,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Men,Final,2008-09-19,/api/v1/category_rounds/912/results,/api/v1/events/523/result/1,39
+Ballet Thomas,FRA,10,25-,IFSC Climbing Worldcup (L) - Imst (AUT) 2008,523,2008,Imst,Lead,Men,Final,2008-09-19,/api/v1/category_rounds/912/results,/api/v1/events/523/result/1,25-

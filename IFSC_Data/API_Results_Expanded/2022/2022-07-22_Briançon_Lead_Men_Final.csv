@@ -1,0 +1,10 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Grupper Jesse,USA,1,37,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Final,2022-07-22,/api/v1/category_rounds/7585/results,/api/v1/events/1241/result/1,37
+Homma Taisei,JPN,2,35+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Final,2022-07-22,/api/v1/category_rounds/7585/results,/api/v1/events/1241/result/1,35+
+Megos Alexander,GER,3,35+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Final,2022-07-22,/api/v1/category_rounds/7585/results,/api/v1/events/1241/result/1,35+
+Flohé Yannick,GER,4,35+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Final,2022-07-22,/api/v1/category_rounds/7585/results,/api/v1/events/1241/result/1,35+
+Duffy Colin,USA,5,34+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Final,2022-07-22,/api/v1/category_rounds/7585/results,/api/v1/events/1241/result/1,34+
+Ogata Yoshiyuki,JPN,6,34+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Final,2022-07-22,/api/v1/category_rounds/7585/results,/api/v1/events/1241/result/1,34+
+Schenk Filip,ITA,7,27,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Final,2022-07-22,/api/v1/category_rounds/7585/results,/api/v1/events/1241/result/1,27
+McArthur Hamish,GBR,8,25,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Final,2022-07-22,/api/v1/category_rounds/7585/results,/api/v1/events/1241/result/1,25
+Potocar Luka,SLO,9,18+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Final,2022-07-22,/api/v1/category_rounds/7585/results,/api/v1/events/1241/result/1,18+

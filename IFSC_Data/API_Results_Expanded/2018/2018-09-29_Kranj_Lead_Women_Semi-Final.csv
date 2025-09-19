@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,Top
+Pilz Jessica,AUT,2,40+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,40+
+Garnbret Janja,SLO,3,40,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,40
+Schubert Hannah,AUT,4,38+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,38+
+Hirano Natsumi,JPN,5,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,34+
+Choong Katherine,SUI,6,34,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,34
+Markovic Mina,SLO,7,32,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,32
+Posch Katharina,AUT,8,32,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,32
+Kotake Mei,JPN,9,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,31+
+Krampl Mia,SLO,10,30+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,30+
+Hily Manon,FRA,11,30+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,30+
+Kalan Tjasa,SLO,12,29+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,29+
+Fiser Julia,AUT,13,28+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,28+
+Skusek Lana,SLO,14,28+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,28+
+Doumont Heloïse,BEL,15,28,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,28
+Thompson-Smith Molly,GBR,16,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,26+
+Janicot Hélène,FRA,17,26,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,26
+Koller Anne-Sophie,SUI,18,25+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,25+
+Kadic Katja,SLO,19,25+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,25+
+Lukan Vita,SLO,20,25,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,25
+Nonaka Miho,JPN,21,24+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,24+
+Vejmolova Iva,CZE,22,24,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,24
+Kazbekova Ievgeniia,UKR,23,19,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,19
+Rakovec Lucka,SLO,24,18+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,18+
+Agrapart Maëlys,FRA,25,16+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,16+
+Schranz Christine,AUT,26,11+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5,11+

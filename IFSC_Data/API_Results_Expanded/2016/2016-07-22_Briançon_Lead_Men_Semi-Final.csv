@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Skofic Domen,SLO,1,43+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,43+
+McColl Sean,CAN,2,41+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,41+
+Desgranges Romain,FRA,3,40+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,40+
+Schubert Jakob,AUT,3,40+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,40+
+Supper Gautier,FRA,5,37+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,37+
+Higuchi Masahiro,JPN,6,36+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,36+
+Primozic Urban,SLO,7,36+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,36+
+Lehmann Sascha,SUI,8,36+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,36+
+Ghisolfi Stefano,ITA,9,36,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,36
+Narasaki Meichi,JPN,10,35,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,35
+KIM Hanwool,KOR,11,33,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,33
+Vettorata Francesco,ITA,12,32.5,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,32.5
+Julian  Puigblanque Ramón ,ESP,13,32+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,32+
+Bailey Sean,USA,14,32+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,32+
+Joannes Thomas,FRA,15,32+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,32+
+Puman Hannes,SWE,16,32+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,32+
+Lechner Mario,AUT,17,29,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,29
+Blein Charli,FRA,18,28+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,28+
+Firnenburg David,GER,19,27+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,27+
+Gelmanov Rustam,RUS,19,27+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,27+
+Otaka Kaya,JPN,21,26+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,26+
+Huser Kevin,SUI,22,22+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,22+
+Bosio Anatole,FRA,23,19+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,19+
+Gotta Alberto,ITA,24,19+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,19+
+Tekles Martin,GER,25,17,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,17
+Halenke Sebastian,GER,26,15+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2016,946,2016,Briançon,Lead,Men,Semi-Final,2016-07-22,/api/v1/category_rounds/3870/results,/api/v1/events/946/result/1,15+

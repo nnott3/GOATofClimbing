@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Da Silva Rosmery,VEN,1,23.010,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Final,2007-05-01,/api/v1/category_rounds/614/results,/api/v1/events/472/result/6
+Ruyga Tatiana,RUS,2,23.840,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Final,2007-05-01,/api/v1/category_rounds/614/results,/api/v1/events/472/result/6
+Stenkovaya Anna,RUS,3,23.260,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Final,2007-05-01,/api/v1/category_rounds/614/results,/api/v1/events/472/result/6
+Rodriguez Francis,VEN,4,24.210,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Final,2007-05-01,/api/v1/category_rounds/614/results,/api/v1/events/472/result/6
+Ryepko Olena,UKR,5,24.620,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Final,2007-05-01,/api/v1/category_rounds/614/results,/api/v1/events/472/result/6
+Tuzhylina Svitlana,UKR,6,25.170,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Final,2007-05-01,/api/v1/category_rounds/614/results,/api/v1/events/472/result/6
+Yurina Valentina,RUS,7,26.140,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Final,2007-05-01,/api/v1/category_rounds/614/results,/api/v1/events/472/result/6
+Ropek Edyta,POL,8,27.380,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Final,2007-05-01,/api/v1/category_rounds/614/results,/api/v1/events/472/result/6

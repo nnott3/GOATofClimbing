@@ -1,0 +1,62 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Tribout Jean-Baptiste,FRA,1,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Petit François,FRA,2,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Chevieux Elie,SUI,3,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Zardini Luca,ITA,3,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Coroller Frédéric,FRA,5,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Köstermeyer Guido,GER,6,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Albrand Vincent,FRA,7,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Arocena Patxi,ESP,8,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Finkel Christoph,GER,9,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Mazuer Fabien,FRA,9,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Natech Faycal,FRA,9,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Scassa Severino,ITA,9,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Legrand François,FRA,13,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Giupponi Luca,ITA,14,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Rakhmetov Salavat,RUS,15,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Karn Jim,USA,16,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Hirayama Yuji,JPN,17,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Ryan Tony,GBR,17,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Bucher Christoph,GER,19,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Vickers Ian,GBR,19,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Cameron Stuart A.,GBR,21,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Englekirk Doug,USA,21,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Finne Jean Paul,BEL,21,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Fürst Stefan,AUT,21,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Ovchinnikov Evgeny,RUS,21,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Samoiline Pavel,RUS,21,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Sartori Nicola,ITA,21,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+ANDRADA JIMENEZ Daniel,ESP,28,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Büchele Klaus,GER,29,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Swann Andrew,GBR,29,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+LeBreton Robert,AUS,31,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Gomez Txema,ESP,32,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Arran John,GBR,33,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Lea Michael,GBR,33,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Lombard François,FRA,33,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Unterrainer Günther,AUT,36,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Brasco Carlos,ESP,37,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Grom Aljosa,SLO,37,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Mitchell Tony,GBR,37,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Schelker Johnny,SUI,40,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Cabaret Jean,FRA,41,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Griffith Christian,USA,41,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Ivorra Marc,FRA,41,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Sellars Nick,GBR,41,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+You Damien,FRA,41,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Roumegoux O.,FRA,46,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Dutray Mathieu,FRA,47,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Sharpe J.,GBR,47,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Mus Johan,BEL,49,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Sutcliffe Glenn,GBR,49,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+De Rugy Aymar,FRA,51,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Saetre Frank,NOR,51,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Carreras Portela Javier,ESP,53,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Caspersen Robert,NOR,53,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Hansen Hakon,NOR,53,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Wiercx Evan,RSA,53,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Leloup Philippe,BEL,57,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Clay Lionel,NZL,58,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Davies Andy,RSA,58,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Katys X.,CAN,60,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+Bradshaw Steven,RSA,61,,UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1

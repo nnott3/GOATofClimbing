@@ -1,0 +1,8 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,60+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Men,Final,2012-09-21,/api/v1/category_rounds/2136/results,/api/v1/events/741/result/1,60+
+Lachat Cédric,SUI,2,57+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Men,Final,2012-09-21,/api/v1/category_rounds/2136/results,/api/v1/events/741/result/1,57+
+Desgranges Romain,FRA,3,57+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Men,Final,2012-09-21,/api/v1/category_rounds/2136/results,/api/v1/events/741/result/1,57+
+Amma Sachi,JPN,4,57+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Men,Final,2012-09-21,/api/v1/category_rounds/2136/results,/api/v1/events/741/result/1,57+
+McColl Sean,CAN,5,55+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Men,Final,2012-09-21,/api/v1/category_rounds/2136/results,/api/v1/events/741/result/1,55+
+Verhoeven Jorg,NED,6,51+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Men,Final,2012-09-21,/api/v1/category_rounds/2136/results,/api/v1/events/741/result/1,51+
+Lechner Mario,AUT,7,45,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Men,Final,2012-09-21,/api/v1/category_rounds/2136/results,/api/v1/events/741/result/1,45

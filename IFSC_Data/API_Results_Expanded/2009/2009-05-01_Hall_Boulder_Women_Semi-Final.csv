@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Gros Natalija,SLO,1,3t6 4b9,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,2,2,3,1,X,5,1,1
+Ansade Maud,FRA,2,2t2 2b2,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,1,1,X,X,X,X,1,1
+Lind Angelica,SWE,3,2t3 3b7,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,2,1,X,X,X,5,1,1
+Abramchuk Yulia,RUS,4,2t3 2b3,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,2,2,X,X,X,X,1,1
+Gallyamova Anna,RUS,4,2t3 2b3,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,2,2,X,X,X,X,1,1
+Noguchi Akiyo,JPN,6,2t4 3b5,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,1,1,X,X,3,3,X,1
+Stöhr Anna,AUT,6,2t4 3b5,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,1,1,X,1,X,X,3,3
+Ernst Johanna,AUT,8,2t4 3b9,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,2,2,X,5,X,X,2,2
+Graftiaux Chloé,BEL,9,2t4 2b2,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,1,1,X,X,X,X,3,1
+Saurwein Katharina,AUT,10,2t5 2b5,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,1,1,X,X,X,X,4,4
+Johannesen Therese,NOR,11,2t8 3b10,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,5,3,X,5,X,X,3,2
+Lavarda Jenny,ITA,12,2t9 2b8,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,4,4,X,X,X,X,5,4
+Markovic Mina,SLO,13,2t10 2b10,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,8,8,X,X,X,X,2,2
+Chevrier Anne-Laure,FRA,14,1t1 3b5,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,1,1,X,X,X,3,X,1
+Balakireva Alexandra,RUS,15,1t1 2b3,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,1,1,X,X,X,X,X,2
+Bibik Olga,RUS,16,1t2 2b3,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,2,2,X,X,X,X,X,1
+Midtboe Hannah,NOR,17,1t2 2b4,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,2,2,X,X,X,X,X,2
+Verdier Emilie,FRA,18,1t3 2b4,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,3,3,X,X,X,X,X,1
+Schranz Christine,AUT,19,1t4 3b9,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,4,4,X,3,X,X,X,2
+Chereshneva Yana,RUS,20,1t5 2b6,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Women,Semi-Final,2009-05-01,/api/v1/category_rounds/1134/results,/api/v1/events/563/result/7,5,5,X,X,X,X,X,1

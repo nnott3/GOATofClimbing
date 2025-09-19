@@ -1,0 +1,14 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Verhoeven Anak,BEL,1,Top,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,Top
+Shiraishi Ashima,USA,2,34+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,34+
+Garnbret Janja,SLO,3,33+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,33+
+Pilz Jessica,AUT,4,33+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,33+
+Markovic Mina,SLO,5,33+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,33+
+Noguchi Akiyo,JPN,6,32+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,32+
+Thompson-Smith Molly,GBR,6,32+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,32+
+Kim Jain,KOR,8,31+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,31+
+Schubert Hannah,AUT,8,31+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,31+
+Ota Risa,JPN,10,23+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,23+
+Becerra Mathilde,FRA,11,22+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,22+
+Chanourdie Julia,FRA,11,22+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,22+
+Kotake Mei,JPN,11,22+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Women,Final,2017-10-14,/api/v1/category_rounds/4346/results,/api/v1/events/996/result/5,22+

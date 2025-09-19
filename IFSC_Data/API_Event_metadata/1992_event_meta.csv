@@ -1,0 +1,13 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup - Zürich 1992,113,1992,Zürich,Lead,Men,1992-04-30,/api/v1/events/113/result/1
+UIAA Worldcup - Zürich 1992,113,1992,Zürich,Lead,Women,1992-04-30,/api/v1/events/113/result/5
+UIAA Worldcup - Kobe 1992,114,1992,Kobe,Lead,Men,1992-10-07,/api/v1/events/114/result/1
+UIAA Worldcup - Kobe 1992,114,1992,Kobe,Lead,Women,1992-10-07,/api/v1/events/114/result/5
+UIAA Worldcup - Nürnberg 1992,115,1992,Nürnberg,Lead,Men,1992-10-29,/api/v1/events/115/result/1
+UIAA Worldcup - Nürnberg 1992,115,1992,Nürnberg,Lead,Women,1992-10-29,/api/v1/events/115/result/5
+UIAA Worldcup - St. Pölten 1992,116,1992,St. Pölten,Lead,Men,1992-11-13,/api/v1/events/116/result/1
+UIAA Worldcup - St. Pölten 1992,116,1992,St. Pölten,Lead,Women,1992-11-13,/api/v1/events/116/result/5
+UIAA Worldcup - Laval 1992,117,1992,Laval,Lead,Men,1992-11-19,/api/v1/events/117/result/1
+UIAA Worldcup - Laval 1992,117,1992,Laval,Lead,Women,1992-11-19,/api/v1/events/117/result/5
+UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Men,1992-12-10,/api/v1/events/118/result/1
+UIAA Worldcup - Birmingham 1992,118,1992,Birmingham,Lead,Women,1992-12-10,/api/v1/events/118/result/5

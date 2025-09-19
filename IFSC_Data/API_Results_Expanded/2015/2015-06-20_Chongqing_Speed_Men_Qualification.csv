@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Hroza Libor,CZE,1,5.610,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Zhong QiXin,CHN,2,6.190,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Boldyrev Danyil,UKR,3,6.210,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Mawem Bassa,FRA,3,6.210,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Alipourshenazandifar Reza,IRI,5,6.240,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Dzienski Marcin,POL,6,6.320,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Maimuratov Amir,KAZ,7,6.330,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Vaitsekhovskii Evgenii,RUS,8,6.370,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Shilov Aleksandr,RUS,9,6.480,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+LIN PengHui,CHN,10,6.640,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Komosinski Jedrzej,POL,11,6.690,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Stewart-Patterson Robert,CAN,11,6.690,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Nambot Quentin,FRA,13,6.760,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Ou ZhiYong,CHN,14,6.830,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Kokorin Stanislav,RUS,15,7.120,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Luzhetskii Sergei,RUS,16,7.130,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Khaibullin Rishat,KAZ,17,7.200,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Chae Sungjoon,KOR,18,7.580,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Sordyl Tomasz,POL,19,7.750,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Kim Hyunjae,KOR,20,7.820,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Kim Jungju,KOR,21,8.130,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Yeo Xu Hong Ryan,SGP,22,8.200,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Hyun Jekyoung,KOR,23,8.300,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+McColl Sean,CAN,24,8.410,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Egizbayev Kanat,KAZ,25,8.630,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+Kwon Daehyeon,KOR,26,8.730,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2
+AU Chi-fung,HKG,27,9.610,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",900,2015,Chongqing,Speed,Men,Qualification,2015-06-20,/api/v1/category_rounds/3434/results,/api/v1/events/900/result/2

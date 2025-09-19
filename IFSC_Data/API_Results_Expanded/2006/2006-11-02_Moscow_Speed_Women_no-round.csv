@@ -1,0 +1,16 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Ruyga Tatiana,RUS,1,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Malkova Yana,RUS,2,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Yurina Valentina,RUS,3,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Ryepko Olena,UKR,4,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Stenkovaya Anna,RUS,5,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Alekseeva Kseniia,RUS,6,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Saulevich Olesya,RUS,7,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Tuzhylina Svitlana,UKR,8,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Shemulinkina  Tatiana,RUS,9,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Chereshneva Yana,RUS,10,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Gallyamova Anna,RUS,11,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Rodriguez Francis,VEN,12,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Nilsson Kristina,SWE,13,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Sparre Lovise,SWE,14,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+Uvarova Nastasiya,UKR,15,,UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6

@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Desgranges Romain,FRA,1,Top,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,Top
+Supper Gautier,FRA,2,37+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,37+
+Skofic Domen,SLO,3,37,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,37
+Korenaga Keiichiro,JPN,4,36+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,36+
+Ghisolfi Stefano,ITA,5,36+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,36+
+Schubert Jakob,AUT,6,35.5+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,35.5+
+Min Hyunbin,KOR,7,35.5,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,35.5
+McColl Sean,CAN,8,33+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,33+
+Ondra Adam,CZE,9,33+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,33+
+Midtboe Magnus,NOR,10,33+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,33+
+Matsushima Akito,JPN,11,33+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,33+
+Chernikov Mikhail,RUS,12,32+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,32+
+Park Jihwan,KOR,13,32+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,32+
+Shimizu Hiroto,JPN,14,31+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,31+
+Julian  Puigblanque Ramón ,ESP,15,24+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,24+
+Romain Manuel,FRA,16,24+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,24+
+KIM Hanwool,KOR,17,24+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,24+
+Ma ZiDa,CHN,18,24+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,24+
+Wang Qinghua,CHN,19,24+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,24+
+Lechner Mario,AUT,20,23+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,23+
+Kim Hongil,KOR,21,21+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,21+
+JonasMcRae Elan,CAN,22,21+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,21+
+Qu HaiBin,CHN,23,17+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,17+
+Yun Shinyeong,KOR,24,17+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,17+
+Kim Jabee,KOR,25,12+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,12+
+Timmermans Loïc,BEL,26,12+,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1,12+

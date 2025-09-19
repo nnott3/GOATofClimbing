@@ -1,0 +1,85 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC - Climbing World Cup (B) - Meiringen (SUI) 2021,1187,2021,Meiringen,Boulder,Men,Qualification,2021-04-16,/api/v1/category_rounds/6164/results,/api/v1/events/1187/result/3
+IFSC - Climbing World Cup (B) - Meiringen (SUI) 2021,1187,2021,Meiringen,Boulder,Men,Semi-Final,2021-04-16,/api/v1/category_rounds/6374/results,/api/v1/events/1187/result/3
+IFSC - Climbing World Cup (B) - Meiringen (SUI) 2021,1187,2021,Meiringen,Boulder,Men,Final,2021-04-16,/api/v1/category_rounds/6376/results,/api/v1/events/1187/result/3
+IFSC - Climbing World Cup (B) - Meiringen (SUI) 2021,1187,2021,Meiringen,Boulder,Women,Qualification,2021-04-16,/api/v1/category_rounds/6165/results,/api/v1/events/1187/result/7
+IFSC - Climbing World Cup (B) - Meiringen (SUI) 2021,1187,2021,Meiringen,Boulder,Women,Semi-Final,2021-04-16,/api/v1/category_rounds/6375/results,/api/v1/events/1187/result/7
+IFSC - Climbing World Cup (B) - Meiringen (SUI) 2021,1187,2021,Meiringen,Boulder,Women,Final,2021-04-16,/api/v1/category_rounds/6377/results,/api/v1/events/1187/result/7
+IFSC - Climbing World Cup (B) - Salt Lake City (USA) 2021,1190,2021,Salt Lake City,Boulder,Men,Qualification,2021-05-21,/api/v1/category_rounds/6174/results,/api/v1/events/1190/result/3
+IFSC - Climbing World Cup (B) - Salt Lake City (USA) 2021,1190,2021,Salt Lake City,Boulder,Men,Semi-Final,2021-05-21,/api/v1/category_rounds/6454/results,/api/v1/events/1190/result/3
+IFSC - Climbing World Cup (B) - Salt Lake City (USA) 2021,1190,2021,Salt Lake City,Boulder,Men,Final,2021-05-21,/api/v1/category_rounds/6456/results,/api/v1/events/1190/result/3
+IFSC - Climbing World Cup (B) - Salt Lake City (USA) 2021,1190,2021,Salt Lake City,Boulder,Women,Qualification,2021-05-21,/api/v1/category_rounds/6175/results,/api/v1/events/1190/result/7
+IFSC - Climbing World Cup (B) - Salt Lake City (USA) 2021,1190,2021,Salt Lake City,Boulder,Women,Semi-Final,2021-05-21,/api/v1/category_rounds/6455/results,/api/v1/events/1190/result/7
+IFSC - Climbing World Cup (B) - Salt Lake City (USA) 2021,1190,2021,Salt Lake City,Boulder,Women,Final,2021-05-21,/api/v1/category_rounds/6457/results,/api/v1/events/1190/result/7
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1192,2021,Salt Lake City,Boulder,Men,Qualification,2021-05-28,/api/v1/category_rounds/6176/results,/api/v1/events/1192/result/3
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1192,2021,Salt Lake City,Boulder,Men,Semi-Final,2021-05-28,/api/v1/category_rounds/6500/results,/api/v1/events/1192/result/3
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1192,2021,Salt Lake City,Boulder,Men,Final,2021-05-28,/api/v1/category_rounds/6502/results,/api/v1/events/1192/result/3
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1192,2021,Salt Lake City,Boulder,Women,Qualification,2021-05-28,/api/v1/category_rounds/6177/results,/api/v1/events/1192/result/7
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1192,2021,Salt Lake City,Boulder,Women,Semi-Final,2021-05-28,/api/v1/category_rounds/6501/results,/api/v1/events/1192/result/7
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1192,2021,Salt Lake City,Boulder,Women,Final,2021-05-28,/api/v1/category_rounds/6503/results,/api/v1/events/1192/result/7
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1192,2021,Salt Lake City,Speed,Men,Qualification,2021-05-28,/api/v1/category_rounds/6178/results,/api/v1/events/1192/result/2
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1192,2021,Salt Lake City,Speed,Men,Final,2021-05-28,/api/v1/category_rounds/6498/results,/api/v1/events/1192/result/2
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1192,2021,Salt Lake City,Speed,Women,Qualification,2021-05-28,/api/v1/category_rounds/6179/results,/api/v1/events/1192/result/6
+"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2021",1192,2021,Salt Lake City,Speed,Women,Final,2021-05-28,/api/v1/category_rounds/6499/results,/api/v1/events/1192/result/6
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Qualification,2021-06-23,/api/v1/category_rounds/6180/results,/api/v1/events/1193/result/1
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Final,2021-06-23,/api/v1/category_rounds/6596/results,/api/v1/events/1193/result/1
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Women,Qualification,2021-06-23,/api/v1/category_rounds/6181/results,/api/v1/events/1193/result/5
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Women,Semi-Final,2021-06-23,/api/v1/category_rounds/6595/results,/api/v1/events/1193/result/5
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Women,Final,2021-06-23,/api/v1/category_rounds/6597/results,/api/v1/events/1193/result/5
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Boulder,Men,Qualification,2021-06-23,/api/v1/category_rounds/6182/results,/api/v1/events/1193/result/3
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Boulder,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6598/results,/api/v1/events/1193/result/3
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Boulder,Men,Final,2021-06-23,/api/v1/category_rounds/6600/results,/api/v1/events/1193/result/3
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Boulder,Women,Qualification,2021-06-23,/api/v1/category_rounds/6183/results,/api/v1/events/1193/result/7
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Boulder,Women,Semi-Final,2021-06-23,/api/v1/category_rounds/6599/results,/api/v1/events/1193/result/7
+"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Boulder,Women,Final,2021-06-23,/api/v1/category_rounds/6601/results,/api/v1/events/1193/result/7
+"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Qualification,2021-07-01,/api/v1/category_rounds/6184/results,/api/v1/events/1194/result/1
+"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Semi-Final,2021-07-01,/api/v1/category_rounds/6615/results,/api/v1/events/1194/result/1
+"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1
+"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Qualification,2021-07-01,/api/v1/category_rounds/6185/results,/api/v1/events/1194/result/5
+"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Semi-Final,2021-07-01,/api/v1/category_rounds/6616/results,/api/v1/events/1194/result/5
+"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Women,Final,2021-07-01,/api/v1/category_rounds/6618/results,/api/v1/events/1194/result/5
+"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Speed,Men,Qualification,2021-07-01,/api/v1/category_rounds/6196/results,/api/v1/events/1194/result/2
+"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Speed,Men,Final,2021-07-01,/api/v1/category_rounds/6619/results,/api/v1/events/1194/result/2
+"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Speed,Women,Qualification,2021-07-01,/api/v1/category_rounds/6197/results,/api/v1/events/1194/result/6
+"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Speed,Women,Final,2021-07-01,/api/v1/category_rounds/6620/results,/api/v1/events/1194/result/6
+IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Qualification,2021-07-12,/api/v1/category_rounds/6186/results,/api/v1/events/1195/result/1
+IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Semi-Final,2021-07-12,/api/v1/category_rounds/6621/results,/api/v1/events/1195/result/1
+IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1
+IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Qualification,2021-07-12,/api/v1/category_rounds/6187/results,/api/v1/events/1195/result/5
+IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5
+IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Final,2021-07-12,/api/v1/category_rounds/6624/results,/api/v1/events/1195/result/5
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Qualification,2021-07-17,/api/v1/category_rounds/6188/results,/api/v1/events/1196/result/1
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Semi-Final,2021-07-17,/api/v1/category_rounds/6664/results,/api/v1/events/1196/result/1
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Men,Final,2021-07-17,/api/v1/category_rounds/6666/results,/api/v1/events/1196/result/1
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Qualification,2021-07-17,/api/v1/category_rounds/6189/results,/api/v1/events/1196/result/5
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Semi-Final,2021-07-17,/api/v1/category_rounds/6665/results,/api/v1/events/1196/result/5
+IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5
+IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Qualification,2021-09-03,/api/v1/category_rounds/6190/results,/api/v1/events/1197/result/1
+IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Semi-Final,2021-09-03,/api/v1/category_rounds/6761/results,/api/v1/events/1197/result/1
+IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Final,2021-09-03,/api/v1/category_rounds/6763/results,/api/v1/events/1197/result/1
+IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Qualification,2021-09-03,/api/v1/category_rounds/6191/results,/api/v1/events/1197/result/5
+IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Semi-Final,2021-09-03,/api/v1/category_rounds/6762/results,/api/v1/events/1197/result/5
+IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Qualification,2021-09-16,/api/v1/category_rounds/6140/results,/api/v1/events/1185/result/1
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6767/results,/api/v1/events/1185/result/1
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Men,Final,2021-09-16,/api/v1/category_rounds/6769/results,/api/v1/events/1185/result/1
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Qualification,2021-09-16,/api/v1/category_rounds/6141/results,/api/v1/events/1185/result/5
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6768/results,/api/v1/events/1185/result/5
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Lead,Women,Final,2021-09-16,/api/v1/category_rounds/6770/results,/api/v1/events/1185/result/5
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Speed,Men,Qualification,2021-09-16,/api/v1/category_rounds/6142/results,/api/v1/events/1185/result/2
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Speed,Men,Final,2021-09-16,/api/v1/category_rounds/6771/results,/api/v1/events/1185/result/2
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Speed,Women,Qualification,2021-09-16,/api/v1/category_rounds/6143/results,/api/v1/events/1185/result/6
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Speed,Women,Final,2021-09-16,/api/v1/category_rounds/6772/results,/api/v1/events/1185/result/6
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Boulder,Men,Qualification,2021-09-16,/api/v1/category_rounds/6144/results,/api/v1/events/1185/result/3
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Boulder,Men,Semi-Final,2021-09-16,/api/v1/category_rounds/6773/results,/api/v1/events/1185/result/3
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Boulder,Men,Final,2021-09-16,/api/v1/category_rounds/6775/results,/api/v1/events/1185/result/3
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Boulder,Women,Qualification,2021-09-16,/api/v1/category_rounds/6145/results,/api/v1/events/1185/result/7
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Boulder,Women,Semi-Final,2021-09-16,/api/v1/category_rounds/6774/results,/api/v1/events/1185/result/7
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Boulder,Women,Final,2021-09-16,/api/v1/category_rounds/6776/results,/api/v1/events/1185/result/7
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Combined,Men,Qualification,2021-09-16,/api/v1/category_rounds/6832/results,/api/v1/events/1185/result/4
+"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",1185,2021,Moscow,Combined,Women,Qualification,2021-09-16,/api/v1/category_rounds/6833/results,/api/v1/events/1185/result/8
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2021 - CANCELLED",1189,2021,Seoul,Boulder,Men,Qualification,2021-10-01,/api/v1/category_rounds/6170/results,/api/v1/events/1189/result/3
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2021 - CANCELLED",1189,2021,Seoul,Boulder,Women,Qualification,2021-10-01,/api/v1/category_rounds/6171/results,/api/v1/events/1189/result/7
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2021 - CANCELLED",1189,2021,Seoul,Speed,Men,Qualification,2021-10-01,/api/v1/category_rounds/6172/results,/api/v1/events/1189/result/2
+"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2021 - CANCELLED",1189,2021,Seoul,Speed,Women,Qualification,2021-10-01,/api/v1/category_rounds/6173/results,/api/v1/events/1189/result/6

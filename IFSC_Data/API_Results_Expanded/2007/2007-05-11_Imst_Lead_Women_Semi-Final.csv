@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Eiter Angela,AUT,1,Top,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,Top
+Markovic Mina,SLO,2,52,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,52
+Saurwein Katharina,AUT,3,48-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,48-
+Sarkany Muriel,BEL,4,46-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,46-
+Lavarda Jenny,ITA,5,44-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,44-
+Durif Charlotte,FRA,6,42.5-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,42.5-
+Eyer Alexandra,SUI,7,42,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,42
+Levet Sandrine,FRA,7,42,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,42
+Pinet Florence,FRA,9,38-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,38-
+Bacher Barbara,AUT,10,37,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,37
+Gros Natalija,SLO,10,37,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,37
+Vidmar Maja,SLO,10,37,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,37
+schöpf Bettina,AUT,13,35,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,35
+Anda Villanueva Irati,ESP,14,34,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,34
+Schranz Barbara,AUT,15,34-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,34-
+Ociepka Kinga,POL,16,33+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,33+
+Kobayashi Yuka,JPN,17,30,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,30
+Ciavaldini Caroline,FRA,18,30-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,30-
+Franko Lucka,SLO,18,30-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,30-
+Chereshneva Yana,RUS,20,30-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,30-
+Malamid Evgeniia,RUS,20,30-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,30-
+Schmid Christina,SUI,22,29+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,29+
+Schranz Christine,AUT,23,29,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,29
+Wurm Juliane,GER,24,29,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,29
+Korolkova Ekaterina,RUS,25,29,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,29
+Conan Fanny,FRA,26,27,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Semi-Final,2007-05-11,/api/v1/category_rounds/624/results,/api/v1/events/474/result/5,27

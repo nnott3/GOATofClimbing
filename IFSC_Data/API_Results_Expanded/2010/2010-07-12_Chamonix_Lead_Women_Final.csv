@@ -1,0 +1,10 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Durif Charlotte,FRA,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Final,2010-07-12,/api/v1/category_rounds/1400/results,/api/v1/events/615/result/5,Top
+Janicot Hélène,FRA,2,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Final,2010-07-12,/api/v1/category_rounds/1400/results,/api/v1/events/615/result/5,Top
+Vidmar Maja,SLO,3,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Final,2010-07-12,/api/v1/category_rounds/1400/results,/api/v1/events/615/result/5,Top
+Eyer Alexandra,SUI,4,48,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Final,2010-07-12,/api/v1/category_rounds/1400/results,/api/v1/events/615/result/5,48
+Eiter Angela,AUT,5,48-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Final,2010-07-12,/api/v1/category_rounds/1400/results,/api/v1/events/615/result/5,48-
+Oda Momoka,JPN,6,48-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Final,2010-07-12,/api/v1/category_rounds/1400/results,/api/v1/events/615/result/5,48-
+Shalagina Olga,UKR,7,43+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Final,2010-07-12,/api/v1/category_rounds/1400/results,/api/v1/events/615/result/5,43+
+Dufraisse Alizée,FRA,8,43-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Final,2010-07-12,/api/v1/category_rounds/1400/results,/api/v1/events/615/result/5,43-
+Avoscan Sara,ITA,9,41+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Women,Final,2010-07-12,/api/v1/category_rounds/1400/results,/api/v1/events/615/result/5,41+

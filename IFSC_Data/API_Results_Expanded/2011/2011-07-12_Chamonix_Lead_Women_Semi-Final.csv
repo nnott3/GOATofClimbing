@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ciavaldini Caroline,FRA,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,Top
+Eiter Angela,AUT,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,Top
+Kim Jain,KOR,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,Top
+Markovic Mina,SLO,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,Top
+Posch Katharina,AUT,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,Top
+Schranz Christine,AUT,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,Top
+DiGiulian Sasha,USA,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,Top
+Oda Momoka,JPN,8,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,Top
+Chereshneva Yana,RUS,9,47-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,47-
+Thévenet Marine,FRA,10,46+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,46+
+Ernst Johanna,AUT,11,46,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,46
+Durif Charlotte,FRA,12,46,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,46
+Röck Magdalena,AUT,13,46-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,46-
+Bacher Barbara,AUT,14,45+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,45+
+Lavarda Jenny,ITA,15,44.5,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,44.5
+Vidmar Maja,SLO,16,43+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,43+
+Eyer Alexandra,SUI,17,43+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,43+
+Fakhritdinova Dinara,RUS,18,43+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,43+
+Stütz Christina,AUT,19,43+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,43+
+Sa Sol,KOR,20,43+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,43+
+Kobayashi Yuka,JPN,21,43-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,43-
+Terenteva Galina,RUS,22,40+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,40+
+Dufraisse Alizée,FRA,23,40-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,40-
+Hafsaas Tina Johnsen,NOR,24,40-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,40-
+Avezou Cecile,FRA,25,40-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,40-
+Serrière Julia,FRA,26,39-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5,39-

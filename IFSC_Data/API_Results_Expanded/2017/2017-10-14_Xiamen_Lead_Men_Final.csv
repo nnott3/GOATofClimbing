@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Korenaga Keiichiro,JPN,1,38+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Men,Final,2017-10-14,/api/v1/category_rounds/4351/results,/api/v1/events/996/result/1,38+
+Narasaki Tomoa,JPN,2,34,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Men,Final,2017-10-14,/api/v1/category_rounds/4351/results,/api/v1/events/996/result/1,34
+Pan YuFei,CHN,3,33,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Men,Final,2017-10-14,/api/v1/category_rounds/4351/results,/api/v1/events/996/result/1,33
+Chon Jongwon,KOR,4,31+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Men,Final,2017-10-14,/api/v1/category_rounds/4351/results,/api/v1/events/996/result/1,31+
+Samoilov Fedir,UKR,5,30+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Men,Final,2017-10-14,/api/v1/category_rounds/4351/results,/api/v1/events/996/result/1,30+
+Fujii Kokoro,JPN,6,29+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Men,Final,2017-10-14,/api/v1/category_rounds/4351/results,/api/v1/events/996/result/1,29+
+Ghisolfi Stefano,ITA,7,26+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Men,Final,2017-10-14,/api/v1/category_rounds/4351/results,/api/v1/events/996/result/1,26+
+Qu HaiBin,CHN,8,17+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",996,2017,Xiamen,Lead,Men,Final,2017-10-14,/api/v1/category_rounds/4351/results,/api/v1/events/996/result/1,17+

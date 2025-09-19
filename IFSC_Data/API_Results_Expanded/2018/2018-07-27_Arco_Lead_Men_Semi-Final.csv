@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Lehmann Sascha,SUI,1,47,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,47
+Schubert Jakob,AUT,2,44+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,44+
+Skofic Domen,SLO,3,44+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,44+
+Tanaka Shuta,JPN,4,44+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,44+
+Ondra Adam,CZE,5,44,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,44
+Ghisolfi Stefano,ITA,6,43+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,43+
+Ginés López Alberto,ESP,7,41,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,41
+Min Hyunbin,KOR,8,39+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,39+
+Desgranges Romain,FRA,9,39,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,39
+Bailey Sean,USA,10,37+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,37+
+Nishida Hidemasa,JPN,11,37+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,37+
+Megos Alexander,GER,12,37+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,37+
+Joannes Thomas,FRA,13,37+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,37+
+Hada Yuki,JPN,14,37+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,37+
+Nakagami Taito,JPN,15,37+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,37+
+Shimizu Hiroto,JPN,16,37+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,37+
+Timmermans Loïc,BEL,17,37,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,37
+Higuchi Masahiro,JPN,18,36+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,36+
+Rudigier Max,AUT,19,36+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,36+
+Bombardi Marcello,ITA,20,36+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,36+
+Flohé Yannick,GER,21,34+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,34+
+Vettorata Francesco,ITA,22,34+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,34+
+Puman Hannes,SWE,23,34+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,34+
+Hojer Jan,GER,24,33+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,33+
+Verhoeven Jorg,NED,25,30+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,30+
+Samoilov Fedir,UKR,26,29,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1,29

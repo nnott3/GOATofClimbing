@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+ANRAKU Sorato,JPN,1,48+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Men,Final,2025-09-05,/api/v1/category_rounds/10252/results,/api/v1/events/1416/result/1,48+,"2025-09-05_Koper, SLO_Lead_Men_Final.csv"
+Ginés López Alberto,ESP,2,47+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Men,Final,2025-09-05,/api/v1/category_rounds/10252/results,/api/v1/events/1416/result/1,47+,"2025-09-05_Koper, SLO_Lead_Men_Final.csv"
+Roberts Toby,GBR,3,46+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Men,Final,2025-09-05,/api/v1/category_rounds/10252/results,/api/v1/events/1416/result/1,46+,"2025-09-05_Koper, SLO_Lead_Men_Final.csv"
+YOSHIDA Satone,JPN,4,45,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Men,Final,2025-09-05,/api/v1/category_rounds/10252/results,/api/v1/events/1416/result/1,45,"2025-09-05_Koper, SLO_Lead_Men_Final.csv"
+Schubert Jakob,AUT,5,43,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Men,Final,2025-09-05,/api/v1/category_rounds/10252/results,/api/v1/events/1416/result/1,43,"2025-09-05_Koper, SLO_Lead_Men_Final.csv"
+TRI RAMADANI PUTRA,INA,6,40+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Men,Final,2025-09-05,/api/v1/category_rounds/10252/results,/api/v1/events/1416/result/1,40+,"2025-09-05_Koper, SLO_Lead_Men_Final.csv"
+Ondra Adam,CZE,7,35+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Men,Final,2025-09-05,/api/v1/category_rounds/10252/results,/api/v1/events/1416/result/1,35+,"2025-09-05_Koper, SLO_Lead_Men_Final.csv"
+Suzuki Neo,JPN,8,10+,IFSC World Cup Koper 2025,1416,2025,"Koper, SLO",Lead,Men,Final,2025-09-05,/api/v1/category_rounds/10252/results,/api/v1/events/1416/result/1,10+,"2025-09-05_Koper, SLO_Lead_Men_Final.csv"

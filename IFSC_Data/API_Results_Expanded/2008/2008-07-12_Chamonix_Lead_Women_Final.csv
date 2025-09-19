@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ernst Johanna,AUT,1,53,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Final,2008-07-12,/api/v1/category_rounds/889/results,/api/v1/events/520/result/5,53
+Eiter Angela,AUT,2,43-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Final,2008-07-12,/api/v1/category_rounds/889/results,/api/v1/events/520/result/5,43-
+Markovic Mina,SLO,3,40,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Final,2008-07-12,/api/v1/category_rounds/889/results,/api/v1/events/520/result/5,40
+Ciavaldini Caroline,FRA,4,39+,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Final,2008-07-12,/api/v1/category_rounds/889/results,/api/v1/events/520/result/5,39+
+Durif Charlotte,FRA,5,39,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Final,2008-07-12,/api/v1/category_rounds/889/results,/api/v1/events/520/result/5,39
+Shalagina Olga,UKR,6,39-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Final,2008-07-12,/api/v1/category_rounds/889/results,/api/v1/events/520/result/5,39-
+schöpf Bettina,AUT,7,36-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Final,2008-07-12,/api/v1/category_rounds/889/results,/api/v1/events/520/result/5,36-
+Sarkany Muriel,BEL,8,32,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Final,2008-07-12,/api/v1/category_rounds/889/results,/api/v1/events/520/result/5,32

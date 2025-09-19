@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Sharafutdinov Dmitrii,RUS,1,3t4 4b5,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008,519,2008,Montauban,Boulder,Men,Final,2008-07-04,/api/v1/category_rounds/886/results,/api/v1/events/519/result/3,1,1,1,1,2,2,X,1
+Gelmanov Rustam,RUS,2,2t2 4b4,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008,519,2008,Montauban,Boulder,Men,Final,2008-07-04,/api/v1/category_rounds/886/results,/api/v1/events/519/result/3,1,1,X,1,1,1,X,1
+Lama David,AUT,3,2t4 4b7,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008,519,2008,Montauban,Boulder,Men,Final,2008-07-04,/api/v1/category_rounds/886/results,/api/v1/events/519/result/3,3,1,1,1,X,2,X,3
+McColl Sean,CAN,4,1t1 4b5,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008,519,2008,Montauban,Boulder,Men,Final,2008-07-04,/api/v1/category_rounds/886/results,/api/v1/events/519/result/3,1,1,X,1,X,2,X,1
+Hori Tsukuru,JPN,5,1t2 3b4,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008,519,2008,Montauban,Boulder,Men,Final,2008-07-04,/api/v1/category_rounds/886/results,/api/v1/events/519/result/3,2,1,X,2,X,X,X,1
+Moroni Gabriele,ITA,6,0t 3b3,IFSC Climbing Worldcup (B) - Montauban (FRA) 2008,519,2008,Montauban,Boulder,Men,Final,2008-07-04,/api/v1/category_rounds/886/results,/api/v1/events/519/result/3,X,1,X,1,X,X,X,1

@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Desgranges Romain,FRA,1,35+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,35+
+Schubert Jakob,AUT,2,32+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,32+
+Min Hyunbin,KOR,3,32,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,32
+Nishida Hidemasa,JPN,4,31+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,31+
+Ghisolfi Stefano,ITA,5,28+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,28+
+Vettorata Francesco,ITA,6,28+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,28+
+Samoilov Fedir,UKR,7,28,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,28
+Homma Taisei,JPN,8,26+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,26+
+Bombardi Marcello,ITA,9,26+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,26+
+Higuchi Masahiro,JPN,10,26,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,26
+Shimizu Hiroto,JPN,11,25+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,25+
+Collin Nicolas,BEL,12,25+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,25+
+Qu HaiBin,CHN,12,25+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,25+
+Nakano Minoru,JPN,14,25+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,25+
+Nakagami Taito,JPN,15,25+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,25+
+Rudigier Max,AUT,16,25,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,25
+Lehmann Sascha,SUI,17,25,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,25
+Parma Georg,AUT,18,25,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,25
+Skofic Domen,SLO,19,21+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,21+
+Hada Yuki,JPN,20,19+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,19+
+JonasMcRae Elan,CAN,21,19+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,19+
+Kuhnel Martin,USA,22,19+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,19+
+Timmermans Loïc,BEL,23,18+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,18+
+Ogata Yoshiyuki,JPN,24,18,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,18
+Jo Wan Jae,KOR,25,9+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,9+
+Muhammad Alfian,INA,26,9,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,9
+Brosler John,USA,27,7,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1,7

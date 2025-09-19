@@ -1,0 +1,102 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+Garnbret Janja,SLO,1.0,1.0,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,TOP,TOP
+Mori Ai,JPN,1.0,1.73,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,44+,47+
+Raboutou Brooke,USA,3.0,2.0,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,52+,38+
+Rogora Laura,ITA,3.0,2.29,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,TOP,44+
+SEO Chaehyun,KOR,3.0,2.29,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,TOP,44+
+KUME Nonoha,JPN,6.0,3.67,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,46,32+
+Sanders Anastasia,USA,7.0,6.63,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,39+,30+
+Pilz Jessica,AUT,7.0,4.77,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,40+,44+
+Lukan Vita,SLO,9.0,7.42,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,38,30+
+Hily Manon,FRA,9.0,5.29,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,43,41
+Thompson-Smith Molly,GBR,11.0,8.03,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,46+,26
+Bertone Oriane,FRA,11.0,7.21,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,40+,37+
+Nonaka Miho,JPN,13.0,8.15,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,40+,28+
+Avezou Zélia,FRA,13.0,7.83,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,32+,44+
+LUO ZHILU,CHN,15.0,8.29,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,32+,30+
+KIM Jain,KOR,15.0,8.37,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,41,32+
+Krampl Mia,SLO,17.0,8.31,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,41,28
+Moroni Camilla,ITA,17.0,9.0,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,38+,36
+Gejo Stasa,SRB,19.0,9.08,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,32,30+
+Janicot Hélène,FRA,19.0,9.17,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,35+,43+
+SEO Yejoo,KOR,21.0,12.37,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,38+,27
+Copar Sara,SLO,21.0,10.75,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,37+,33+
+Demmel Martina,GER,23.0,13.23,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,32+,27+
+Pötzi Mattea,AUT,23.0,13.23,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,32+,27+
+van der Meer Lynn,NED,23.0,12.33,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,39+,27+
+Tarkus Lucija,SLO,26.0,13.86,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,37,30+
+Grossman Natalia,USA,27.0,13.25,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,46,13+
+Adamovska Eliska,CZE,27.0,15.08,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,32+,33
+NAKAGAWA Ryu,JPN,29.0,14.14,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,24+,30
+KIM Chaeyeong,KOR,29.0,15.73,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,27+,33+
+Scolaris Ilaria,ITA,31.0,15.1,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,25+,28+
+Smetanova Michaela,CZE,31.0,16.2,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,32+,31+
+Kerem Ayala,ISR,33.0,15.35,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,28,28
+Meul Hannah,GER,33.0,16.88,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,34+,27+
+Condie Kyra,USA,35.0,16.75,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,29+,27
+Dörffel Lucia,GER,35.0,16.91,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,36+,27
+Rekabi Elnaz,IRI,37.0,16.94,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,28,27+
+Kazbekova Ievgeniia,UKR,37.0,17.15,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,37+,24+
+Contreras Alejandra,CHI,39.0,17.71,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,29+,26+
+Koller Anne-Sophie,SUI,39.0,19.49,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,30+,27+
+Yip Alannah,CAN,41.0,18.67,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,28,27
+Matsufuji Anon,JPN,41.0,21.75,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,18+,33+
+Tesio Giorgia,ITA,43.0,20.99,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,28,26
+Caulier Chloe,BEL,43.0,22.14,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,32+,24+
+Frangos Rebecca,CAN,45.0,22.08,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,32+,13+
+Mackenzie Oceania,AUS,45.0,23.27,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,20+,27+
+Agambayeva Margarita,KAZ,47.0,23.96,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,28,21
+Kremer Valeri,ISR,47.0,23.96,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,28,21
+Dreamer Maya,ISR,47.0,25.1,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,27+,24+
+Shiran Noa,ISR,47.0,25.1,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,27+,24+
+Sterrer Franziska,AUT,47.0,25.1,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,27+,24+
+Chapman Indiana,CAN,52.0,26.24,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,24,21+
+Egli Zoé,SUI,53.0,26.38,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,23,25+
+Looser Noé,SUI,53.0,26.51,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,19,27+
+Siruckova Tereza,CZE,55.0,28.77,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,13+,26
+Totkova Aleksandra,BUL,55.0,28.77,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,13+,26
+Mcneice Erin,GBR,55.0,26.98,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,23,24+
+Hafsaas Tina Johnsen,NOR,58.0,28.25,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,20+,24+
+Castro Martina,CHI,59.0,29.66,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,14,21+
+Ghaffari Sarina,IRI,59.0,30.4,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,19+,24+
+Köhler  Anja,BRA,59.0,30.4,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,19+,24+
+Luna Velasco Arantza,MEX,62.0,31.74,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,15+,18
+Ghisolfi Claudia,ITA,63.0,32.45,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,24,13+
+Roy Babette,CAN,63.0,32.45,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,24,13+
+Cullen Kylie,USA,63.0,30.41,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,23+,22
+Egli Liv,SUI,66.0,30.74,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,22,23+
+Becerra Rocio Ailen,ARG,67.0,32.83,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,13+,21
+KOBETS Anastasiia,UKR,67.0,34.7,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,18+,24+
+Martínez Almendros Iziar,ESP,67.0,34.7,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,18+,24+
+Davila Emilia,ECU,70.0,34.21,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,22,13+
+De Magalhaes de Castro Bianca,BRA,71.0,34.77,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,19+,13+
+Janosova Marketa,CZE,71.0,37.23,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,19+,15
+Potapova Nika,UKR,71.0,37.23,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,19+,15
+WIDIA FUJIYANTI,INA,74.0,35.6,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,15+,13+
+Cabezas Matilde,CHI,75.0,35.71,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,13,20+
+Lee Hung Ying,TPE,75.0,37.35,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,20,8+
+SUTHAPHAISANWITHAYA Rattankorn,THA,77.0,36.68,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,14,13+
+Galeova Ema,CZE,77.0,38.24,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,18+,24
+Bjarnason Svana,ISL,79.0,38.75,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,13+,13+
+LINTANG CAHYANI SUKMA,INA,79.0,38.75,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,13+,13+
+Santini Mikulić Anja,CRO,79.0,38.75,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,13+,13+
+Aguado Valentina,ARG,79.0,39.17,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,19+,8+
+Hulliger Michelle,SUI,83.0,39.34,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,18+,22+
+Castillo Lianet,VEN,84.0,39.42,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,19,15
+GARCIA MOLINA Zoe,ARG,85.0,40.71,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,13,13+
+Ackre Anne,NOR,85.0,40.69,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,18+,17+
+Nesterenko Daria,UKR,85.0,40.69,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,18+,17+
+ADAMENKO VIKTORIYA,KAZ,88.0,42.59,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,10,13+
+Mellado Quinteros Ignacia,CHI,89.0,44.38,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,1,13+
+Sepulveda Elizabeth,PUR,89.0,44.38,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,1,13+
+Silva Muykuay,CHI,89.0,41.48,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,19,8+
+González Rámirez María Fernanda,MEX,92.0,43.82,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,15,15+
+Fernández Gutierrez Arantza,MEX,93.0,46.48,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,12,13
+Hidalgo Amezquita María Fernanda,MEX,93.0,44.72,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,18+,8+
+Salazar Puga Regina,MEX,93.0,44.72,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,18+,8+
+Chen Chen Melissa Esther,PER,96.0,46.9,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,12+,12
+Trajkoska Sara,MKD,97.0,47.24,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,10,13
+Oates Tegwen,RSA,97.0,47.73,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,14,8+
+LEYTON MATTO SILVANA LOURDES,PER,99.0,48.25,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,8+,13
+Herrera Vega Centeno Sofia Alejandra,PER,100.0,49.73,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,8+,9
+Toothill Holly,GBR,,DNS,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Qualification,2023-08-01,/api/v1/category_rounds/7702/results,/api/v1/events/1301/result/5,DNS,DNS

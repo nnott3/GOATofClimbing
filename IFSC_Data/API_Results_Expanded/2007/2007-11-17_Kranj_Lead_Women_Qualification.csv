@@ -1,0 +1,29 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Vidmar Maja,SLO,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,Top
+Ciavaldini Caroline,FRA,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,Top
+Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,Top
+Eyer Alexandra,SUI,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,Top
+Sarkany Muriel,BEL,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,Top
+Gros Natalija,SLO,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,Top
+Chereshneva Yana,RUS,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,Top
+Schranz Christine,AUT,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,Top
+Eiter Angela,AUT,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,Top
+Ociepka Kinga,POL,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,Top
+Vidmar Katja,SLO,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,Top
+Anda Villanueva Irati,ESP,12,38-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,38-
+Bacher Barbara,AUT,12,38-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,38-
+Franko Lucka,SLO,14,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,37+
+Ostapenko Olena,UKR,14,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,37+
+Harnisch Martina,AUT,14,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,37+
+Durif Charlotte,FRA,17,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,37-
+Gosar Asja,SLO,17,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,37-
+Saurwein Katharina,AUT,17,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,37-
+schöpf Bettina,AUT,17,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,37-
+Zijlstra Vera,NED,21,31-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,31-
+Raffetseder Gerda,AUT,22,30,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,30
+Szekely Andrea Brigitta,HUN,23,29+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,29+
+Modrzejewska Agata,POL,24,28-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,28-
+Razno Oksana,UKR,25,27,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,27
+Bakulic Sandra,CRO,26,25-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,25-
+Bogaciu Anamaria,ROU,27,21+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,21+
+Lozic Maja,CRO,28,19-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Qualification,2007-11-17,/api/v1/category_rounds/712/results,/api/v1/events/486/result/5,19-

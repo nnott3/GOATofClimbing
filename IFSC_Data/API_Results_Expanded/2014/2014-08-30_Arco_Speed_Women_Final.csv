@@ -1,0 +1,17 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/8_winner,1/8_time,1/4_winner,1/4_time,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+Jaubert Anouck,,1,7.95,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,True,8.72,True,8.53,True,8.33,True,7.95,,
+Levochkina  Yuliya,,2,8.39,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,True,8.72,True,8.51,True,8.3,False,8.39,,
+Krasavina Mariia,,3,8.11,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,True,8.38,True,8.27,False,8.74,,,True,8.119
+Chudziak Patrycja,,4,8.84,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,True,8.99,True,9.11,False,9.03,,,False,8.84
+Marenych Alla,,5,8.52,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,True,8.96,False,8.52,,,,,,
+Prokopiuk-Kawecka Monika,,6,8.90,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,True,9.09,False,8.9,,,,,,
+Tsyganova Anna,,7,11.39,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,True,8.77,False,11.39,,,,,,
+Lugovenko Yana,,8,FALL,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,True,8.8,False,FALL,,,,,,
+Ropek Edyta,,9,9.27,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,False,9.27,,,,,,,,
+Elmer Alexandra,,10,9.32,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,False,9.32,,,,,,,,
+Motovilova Svetlana,,11,9.35,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,False,9.35,,,,,,,,
+Lach Nina,,12,9.50,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,False,9.5,,,,,,,,
+Gaidamakina Alina,,13,9.93,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,False,9.93,,,,,,,,
+Brozek Anna,,14,9.99,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,False,9.99,,,,,,,,
+Kaplina Iuliia,,15,FALL,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,False,FALL,,,,,,,,
+Miroslaw Aleksandra,,16,FALL,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6,False,FALL,,,,,,,,

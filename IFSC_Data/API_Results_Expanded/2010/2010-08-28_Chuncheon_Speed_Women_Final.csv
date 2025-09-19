@@ -1,0 +1,5 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+He CuiLian,,1,10.06,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Women,Final,2010-08-28,/api/v1/category_rounds/1430/results,/api/v1/events/619/result/6,True,10.31,True,10.06,,
+Alekseeva Kseniia,,2,10.50,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Women,Final,2010-08-28,/api/v1/category_rounds/1430/results,/api/v1/events/619/result/6,True,10.77,False,10.5,,
+PAN Xuhua,,3,10.49,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Women,Final,2010-08-28,/api/v1/category_rounds/1430/results,/api/v1/events/619/result/6,False,14.97,,,True,10.49
+Levochkina  Yuliya,,4,10.85,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Speed,Women,Final,2010-08-28,/api/v1/category_rounds/1430/results,/api/v1/events/619/result/6,False,11.13,,,False,10.85

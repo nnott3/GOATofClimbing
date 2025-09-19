@@ -1,0 +1,20 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Sharafutdinov Dmitrii,RUS,1,20.600,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Vaitsekhovskii Evgenii,RUS,2,22.200,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Kosterin Alexander,RUS,3,22.350,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Sinitcyn Sergei,RUS,4,22.500,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Vorobyev Valeriy,RUS,5,22.830,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Styenkovyy Maksym,UKR,6,23.080,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Peshekhonov Alexander,RUS,7,23.430,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Escobar Manuel,VEN,8,24.050,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Skripov Anatoly,RUS,8,24.050,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Carvajal Nestor,VEN,10,24.500,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Komondi Csaba,HUN,11,25.180,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+De Las Salas Leonel,VEN,12,25.890,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Hroza Libor,CZE,13,26.450,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Lai Chi-Wai,HKG,14,27.510,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Amann Mark,AUT,15,27.950,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Portsev Aleksei,RUS,16,28.440,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Hejl Jakub,CZE,17,48.210,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Svacha Jiri,CZE,18,fall,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2
+Swirk Lukasz,POL,18,fall,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,482,2007,Puurs,Speed,Men,Qualification,2007-09-28,/api/v1/category_rounds/692/results,/api/v1/events/482/result/2

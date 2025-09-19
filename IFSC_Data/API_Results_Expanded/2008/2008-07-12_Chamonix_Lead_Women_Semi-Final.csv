@@ -1,0 +1,29 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ernst Johanna,AUT,1,Top,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,Top
+Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,Top
+Durif Charlotte,FRA,1,Top,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,Top
+Eiter Angela,AUT,4,37-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,37-
+Ciavaldini Caroline,FRA,5,36.5+,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,36.5+
+Sarkany Muriel,BEL,6,36-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,36-
+Shalagina Olga,UKR,7,35-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,35-
+schöpf Bettina,AUT,8,31+,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,31+
+Chereshneva Yana,RUS,9,31-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,31-
+Eyer Alexandra,SUI,9,31-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,31-
+Gros Natalija,SLO,9,31-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,31-
+Szekely Andrea Brigitta,HUN,9,31-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,31-
+Kobayashi Yuka,JPN,13,30+,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,30+
+Noguchi Akiyo,JPN,13,30+,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,30+
+Terenteva Galina,RUS,15,30-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,30-
+Thévenet Marine,FRA,16,28.5-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,28.5-
+Caprez Nina,SUI,17,28,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,28
+Bacher Barbara,AUT,17,28,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,28
+Avezou Cecile,FRA,19,28-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,28-
+Malamid Evgeniia,RUS,20,27+,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,27+
+Wurm Juliane,GER,21,26-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,26-
+Couchot Mathilde,FRA,22,23+,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,23+
+Lavarda Jenny,ITA,23,23,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,23
+Taylor Vanessa,FRA,24,23-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,23-
+Hoarau Anne,FRA,24,23-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,23-
+Le Neve Melissa,FRA,26,22-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,22-
+van Bergen Nikki,NED,27,21.5,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,21.5
+Evene Anouk,FRA,28,21.5-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,520,2008,Chamonix,Lead,Women,Semi-Final,2008-07-12,/api/v1/category_rounds/888/results,/api/v1/events/520/result/5,21.5-

@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Min Hyunbin,KOR,1,42+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,42+
+Ondra Adam,CZE,2,40+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,40+
+Desgranges Romain,FRA,2,40+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,40+
+Amma Sachi,JPN,2,40+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,40+
+Julian  Puigblanque Ramón ,ESP,2,40+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,40+
+McColl Sean,CAN,6,39,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,39
+Schubert Jakob,AUT,7,37+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,37+
+Supper Gautier,FRA,8,37,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,37
+Romain Manuel,FRA,9,36+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,36+
+Ghisolfi Stefano,ITA,10,36,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,36
+Skofic Domen,SLO,11,34+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,34+
+Vettorata Francesco,ITA,12,33+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,33+
+Ballet Thomas,FRA,13,32+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,32+
+Primozic Urban,SLO,14,32+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,32+
+Tauporn Thomas,GER,15,32+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,32+
+Lechner Mario,AUT,16,31+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,31+
+JonasMcRae Elan,CAN,17,30.5+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,30.5+
+Kim Jabee,KOR,18,30+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,30+
+Timmermans Loïc,BEL,19,30+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,30+
+Guerimand Flavien,FRA,20,24,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,24
+Shimatani Naoki,JPN,21,23+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,23+
+Röck Bernhard,AUT,22,23+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,23+
+Nitta Tatsumi,JPN,23,23,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,23
+Narasaki Tomoa,JPN,24,23,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,23
+Hakamada Naoto,JPN,25,22,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,22
+Joannes Thomas,FRA,26,16+,IFSC Climbing Worldcup (L) - Valence (FRA) 2013,806,2013,Valence,Lead,Men,Semi-Final,2013-11-01,/api/v1/category_rounds/2634/results,/api/v1/events/806/result/1,16+

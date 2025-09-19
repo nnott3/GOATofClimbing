@@ -1,0 +1,38 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Zhong QiXin,CHN,1,8.190,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Sinitcyn Sergei,RUS,2,8.310,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Styenkovyy Maksym,UKR,3,8.340,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+ZHANG Ning,CHN,4,8.500,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Swirk Lukasz,POL,5,8.620,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Kokorin Stanislav,RUS,6,8.680,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Vaitsekhovskii Evgenii,RUS,7,8.760,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Nigmanov Zufar,RUS,8,8.970,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Shevchenko Arsenii,RUS,9,9.010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Sirekanyan Vaginak,RUS,10,9.080,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Osipov Maksym,UKR,11,9.170,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Hroza Libor,CZE,12,9.250,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Komondi Csaba,HUN,13,9.610,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Novikov Ivan,RUS,14,9.700,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Topal Yaroslav,UKR,15,10.030,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Ter-Minasyan Arman,RUS,16,10.230,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Halasa Rafal,POL,17,10.260,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+LE COUSTER Yoann,FRA,18,10.360,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Quinteros Andres,ECU,19,10.440,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Dupin Thomas,FRA,20,10.450,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Komosinski Jedrzej,POL,21,10.470,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Oleksy Tomasz,POL,22,10.950,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Ghisolfi Stefano,ITA,23,11.050,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Gontero Leonardo,ITA,24,11.220,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Yurko Oleksiy,UKR,24,11.220,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Jobert Emilien,FRA,26,11.500,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+El Anhari Joakim,FRA,27,11.530,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Pociecha Jakub,POL,28,11.710,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Chavot Vincent,FRA,29,12.340,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Juhasz Gyula,HUN,29,12.340,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Sirotti Michel,ITA,31,12.380,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Moro Guillaume,FRA,32,12.410,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Abdrakhmanov Sergey,RUS,33,12.450,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Styla Hubert,POL,34,12.570,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Cailleux Clement,FRA,35,14.140,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Michaux Baptiste,FRA,36,21.710,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2
+Boulbahaiem Salah,BEL,37,fall,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Men,Qualification,2010-07-12,/api/v1/category_rounds/1406/results,/api/v1/events/615/result/2

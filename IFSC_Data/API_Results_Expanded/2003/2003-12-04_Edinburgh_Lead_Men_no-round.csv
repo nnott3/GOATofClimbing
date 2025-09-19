@@ -1,0 +1,38 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Usobiaga Lakunza Patxi,ESP,1,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Fuselier Michaël,FRA,2,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Millet Sylvain,FRA,3,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Chabot Alexandre,FRA,4,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Zardini Luca,ITA,5,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Auclair François,FRA,6,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Valjavec Tomaz,SLO,7,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Becan Klemen,SLO,8,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Crespi Flavio,ITA,9,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Pouvreau Gérome,FRA,10,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Sova Matej,SLO,11,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Ovchinnikov Evgeny,RUS,12,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Hoppe Markus,GER,13,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Petrenko Maksym,UKR,13,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Mc Clure Steve,GBR,15,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Son Sangwon,KOR,15,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Baxter Adrian,GBR,17,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Pagnoux Romain,FRA,17,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Favresse Nicolas,BEL,19,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Mogaki Keita,JPN,20,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Bindhammer Christian,GER,21,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Preußler Timo,GER,21,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Zazvonil Luka,SLO,23,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Vinokur Vadim,USA,24,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Mrázek Tomás,CZE,25,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Bindhammer Andreas,GER,26,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Julian  Puigblanque Ramón ,ESP,26,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Fischhuber Kilian,AUT,28,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Cassidy Jamie,GBR,29,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Kim Dong-Hyun,KOR,30,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Kim Jabee,KOR,30,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Rant Blaz,SLO,32,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Watson Stewart,GBR,33,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Hamlin Matthias,SWE,34,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Lachat Cédric,SUI,35,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Brismo Simon,SWE,36,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1
+Ten Sijthoff Casper,NED,37,,UIAA Worldcup - Edinburgh (GBR) 2003,325,2003,Edinburgh,Lead,Men,2003-12-04,/api/v1/events/325/result/1

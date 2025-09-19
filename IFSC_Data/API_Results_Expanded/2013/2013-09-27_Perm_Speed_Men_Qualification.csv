@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Kokorin Stanislav,RUS,1,6.360,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Timofeev Dmitrii,RUS,2,6.550,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Gontero Leonardo,ITA,3,6.610,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Dzienski Marcin,POL,4,6.620,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Vaitsekhovskii Evgenii,RUS,5,6.670,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Hroza Libor,CZE,6,6.680,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Zhong QiXin,CHN,6,6.680,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Suyushkin Nikita,RUS,8,6.870,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Sinitcyn Sergei,RUS,9,6.890,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Swirk Lukasz,POL,10,6.960,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Luzhetskii Sergei,RUS,11,7.100,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Shevchenko Arsenii,RUS,12,7.120,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Shikov Aleksandr,RUS,13,7.170,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Faizullin Ruslan,RUS,14,7.250,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Payl Konstantin,RUS,14,7.250,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Atlarov Ivan,RUS,16,7.490,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Komosinski Jedrzej,POL,17,7.670,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Diachkov Maksim,RUS,18,7.700,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Deulin Vladislav,RUS,19,7.800,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Sirekanyan Vaginak,RUS,19,7.800,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+LE COUSTER Yoann,FRA,21,7.920,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Vedenchuk Viacheslav,RUS,22,8.410,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Ter-Minasyan Arman,RUS,23,8.580,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Artamonov  Georgy,RUS,24,8.830,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Poliakov Anton,RUS,25,9.980,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2
+Astashkin Evgeny,RUS,26,fall,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",802,2013,Perm,Speed,Men,Qualification,2013-09-27,/api/v1/category_rounds/2604/results,/api/v1/events/802/result/2

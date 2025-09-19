@@ -1,0 +1,17 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Zhong QiXin,CHN,1,17.960,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Escobar Manuel,VEN,2,18.310,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Sinitcyn Sergei,RUS,3,39.490,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Vaitsekhovskii Evgenii,RUS,4,fall,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Preti Lucas,ITA,5,21.870,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Kosterin Alexander,RUS,6,21.950,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Styenkovyy Maksym,UKR,7,22.230,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Hroza Libor,CZE,8,fall,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+De Las Salas Leonel,VEN,9,24.120,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Peshekhonov Alexander,RUS,10,24.630,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Sharafutdinov Dmitrii,RUS,11,26.030,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Swirk Lukasz,POL,12,28.480,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Shulga Olexiy,UKR,13,fall,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Lai Chi-Wai,HKG,14,fall,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Oleksy Tomasz,POL,15,fall,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2
+Skripov Anatoly,RUS,16,fall,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,481,2007,Aviles,Speed,Men,Final,2007-09-17,/api/v1/category_rounds/683/results,/api/v1/events/481/result/2

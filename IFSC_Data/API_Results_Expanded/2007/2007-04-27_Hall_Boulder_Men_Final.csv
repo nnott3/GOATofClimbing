@@ -1,0 +1,6 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Fischhuber Kilian,AUT,1,4t8 4b5,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Men,Final,2007-04-27,/api/v1/category_rounds/612/results,/api/v1/events/471/result/3
+Verhoeven Jorg,NED,2,4t9 4b5,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Men,Final,2007-04-27,/api/v1/category_rounds/612/results,/api/v1/events/471/result/3
+Matsushima Akito,JPN,3,2t7 2b4,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Men,Final,2007-04-27,/api/v1/category_rounds/612/results,/api/v1/events/471/result/3
+Lama David,AUT,4,2t8 4b10,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Men,Final,2007-04-27,/api/v1/category_rounds/612/results,/api/v1/events/471/result/3
+Moroni Gabriele,ITA,5,1t3 3b4,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Men,Final,2007-04-27,/api/v1/category_rounds/612/results,/api/v1/events/471/result/3

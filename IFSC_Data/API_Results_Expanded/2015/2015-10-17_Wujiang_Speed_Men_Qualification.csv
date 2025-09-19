@@ -1,0 +1,22 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Hroza Libor,CZE,1,5.710,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Mawem Bassa,FRA,2,6.060,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Alipourshenazandifar Reza,IRI,3,6.110,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Boldyrev Danyil,UKR,4,6.200,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Shilov Aleksandr,RUS,5,6.260,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Dzienski Marcin,POL,6,6.300,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Zhong QiXin,CHN,7,6.370,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Kokorin Stanislav,RUS,8,6.590,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Vaitsekhovskii Evgenii,RUS,9,6.880,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Nambot Quentin,FRA,10,6.990,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Ou ZhiYong,CHN,10,6.990,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+LIN PengHui,CHN,12,7.080,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Deulin Vladislav,RUS,13,7.200,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Mohammadi Morteza,IRI,14,7.380,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Lewicki Michal,POL,15,7.730,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Moro Guillaume,FRA,16,8.080,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Ma ZiDa,CHN,17,8.520,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Kim Jungju,KOR,18,8.620,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+McColl Sean,CAN,19,9.000,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+BianBa ZhaXi,CHN,20,10.330,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2
+Hakamada Naoto,JPN,21,10.650,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Men,Qualification,2015-10-17,/api/v1/category_rounds/3494/results,/api/v1/events/908/result/2

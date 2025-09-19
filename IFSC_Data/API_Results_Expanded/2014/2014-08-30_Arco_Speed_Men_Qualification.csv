@@ -1,0 +1,33 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Hroza Libor,CZE,1,5.760,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Zhong QiXin,CHN,2,5.950,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Dzienski Marcin,POL,3,6.140,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Mawem Bassa,FRA,3,6.140,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Kokorin Stanislav,RUS,5,6.160,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Vaitsekhovskii Evgenii,RUS,6,6.250,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Santoni Alessandro,ITA,7,6.300,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Boldyrev Danyil,UKR,8,6.320,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Shikov Aleksandr,RUS,9,6.410,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Gontaryk Yaroslav,UKR,10,6.530,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Shevchenko Arsenii,RUS,11,6.570,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Deulin Vladislav,RUS,12,6.620,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Gontero Leonardo,ITA,13,6.630,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Komosinski Jedrzej,POL,14,6.670,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Nambot Quentin,FRA,15,6.690,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Estevez  Isaac,ECU,16,6.790,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+LE COUSTER Yoann,FRA,17,6.850,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Halasa Rafal,POL,18,6.910,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Zinchenko Volodymyr,UKR,19,6.930,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Fossali Ludovico,ITA,20,7.020,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Timofeev Dmitrii,RUS,21,7.360,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Stewart-Patterson Robert,CAN,22,7.520,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Zhong Lincai,CHN,23,7.600,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Lewicki Michal,POL,24,7.700,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Denis Karol,POL,25,7.760,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Pasqua Tommaso,ITA,26,7.840,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Zama Stanislao,ITA,27,8.030,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Erber Matthias,AUT,28,8.170,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+McColl Sean,CAN,29,8.910,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Manosalvas Josue,ECU,30,8.940,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Labarge Dominic,USA,31,8.990,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+Luzhetskii Sergei,RUS,32,False start,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2

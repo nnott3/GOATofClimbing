@@ -1,0 +1,29 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Meyer Jérôme,FRA,1,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+ANDRADA JIMENEZ Daniel,ESP,2,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Calibani Mauro,ITA,3,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Core Christian,ITA,4,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Oleksy Tomasz,POL,5,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Dard Yohann,FRA,6,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Rakhmetov Salavat,RUS,7,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Tuscan Frédéric,FRA,8,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Archambault Dan,CAN,9,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Scarian Riccardo,ITA,10,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Fischhuber Kilian,AUT,11,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Gisler David,SUI,12,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Ghidini Stefano,ITA,13,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Soucek Radovah,CZE,14,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Golob Jurij,SLO,15,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Meral Julien,FRA,15,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Müller Matthias,SUI,17,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Zitnik Primoz,SLO,18,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Jourjon Jean Baptiste,FRA,19,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Julien Stephane,FRA,19,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Rant Blaz,SLO,19,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Chrastina Andrej,SVK,22,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Schönenberger Urs,SUI,22,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Cseko Arpad,HUN,24,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Han Jung-Hee,KOR,24,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Lampugnani Diego,SUI,24,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Parry Gareth,GBR,24,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3
+Repcik Marek,SVK,24,,UIAA Worldcup - Rovereto (ITA) 2001,243,2001,Rovereto,Boulder,Men,2001-08-31,/api/v1/events/243/result/3

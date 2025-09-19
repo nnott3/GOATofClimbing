@@ -1,0 +1,14 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Vaitsekhovskii Evgenii,RUS,1,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Sinitcyn Sergei,RUS,2,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Peshekhonov Alexander,RUS,3,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Oleksy Tomasz,POL,4,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Baumann Jonas,GER,5,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Hroza Libor,CZE,6,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Komondi Csaba,HUN,7,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Merz Aric,GER,8,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Chapelle Sylvain,FRA,9,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Poberezhets Serhiy,UKR,10,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Amann Mark,AUT,11,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Lau Johannes,GER,12,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+Svacha Jiri,CZE,13,,UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2

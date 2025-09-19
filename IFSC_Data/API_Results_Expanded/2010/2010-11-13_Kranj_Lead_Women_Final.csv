@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Women,Final,2010-11-13,/api/v1/category_rounds/1453/results,/api/v1/events/622/result/5,33+
+Markovic Mina,SLO,2,29-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Women,Final,2010-11-13,/api/v1/category_rounds/1453/results,/api/v1/events/622/result/5,29-
+Noguchi Akiyo,JPN,3,27.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Women,Final,2010-11-13,/api/v1/category_rounds/1453/results,/api/v1/events/622/result/5,27.5+
+Eiter Angela,AUT,4,21-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Women,Final,2010-11-13,/api/v1/category_rounds/1453/results,/api/v1/events/622/result/5,21-
+Posch Katharina,AUT,5,21-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Women,Final,2010-11-13,/api/v1/category_rounds/1453/results,/api/v1/events/622/result/5,21-
+Gros Natalija,SLO,6,20.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Women,Final,2010-11-13,/api/v1/category_rounds/1453/results,/api/v1/events/622/result/5,20.5+
+Vidmar Maja,SLO,7,20.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Women,Final,2010-11-13,/api/v1/category_rounds/1453/results,/api/v1/events/622/result/5,20.5+
+Kobayashi Yuka,JPN,8,20-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Women,Final,2010-11-13,/api/v1/category_rounds/1453/results,/api/v1/events/622/result/5,20-

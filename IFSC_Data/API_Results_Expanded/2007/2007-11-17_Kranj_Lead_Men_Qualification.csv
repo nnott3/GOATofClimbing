@@ -1,0 +1,52 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Lachat Cédric,SUI,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,Top
+Crespi Flavio,ITA,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,Top
+Mrázek Tomás,CZE,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,Top
+Schubert Jakob,AUT,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,Top
+Julian  Puigblanque Ramón ,ESP,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,Top
+Verhoeven Jorg,NED,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,Top
+Usobiaga Lakunza Patxi,ESP,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,Top
+Millet Sylvain,FRA,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,Top
+Fischhuber Kilian,AUT,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,Top
+Winkler Daniel,SUI,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,Top
+Fuselier Michaël,FRA,11,42-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,42-
+Sova Matej,SLO,11,42-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,42-
+Bindhammer Christian,GER,11,42-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,42-
+De Mattia Nicola,ITA,14,41-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,41-
+Becan Klemen,SLO,15,40-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,40-
+Dugit Fabien,FRA,15,40-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,40-
+Ten Sijthoff Casper,NED,17,39,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,39
+Desgranges Romain,FRA,18,39-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,39-
+Romain Manuel,FRA,19,38-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,38-
+Kryukov Valeriy,UKR,20,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,37+
+Becan Jure,SLO,20,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,37+
+Guerimand Flavien,FRA,20,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,37+
+Högström Magnus,SWE,20,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,37+
+Midtboe Magnus,NOR,20,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,37+
+Van der Werf Roman,NED,25,37,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,37
+Tauporn Thomas,GER,26,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,37-
+Szekely Gabor,HUN,26,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,37-
+Zardini Luca,ITA,26,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,37-
+Fiori Alessandro,ITA,26,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,37-
+Baxter Adrian,GBR,30,36+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,36+
+Wszolek Marcin,POL,31,35,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,35
+Konishi Daisuke,JPN,32,35-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,35-
+de Leeuw Nicky,NED,33,34,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,34
+Huerta Mauricio,MEX,33,34,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,34
+De Girolamo Vincent,FRA,35,34-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,34-
+Rant Blaz,SLO,36,29+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,29+
+Danker Stefan,GER,37,29,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,29
+Kruder Jernej,SLO,37,29,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,29
+Cassidy Alan,GBR,39,29-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,29-
+Heintz Benoit,FRA,39,29-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,29-
+Pfanner Andreas,AUT,39,29-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,29-
+Stremfelj Anze,SLO,39,29-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,29-
+Zilinskiy Oleksandr,UKR,39,29-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,29-
+Wagner Roland,AUT,44,25,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,25
+Laine Julien,FRA,45,24-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,24-
+Carlsson Erik,SWE,46,23-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,23-
+Lisica Ivan,CRO,46,23-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,23-
+Sutton Robin,GBR,46,23-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,23-
+Tak Timo,NED,49,18,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,18
+Bugneru Marian,ROU,50,14+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,14+
+Petrescu Catalin,ROU,50,14+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Qualification,2007-11-17,/api/v1/category_rounds/715/results,/api/v1/events/486/result/1,14+

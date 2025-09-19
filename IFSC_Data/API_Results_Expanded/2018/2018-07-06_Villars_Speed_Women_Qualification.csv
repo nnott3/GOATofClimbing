@@ -1,0 +1,54 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Krasavina Mariia,RUS,1,7.860,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Jaubert Anouck,FRA,2,7.890,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Kaplina Iuliia,RUS,3,7.900,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Chudziak Patrycja,POL,4,8.280,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Andrier Victoire,FRA,5,8.570,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+SONG YiLing,CHN,6,8.610,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Brozek Anna,POL,7,8.620,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Buczek Klaudia,POL,8,8.630,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Remizova Elena,RUS,9,8.640,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+He CuiLian,CHN,10,8.650,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Kan Daria,RUS,11,8.710,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Ivanova Elizaveta,RUS,12,8.750,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Dalla Brida Elisabetta,ITA,13,8.790,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Sarisson Aurelia,FRA,14,8.970,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+NI MingWei,CHN,15,9.000,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Fleuret Elma,FRA,16,9.010,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Timofeeva Elena,RUS,17,9.080,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Elmer Alexandra,AUT,18,9.220,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Porta  Silvia,ITA,19,9.460,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Viglione Capucine,FRA,20,9.800,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Rojas Andrea,ECU,21,9.810,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Krasovskaia Elena,RUS,22,9.820,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Nonaka Miho,JPN,23,9.840,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Klingler Petra,SUI,24,9.940,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Lach Nina,AUT,25,10.180,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Lee Hung Ying,TPE,26,10.420,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Zanetti Martina,ITA,27,10.620,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Bestvater Alma,GER,28,10.640,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Kolkotina Tetiana,UKR,29,10.850,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Krizova Hana,CZE,30,10.990,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Gejo Stasa,SRB,31,11.020,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Späte Jara,SUI,32,11.110,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Panteleeva Iuliia,RUS,33,11.160,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Ito Futaba,JPN,34,11.180,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Caulier Chloe,BEL,35,11.360,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Garnbret Janja,SLO,36,11.430,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+RENQING LaMu,CHN,37,11.470,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Vasi Francesca,ITA,38,11.640,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Noguchi Akiyo,JPN,39,12.150,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Hammer Maggie,USA,40,12.440,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Tesio Giorgia,ITA,41,12.450,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Kümin Andrea,SUI,42,12.590,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Yokoyama Sofya,SUI,43,12.670,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Kim Jain,KOR,44,12.950,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Repusic Urska,SLO,45,13.680,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Kipriianova Ekaterina,RUS,46,13.740,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Kotake Mei,JPN,47,14.520,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Koller Anne-Sophie,SUI,48,14.710,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Krampl Mia,SLO,49,14.800,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Melius Tiffany,AUS,50,15.060,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Doumont Heloïse,BEL,51,16.150,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Frangos Rebecca,CAN,52,16.600,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+Cuypers Celine,BEL,53,False start,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6

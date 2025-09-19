@@ -1,0 +1,14 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Inozemtseva Yulia,RUS,1,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Bibik Olga,RUS,2,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Winkler Susan,GER,3,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Panfyorova Margarita,UKR,4,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Chereshneva Venera,RUS,5,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Ovtchinnikova Elena,USA,5,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Pashennik Nataliy,RUS,5,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Piszczek Renata,POL,5,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Craciun-Pantis Mihaela,ROU,9,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Posarlie-Croitoru Elena,ROU,10,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Gronkiewicz-Marcisz Iwona,POL,11,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Linhartova Eva,CZE,12,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6
+Lichtina Marina,KAZ,13,,UIAA Worldcup - Nürnberg 1993,129,1993,Nürnberg,Speed,Women,1993-11-04,/api/v1/events/129/result/6

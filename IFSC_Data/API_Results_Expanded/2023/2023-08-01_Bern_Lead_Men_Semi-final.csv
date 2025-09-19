@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Roberts Toby,GBR,1,43+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,43+
+Ondra Adam,CZE,2,39+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,39+
+Schubert Jakob,AUT,3,38+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,38+
+Megos Alexander,GER,4,34,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,34
+SONG Yunchan,KOR,5,32+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,32+
+YURIKUSA Ao,JPN,5,32+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,32+
+ANRAKU Sorato,JPN,7,30+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,30+
+Bailey Sean,USA,8,29+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,29+
+Jenft Paul,FRA,8,29+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,29+
+LEE Dohyun,KOR,8,29+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,29+
+Schalck Mejdi,FRA,11,27+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,27+
+Avezou Sam,FRA,12,26+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,26+
+Duffy Colin,USA,12,26+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,26+
+Lehmann Sascha,SUI,12,26+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,26+
+NARASAKI Tomoa,JPN,12,26+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,26+
+Ghisolfi Stefano,ITA,16,26,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,26
+McColl Sean,CAN,16,26,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,26
+Flohé Yannick,GER,18,24+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,24+
+Grupper Jesse,USA,19,24,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,24
+Stranik Martin,CZE,19,24,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,24
+PAN YUFEI,CHN,21,22+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,22+
+Utelli Jonas,SUI,22,22,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,22
+Bombardi Marcello,ITA,23,20+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,20+
+Ginés López Alberto,ESP,24,19+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,19+
+Grünenfelder Nino,SUI,24,19+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,19+
+Schenk Filip,ITA,26,18,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,18
+Ogata Yoshiyuki,JPN,27,6,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Men,Semi-final,2023-08-01,/api/v1/category_rounds/8322/results,/api/v1/events/1301/result/1,6

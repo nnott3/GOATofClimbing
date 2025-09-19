@@ -1,0 +1,33 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Cufar Martina,SLO,1,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Sarkany Muriel,BEL,2,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Uhden Marietta,GER,3,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Levet Sandrine,FRA,4,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Gros Natalija,SLO,5,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Pouget Emilie,FRA,6,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Knorr Damaris,GER,7,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Sedlmayer Katrin,GER,8,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Minoret Chloé,FRA,9,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Schultz Annatina,SUI,10,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Iakovleva Olga,RUS,11,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+schöpf Bettina,AUT,12,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Chereshneva Venera,RUS,13,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Abramchuk Yulia,RUS,14,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Petrignet Carole,FRA,15,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Balakireva Alexandra,RUS,16,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Lavarda Jenny,ITA,17,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Kryvonis Olena,UKR,18,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Ostapenko Olena,UKR,19,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Rymcha Natalia,RUS,20,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Korolkova Ekaterina,RUS,21,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Benetti Lisa,ITA,22,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Nesterova Natalia,RUS,23,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Perlova Nataliya,UKR,24,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Nilsson Ingela,SWE,25,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Stendal Linn Karin,NOR,26,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Lage Lisa,USA,27,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Laszlo Helene Belle,NOR,28,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Saulevich Olesya,RUS,29,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Raffetseder Gerda,AUT,30,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Rothschild Gail,USA,31,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5
+Chkadua Katarina,GEO,32,,UIAA Worldcup - Yekaterinburg (RUS) 2002 - Red Cards withdrawn,276,2002,Yekaterinburg,Lead,Women,2002-05-17,/api/v1/events/276/result/5

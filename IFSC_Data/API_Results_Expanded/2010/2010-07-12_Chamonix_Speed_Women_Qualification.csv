@@ -1,0 +1,29 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Alekseeva Kseniia,RUS,1,11.320,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Levochkina  Yuliya,RUS,2,11.380,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Ropek Edyta,POL,3,11.790,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+He CuiLian,CHN,4,12.610,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Boyarskikh  Ekaterina,RUS,5,12.700,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Gaidamakina Alina,RUS,6,12.950,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+PAN Xuhua,CHN,7,13.000,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Polekhina Kseniya,RUS,8,13.270,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Ryepko Olena,UKR,9,13.350,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Evstigneeva Olga,RUS,10,13.500,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Prokopiuk Monika,POL,11,13.640,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Rudzinska Aleksandra,POL,12,13.660,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Sheremetyeva Olena,UKR,13,13.670,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Titova Natalia,RUS,14,13.750,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Miroslaw Karina,POL,15,14.010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Savisko Anastasiya,UKR,16,14.090,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Morandi Sara,ITA,17,14.460,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+BUD Gusaim Oleksandra,UKR,18,14.520,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Blanco Lucelia,VEN,19,15.000,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Heitz Margot,FRA,20,15.090,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Michelard Julie,FRA,21,15.780,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Da Silva Tortosa Marie,FRA,22,16.220,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Bonnacorsi Adeline,FRA,23,16.300,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Yurina Valentina,RUS,24,16.340,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Bruckner Esther,FRA,25,16.600,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Krasavina Mariia,RUS,26,16.880,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Rudzinska Malgorzata,POL,27,19.940,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6
+Buczek Klaudia,POL,28,fall,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Speed,Women,Qualification,2010-07-12,/api/v1/category_rounds/1401/results,/api/v1/events/615/result/6

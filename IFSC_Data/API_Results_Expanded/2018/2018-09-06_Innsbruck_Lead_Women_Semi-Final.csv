@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Pilz Jessica,AUT,1,Top,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,Top
+Garnbret Janja,SLO,1,Top,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,Top
+Kim Jain,KOR,1,Top,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,Top
+Verhoeven Anak,BEL,1,Top,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,Top
+Shiraishi Ashima,USA,5,45+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,45+
+Krampl Mia,SLO,6,45,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,45
+Kotake Mei,JPN,7,44+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,44+
+Noguchi Akiyo,JPN,7,44+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,44+
+Schubert Hannah,AUT,7,44+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,44+
+Rogora Laura,ITA,7,44+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,44+
+Schranz Christine,AUT,11,43,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,43
+Thompson-Smith Molly,GBR,11,43,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,43
+Klingler Petra,SUI,13,42.5+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,42.5+
+Janicot Hélène,FRA,14,42.5,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,42.5
+Koller Anne-Sophie,SUI,15,42+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,42+
+Nonaka Miho,JPN,16,40+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,40+
+Choong Katherine,SUI,17,39+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,39+
+Sa Sol,KOR,17,39+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,39+
+Hily Manon,FRA,17,39+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,39+
+Kipriianova Ekaterina,RUS,17,39+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,39+
+Hayes Margo,USA,21,38+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,38+
+Rakovec Lucka,SLO,22,38,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,38
+Lettner Sandra,AUT,22,38,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,38
+Kazbekova Ievgeniia,UKR,24,36+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,36+
+Doumont Heloïse,BEL,25,35+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,35+
+Zaikina Anna,RUS,26,26+,IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5,26+

@@ -1,0 +1,51 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Jaubert Anouck,FRA,1,7.760,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Kaplina Iuliia,RUS,2,7.970,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Kalucka Aleksandra,POL,3,8.020,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Brozek Anna,POL,4,8.090,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Krasavina Mariia,RUS,5,8.140,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Timofeeva Elena,RUS,6,8.300,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Chudziak Patrycja,POL,7,8.410,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Andrier Victoire,FRA,8,8.470,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Kalucka Natalia,POL,9,8.520,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Dalla Brida Elisabetta,ITA,10,8.530,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Buczek Klaudia,POL,11,8.610,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Rojas Andrea,ECU,12,8.650,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Kan Daria,RUS,13,8.920,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Kelly Piper,USA,14,9.030,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Viglione Capucine,FRA,15,9.070,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Elmer Alexandra,AUT,16,9.170,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Porta  Silvia,ITA,17,9.380,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Lach Nina,AUT,18,9.690,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Prokopiuk Monika,POL,19,9.720,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Remizova Elena,RUS,20,9.750,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Stöckler Laura,AUT,21,9.960,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Randi  Giulia,ITA,22,10.040,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Zanetti Martina,ITA,23,10.220,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Fleuret Elma,FRA,24,10.440,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Buhrfeind Claire,USA,25,10.580,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Gejo Stasa,SRB,26,10.700,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Lammer Laura,AUT,27,10.790,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Raboutou Brooke,USA,28,10.910,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Rudka Maja,POL,29,11.030,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Contreras Alejandra,CHI,30,11.220,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Krizova Hana,CZE,31,11.360,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Zakharova Margaryta,UKR,32,11.420,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Medici Giulia,ITA,33,11.440,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Gifford Isabel,USA,34,12.040,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Roy Babette,CAN,35,12.230,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Rogers Teyha,CAN,36,12.380,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Aguado Valentina,ARG,37,12.420,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Hammer Maggie,USA,38,12.580,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Spurrell Christy,CAN,39,12.840,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Mercova Denisa,CZE,40,13.140,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Hirano Natsumi,JPN,41,13.330,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Kurita Miu,JPN,42,14.070,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Kups Ida,POL,43,14.400,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Sarisson Aurelia,FRA,44,14.660,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Shiraiwa Thais Makino,BRA,45,14.900,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Hammer Lisa,USA,46,16.130,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Riscado Luana,BRA,47,23.290,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Frangos Rebecca,CAN,48,fall,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Kolkotina Tetiana,UKR,48,False start,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+Vasi Francesca,ITA,48,False start,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6

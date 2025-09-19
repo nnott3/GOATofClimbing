@@ -1,0 +1,59 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Quali_time_A,Quali_time_B
+Miroslaw Aleksandra,POL,1,6.40,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,6.406,6.418
+MADE RITA KUSUMA DEWI DESAK,INA,2,6.75,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,6.902,6.754
+Kalucka Aleksandra,POL,3,6.78,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,DNF,6.785
+Hunt Emma,USA,4,6.85,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.047,6.859
+Kalucka Natalia,POL,5,6.98,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,6.986,7.18
+SALLSABILLAH RAJIAH,INA,6,7.01,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.22,7.017
+Chudziak Patrycja,POL,7,7.04,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.413,7.049
+DENG LIJUAN,CHN,8,7.13,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.134,7.179
+Romero Pérez Leslie Adriana,ESP,9,7.22,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.227,8.912
+Viglione Capucine,FRA,10,7.27,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,8.515,7.276
+JEONG Jimin,KOR,11,7.30,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.302,7.618
+ZHOU YAFEI,CHN,12,7.40,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.765,7.404
+WANG SHENGYAN,CHN,13,7.42,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.426,9.857
+IQAMAH NURUL,INA,14,7.46,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,8.263,7.465
+Randi  Giulia,ITA,15,7.47,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.471,7.54
+NIU DI,CHN,16,7.48,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.481,7.793
+Colli Beatrice,ITA,17,7.51,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.653,7.514
+ZHANG SHAOQIN,CHN,18,7.607,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.607,7.984
+Rojas Andrea,ECU,19,7.609,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.652,7.609
+Andrier Victoire,FRA,20,7.61,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.712,7.619
+Martínez Vidal Carla,ESP,21,7.63,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.637,9.185
+Ritter Franziska,GER,22,7.69,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,8.65,7.697
+Brozek Anna,POL,23,7.77,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.776,7.981
+Ulzhabayeva Tamara,KAZ,24,7.80,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.801,7.966
+Curcio Sophia,USA,25,7.95,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,11.069,7.959
+Kelly Piper,USA,26,7.99,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,7.992,8.195
+Gautron Lison,FRA,27,8.04,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,8.042,10.311
+TAKEUCHI Ai,JPN,28,8.09,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,10.973,8.093
+Burova Oksana,UKR,29,8.34,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,9.196,8.342
+KAWAKAMI Fumika,JPN,30,8.39,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,9.391,8.397
+Darabian Mahya,IRI,31,8.415,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,8.415,8.707
+HAYASHI Karin,JPN,32,8.419,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,8.419,8.584
+Sarisson Aurelia,FRA,33,8.43,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,DNF,8.433
+HAYASHI Natsumi,JPN,34,8.46,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,8.465,8.906
+Macias Ferreira Valeria,MEX,35,8.52,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,8.75,8.525
+Horielova Kseniia,UKR,36,8.63,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,8.632,8.631
+Shchyharieva Alina,UKR,37,8.68,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,8.683,8.787
+Close Callie,USA,38,8.71,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,11.495,8.713
+KANETANI Haruka,JPN,39,8.76,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,8.766,10.053
+Runnels Liberty,USA,40,8.79,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,9.037,8.792
+Velev Erica,CAN,41,8.89,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,9.767,8.892
+Raksachat Pratthana,THA,42,8.95,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,9.45,8.952
+SUNG Hanareum,KOR,43,8.96,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,DNF,8.962
+Tetzlaff Sarah,NZL,44,8.98,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,9.297,8.984
+Lebon Manon,FRA,45,9.33,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,9.33,DNF
+YUN Dasom,KOR,46,9.45,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,9.454,DNF
+Gebert Abby,NZL,47,9.46,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,14.924,9.466
+Marlenova Assel,KAZ,48,9.51,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,10.26,9.518
+CHOI NAWOO,KOR,49,9.70,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,12.526,9.708
+Contreras Carmen,CHI,50,9.76,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,9.761,10.097
+Fernández Gutierrez Arantza,MEX,51,9.86,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,9.865,10.146
+Balarshina Anna,KAZ,52,9.93,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,9.933,10.095
+Kozlova Arina,KAZ,53,10.21,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,10.514,10.215
+Rangi Jorja,NZL,54,10.71,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,10.715,10.864
+Ruano Abigail,ECU,55,11.02,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,11.025,13.421
+Mejia  Nicole ,ECU,56,11.45,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,11.455,11.709
+Hidalgo Amezquita María Fernanda,MEX,57,12.50,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,12.639,12.509
+Crowley Grace,AUS,58,15.87,IFSC World Championships Bern 2023,1301,2023,Bern,Speed,Women,Qualification,2023-08-01,/api/v1/category_rounds/7704/results,/api/v1/events/1301/result/6,DNF,15.876

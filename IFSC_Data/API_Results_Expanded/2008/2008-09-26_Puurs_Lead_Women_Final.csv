@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Vidmar Maja,SLO,1,52+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Final,2008-09-26,/api/v1/category_rounds/915/results,/api/v1/events/524/result/5,52+
+Markovic Mina,SLO,2,52+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Final,2008-09-26,/api/v1/category_rounds/915/results,/api/v1/events/524/result/5,52+
+Ernst Johanna,AUT,3,52,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Final,2008-09-26,/api/v1/category_rounds/915/results,/api/v1/events/524/result/5,52
+Ciavaldini Caroline,FRA,4,52,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Final,2008-09-26,/api/v1/category_rounds/915/results,/api/v1/events/524/result/5,52
+Noguchi Akiyo,JPN,5,50+,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Final,2008-09-26,/api/v1/category_rounds/915/results,/api/v1/events/524/result/5,50+
+Shalagina Olga,UKR,6,49-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Final,2008-09-26,/api/v1/category_rounds/915/results,/api/v1/events/524/result/5,49-
+Anda Villanueva Irati,ESP,7,37-,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Final,2008-09-26,/api/v1/category_rounds/915/results,/api/v1/events/524/result/5,37-
+Kim Jain,KOR,8,28,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Lead,Women,Final,2008-09-26,/api/v1/category_rounds/915/results,/api/v1/events/524/result/5,28

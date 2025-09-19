@@ -1,0 +1,34 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Mrázek Tomás,CZE,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,Top
+Julian  Puigblanque Ramón ,ESP,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,Top
+Usobiaga Lakunza Patxi,ESP,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,Top
+Lama David,AUT,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,Top
+Amma Sachi,JPN,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,Top
+Millet Sylvain,FRA,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,Top
+Crespi Flavio,ITA,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,Top
+Son Sangwon,KOR,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,Top
+Kim Jabee,KOR,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,Top
+Verhoeven Jorg,NED,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,Top
+Dugit Fabien,FRA,1,Top,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,Top
+Fischhuber Kilian,AUT,12,51,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,51
+Matsushima Akito,JPN,13,51-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,51-
+Kim Jaha,KOR,13,51-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,51-
+Watanabe Kazuma,JPN,13,51-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,51-
+Ito Hidekazu,JPN,13,51-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,51-
+Tsunoda Hiroki,JPN,17,50,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,50
+Hori Tsukuru,JPN,18,50-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,50-
+Mogaki Keita,JPN,18,50-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,50-
+Konishi Daisuke,JPN,18,50-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,50-
+Ozawa Shinta,JPN,18,50-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,50-
+Nakahara Sakae,JPN,22,49-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,49-
+Tanaka Syuhei,JPN,23,47+,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,47+
+Kaurov Ivan,RUS,24,47,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,47
+Kalina Alexander,RUS,25,47-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,47-
+Chu Ka-Wai,HKG,25,47-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,47-
+Nagata Nobuyuki,JPN,25,47-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,47-
+Lai Chi-Wai,HKG,28,42-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,42-
+Kang Sung-Hoon,KOR,29,40+,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,40+
+Chang Yeu-Shiang,TPE,30,40-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,40-
+Wang Qinghua,CHN,31,36+,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,36+
+Hung Jau Shiuan,TPE,32,26,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,26
+Peng Kuei Chi,TPE,33,21-,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Qualification,2007-10-13,/api/v1/category_rounds/697/results,/api/v1/events/483/result/1,21-

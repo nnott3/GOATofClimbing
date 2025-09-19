@@ -1,0 +1,22 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Netsvetaev-Dolgalev Vladimir,RUS,1,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Kazbekov Serik,UKR,2,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Kryvosheytsev Yevgen,UKR,3,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Florine Hans,USA,4,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Marcisz Andrzej,POL,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Mus Johan,BEL,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Rakhmetov Kairat,KAZ,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Schlesener Christian,GER,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Jaeger Gregor,GER,9,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Kilarski Mateusz,POL,9,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Mihal Rudolf,SVK,9,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Minaev Alexandre,RUS,9,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Skorik Vitaly,UKR,9,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Tcherechnev Oleg,RUS,9,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Vedenmeer Andrey,UKR,9,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Sulik Rastislav,SVK,16,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Hilgers Stephan,GER,17,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Mussov Metin,BUL,18,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Adrian Stefan,ROU,19,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Ene Ionel,ROU,20,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2
+Garbov Kalin,BUL,21,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Men,1993-04-29,/api/v1/events/125/result/2

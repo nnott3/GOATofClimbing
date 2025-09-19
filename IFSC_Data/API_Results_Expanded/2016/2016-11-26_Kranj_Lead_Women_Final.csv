@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Verhoeven Anak,BEL,1,48+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Women,Final,2016-11-26,/api/v1/category_rounds/3916/results,/api/v1/events/952/result/5,48+
+Noguchi Akiyo,JPN,2,41,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Women,Final,2016-11-26,/api/v1/category_rounds/3916/results,/api/v1/events/952/result/5,41
+Garnbret Janja,SLO,3,40+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Women,Final,2016-11-26,/api/v1/category_rounds/3916/results,/api/v1/events/952/result/5,40+
+Markovic Mina,SLO,4,40+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Women,Final,2016-11-26,/api/v1/category_rounds/3916/results,/api/v1/events/952/result/5,40+
+Schubert Hannah,AUT,5,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Women,Final,2016-11-26,/api/v1/category_rounds/3916/results,/api/v1/events/952/result/5,31+
+Kim Jain,KOR,6,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Women,Final,2016-11-26,/api/v1/category_rounds/3916/results,/api/v1/events/952/result/5,31+
+Kobayashi Yuka,JPN,7,25+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Women,Final,2016-11-26,/api/v1/category_rounds/3916/results,/api/v1/events/952/result/5,25+
+Becerra Mathilde,FRA,8,21+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2016,952,2016,Kranj,Lead,Women,Final,2016-11-26,/api/v1/category_rounds/3916/results,/api/v1/events/952/result/5,21+

@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Bertone Oriane,FRA,1,3T4z 4 5,IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Women,Final,2023-06-02,/api/v1/category_rounds/8209/results,/api/v1/events/1295/result/7,2,2,1,1,1,1,X,1
+Garnbret Janja,SLO,2,3T4z 6 7,IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Women,Final,2023-06-02,/api/v1/category_rounds/8209/results,/api/v1/events/1295/result/7,1,1,X,1,4,4,1,1
+Cohaut Flavy,FRA,3,2T3z 6 12,IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Women,Final,2023-06-02,/api/v1/category_rounds/8209/results,/api/v1/events/1295/result/7,X,X,3,2,3,3,X,7
+Nonaka Miho,JPN,4,1T3z 1 3,IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Women,Final,2023-06-02,/api/v1/category_rounds/8209/results,/api/v1/events/1295/result/7,1,1,X,1,X,X,X,1
+Gejo Stasa,SRB,5,0T2z 0 8,IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Women,Final,2023-06-02,/api/v1/category_rounds/8209/results,/api/v1/events/1295/result/7,X,X,X,3,X,X,X,5
+ITO Futaba,JPN,6,0T2z 0 9,IFSC World Cup Prague 2023,1295,2023,Prague,Boulder,Women,Final,2023-06-02,/api/v1/category_rounds/8209/results,/api/v1/events/1295/result/7,X,X,X,1,X,X,X,8

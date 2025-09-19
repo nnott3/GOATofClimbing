@@ -1,0 +1,14 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Usobiaga Lakunza Patxi,ESP,1,53-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,53-
+Julian  Puigblanque Ramón ,ESP,2,52-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,52-
+Verhoeven Jorg,NED,3,47,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,47
+Crespi Flavio,ITA,4,47-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,47-
+Fuselier Michaël,FRA,5,45,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,45
+Midtboe Magnus,NOR,6,45-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,45-
+Lachat Cédric,SUI,7,44+,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,44+
+Supper Gautier,FRA,8,44,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,44
+Guerimand Flavien,FRA,9,44-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,44-
+Lama David,AUT,10,37,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,37
+Dugit Fabien,FRA,11,37-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,37-
+Romain Manuel,FRA,12,36-,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,36-
+Millet Sylvain,FRA,13,35,IFSC Climbing Worldcup (L) - Valence (FRA) 2007,484,2007,Valence,Lead,Men,Final,2007-11-02,/api/v1/category_rounds/705/results,/api/v1/events/484/result/1,35

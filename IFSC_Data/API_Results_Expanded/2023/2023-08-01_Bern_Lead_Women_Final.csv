@@ -1,0 +1,10 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Mori Ai,JPN,1,TOP,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Final,2023-08-01,/api/v1/category_rounds/8325/results,/api/v1/events/1301/result/5,TOP
+Garnbret Janja,SLO,2,TOP,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Final,2023-08-01,/api/v1/category_rounds/8325/results,/api/v1/events/1301/result/5,TOP
+SEO Chaehyun,KOR,3,47+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Final,2023-08-01,/api/v1/category_rounds/8325/results,/api/v1/events/1301/result/5,47+
+Krampl Mia,SLO,4,42,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Final,2023-08-01,/api/v1/category_rounds/8325/results,/api/v1/events/1301/result/5,42
+Raboutou Brooke,USA,5,39+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Final,2023-08-01,/api/v1/category_rounds/8325/results,/api/v1/events/1301/result/5,39+
+Pilz Jessica,AUT,6,39,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Final,2023-08-01,/api/v1/category_rounds/8325/results,/api/v1/events/1301/result/5,39
+Rogora Laura,ITA,7,36+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Final,2023-08-01,/api/v1/category_rounds/8325/results,/api/v1/events/1301/result/5,36+
+Nonaka Miho,JPN,8,32,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Final,2023-08-01,/api/v1/category_rounds/8325/results,/api/v1/events/1301/result/5,32
+Thompson-Smith Molly,GBR,9,26+,IFSC World Championships Bern 2023,1301,2023,Bern,Lead,Women,Final,2023-08-01,/api/v1/category_rounds/8325/results,/api/v1/events/1301/result/5,26+

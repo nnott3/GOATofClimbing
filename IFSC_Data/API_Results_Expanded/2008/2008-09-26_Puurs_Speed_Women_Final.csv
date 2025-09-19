@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/4_winner,1/4_time,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+Tuzhylina Svitlana,,1,25.65,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Speed,Women,Final,2008-09-26,/api/v1/category_rounds/917/results,/api/v1/events/524/result/6,True,29.79,True,28.77,True,25.65,,
+Stenkovaya Anna,,2,29.36,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Speed,Women,Final,2008-09-26,/api/v1/category_rounds/917/results,/api/v1/events/524/result/6,True,28.79,True,26.54,False,29.36,,
+Ryepko Olena,,3,27.40,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Speed,Women,Final,2008-09-26,/api/v1/category_rounds/917/results,/api/v1/events/524/result/6,True,27.98,False,FALL,,,True,27.4
+Ropek Edyta,,4,27.81,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Speed,Women,Final,2008-09-26,/api/v1/category_rounds/917/results,/api/v1/events/524/result/6,True,29.16,False,FALL,,,False,27.81
+Blanco Lucelia,,5,29.49,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Speed,Women,Final,2008-09-26,/api/v1/category_rounds/917/results,/api/v1/events/524/result/6,False,29.49,,,,,,
+Yurina Valentina,,6,29.87,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Speed,Women,Final,2008-09-26,/api/v1/category_rounds/917/results,/api/v1/events/524/result/6,False,29.87,,,,,,
+Li Chunhua,,7,31.13,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Speed,Women,Final,2008-09-26,/api/v1/category_rounds/917/results,/api/v1/events/524/result/6,False,31.13,,,,,,
+Morozkina Olga,,8,31.99,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,524,2008,Puurs,Speed,Women,Final,2008-09-26,/api/v1/category_rounds/917/results,/api/v1/events/524/result/6,False,31.99,,,,,,

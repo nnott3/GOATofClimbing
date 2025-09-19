@@ -1,0 +1,17 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Ostapenko Olena,UKR,1,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Novikova Natalia,RUS,2,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Ryepko Olena,UKR,3,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Zakharova Olga,UKR,4,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Podgorbounskikh Zosia,RUS,5,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Piszczek Renata,POL,6,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Perlova Nataliya,UKR,7,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Trnkova Lenka,CZE,8,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Piratinskaya Mayya,RUS,9,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Allen Rebecca,GBR,10,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Gronkiewicz-Marcisz Iwona,POL,11,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Go Mi-Sun,KOR,12,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Bell Claire,GBR,13,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+May Abigail,GBR,13,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Ovtchinnikova Elena,USA,13,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+Wallin Lou,SWE,13,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6

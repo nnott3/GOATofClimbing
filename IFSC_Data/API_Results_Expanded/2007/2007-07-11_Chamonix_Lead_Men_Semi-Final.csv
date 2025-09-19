@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,Top,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,Top
+Verhoeven Jorg,NED,1,Top,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,Top
+Usobiaga Lakunza Patxi,ESP,1,Top,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,Top
+Millet Sylvain,FRA,4,38,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,38
+Mrázek Tomás,CZE,5,38-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,38-
+Crespi Flavio,ITA,6,37,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,37
+Romain Manuel,FRA,7,36-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,36-
+Dugit Fabien,FRA,8,34-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,34-
+Caude David,FRA,8,34-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,34-
+Son Sangwon,KOR,10,33,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,33
+Fischhuber Kilian,AUT,11,33-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,33-
+Pagnoux Romain,FRA,12,30.5,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,30.5
+Amma Sachi,JPN,13,30.25,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,30.25
+Desgranges Romain,FRA,14,30.25-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,30.25-
+Guerimand Flavien,FRA,15,30,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,30
+Comina Fabien,FRA,16,30-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,30-
+Supper Gautier,FRA,16,30-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,30-
+Van der Werf Roman,NED,16,30-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,30-
+Fuselier Michaël,FRA,16,30-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,30-
+Winkler Daniel,SUI,16,30-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,30-
+Chernikov Mikhail,RUS,16,30-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,30-
+Midtboe Magnus,NOR,16,30-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,30-
+Sharafutdinov Dmitrii,RUS,23,29.5-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,29.5-
+Gogol Mikhail,RUS,24,29+,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,29+
+Lama David,AUT,25,18-,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,18-
+Hirayama Yuji,JPN,26,3+,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Lead,Men,Semi-Final,2007-07-11,/api/v1/category_rounds/653/results,/api/v1/events/478/result/1,3+

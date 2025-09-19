@@ -1,0 +1,35 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+He CuiLian,CHN,1,Wildcard,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+He Cuifang,CHN,2,2.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Li Chunhua,CHN,3,3.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Ropek Edyta,POL,4,4.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+PAN Xuhua,CHN,5,5.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Levochkina  Yuliya,RUS,6,6.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Yurina Valentina,RUS,7,7.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Ryepko Olena,UKR,8,8.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Morozkina Olga,RUS,9,9.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Stenkovaya Anna,RUS,10,10.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Lee Hung Ying,TPE,11,11.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Titova Natalia,RUS,12,12.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Alekseeva Kseniia,RUS,13,13.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Tuzhylina Svitlana,UKR,14,14.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Ruyga Tatiana,RUS,15,15.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Hrozova Lucie,CZE,16,16.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Fakhritdinova Dinara,RUS,17,17.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Kuznetsova Tamara,KAZ,18,18.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Irsaliyeva Dinara,KAZ,19,19.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Bogolyubova Yekaterina,KGZ,20,20.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Klingler Petra,SUI,21,21.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Popova Yuliya,KAZ,22,22.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Graftiaux Chloé,BEL,23,23.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Soboleva Yevgeniya,KAZ,24,24.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Bibik Olga,RUS,25,25.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Lavarda Jenny,ITA,26,26.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Eyer Alexandra,SUI,27,27.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Schmid Christina,SUI,28,28.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Harini Harini,INA,29,29.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Iskakova Aliya,KAZ,30,30.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Noguchi Akiyo,JPN,31,31.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Gros Natalija,SLO,32,32.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Markovic Mina,SLO,33,33.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6
+Gilmour Sarah,NZL,34,34.000,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Speed,Women,Qualification,2009-06-30,/api/v1/category_rounds/1167/results,/api/v1/events/568/result/6

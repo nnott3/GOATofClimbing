@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Amma Sachi,JPN,1,32,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,32
+Ondra Adam,CZE,2,31+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,31+
+Supper Gautier,FRA,3,31+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,31+
+Skofic Domen,SLO,4,30+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,30+
+McColl Sean,CAN,5,30+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,30+
+Desgranges Romain,FRA,6,30,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,30
+Midtboe Magnus,NOR,7,30,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,30
+Schubert Jakob,AUT,8,29+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,29+
+Korenaga Keiichiro,JPN,9,28+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,28+
+Nakano Minoru,JPN,10,28+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,28+
+Nitta Tatsumi,JPN,11,28+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,28+
+Hada Yuki,JPN,12,28,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,28
+Shimatani Naoki,JPN,13,27+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,27+
+Lechner Mario,AUT,14,27,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,27
+Sugimoto Rei,JPN,15,27,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,27
+Higuchi Masahiro,JPN,16,24+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,24+
+Fujii Kokoro,JPN,17,23+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,23+
+Ghisolfi Stefano,ITA,18,21,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,21
+JonasMcRae Elan,CAN,19,21,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,21
+Matsushima Akito,JPN,20,18+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,18+
+Wechsler Or,ISR,21,15+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,15+
+Iida Yuzuru,JPN,22,15,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,15
+Timmermans Loïc,BEL,23,14+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,14+
+Hakamada Naoto,JPN,24,14+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,14+
+Julian  Puigblanque Ramón ,ESP,25,14,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,14
+Shimizu Hiroto,JPN,26,13+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1,13+

@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Eiter Angela,AUT,1,Top,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,Top
+Markovic Mina,SLO,2,51-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,51-
+Pinet Florence,FRA,3,45+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,45+
+Gros Natalija,SLO,4,45-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,45-
+Kobayashi Yuka,JPN,5,44+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,44+
+Harrington Emily,USA,6,44,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,44
+Durif Charlotte,FRA,6,44,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,44
+Anda Villanueva Irati,ESP,8,43+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,43+
+Levet Sandrine,FRA,9,41-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,41-
+Sarkany Muriel,BEL,9,41-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,41-
+Malamid Evgeniia,RUS,11,40,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,40
+Schranz Christine,AUT,12,39+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,39+
+Saurwein Katharina,AUT,13,28-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,28-
+Caprez Nina,SUI,14,27,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,27
+Wurm Juliane,GER,15,26+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,26+
+Franko Lucka,SLO,16,23+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,23+
+Chereshneva Yana,RUS,17,20,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,20
+Eyer Alexandra,SUI,17,20,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,20
+Lavarda Jenny,ITA,19,20-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,20-
+Bacher Barbara,AUT,20,19+,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,19+
+Vidmar Maja,SLO,21,19,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,19
+Alekseeva Kseniia,RUS,22,17,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,17
+schöpf Bettina,AUT,23,16,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,16
+Noguchi Akiyo,JPN,24,13-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,13-
+Raffetseder Gerda,AUT,25,13-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,13-
+Valsecchi Manuela,ITA,26,12-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,12-
+Schmid Christina,SUI,27,11-,IFSC Climbing Worldcup (L) - Zürich (SUI) 2007,476,2007,Zürich,Lead,Women,Semi-Final,2007-06-15,/api/v1/category_rounds/636/results,/api/v1/events/476/result/5,11-

@@ -1,0 +1,73 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Quali_time_B,Quali_time_A
+LEONARDO VEDDRIQ,INA,1,4.98 (WR) (AsR),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,4.984,5.361
+Watson Samuel,USA,2,5.02 (PaR),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.087,5.029
+LONG JIANGUO,CHN,3,5.130,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.13,5.15
+SHIN Euncheol,KOR,4,5.131,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.45,5.131
+WANG XINSHANG,CHN,5,5.17,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.36,5.17
+ASPAR ASPAR,INA,6,5.22,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.46,5.22
+Zurloni Matteo,ITA,7,5.230 (ER),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.43,5.23
+WU PENG,CHN,8,5.231,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,DNF,5.231
+ADI MULYONO RAHMAD,INA,9,5.239,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,8.216,5.239
+Brosler John,USA,10,5.28,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.33,5.285
+Fossali Ludovico,ITA,11,5.31,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,7.51,5.31
+Tkach Yaroslav,UKR,12,5.35,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.35,5.531
+Maimuratov Amir,KAZ,13,5.38,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.66,5.38
+WANG MINHUI,CHN,14,5.39,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.54,5.394
+LONG JINBAO,CHN,15,5.40,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.466,5.408
+Mawem Bassa,FRA,16,5.43,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.53,5.431
+YASUKAWA Jun,JPN,17,5.450,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.45,9.991
+LEE Seungbeom,KOR,18,5.458,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,7.41,5.458
+Lee Yongsu,KOR,19,5.48,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.79,5.481
+ARIPIN ZAENAL,INA,20,5.53,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.532,7.39
+OMASA Ryo,JPN,21,5.54,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.54,DNF
+Dzienski Marcin,POL,22,5.570,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.94,5.57
+Estevez  Isaac,ECU,23,5.574,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.574,5.628
+JUNG Yongjun,KOR,24,5.59,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.59,9.464
+Granja Carlos,ECU,25,5.60,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.6,5.664
+Khaibullin Rishat,KAZ,26,5.61,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.61,6.51
+IKEDA Yudai,JPN,27,5.62,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.86,5.62
+Hammer Zach,USA,28,5.63,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.636,8.795
+Stokes Rafe,GBR,29,5.64,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.64,5.694
+FUJINO Shuto,JPN,30,5.66,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.66,6.539
+Bratschi Noah,USA,31,5.70,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.9,5.7
+KATIBIN KIROMAL,INA,32,5.71,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.71,6.32
+Knapp Lukas,AUT,33,5.743,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,DNF,5.743
+Finn-Henry Michael,CAN,34,5.748,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,DNF,5.748
+Plangger Tobias,AUT,35,5.79,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.79,6.674
+Lucke Sebastian,GER,36,5.85,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,DNF,5.85
+Zodda Gian Luca,ITA,37,5.88,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.885,DNF
+Boldyrev Danyil,UKR,38,5.90,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,7.95,5.9
+Ernsberger Merritt,USA,39,5.93,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,7.42,5.938
+Payet Gaboriaud Marius,FRA,40,5.96,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,7.98,5.966
+Kriz Jan,CZE,41,5.98,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,5.98,6.023
+KALIBAY ZHANDOS,KAZ,42,6.07,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.078,DNF
+LE CLERCQ DE LANNOY Yann,FRA,43,6.11,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,DNF,6.119
+Alipourshenazandifard Milad,IRI,44,6.14,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,7.09,6.141
+KIM Young Hyun,KOR,45,6.15 (6.493),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.493,6.15
+Lin Chia Hsiang,TPE,46,6.15 (7.370),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.15,7.37
+Le Dylan,CAN,47,6.21,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.21,DNF
+Mallesh Deepu,IND,48,6.27,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,7.98,6.276
+TABUCHI Motonori,JPN,49,6.310,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.31,DNF
+Chan Cheung-chi Shoji,HKG,50,6.316,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.56,6.316
+David Julian,NZL,51,6.43 (OcR),IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,8.91,6.439
+Boulos Alessandro,ITA,52,6.46,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.465,7.301
+KIM Dong Jun,KOR,53,6.56,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.56,7.127
+Skolnik Darren,USA,54,6.60,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.605,6.604
+INTRACHUPONGSE ARDCH,THA,55,6.67,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.78,6.677
+MUHAMMAD FAJRI ALFIAN,INA,56,6.79,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.791,7.68
+KANG Minsu,KOR,57,6.86,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,6.89,6.864
+MOON Taeung,KOR,58,7.06,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,8.61,7.067
+O'Francia Quinn,USA,59,7.17,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,7.17,DNF
+Sternik Valentin,ARG,60,7.32,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,8.67,7.324
+Chisholm Flynn,NZL,61,7.48,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,7.487,7.51
+Toktarov Damir,KAZ,62,7.49,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,11.54,7.49
+Choi Jongbin,KOR,63,7.95,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,8.65,7.95
+Levesque Adrien,CAN,64,8.02,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,8.022,9.99
+Moro Guillaume,FRA,65,8.44,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,8.44,DNF
+WONG Cheuk-nam,HKG,66,10.60,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,10.6,DNF
+ZHANG LIANG,CHN,67,FALL,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,DNF,DNF
+Alipour Shenazandifard Reza,IRI,68,FALSE START,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,DNS,DNS
+CAO LONG,CHN,68,FALSE START,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,DNS,DNS
+Carmanns Leander,GER,68,FALSE START,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,DNS,DNS
+Noya Cardona Erik,ESP,68,FALSE START,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,DNS,5.51
+Pitcher Ethan,CAN,68,FALSE START,IFSC World Cup Seoul 2023,1292,2023,Seoul,Speed,Men,Qualification,2023-04-28,/api/v1/category_rounds/7673/results,/api/v1/events/1292/result/2,7.74,DNS

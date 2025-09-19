@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ondra Adam,CZE,1,42+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,42+
+Ginés López Alberto,ESP,2,41+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,41+
+Schubert Jakob,AUT,3,39+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,39+
+Lehmann Sascha,SUI,4,39+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,39+
+Potocar Luka,SLO,5,39+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,39+
+Megos Alexander,GER,6,38+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,38+
+Higuchi Masahiro,JPN,7,34+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,34+
+Ghisolfi Stefano,ITA,8,31+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,31+
+Narasaki Tomoa,JPN,9,31+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,31+
+YURIKUSA Ao,JPN,10,31+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,31+
+Fujii Kokoro,JPN,11,31+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,31+
+Stranik Martin,CZE,12,31,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,31
+Bergant Martin,SLO,13,30+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,30+
+Puman Hannes,SWE,14,30,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,30
+Kuric Peter,SVK,15,27+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,27+
+Gullsten Anthony,FIN,16,27+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,27+
+Skofic Domen,SLO,17,27,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,27
+Collin Nicolas,BEL,18,26+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,26+
+Jenft Paul,FRA,19,26,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,26
+YOSHIDA Satone,JPN,20,25+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,25+
+Duffy Colin,USA,21,25,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,25
+Hanke Christoph,GER,22,25,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,25
+Chuat Dylan,SUI,23,25,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,25
+Harada Kai,JPN,24,24,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,24
+Bombardi Marcello,ITA,25,21+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,21+
+Baudrand Victor,CAN,26,5+,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2021",1193,2021,Innsbruck,Lead,Men,Semi-Final,2021-06-23,/api/v1/category_rounds/6594/results,/api/v1/events/1193/result/1,5+

@@ -1,0 +1,10 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Yurina Valentina,RUS,1,,UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Speed,Women,2006-08-12,/api/v1/events/437/result/6
+Ruyga Tatiana,RUS,2,,UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Speed,Women,2006-08-12,/api/v1/events/437/result/6
+Neliwati Evi,INA,3,,UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Speed,Women,2006-08-12,/api/v1/events/437/result/6
+Chong Beatrix,SGP,4,,UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Speed,Women,2006-08-12,/api/v1/events/437/result/6
+Cheng Lai-Sho,HKG,5,,UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Speed,Women,2006-08-12,/api/v1/events/437/result/6
+Rodriguez Francis,VEN,6,,UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Speed,Women,2006-08-12,/api/v1/events/437/result/6
+Blanco Lucelia,VEN,7,,UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Speed,Women,2006-08-12,/api/v1/events/437/result/6
+Vathsala M. N.,IND,8,,UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Speed,Women,2006-08-12,/api/v1/events/437/result/6
+Zainal Rosharyani,MAS,9,,UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Speed,Women,2006-08-12,/api/v1/events/437/result/6

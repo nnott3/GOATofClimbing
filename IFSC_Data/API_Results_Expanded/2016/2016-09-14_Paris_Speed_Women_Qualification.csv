@@ -1,0 +1,47 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Tsyganova Anna,RUS,1,7.880,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Jaubert Anouck,FRA,2,8.030,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Kaplina Iuliia,RUS,3,8.180,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Rudzinska Aleksandra,POL,4,8.270,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Buczek Klaudia,POL,5,8.350,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Brozek Anna,POL,6,8.410,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Sarisson Aurelia,FRA,7,8.660,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Fleuret Elma,FRA,8,8.890,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Ivanova Elizaveta,RUS,9,8.910,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Kan Daria,RUS,10,9.060,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Chudziak Patrycja,POL,11,9.090,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Lach Nina,AUT,12,9.110,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Andrier Victoire,FRA,13,9.310,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Marenych Alla,UKR,14,9.380,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Kuznetsova Tamara,KAZ,15,9.580,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Dalla Brida Elisabetta,ITA,16,9.620,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+He CuiLian,CHN,17,9.650,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Rojas Andrea,ECU,18,9.720,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Meister Erica,USA,19,9.800,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Krasovskaia Elena,RUS,20,9.830,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Timofeeva Elena,RUS,21,9.840,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Esmaeilzadeh Farnaz,IRI,22,9.910,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Ropek Edyta,POL,23,9.990,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Buhrfeind Claire,USA,24,10.220,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Gaidamakina Alina,RUS,25,10.260,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Durif Charlotte,FRA,26,10.480,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Randi Giorgia,ITA,27,10.490,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Kolkotina Tetiana,UKR,28,10.560,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Condie Kyra,USA,29,10.770,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Porta  Silvia,ITA,30,10.820,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Horstmann Bimini,USA,31,11.210,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+McKeehan Grace,USA,32,11.470,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+KO Jeongran,KOR,33,11.480,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Zaichenko Anastasiya,UKR,34,11.930,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Ebner Andrea,ITA,35,12.940,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+JIANG Rong,CHN,36,13.030,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Yang Jiwon,KOR,37,13.040,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Yip Alannah,CAN,38,13.360,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Stewart-Patterson Alison,CAN,39,13.490,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Gollo Asja,ITA,40,14.180,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Pokorna Andrea,CZE,41,14.320,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Shymkova Anastasia,UKR,42,14.330,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Miller Delaney,USA,43,14.530,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Kazbekova Ievgeniia,UKR,44,15.260,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Jung Saedasom,KOR,45,17.820,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6
+Hafsaas Tina Johnsen,NOR,46,19.030,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Speed,Women,Qualification,2016-09-14,/api/v1/category_rounds/3900/results,/api/v1/events/950/result/6

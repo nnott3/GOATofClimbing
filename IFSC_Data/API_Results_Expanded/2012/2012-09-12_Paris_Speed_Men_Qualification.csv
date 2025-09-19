@@ -1,0 +1,56 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Hroza Libor,CZE,1,6.000,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Zhong QiXin,CHN,2,6.100,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Abdrakhmanov Sergey,RUS,3,6.400,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Boldyrev Danyil,UKR,4,6.500,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Dzienski Marcin,POL,4,6.500,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Gontero Leonardo,ITA,4,6.500,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Vaitsekhovskii Evgenii,RUS,4,6.500,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Shevchenko Arsenii,RUS,8,6.600,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+"Choo Weng Khit, Adriel",SGP,9,6.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Escobar Manuel,VEN,9,6.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Gontaryk Yaroslav,UKR,9,6.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Sinitcyn Sergei,RUS,9,6.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Timofeev Dmitrii,RUS,9,6.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Yurko Oleksiy,UKR,9,6.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Kokorin Stanislav,RUS,15,6.800,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Swirk Lukasz,POL,15,6.800,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Mawem Bassa,FRA,17,6.900,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Zhong Lincai,CHN,17,6.900,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Jaelolo Aspar,INA,19,7.000,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Barkovskyy Sergiy,UKR,19,7.000,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Bokanov Sayat,KAZ,19,7.000,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Estevez  Isaac,ECU,22,7.100,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Zinchenko Volodymyr,UKR,22,7.100,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Kytaiko Andrii,UKR,24,7.400,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Moro Guillaume,FRA,24,7.400,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Devyaterikov Artyom,KAZ,26,7.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Grichting Gian-Luca,SUI,27,7.900,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Nieves Josmar,VEN,27,7.900,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+LE COUSTER Yoann,FRA,29,8.000,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Quinteros Andres,ECU,30,8.200,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Komondi Csaba,HUN,31,8.500,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Pazmino Andres,ECU,31,8.500,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Ghisolfi Stefano,ITA,33,8.600,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Cho Seungwoon,KOR,34,9.200,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Stewart-Patterson Robert,CAN,34,9.200,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Labarge Dominic,USA,36,9.300,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Boyd Julian,USA,37,9.500,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Andrews-Jubelt Charles,USA,38,9.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Tauporn Thomas,GER,38,9.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Jankhoteli Giga,GEO,40,10.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+PUccio Shane,USA,40,10.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Rugens Rolands,LAT,42,10.900,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+McColl Sean,CAN,43,11.200,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+KIM Hanwool,KOR,44,11.800,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Lachat Cédric,SUI,45,12.600,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Jubes Angarita Marco Antonio,ESP,46,14.000,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Ioannou Denis,CYP,47,15.000,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Becan Klemen,SLO,48,16.300,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Tagizade Cingiz,AZE,48,16.300,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Israfilov Ilham,AZE,50,27.500,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Quintana Jaime Hendrik,PER,51,30.700,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Ibadov Babek,AZE,52,fall,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Komosinski Jedrzej,POL,52,fall,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Maimuratov Amir,KAZ,52,fall,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+Molchanov Alexey,KAZ,52,fall,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2

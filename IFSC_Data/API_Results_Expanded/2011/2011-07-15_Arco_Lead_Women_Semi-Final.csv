@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,56-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,56-
+Röck Magdalena,AUT,2,53-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,53-
+Ernst Johanna,AUT,3,52-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,52-
+Eiter Angela,AUT,4,51-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,51-
+Posch Katharina,AUT,5,49+,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,49+
+Markovic Mina,SLO,6,49-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,49-
+Schranz Christine,AUT,7,47+,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,47+
+DiGiulian Sasha,USA,8,47-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,47-
+Eyer Alexandra,SUI,9,46-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,46-
+Chereshneva Yana,RUS,10,45-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,45-
+Vidmar Maja,SLO,11,44-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,44-
+Gros Natalija,SLO,11,44-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,44-
+Kobayashi Yuka,JPN,13,43,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,43
+Lavarda Jenny,ITA,14,43-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,43-
+Durif Charlotte,FRA,15,42-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,42-
+Ciavaldini Caroline,FRA,16,41,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,41
+Han Seuran,KOR,17,40+,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,40+
+Fakhritdinova Dinara,RUS,18,40,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,40
+Shalagina Olga,UKR,19,40-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,40-
+Bacher Barbara,AUT,20,39-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,39-
+Janicot Hélène,FRA,20,39-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,39-
+Thévenet Marine,FRA,22,36-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,36-
+Serrière Julia,FRA,22,36-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,36-
+Choong Katherine,SUI,24,31-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,31-
+Stotz Rebekka,SUI,24,31-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,31-
+Svobodova Tereza,CZE,26,21-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5,21-

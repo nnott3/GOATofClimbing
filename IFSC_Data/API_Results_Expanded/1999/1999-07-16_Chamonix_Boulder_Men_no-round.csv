@@ -1,0 +1,58 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Core Christian,ITA,1,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+DU LAC Daniel,FRA,2,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Fairfield Timmy,CAN,3,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Rakhmetov Salavat,RUS,4,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Oleksy Tomasz,POL,5,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Julien Stephane,FRA,6,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Petit François,FRA,7,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Meyer Jérôme,FRA,8,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Golob Jurij,SLO,9,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Kazbekov Serik,UKR,10,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Danis Jean Luc,FRA,11,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Laporte Laurent,FRA,12,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Chemoulinkine Serguei,RUS,13,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Chabot Alexandre,FRA,14,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Vedenmeer Andrey,UKR,15,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Nourmamatov Serguei,RUS,16,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Vinokur Vadim,USA,17,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Dutray Mathieu,FRA,18,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Bychkov Dmitrii,RUS,19,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Caude David,FRA,20,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Pinier Nicolas,FRA,21,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Lebreton Olivier,FRA,22,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Scarian Riccardo,ITA,23,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Meral Julien,FRA,24,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Cehovin Urh,SLO,25,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Otegui Zubiyaga Ricardo,ESP,26,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Scully Eric,USA,27,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Finkel Christoph,GER,28,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Chabaud Clément,FRA,29,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Giupponi Luca,ITA,30,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Gottfried Jürgen,GER,31,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Gusak Igor,UKR,31,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Emprin Christian,FRA,33,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Markevych Petro,UKR,34,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Lamiche Anthony,FRA,35,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Jeandenand Damien,FRA,36,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Langris Sylvain,FRA,37,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Auclair François,FRA,38,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Daures Luc,FRA,38,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Soucek Radovah,CZE,38,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Trottmann Matthias,SUI,38,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Felgerolle Benjamin,FRA,42,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Zitnik Primoz,SLO,43,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Fouchereau Tony,FRA,44,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Paukaev Alexandr,UKR,44,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Foubert Benoît,FRA,46,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Grom Aljosa,SLO,47,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Jongeneelen Jeroen,NED,48,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Le Scour Thibault,FRA,48,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Teijsse Dennis,NED,50,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Brahimi Ahmed,FRA,51,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Fioravanti Roberto,ITA,52,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Bloch Elliot,USA,53,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Therr Serge,FRA,54,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Sadovski Eugeni,UKR,55,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Ledovskikh Alexander,UKR,56,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+Pouchelet Etienne,FRA,57,,UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3

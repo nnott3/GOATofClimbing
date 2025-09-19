@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ondra Adam,CZE,1,47+,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Men,Final,2019-07-11,/api/v1/category_rounds/5516/results,/api/v1/events/1119/result/1,47+
+Megos Alexander,GER,2,44,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Men,Final,2019-07-11,/api/v1/category_rounds/5516/results,/api/v1/events/1119/result/1,44
+Schubert Jakob,AUT,3,43+,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Men,Final,2019-07-11,/api/v1/category_rounds/5516/results,/api/v1/events/1119/result/1,43+
+Bosi William,GBR,4,39+,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Men,Final,2019-07-11,/api/v1/category_rounds/5516/results,/api/v1/events/1119/result/1,39+
+Ginés López Alberto,ESP,5,33+,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Men,Final,2019-07-11,/api/v1/category_rounds/5516/results,/api/v1/events/1119/result/1,33+
+Stranik Martin,CZE,6,31+,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Men,Final,2019-07-11,/api/v1/category_rounds/5516/results,/api/v1/events/1119/result/1,31+
+McColl Sean,CAN,7,25+,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Men,Final,2019-07-11,/api/v1/category_rounds/5516/results,/api/v1/events/1119/result/1,25+
+Harada Kai,JPN,8,22,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Men,Final,2019-07-11,/api/v1/category_rounds/5516/results,/api/v1/events/1119/result/1,22

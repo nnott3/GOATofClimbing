@@ -1,0 +1,52 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Julian  Puigblanque Ramón ,ESP,1,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Chabot Alexandre,FRA,2,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Kazbekov Serik,UKR,3,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Petit François,FRA,4,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Bindhammer Christian,GER,5,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Pouvreau Gérome,FRA,6,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Lella Donato,ITA,7,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Marin Garcia Eduard,ESP,8,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Mrázek Tomás,CZE,9,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Lachat Cédric,SUI,10,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Petrenko Maksym,UKR,10,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Fischhuber Kilian,AUT,12,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Douloub Iouri,RUS,13,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Kryvosheytsev Yevgen,UKR,14,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Crespi Flavio,ITA,15,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Millet Sylvain,FRA,15,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Sova Matej,SLO,17,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Ten Sijthoff Casper,NED,17,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Brenna Cristian,ITA,19,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Hoppe Markus,GER,20,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Caude David,FRA,21,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Bosma Peter,SWE,22,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Son Sangwon,KOR,23,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Becan Klemen,SLO,24,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Lagni Bernardino,ITA,25,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Bindhammer Andreas,GER,26,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Auclair François,FRA,27,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Reis Jürgen,AUT,27,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Gusak Igor,UKR,29,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Barbero Alfonso Pablo ,ESP,30,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Valjavec Tomaz,SLO,30,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Felix Martin,SUI,32,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Golob Jurij,SLO,32,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Zazvonil Luka,SLO,32,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Vinokur Vadim,USA,35,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Tsuiki Takaaki,JPN,36,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Kim Dong-Sik,KOR,37,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Jensterle Franci,SLO,38,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Verhoeven Jorg,NED,39,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Kim Hee-Jo,KOR,40,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Crijns Zeb,NED,41,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Baxter Adrian,GBR,42,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Rant Blaz,SLO,43,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Strojan Ales,SLO,43,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Mobråten Martin,NOR,45,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Ushiro Teppei,JPN,46,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Bozsik Richárd,HUN,47,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Fichtinger Reinhard,AUT,47,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Christophersen Stian,NOR,49,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Stremfelj Anze,SLO,49,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1
+Varga Gábor,HUN,51,,UIAA Worldcup - Kranj (SLO) 2002,287,2002,Kranj,Lead,Men,2002-11-15,/api/v1/events/287/result/1

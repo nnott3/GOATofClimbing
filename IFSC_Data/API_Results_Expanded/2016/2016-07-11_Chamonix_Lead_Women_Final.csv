@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,Top,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Women,Final,2016-07-11,/api/v1/category_rounds/3848/results,/api/v1/events/944/result/5,Top
+Verhoeven Anak,BEL,2,Top,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Women,Final,2016-07-11,/api/v1/category_rounds/3848/results,/api/v1/events/944/result/5,Top
+Kim Jain,KOR,3,48+,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Women,Final,2016-07-11,/api/v1/category_rounds/3848/results,/api/v1/events/944/result/5,48+
+Röck Magdalena,AUT,4,43+,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Women,Final,2016-07-11,/api/v1/category_rounds/3848/results,/api/v1/events/944/result/5,43+
+Kobayashi Yuka,JPN,5,33+,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Women,Final,2016-07-11,/api/v1/category_rounds/3848/results,/api/v1/events/944/result/5,33+
+Markovic Mina,SLO,6,33+,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Women,Final,2016-07-11,/api/v1/category_rounds/3848/results,/api/v1/events/944/result/5,33+
+Koller Anne-Sophie,SUI,7,27+,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Women,Final,2016-07-11,/api/v1/category_rounds/3848/results,/api/v1/events/944/result/5,27+
+Durif Charlotte,FRA,8,21+,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Lead,Women,Final,2016-07-11,/api/v1/category_rounds/3848/results,/api/v1/events/944/result/5,21+

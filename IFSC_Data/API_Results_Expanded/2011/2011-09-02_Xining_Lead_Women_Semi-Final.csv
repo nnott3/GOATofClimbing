@@ -1,0 +1,24 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Markovic Mina,SLO,1,Top,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,Top
+Kim Jain,KOR,2,Top,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,Top
+Vidmar Maja,SLO,3,44+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,44+
+Posch Katharina,AUT,4,42-,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,42-
+Oda Momoka,JPN,5,41+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,41+
+Chereshneva Yana,RUS,5,41+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,41+
+Durif Charlotte,FRA,7,41-,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,41-
+Bacher Barbara,AUT,8,41-,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,41-
+Ciavaldini Caroline,FRA,9,40+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,40+
+Schranz Christine,AUT,9,40+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,40+
+Han Seuran,KOR,11,40+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,40+
+PAN Xuhua,CHN,12,39,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,39
+RENQING LaMu,CHN,13,39-,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,39-
+Lee Hung Ying,TPE,14,32,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,32
+Sukmandiri Uji Ayu,INA,15,32-,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,32-
+Kuznetsova Tamara,KAZ,16,32-,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,32-
+Song Hannarai,KOR,17,30+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,30+
+Wilda Baco Achmad,INA,18,30,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,30
+Syarifah  Abdul Rohma,INA,19,30,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,30
+Lin Hsiu-Ju,TPE,20,30-,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,30-
+RenZeng WangMu,CHN,21,30-,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,30-
+JIANG Rong,CHN,22,27-,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,27-
+gesang wangmu,CHN,23,18,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5,18

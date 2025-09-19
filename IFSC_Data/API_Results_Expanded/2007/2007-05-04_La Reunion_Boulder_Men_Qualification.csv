@@ -1,0 +1,26 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Meyer Jérôme,FRA,1,6t6 6b6,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Hukkataival Nalle,FIN,2,6t7 6b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Pouvreau Gérome,FRA,3,6t8 6b6,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Fischhuber Kilian,AUT,4,6t8 6b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Core Christian,ITA,5,6t8 6b8,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Julien Stéphan,FRA,6,6t9 6b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+DU LAC Daniel,FRA,7,5t6 6b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Gaidioz Loïc,FRA,7,5t6 6b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Badia Nicolas,FRA,9,5t8 6b8,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Preti Lucas,ITA,10,5t8 6b10,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Parry Gareth,GBR,11,5t9 6b10,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Caminati Michele,ITA,12,5t9 6b11,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Earl Andrew,GBR,13,5t9 5b5,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Ramsamy Joackym,FRA,14,4t5 5b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Treuilhe Christophe,FRA,15,4t6 6b9,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Croxall Mark,GBR,16,4t7 6b12,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Mogaki Keita,JPN,17,4t9 6b12,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Nomine Baptiste,FRA,18,4t10 4b4,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Baumann Jonas,GER,19,3t3 5b6,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Lama David,AUT,20,3t3 5b8,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Ciccione Jérémie,FRA,21,3t5 5b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Hemund Kevin,SUI,22,3t6 5b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Miegeville Quentin,FRA,23,3t6 4b8,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Jongeneelen Wouter,NED,24,3t7 5b10,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3
+Smigelskis Edvinas,RSA,25,1t2 4b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Qualification,2007-05-04,/api/v1/category_rounds/620/results,/api/v1/events/473/result/3

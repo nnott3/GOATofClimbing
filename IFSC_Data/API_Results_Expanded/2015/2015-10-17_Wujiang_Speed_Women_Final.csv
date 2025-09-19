@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/4_winner,1/4_time,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+Krasavina Mariia,,1,7.86,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Women,Final,2015-10-17,/api/v1/category_rounds/3490/results,/api/v1/events/908/result/6,True,8.49,True,8.189,True,7.86,,
+Jaubert Anouck,,2,8.11,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Women,Final,2015-10-17,/api/v1/category_rounds/3490/results,/api/v1/events/908/result/6,True,8.41,True,7.92,False,8.119,,
+Ropek Edyta,,3,12.31,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Women,Final,2015-10-17,/api/v1/category_rounds/3490/results,/api/v1/events/908/result/6,True,8.81,False,FALL,,,True,12.31
+Kaplina Iuliia,,4,FALL,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Women,Final,2015-10-17,/api/v1/category_rounds/3490/results,/api/v1/events/908/result/6,True,8.44,False,8.97,,,False,FALL
+Miroslaw Aleksandra,,5,8.57,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Women,Final,2015-10-17,/api/v1/category_rounds/3490/results,/api/v1/events/908/result/6,False,8.57,,,,,,
+Marenych Alla,,6,10.03,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Women,Final,2015-10-17,/api/v1/category_rounds/3490/results,/api/v1/events/908/result/6,False,10.03,,,,,,
+Buczek Klaudia,,7,10.52,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Women,Final,2015-10-17,/api/v1/category_rounds/3490/results,/api/v1/events/908/result/6,False,10.52,,,,,,
+Tsyganova Anna,,8,14.66,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Speed,Women,Final,2015-10-17,/api/v1/category_rounds/3490/results,/api/v1/events/908/result/6,False,14.66,,,,,,

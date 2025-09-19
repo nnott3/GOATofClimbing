@@ -1,0 +1,17 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Sinitcyn Sergei,RUS,1,39.090,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Vaitsekhovskii Evgenii,RUS,2,fall,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Kosterin Alexander,RUS,3,40.130,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Swirk Lukasz,POL,4,43.730,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Escobar Manuel,VEN,5,45.070,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Vorobyev Valeriy,RUS,6,49.490,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Skripov Anatoly,RUS,7,50.420,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Peshekhonov Alexander,RUS,8,77.940,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Hroza Libor,CZE,9,49.670,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+De Las Salas Leonel,VEN,10,50.270,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Subbotin Iakov,RUS,11,50.900,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Styenkovyy Maksym,UKR,12,52.620,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Shyshkovskyy Ivan,UKR,13,53.260,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Osipov Maksym,UKR,14,58.810,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Amann Mark,AUT,15,63.210,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2
+Januel Nicolas,FRA,16,fall,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Men,Final,2007-07-21,/api/v1/category_rounds/660/results,/api/v1/events/479/result/2

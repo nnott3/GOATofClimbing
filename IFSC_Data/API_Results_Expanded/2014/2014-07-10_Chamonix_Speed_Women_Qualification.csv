@@ -1,0 +1,25 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Kaplina Iuliia,RUS,1,7.700,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Jaubert Anouck,FRA,2,8.000,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Rudzinska Aleksandra,POL,3,8.290,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Heitz Margot,FRA,4,8.300,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Timofeeva Elena,RUS,5,8.330,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Ropek Edyta,POL,6,8.400,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Buczek Klaudia,POL,7,8.470,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Levochkina  Yuliya,RUS,8,8.690,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Gaidamakina Alina,RUS,9,8.700,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Chudziak Patrycja,POL,10,8.750,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Prokopiuk Monika,POL,11,8.910,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Krasavina Mariia,RUS,12,8.990,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Elmer Alexandra,AUT,13,9.010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Golikova Anastasiia,RUS,14,9.190,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Lugovenko Yana,UKR,15,9.280,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Lach Nina,AUT,16,9.480,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Skorodumova Tatiana,RUS,17,9.620,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Tsyganova Anna,RUS,18,9.690,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Marenych Alla,UKR,19,9.770,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Kolokovska Anna,UKR,20,9.850,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Pichler Stefanie,AUT,21,10.170,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Khutorova Yulia,RUS,22,10.240,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Motovilova Svetlana,RUS,23,11.160,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+Pokorna Andrea,CZE,24,14.300,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6

@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Grossman Natalia,USA,1,TOP,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,TOP
+Totkova Aleksandra,BUL,2,TOP,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,TOP
+Chanourdie Julia,FRA,3,TOP,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,TOP
+Fakhritdinova Dinara,RUS,3,TOP,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,TOP
+LUKAN Vita,SLO,5,TOP,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,TOP
+Rogora Laura,ITA,6,TOP,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,TOP
+Tanii Natsuki,JPN,7,TOP,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,TOP
+Shiraishi Ashima,USA,8,TOP,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,TOP
+Arc Nolwenn,FRA,9,TOP,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,TOP
+Adamovska Eliska,CZE,10,54,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,54
+ABE Momoko,JPN,11,53+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,53+
+Pouget Camille,FRA,12,52+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,52+
+Arthaud Nina,FRA,13,51+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,51+
+Romain Salomé,FRA,14,49+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,49+
+van Essen Sabina,NED,15,49+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,49+
+HULLIGER Michelle,SUI,16,48+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,48+
+Thompson-Smith Molly,GBR,17,47+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,47+
+Tesio Giorgia,ITA,18,43,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,43
+NAKAGAWA Ryu,JPN,19,41+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,41+
+Hammelmüller Eva Maria,AUT,20,41,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,41
+Fiser Julia,AUT,21,41,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,41
+Demmel Martina,GER,22,41,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,41
+Rakovec Lucka,SLO,23,39+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,39+
+Koller Anne-Sophie,SUI,24,39+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,39+
+van der Meer Lynn,NED,25,33+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,33+
+Hily Manon,FRA,26,9,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Women,Semi-Final,2021-07-12,/api/v1/category_rounds/6622/results,/api/v1/events/1195/result/5,9

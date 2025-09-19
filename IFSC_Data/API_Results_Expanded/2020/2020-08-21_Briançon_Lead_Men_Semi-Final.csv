@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ondra Adam,CZE,1,39+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,39+
+Schubert Jakob,AUT,2,39+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,39+
+Megos Alexander,GER,3,36+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,36+
+Skofic Domen,SLO,4,33+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,33+
+Schalck Mejdi,FRA,5,32,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,32
+Monchois Nao,FRA,6,30,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,30
+Potocar Luka,SLO,7,29+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,29+
+Posch Mathias,AUT,8,29,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,29
+Parmentier Hugo,FRA,9,28+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,28+
+Jenft Paul,FRA,10,27,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,27
+Khaibullin Rishat,KAZ,11,26+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,26+
+Avezou Sam,FRA,12,26+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,26+
+Fourbet Diego,FRA,13,26+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,26+
+Konecny Jakub,CZE,14,26+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,26+
+Bombardi Marcello,ITA,15,26,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,26
+Duval Alistair,FRA,16,26,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,26
+Bonder Jeremy,FRA,17,23,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,23
+Ginés López Alberto,ESP,18,22+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,22+
+Martin Philipp,GER,19,22+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,22+
+Avezou Leo,FRA,20,22,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,22
+Schenk Filip,ITA,21,22,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,22
+Hanke Christoph,GER,22,21+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,21+
+Flohé Yannick,GER,23,21+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,21+
+Stranik Martin,CZE,24,20,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,20
+Timmermans Loïc,BEL,25,20,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,20
+Colombo Davide Marco,ITA,26,20,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,20
+Lemaire Adrien,FRA,27,20,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Semi-Final,2020-08-21,/api/v1/category_rounds/6136/results,/api/v1/events/65/result/1,20

@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,Top
+Verhoeven Anak,BEL,2,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,Top
+Kim Jain,KOR,3,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,Top
+Markovic Mina,SLO,4,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,Top
+Thompson-Smith Molly,GBR,5,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,37+
+Chanourdie Julia,FRA,6,35,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,35
+Coxsey Shauna,GBR,7,35,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,35
+Lukan Vita,SLO,8,31,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,31
+Noguchi Akiyo,JPN,9,30.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5+
+Repusic Urska,SLO,10,30.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5+
+Koller Anne-Sophie,SUI,11,30.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5+
+Kotake Mei,JPN,12,30.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5+
+Ota Risa,JPN,13,30.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5+
+Fiser Julia,AUT,14,30.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5+
+Gejo Stasa,SRB,15,30.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5
+Schubert Hannah,AUT,16,30.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5
+Nonaka Miho,JPN,17,30.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5
+Doumont Heloïse,BEL,18,30.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5
+Krampl Mia,SLO,19,30.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5
+Fakhritdinova Dinara,RUS,20,30.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5
+YOSHIMURA  Moe,JPN,21,30.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30.5
+Kadic Katja,SLO,22,30+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30+
+Rakovec Lucka,SLO,23,30,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30
+Rogora Laura,ITA,23,30,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,30
+Meshkova Viktoriia,RUS,25,28+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,28+
+Midtboe Hannah,NOR,26,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2017,997,2017,Kranj,Lead,Women,Semi-Final,2017-11-11,/api/v1/category_rounds/4355/results,/api/v1/events/997/result/5,26+

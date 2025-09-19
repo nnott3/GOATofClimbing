@@ -1,0 +1,23 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Tsyganova Anna,RUS,1,7.670,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Jaubert Anouck,FRA,2,7.760,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Sarisson Aurelia,FRA,3,8.060,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Kaplina Iuliia,RUS,4,8.160,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Timofeeva Elena,RUS,5,8.170,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Krasavina Mariia,RUS,6,8.230,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Ropek Edyta,POL,7,8.250,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Marenych Alla,UKR,8,8.420,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Brozek Anna,POL,9,8.640,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+He CuiLian,CHN,10,8.660,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+NI MingWei,CHN,11,8.980,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+SONG YiLing,CHN,12,9.040,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Buczek Klaudia,POL,13,9.170,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Niu Di,CHN,14,9.350,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Marlenova Assel,KAZ,15,9.390,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+RenZeng WangMu,CHN,16,9.910,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Kim Seohyun,KOR,17,9.940,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Kuznetsova Tamara,KAZ,18,10.380,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Panteleeva Iuliia,RUS,19,10.520,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Kümin Andrea,SUI,20,11.630,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Yip Alannah,CAN,21,12.810,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6
+Jung Saedasom,KOR,22,12.990,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",987,2017,Nanjing,Speed,Women,Qualification,2017-04-29,/api/v1/category_rounds/4274/results,/api/v1/events/987/result/6

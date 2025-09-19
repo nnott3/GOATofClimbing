@@ -1,0 +1,77 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Kaplina Iuliia,RUS,1,7.464,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Susanti Rahayu Aries,INA,2,7.711,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Remizova Elena,RUS,3,7.860,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+SONG YiLing,CHN,4,7.880,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+NI MingWei,CHN,5,7.967,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Tsyganova Anna,RUS,6,7.999,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Jaubert Anouck,FRA,7,8.024,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Krasavina Mariia,RUS,8,8.102,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Ivanova Elizaveta,RUS,9,8.130,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Brozek Anna,POL,10,8.259,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Chudziak Patrycja,POL,11,8.395,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Kalucka Aleksandra,POL,12,8.438,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Sarisson Aurelia,FRA,13,8.462,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Calanca Anna,ITA,14,8.544,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Barashchuk Ekaterina,RUS,15,8.577,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Rojas Andrea,ECU,16,8.590,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Aksenova Polina,RUS,17,8.635,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Petrova Kseniia,RUS,18,8.693,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Kulagina Polina,RUS,19,8.750,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Andrier Victoire,FRA,20,8.851,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Elmer Alexandra,AUT,21,8.924,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Krasovskaia Elena,RUS,22,9.051,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Marlenova Assel,KAZ,23,9.079,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Kuznetsova Tamara,KAZ,24,9.154,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Kushaeva Kamilla,RUS,25,9.161,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Lammer Laura,AUT,26,9.205,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Dalla Brida Elisabetta,ITA,27,9.232,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Nurul Iqomah,INA,28,9.260,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Darabian Mahya,IRI,29,9.316,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+JIANG Rong,CHN,30,9.339,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Agambayeva Margarita,KAZ,31,9.389,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Karami Azam,IRI,32,9.424,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Yip Alannah,CAN,33,9.509,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Klingler Petra,SUI,34,9.539,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Lee Hung Ying,TPE,35,9.691,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Timofeeva Elena,RUS,36,9.828,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Condie Kyra,USA,37,9.902,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Kopf Sienna,USA,38,9.911,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Grossman Natalia,USA,39,10.049,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Garnbret Janja,SLO,40,10.050,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Lettner Sandra,AUT,41,10.069,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Ito Futaba,JPN,42,10.102,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Pilz Jessica,AUT,43,10.116,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Lakzaiifar Kobra,IRI,44,10.128,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Rekabi Elnaz,IRI,45,10.255,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Fisher Ashley,USA,46,10.331,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Panteleeva Iuliia,RUS,47,10.356,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Bestvater Alma,GER,48,10.431,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Aguado Valentina,ARG,49,10.488,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Zhang YueTong,CHN,50,10.593,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Chanourdie Julia,FRA,51,10.627,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Phillips Emily,GBR,52,10.970,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Gifford Isabel,USA,53,10.972,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Kadic Katja,SLO,54,11.002,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Meshkova Viktoriia,RUS,55,11.154,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Kümin Andrea,SUI,56,11.171,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Caulier Chloe,BEL,57,11.236,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Coxsey Shauna,GBR,58,11.274,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Zaikina Anna,RUS,59,11.364,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Nakamura Mao,JPN,60,11.438,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Gibert Fanny,FRA,61,11.656,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Krizova Hana,CZE,62,11.936,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Hily Manon,FRA,63,11.983,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Rogora Laura,ITA,64,12.017,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Rakovec Lucka,SLO,65,12.287,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Doumont Heloïse,BEL,66,12.628,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Koller Anne-Sophie,SUI,67,12.693,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Nadya Putri Virgita,INA,68,12.818,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Krampl Mia,SLO,69,12.849,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Salsabila Salsabila,INA,70,13.464,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+YU Wai-ping,HKG,71,13.878,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Hirano Natsumi,JPN,72,13.934,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Umi C Choirul,INA,73,14.425,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Michalkova Vanda,SVK,74,15.230,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+van Bergen Nikki,NED,75,15.917,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+Sealy-Fisher Hannah,RSA,76,18.992,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6

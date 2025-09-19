@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,41+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,41+
+Pilz Jessica,AUT,2,36,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,36
+Janicot Hélène,FRA,3,33,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,33
+Kobayashi Yuka,JPN,4,31+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,31+
+Markovic Mina,SLO,5,28,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,28
+Röck Magdalena,AUT,6,28,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,28
+Verhoeven Anak,BEL,7,26,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,26
+Posch Katharina,AUT,8,24+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,24+
+Lavarda Jenny,ITA,9,24+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,24+
+Fredman Netta,ISR,10,23+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,23+
+Ota Risa,JPN,10,23+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,23+
+Onoe Aya,JPN,12,23+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,23+
+Miller Delaney,USA,13,21+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,21+
+Kalan Tjasa,SLO,14,20+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,20+
+Tajima Aika,JPN,15,19+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,19+
+YOSHIMURA  Moe,JPN,16,19+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,19+
+Hiroshige Yuki,JPN,17,18,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,18
+Shimizu Natsuko,JPN,18,17+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,17+
+BAIMA YuZhen,CHN,19,16+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,16+
+PUBU ZhuoMa,CHN,20,15+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Women,Semi-Final,2015-10-17,/api/v1/category_rounds/3487/results,/api/v1/events/908/result/5,15+

@@ -1,0 +1,22 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Sugimoto Rei,JPN,1,3t11 4b11,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,5,3,4,4,X,3,2,1
+Fischhuber Kilian,AUT,2,2t3 4b8,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,2,X,4,2,1,1,1
+Glairon Mondet Guillaume,FRA,3,2t5 3b5,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,2,2,X,X,3,1,X,2
+Webb-Parsons Christopher,AUS,4,2t6 4b8,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,3,1,3,3,X,3,X,1
+Sharafutdinov Dmitrii,RUS,5,2t6 3b7,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,3,3,X,X,X,1,3,3
+Baumann Jonas,GER,6,1t1 3b3,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,1,1,X,X,X,1,X,1
+Shimizu Atsushi,JPN,7,1t1 3b7,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,2,X,X,X,4,1,1
+Hori Tsukuru,JPN,8,1t2 4b5,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,1,2,2,X,1,X,1
+Bautista Julian,USA,9,1t3 4b10,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,2,3,2,X,3,X,3
+Gelmanov Rustam,RUS,10,1t4 3b7,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,4,3,X,3,X,X,X,1
+Woods Daniel,USA,11,0t 4b8,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,4,X,1,X,2,X,1
+Geiman Austin,USA,12,0t 4b12,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,4,X,3,X,3,X,2
+de Leeuw Nicky,NED,13,0t 3b3,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,1,X,X,X,1,X,1
+Lerner Zach,USA,14,0t 3b4,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,X,X,2,X,1,X,1
+McColl Sean,CAN,15,0t 3b6,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,1,X,X,X,2,X,3
+Gaidioz Loïc,FRA,16,0t 3b6,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,2,X,X,X,2,X,2
+Dory Ian,USA,17,0t 3b9,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,4,X,3,X,X,X,2
+Danker Stefan,GER,18,0t 2b3,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,2,X,X,X,X,X,1
+Traversi Carlo,USA,19,0t 2b3,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,2,X,X,X,1,X,X
+Ten Sijthoff Casper,NED,20,0t 2b3,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,1,X,X,X,2,X,X
+Mogaki Keita,JPN,21,0t 1b1,IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3,X,X,X,X,X,X,X,1

@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Mrázek Tomás,CZE,1,4t7 4b6,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Men,Final,2007-04-20,/api/v1/category_rounds/606/results,/api/v1/events/470/result/3
+Sharafutdinov Dmitrii,RUS,2,3t4 4b7,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Men,Final,2007-04-20,/api/v1/category_rounds/606/results,/api/v1/events/470/result/3
+Fischhuber Kilian,AUT,3,3t5 4b9,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Men,Final,2007-04-20,/api/v1/category_rounds/606/results,/api/v1/events/470/result/3
+Verhoeven Jorg,NED,4,3t9 4b7,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Men,Final,2007-04-20,/api/v1/category_rounds/606/results,/api/v1/events/470/result/3
+Julien Stéphan,FRA,5,2t8 3b6,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Men,Final,2007-04-20,/api/v1/category_rounds/606/results,/api/v1/events/470/result/3
+Gelmanov Rustam,RUS,6,1t3 4b10,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Men,Final,2007-04-20,/api/v1/category_rounds/606/results,/api/v1/events/470/result/3

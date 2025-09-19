@@ -1,0 +1,33 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Dzienski Marcin,POL,1,5.960,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Hroza Libor,CZE,2,6.070,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Mawem Bassa,FRA,2,6.070,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Alipourshenazandifar Reza,IRI,4,6.090,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Timofeev Dmitrii,RUS,5,6.170,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Fossali Ludovico,ITA,6,6.480,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Kokorin Stanislav,RUS,7,6.500,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Nambot Quentin,FRA,8,6.510,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Shilov Aleksandr,RUS,9,6.530,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Santoni Alessandro,ITA,10,6.700,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Gontero Leonardo,ITA,11,6.710,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Shevchenko Arsenii,RUS,12,6.720,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Deulin Vladislav,RUS,13,6.730,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Pavlenko Kostiantyn,UKR,14,6.750,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Kriz Jan,CZE,15,6.780,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Bogomolov Arsenii,RUS,16,6.840,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Zodda Gian Luca,ITA,17,6.870,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Boldyrev Danyil,UKR,18,7.120,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Halasa Rafal,POL,19,7.200,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Lewicki Michal,POL,20,7.230,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Moro Guillaume,FRA,21,7.340,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Vaitsekhovskii Evgenii,RUS,22,7.480,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Artamonov  Georgy,RUS,23,7.870,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Cornu Manuel,FRA,23,7.870,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Dorigatti Cristian,ITA,23,7.870,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Knapp Lukas,AUT,26,7.990,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+McColl Sean,CAN,27,8.140,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Zama Stanislao,ITA,28,8.490,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Mohammadi Morteza,IRI,29,8.570,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Cho Seungwoon,KOR,30,9.030,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+KIM Hanwool,KOR,31,9.430,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2
+Rudigier Max,AUT,32,10.180,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",944,2016,Chamonix,Speed,Men,Qualification,2016-07-11,/api/v1/category_rounds/3854/results,/api/v1/events/944/result/2

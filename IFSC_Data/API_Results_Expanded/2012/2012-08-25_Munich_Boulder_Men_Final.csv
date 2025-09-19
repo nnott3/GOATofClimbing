@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Sharafutdinov Dmitrii,RUS,1,4t10 4b9,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Men,Final,2012-08-25,/api/v1/category_rounds/2106/results,/api/v1/events/736/result/3,1,1,2,1,6,6,1,1
+McColl Sean,CAN,2,4t10 4b10,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Men,Final,2012-08-25,/api/v1/category_rounds/2106/results,/api/v1/events/736/result/3,1,1,7,7,1,1,1,1
+Schubert Jakob,AUT,3,3t10 4b17,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Men,Final,2012-08-25,/api/v1/category_rounds/2106/results,/api/v1/events/736/result/3,3,3,6,4,X,9,1,1
+Gelmanov Rustam,RUS,4,3t11 3b11,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Men,Final,2012-08-25,/api/v1/category_rounds/2106/results,/api/v1/events/736/result/3,2,2,X,X,8,8,1,1
+Sugimoto Rei,JPN,5,2t5 2b3,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Men,Final,2012-08-25,/api/v1/category_rounds/2106/results,/api/v1/events/736/result/3,X,X,4,2,X,X,1,1
+Watson Stewart,GBR,6,2t8 3b9,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Men,Final,2012-08-25,/api/v1/category_rounds/2106/results,/api/v1/events/736/result/3,1,1,7,7,X,X,X,1

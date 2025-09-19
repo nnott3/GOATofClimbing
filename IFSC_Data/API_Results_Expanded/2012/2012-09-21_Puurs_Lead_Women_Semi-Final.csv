@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ernst Johanna,AUT,1,57+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,57+
+Kim Jain,KOR,2,56+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,56+
+Janicot Hélène,FRA,3,56,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,56
+Röck Magdalena,AUT,4,51+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,51+
+Malamid Evgeniia,RUS,5,51+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,51+
+Markovic Mina,SLO,6,50+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,50+
+Durif Charlotte,FRA,7,50+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,50+
+Noguchi Akiyo,JPN,8,50+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,50+
+Fakhritdinova Dinara,RUS,9,46+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,46+
+Posch Katharina,AUT,10,45+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,45+
+Schranz Christine,AUT,11,45+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,45+
+Oda Momoka,JPN,12,43+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,43+
+Bacher Barbara,AUT,13,41+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,41+
+Vidmar Maja,SLO,14,41+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,41+
+Verhoeven Anak,BEL,15,41,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,41
+Han Seuran,KOR,16,40+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,40+
+Stotz Rebekka,SUI,17,39+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,39+
+Kobayashi Yuka,JPN,18,38+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,38+
+Tiripa Ana,GER,19,35+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,35+
+Stütz Christina,AUT,20,35+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,35+
+Szekely Andrea Brigitta,HUN,21,34+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,34+
+Hafsaas Tina Johnsen,NOR,22,34+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,34+
+Lavarda Jenny,ITA,23,34,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,34
+van Bergen Nikki,NED,24,33+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,33+
+Chereshneva Yana,RUS,25,32+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,32+
+Becerra Mathilde,FRA,26,27+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5,27+

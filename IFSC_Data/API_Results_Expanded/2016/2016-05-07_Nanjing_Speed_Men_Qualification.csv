@@ -1,0 +1,31 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Mawem Bassa,FRA,1,5.980,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Timofeev Dmitrii,RUS,2,6.050,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Dzienski Marcin,POL,3,6.090,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Alipourshenazandifar Reza,IRI,4,6.100,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Boldyrev Danyil,UKR,4,6.100,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Shilov Aleksandr,RUS,6,6.270,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Hroza Libor,CZE,7,6.310,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Kokorin Stanislav,RUS,8,6.390,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Shikov Aleksandr,RUS,9,6.410,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Gontero Leonardo,ITA,10,6.420,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Galar Pandu Asmoro,INA,11,6.540,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Abudzar Yulianto,INA,12,6.690,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Rindi Sufriyanto,INA,13,6.710,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+LIN PengHui,CHN,14,6.720,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Vaitsekhovskii Evgenii,RUS,15,6.810,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Mohammadi Morteza,IRI,16,6.890,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Ou ZhiYong,CHN,17,6.900,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Lewicki Michal,POL,18,7.180,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+CHEN ZhiXuan,CHN,19,7.450,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+DUAN YuRong,CHN,20,7.640,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Ma ZiDa,CHN,21,7.730,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Santoni Alessandro,ITA,22,7.820,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Tyapkin Igor,UKR,23,7.860,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Sordyl Tomasz,POL,24,8.300,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+McColl Sean,CAN,25,8.340,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Pan YuFei,CHN,26,8.640,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Qu HaiBin,CHN,27,8.940,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Beisembayev Yerzhan,KAZ,28,10.330,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Lkhagvabazar Nyambayar,MGL,29,18.150,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2
+Dorjsuren Enkhbaatar,MGL,30,18.740,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,940,2016,Nanjing,Speed,Men,Qualification,2016-05-07,/api/v1/category_rounds/3826/results,/api/v1/events/940/result/2

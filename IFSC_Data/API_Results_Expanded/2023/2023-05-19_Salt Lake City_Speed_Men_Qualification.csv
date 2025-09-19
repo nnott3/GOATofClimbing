@@ -1,0 +1,66 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Quali_time_B,Quali_time_A
+LEONARDO VEDDRIQ,INA,1.0,5.08,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.089,5.488
+ADI MULYONO RAHMAD,INA,2.0,5.14,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.206,5.148
+Watson Samuel,USA,3.0,5.15,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.346,5.159
+KATIBIN KIROMAL,INA,4.0,5.21,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.218,5.249
+LONG JIANGUO,CHN,5.0,5.26,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.858,5.266
+ASPAR ASPAR,INA,6.0,5.33,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.335,7.463
+ZHANG LIANG,CHN,7.0,5.353,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.353,6.732
+Zurloni Matteo,ITA,8.0,5.357,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.654,5.357
+Mawem Bassa,FRA,9.0,5.36,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.964,5.368
+WU PENG,CHN,10.0,5.38,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.388,DNF
+LONG JINBAO,CHN,11.0,5.42,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.42,DNF
+WANG XINSHANG,CHN,12.0,5.461,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.493,5.461
+Fossali Ludovico,ITA,13.0,5.463,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.463,DNF
+MUHAMMAD FAJRI ALFIAN,INA,14.0,5.464,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.61,5.464
+Rebreyend Pierre,FRA,15.0,5.47,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.064,5.476
+Brosler John,USA,16.0,5.48,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.483,6.575
+OMASA Ryo,JPN,17.0,5.49,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.803,5.496
+Maimuratov Amir,KAZ,18.0,5.50,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.794,5.502
+JUNG Yongjun,KOR,19.0,5.56,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.56,5.688
+Ernsberger Merritt,USA,20.0,5.57 (5.585),IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.585,5.579
+Granja Carlos,ECU,21.0,5.57 (5.645),IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.579,5.645
+Moro Guillaume,FRA,22.0,5.58,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,8.056,5.581
+Finn-Henry Michael,CAN,23.0,5.59,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,8.797,5.592
+Noya Cardona Erik,ESP,24.0,5.61 (5.703),IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.618,5.703
+Pavlenko Kostiantyn,UKR,25.0,5.61 (5.734),IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.618,5.734
+Bratschi Noah,USA,26.0,5.62,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.62,5.765
+WANG MINHUI,CHN,27.0,5.65,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.761,5.658
+Estevez  Isaac,ECU,28.0,5.676,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.265,5.676
+Dzienski Marcin,POL,29.0,5.677,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.677,DNF
+Boulos Alessandro,ITA,30.0,5.76,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.765,DNF
+Li Richard,USA,31.0,5.78,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.788,6.312
+Knapp Lukas,AUT,32.0,5.79,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.875,5.796
+ARIPIN ZAINAL,INA,33.0,5.81,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.815,7.621
+Lee Yongsu,KOR,34.0,5.82,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,9.457,5.827
+Tkach Yaroslav,UKR,35.0,5.83,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.832,DNF
+Amon Kevin,AUT,36.0,5.902,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.902,6.009
+TANII Kazuki,JPN,37.0,5.905,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.905,5.979
+Plangger Tobias,AUT,38.0,5.98,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,5.988,DNF
+Stokes Rafe,GBR,39.0,5.99,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.119,5.998
+YASUKAWA Jun,JPN,40.0,6.011,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.166,6.011
+IKEDA Yudai,JPN,41.0,6.012,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.146,6.012
+KANG Minsu,KOR,42.0,6.080,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.08,DNF
+Payet Gaboriaud Marius,FRA,43.0,6.084,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.097,6.084
+Kriz Jan,CZE,44.0,6.14,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.146,9.971
+Pitcher Ethan,CAN,45.0,6.20,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.403,6.207
+Le Dylan,CAN,46.0,6.22,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.407,6.221
+Murat Alisher,KAZ,47.0,6.27,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,7.666,6.276
+SHIN Euncheol,KOR,48.0,6.28,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.798,6.28
+Cancel Gabriel,ECU,49.0,6.30,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,7.843,6.303
+Bruyns Joshua,RSA,50.0,6.41 (AfR),IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.827,6.412
+Skolnik Darren,USA,51.0,6.48,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.487,6.962
+O'Francia Quinn,USA,52.0,6.62,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,6.621,DNF
+INTRACHUPONGSE ARDCH,THA,53.0,6.83,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,8.471,6.834
+Homan Evan,USA,54.0,6.95,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,7.579,6.951
+Whitney Jack,CAN,55.0,7.10,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,7.523,7.105
+Goddard Aidan,USA,56.0,7.39,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,7.399,8.458
+UEGAKI Ginta,JPN,57.0,7.53,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,7.533,7.584
+Alencaster Andrés,MEX,58.0,7.78,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,8.398,7.78
+Kim Joey,USA,59.0,7.79,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,7.796,DNF
+Hammer Zach,USA,60.0,7.93,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,DNF,7.933
+Lucke Sebastian,GER,61.0,8.01,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,8.013,DNF
+LEE Seungbeom,KOR,62.0,FALL,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,DNF,DNF
+Jankhoteli Giga,GEO,63.0,FALSE START,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,DNS,
+Japaridze Giorgi,GEO,63.0,FALSE START,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,DNS,
+Zodda Gian Luca,ITA,,DNS,IFSC World Cup Salt Lake City 2023,1294,2023,Salt Lake City,Speed,Men,Qualification,2023-05-19,/api/v1/category_rounds/7679/results,/api/v1/events/1294/result/2,,

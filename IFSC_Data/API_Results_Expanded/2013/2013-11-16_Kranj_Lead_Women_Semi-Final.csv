@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,47,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,47
+Markovic Mina,SLO,2,46+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,46+
+Noguchi Akiyo,JPN,3,40,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,40
+Röck Magdalena,AUT,4,40,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,40
+Fakhritdinova Dinara,RUS,5,38,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,38
+Oda Momoka,JPN,6,36+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,36+
+Verhoeven Anak,BEL,7,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,34+
+Vidmar Maja,SLO,8,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,33+
+Janicot Hélène,FRA,9,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,33+
+Malamid Evgeniia,RUS,10,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,31+
+Posch Katharina,AUT,11,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,31+
+Pilz Jessica,AUT,12,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,31+
+Onoe Aya,JPN,13,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,31+
+Bacher Barbara,AUT,14,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,31+
+Stotz Rebekka,SUI,15,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,31+
+Kalan Tjasa,SLO,16,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,31+
+Kobayashi Yuka,JPN,17,27+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,27+
+Hafsaas Tina Johnsen,NOR,18,27+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,27+
+Romain Salomé,FRA,19,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,26+
+Lenardic Jera,SLO,20,22+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,22+
+van Bergen Nikki,NED,21,19+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,19+
+Lavarda Jenny,ITA,22,18+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,18+
+Nonaka Miho,JPN,23,18+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,18+
+Choong Katherine,SUI,24,18+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,18+
+Brumagne Mathilde,BEL,25,15+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,15+
+Sustersic Tina,SLO,26,14.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,14.5+
+Thompson-Smith Molly,GBR,27,11,IFSC Climbing Worldcup (L) - Kranj (SLO) 2013,807,2013,Kranj,Lead,Women,Semi-Final,2013-11-16,/api/v1/category_rounds/2637/results,/api/v1/events/807/result/5,11

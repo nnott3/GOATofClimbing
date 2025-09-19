@@ -1,0 +1,25 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Dzienski Marcin,POL,1,6.078,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Kokorin Stanislav,RUS,2,6.125,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Hroza Libor,CZE,3,6.234,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Vaitsekhovskii Evgenii,RUS,4,6.406,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Boldyrev Danyil,UKR,5,6.454,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Gontero Leonardo,ITA,6,6.547,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Sinitcyn Sergei,RUS,7,6.562,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Zhong QiXin,CHN,8,6.563,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+"Choo Weng Khit, Adriel",SGP,9,6.578,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Alipourshenazandifar Reza,IRI,10,6.625,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Timofeev Dmitrii,RUS,10,6.625,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Komosinski Jedrzej,POL,12,6.719,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Shevchenko Arsenii,RUS,12,6.719,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Gontaryk Yaroslav,UKR,14,6.937,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Savelyev Artem,RUS,15,7.328,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Swirk Lukasz,POL,15,7.328,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Shikov Aleksandr,RUS,17,7.406,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Vedenchuk Viacheslav,RUS,18,7.812,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Chae Sungjoon,KOR,19,7.860,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Zinchenko Volodymyr,UKR,20,8.750,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+McColl Sean,CAN,21,9.297,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Her Youngwook,KOR,22,9.906,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Hwang Pyeongju,KOR,23,10.265,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2
+Schubert Jakob,AUT,24,12.360,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",803,2013,Mokpo,Speed,Men,Qualification,2013-10-11,/api/v1/category_rounds/2614/results,/api/v1/events/803/result/2

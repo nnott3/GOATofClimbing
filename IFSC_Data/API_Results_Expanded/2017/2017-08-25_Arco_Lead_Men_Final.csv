@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Schubert Jakob,AUT,1,39,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Men,Final,2017-08-25,/api/v1/category_rounds/4322/results,/api/v1/events/993/result/1,39
+Ondra Adam,CZE,2,38+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Men,Final,2017-08-25,/api/v1/category_rounds/4322/results,/api/v1/events/993/result/1,38+
+Rudigier Max,AUT,3,38+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Men,Final,2017-08-25,/api/v1/category_rounds/4322/results,/api/v1/events/993/result/1,38+
+Ogata Yoshiyuki,JPN,4,34+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Men,Final,2017-08-25,/api/v1/category_rounds/4322/results,/api/v1/events/993/result/1,34+
+Korenaga Keiichiro,JPN,5,33+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Men,Final,2017-08-25,/api/v1/category_rounds/4322/results,/api/v1/events/993/result/1,33+
+Joannes Thomas,FRA,6,26+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Men,Final,2017-08-25,/api/v1/category_rounds/4322/results,/api/v1/events/993/result/1,26+
+Puman Hannes,SWE,7,26,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Men,Final,2017-08-25,/api/v1/category_rounds/4322/results,/api/v1/events/993/result/1,26
+Megos Alexander,GER,8,11+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",993,2017,Arco,Lead,Men,Final,2017-08-25,/api/v1/category_rounds/4322/results,/api/v1/events/993/result/1,11+

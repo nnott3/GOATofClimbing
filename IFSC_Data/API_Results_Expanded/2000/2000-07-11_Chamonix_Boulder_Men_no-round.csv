@@ -1,0 +1,73 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Rakhmetov Salavat,RUS,1,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Kazbekov Serik,UKR,2,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Julien Stephane,FRA,3,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Vedenmeer Andrey,UKR,4,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Tuscan Frédéric,FRA,5,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+DU LAC Daniel,FRA,6,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Chabot Alexandre,FRA,7,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Oleksy Tomasz,POL,8,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Meyer Jérôme,FRA,9,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Müller Matthias,SUI,10,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Meral Julien,FRA,11,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Fairfield Timmy,CAN,12,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Valjavec Tomaz,SLO,13,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Fischhuber Kilian,AUT,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Golob Jurij,SLO,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Pons Pedro,ESP,16,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Daures Luc,FRA,17,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Jourjon Jean Baptiste,FRA,18,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Noe Frédéric,FRA,19,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Laurence Ludovic,FRA,20,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Danis Jean Luc,FRA,21,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Dutray Mathieu,FRA,21,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Douloub Iouri,RUS,23,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Scarian Riccardo,ITA,23,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Umnitsyn Mikhail,RUS,23,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Felgerolle Benjamin,FRA,26,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Jeandenand Damien,FRA,26,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+ANDRADA JIMENEZ Daniel,ESP,28,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Havlik Marek,CZE,28,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Lagarigues Laurent,FRA,28,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Nourmamatov Serguei,RUS,28,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Philippe Jonathan,FRA,28,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Piliougine Igor,RUS,28,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Giudici Lucio,ITA,34,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Markevych Petro,UKR,34,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Teijsse Dennis,NED,36,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Wilhelm Heiko,AUT,36,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Core Christian,ITA,38,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Repcik Marek,SVK,38,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Lachat Raphaël,SUI,40,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Sova Matej,SLO,40,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Travers Neil,GBR,40,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Chrastina Andrej,SVK,43,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Wrobel Marcin,POL,43,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Cehovin Urh,SLO,45,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Soucek Radovah,CZE,45,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Archambault Dan,CAN,47,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Gusak Igor,UKR,47,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Grom Aljosa,SLO,49,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Saiz Joseba,ESP,49,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Gisler David,SUI,51,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Littlefair Stuart,GBR,51,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Cseko Arpad,HUN,53,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+May Paul,USA,53,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Kim Myong-Hak,KOR,55,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Kovalevskj Alexandre,RUS,55,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Petterson Stefan,SWE,55,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Prytz Jan Fredrick,NOR,55,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Zazvonil Luka,SLO,55,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Aunet Jimmy,FRA,60,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Repcik Juraj,SVK,60,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Fiedler Bernhard,AUT,62,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Müller Lukasz,POL,62,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Urbanics Aron,HUN,62,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Gras Julien,FRA,65,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Mobråten Martin,NOR,65,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Christophersen Stian,NOR,67,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Foubert Benoît,FRA,67,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Mrázek Tomás,CZE,69,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Tavola Daniele,ITA,70,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Aksnes Vegard,NOR,71,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3
+Son Sangwon,KOR,72,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Boulder,Men,2000-07-11,/api/v1/events/218/result/3

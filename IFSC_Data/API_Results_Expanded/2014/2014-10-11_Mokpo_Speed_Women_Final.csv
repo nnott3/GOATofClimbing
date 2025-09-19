@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/4_winner,1/4_time,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+Kaplina Iuliia,,1,7.87,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Women,Final,2014-10-11,/api/v1/category_rounds/3094/results,/api/v1/events/863/result/6,True,8.282,True,8.164,True,7.879,,
+Jaubert Anouck,,2,7.97,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Women,Final,2014-10-11,/api/v1/category_rounds/3094/results,/api/v1/events/863/result/6,True,8.782,True,8.998,False,7.973,,
+Chudziak Patrycja,,3,8.93,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Women,Final,2014-10-11,/api/v1/category_rounds/3094/results,/api/v1/events/863/result/6,True,8.754,False,8.5,,,True,8.936
+Buczek Klaudia,,4,FALL,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Women,Final,2014-10-11,/api/v1/category_rounds/3094/results,/api/v1/events/863/result/6,True,8.635,False,10.74,,,False,FALL
+Prokopiuk-Kawecka Monika,,5,9.38,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Women,Final,2014-10-11,/api/v1/category_rounds/3094/results,/api/v1/events/863/result/6,False,9.386,,,,,,
+Krasavina Mariia,,6,9.45,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Women,Final,2014-10-11,/api/v1/category_rounds/3094/results,/api/v1/events/863/result/6,False,9.459,,,,,,
+Marenych Alla,,7,10.61,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Women,Final,2014-10-11,/api/v1/category_rounds/3094/results,/api/v1/events/863/result/6,False,10.618,,,,,,
+Ropek Edyta,,8,FALL,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Women,Final,2014-10-11,/api/v1/category_rounds/3094/results,/api/v1/events/863/result/6,False,FALL,,,,,,

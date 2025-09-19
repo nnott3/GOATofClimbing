@@ -1,0 +1,155 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Boulder,Men,Qualification,2011-04-14,/api/v1/category_rounds/1638/results,/api/v1/events/665/result/3
+"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Boulder,Men,Semi-Final,2011-04-14,/api/v1/category_rounds/1639/results,/api/v1/events/665/result/3
+"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Boulder,Men,Final,2011-04-14,/api/v1/category_rounds/1640/results,/api/v1/events/665/result/3
+"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Boulder,Women,Qualification,2011-04-14,/api/v1/category_rounds/1633/results,/api/v1/events/665/result/7
+"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Boulder,Women,Semi-Final,2011-04-14,/api/v1/category_rounds/1634/results,/api/v1/events/665/result/7
+"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Boulder,Women,Final,2011-04-14,/api/v1/category_rounds/1635/results,/api/v1/events/665/result/7
+"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Men,Qualification,2011-04-14,/api/v1/category_rounds/1641/results,/api/v1/events/665/result/2
+"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Men,Final,2011-04-14,/api/v1/category_rounds/1642/results,/api/v1/events/665/result/2
+"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Final,2011-04-14,/api/v1/category_rounds/1637/results,/api/v1/events/665/result/6
+IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2011,667,2011,Log-Dragomer,Boulder,Men,Qualification,2011-05-07,/api/v1/category_rounds/1646/results,/api/v1/events/667/result/3
+IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2011,667,2011,Log-Dragomer,Boulder,Men,Semi-Final,2011-05-07,/api/v1/category_rounds/1647/results,/api/v1/events/667/result/3
+IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2011,667,2011,Log-Dragomer,Boulder,Men,Final,2011-05-07,/api/v1/category_rounds/1648/results,/api/v1/events/667/result/3
+IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2011,667,2011,Log-Dragomer,Boulder,Women,Qualification,2011-05-07,/api/v1/category_rounds/1643/results,/api/v1/events/667/result/7
+IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2011,667,2011,Log-Dragomer,Boulder,Women,Semi-Final,2011-05-07,/api/v1/category_rounds/1644/results,/api/v1/events/667/result/7
+IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2011,667,2011,Log-Dragomer,Boulder,Women,Final,2011-05-07,/api/v1/category_rounds/1645/results,/api/v1/events/667/result/7
+IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Men,Qualification,2011-05-13,/api/v1/category_rounds/1652/results,/api/v1/events/668/result/3
+IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Men,Semi-Final,2011-05-13,/api/v1/category_rounds/1653/results,/api/v1/events/668/result/3
+IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Men,Final,2011-05-13,/api/v1/category_rounds/1654/results,/api/v1/events/668/result/3
+IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Women,Qualification,2011-05-13,/api/v1/category_rounds/1649/results,/api/v1/events/668/result/7
+IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Women,Semi-Final,2011-05-13,/api/v1/category_rounds/1650/results,/api/v1/events/668/result/7
+IFSC Climbing Worldcup (B) - Vienna (AUT) 2011 ,668,2011,Vienna,Boulder,Women,Final,2011-05-13,/api/v1/category_rounds/1651/results,/api/v1/events/668/result/7
+IFSC Climbing Worldcup (B) - Canmore (CAN) 2011,669,2011,Canmore,Boulder,Men,Qualification,2011-05-27,/api/v1/category_rounds/1658/results,/api/v1/events/669/result/3
+IFSC Climbing Worldcup (B) - Canmore (CAN) 2011,669,2011,Canmore,Boulder,Men,Semi-Final,2011-05-27,/api/v1/category_rounds/1659/results,/api/v1/events/669/result/3
+IFSC Climbing Worldcup (B) - Canmore (CAN) 2011,669,2011,Canmore,Boulder,Men,Final,2011-05-27,/api/v1/category_rounds/1660/results,/api/v1/events/669/result/3
+IFSC Climbing Worldcup (B) - Canmore (CAN) 2011,669,2011,Canmore,Boulder,Women,Qualification,2011-05-27,/api/v1/category_rounds/1655/results,/api/v1/events/669/result/7
+IFSC Climbing Worldcup (B) - Canmore (CAN) 2011,669,2011,Canmore,Boulder,Women,Semi-Final,2011-05-27,/api/v1/category_rounds/1656/results,/api/v1/events/669/result/7
+IFSC Climbing Worldcup (B) - Canmore (CAN) 2011,669,2011,Canmore,Boulder,Women,Final,2011-05-27,/api/v1/category_rounds/1657/results,/api/v1/events/669/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Qualification,2011-06-03,/api/v1/category_rounds/1664/results,/api/v1/events/670/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Semi-Final,2011-06-03,/api/v1/category_rounds/1665/results,/api/v1/events/670/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Men,Final,2011-06-03,/api/v1/category_rounds/1666/results,/api/v1/events/670/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Women,Qualification,2011-06-03,/api/v1/category_rounds/1661/results,/api/v1/events/670/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Women,Semi-Final,2011-06-03,/api/v1/category_rounds/1662/results,/api/v1/events/670/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2011 ,670,2011,Vail,Boulder,Women,Final,2011-06-03,/api/v1/category_rounds/1663/results,/api/v1/events/670/result/7
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2011,671,2011,Eindhoven,Boulder,Men,Qualification,2011-06-17,/api/v1/category_rounds/1670/results,/api/v1/events/671/result/3
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2011,671,2011,Eindhoven,Boulder,Men,Semi-Final,2011-06-17,/api/v1/category_rounds/1671/results,/api/v1/events/671/result/3
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2011,671,2011,Eindhoven,Boulder,Men,Final,2011-06-17,/api/v1/category_rounds/1672/results,/api/v1/events/671/result/3
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2011,671,2011,Eindhoven,Boulder,Women,Qualification,2011-06-17,/api/v1/category_rounds/1667/results,/api/v1/events/671/result/7
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2011,671,2011,Eindhoven,Boulder,Women,Semi-Final,2011-06-17,/api/v1/category_rounds/1668/results,/api/v1/events/671/result/7
+IFSC Climbing Worldcup (B) - Eindhoven (NED) 2011,671,2011,Eindhoven,Boulder,Women,Final,2011-06-17,/api/v1/category_rounds/1669/results,/api/v1/events/671/result/7
+IFSC Climbing Worldcup (B) - Barcelona (ESP) 2011,672,2011,Barcelona,Boulder,Men,Qualification,2011-06-25,/api/v1/category_rounds/1676/results,/api/v1/events/672/result/3
+IFSC Climbing Worldcup (B) - Barcelona (ESP) 2011,672,2011,Barcelona,Boulder,Men,Semi-Final,2011-06-25,/api/v1/category_rounds/1677/results,/api/v1/events/672/result/3
+IFSC Climbing Worldcup (B) - Barcelona (ESP) 2011,672,2011,Barcelona,Boulder,Men,Final,2011-06-25,/api/v1/category_rounds/1678/results,/api/v1/events/672/result/3
+IFSC Climbing Worldcup (B) - Barcelona (ESP) 2011,672,2011,Barcelona,Boulder,Women,Qualification,2011-06-25,/api/v1/category_rounds/1673/results,/api/v1/events/672/result/7
+IFSC Climbing Worldcup (B) - Barcelona (ESP) 2011,672,2011,Barcelona,Boulder,Women,Semi-Final,2011-06-25,/api/v1/category_rounds/1674/results,/api/v1/events/672/result/7
+IFSC Climbing Worldcup (B) - Barcelona (ESP) 2011,672,2011,Barcelona,Boulder,Women,Final,2011-06-25,/api/v1/category_rounds/1675/results,/api/v1/events/672/result/7
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,673,2011,Sheffield,Boulder,Men,Qualification,2011-07-02,/api/v1/category_rounds/1682/results,/api/v1/events/673/result/3
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,673,2011,Sheffield,Boulder,Men,Semi-Final,2011-07-02,/api/v1/category_rounds/1683/results,/api/v1/events/673/result/3
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,673,2011,Sheffield,Boulder,Men,Final,2011-07-02,/api/v1/category_rounds/1684/results,/api/v1/events/673/result/3
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,673,2011,Sheffield,Boulder,Women,Qualification,2011-07-02,/api/v1/category_rounds/1679/results,/api/v1/events/673/result/7
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,673,2011,Sheffield,Boulder,Women,Semi-Final,2011-07-02,/api/v1/category_rounds/1680/results,/api/v1/events/673/result/7
+IFSC Climbing Worldcup (B) - Sheffield (GBR) 2011,673,2011,Sheffield,Boulder,Women,Final,2011-07-02,/api/v1/category_rounds/1681/results,/api/v1/events/673/result/7
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Men,Qualification,2011-07-12,/api/v1/category_rounds/1690/results,/api/v1/events/674/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Men,Semi-Final,2011-07-12,/api/v1/category_rounds/1691/results,/api/v1/events/674/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Men,Final,2011-07-12,/api/v1/category_rounds/1692/results,/api/v1/events/674/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Qualification,2011-07-12,/api/v1/category_rounds/1685/results,/api/v1/events/674/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Semi-Final,2011-07-12,/api/v1/category_rounds/1686/results,/api/v1/events/674/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Lead,Women,Final,2011-07-12,/api/v1/category_rounds/1687/results,/api/v1/events/674/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Speed,Men,Qualification,2011-07-12,/api/v1/category_rounds/1693/results,/api/v1/events/674/result/2
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Speed,Men,Final,2011-07-12,/api/v1/category_rounds/1694/results,/api/v1/events/674/result/2
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Speed,Women,Qualification,2011-07-12,/api/v1/category_rounds/1688/results,/api/v1/events/674/result/6
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",674,2011,Chamonix,Speed,Women,Final,2011-07-12,/api/v1/category_rounds/1689/results,/api/v1/events/674/result/6
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Qualification,2011-07-15,/api/v1/category_rounds/1703/results,/api/v1/events/675/result/1
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Semi-Final,2011-07-15,/api/v1/category_rounds/1704/results,/api/v1/events/675/result/1
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Qualification,2011-07-15,/api/v1/category_rounds/1695/results,/api/v1/events/675/result/5
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1696/results,/api/v1/events/675/result/5
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Women,Final,2011-07-15,/api/v1/category_rounds/1697/results,/api/v1/events/675/result/5
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Boulder,Men,Qualification,2011-07-15,/api/v1/category_rounds/1706/results,/api/v1/events/675/result/3
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Boulder,Men,Semi-Final,2011-07-15,/api/v1/category_rounds/1707/results,/api/v1/events/675/result/3
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Boulder,Men,Final,2011-07-15,/api/v1/category_rounds/1708/results,/api/v1/events/675/result/3
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Boulder,Women,Qualification,2011-07-15,/api/v1/category_rounds/1698/results,/api/v1/events/675/result/7
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Boulder,Women,Semi-Final,2011-07-15,/api/v1/category_rounds/1699/results,/api/v1/events/675/result/7
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Boulder,Women,Final,2011-07-15,/api/v1/category_rounds/1700/results,/api/v1/events/675/result/7
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Men,Qualification,2011-07-15,/api/v1/category_rounds/1709/results,/api/v1/events/675/result/2
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Men,Final,2011-07-15,/api/v1/category_rounds/1710/results,/api/v1/events/675/result/2
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Qualification,2011-07-15,/api/v1/category_rounds/1701/results,/api/v1/events/675/result/6
+IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Speed,Women,Final,2011-07-15,/api/v1/category_rounds/1702/results,/api/v1/events/675/result/6
+IFSC World Championship Lead Group A - Arco 2011,676,2011,Arco Group A,Lead,Men,Qualification,2011-07-20,/api/v1/category_rounds/1712/results,/api/v1/events/676/result/1
+IFSC World Championship Lead Group A - Arco 2011,676,2011,Arco Group A,Lead,Women,Qualification,2011-07-20,/api/v1/category_rounds/1711/results,/api/v1/events/676/result/5
+IFSC World Championship Lead Group B - Arco 2011,677,2011,Arco Group B,Lead,Men,Qualification,2011-07-20,/api/v1/category_rounds/1714/results,/api/v1/events/677/result/1
+IFSC World Championship Lead Group B - Arco 2011,677,2011,Arco Group B,Lead,Women,Qualification,2011-07-20,/api/v1/category_rounds/1713/results,/api/v1/events/677/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2011,678,2011,Briançon,Lead,Men,Qualification,2011-07-29,/api/v1/category_rounds/1718/results,/api/v1/events/678/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2011,678,2011,Briançon,Lead,Men,Semi-Final,2011-07-29,/api/v1/category_rounds/1719/results,/api/v1/events/678/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2011,678,2011,Briançon,Lead,Men,Final,2011-07-29,/api/v1/category_rounds/1720/results,/api/v1/events/678/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2011,678,2011,Briançon,Lead,Women,Qualification,2011-07-29,/api/v1/category_rounds/1715/results,/api/v1/events/678/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2011,678,2011,Briançon,Lead,Women,Semi-Final,2011-07-29,/api/v1/category_rounds/1716/results,/api/v1/events/678/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2011,678,2011,Briançon,Lead,Women,Final,2011-07-29,/api/v1/category_rounds/1717/results,/api/v1/events/678/result/5
+IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Qualification,2011-08-06,/api/v1/category_rounds/1723/results,/api/v1/events/679/result/2
+IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2
+IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Women,Qualification,2011-08-06,/api/v1/category_rounds/1721/results,/api/v1/events/679/result/6
+IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Women,Final,2011-08-06,/api/v1/category_rounds/1722/results,/api/v1/events/679/result/6
+IFSC Climbing Worldcup (B) - Munich (GER) 2011 ,680,2011,Munich,Boulder,Men,Qualification,2011-08-19,/api/v1/category_rounds/1728/results,/api/v1/events/680/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2011 ,680,2011,Munich,Boulder,Men,Semi-Final,2011-08-19,/api/v1/category_rounds/1729/results,/api/v1/events/680/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2011 ,680,2011,Munich,Boulder,Men,Final,2011-08-19,/api/v1/category_rounds/1730/results,/api/v1/events/680/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2011 ,680,2011,Munich,Boulder,Women,Qualification,2011-08-19,/api/v1/category_rounds/1725/results,/api/v1/events/680/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2011 ,680,2011,Munich,Boulder,Women,Semi-Final,2011-08-19,/api/v1/category_rounds/1726/results,/api/v1/events/680/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2011 ,680,2011,Munich,Boulder,Women,Final,2011-08-19,/api/v1/category_rounds/1727/results,/api/v1/events/680/result/7
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Men,Qualification,2011-09-02,/api/v1/category_rounds/1736/results,/api/v1/events/681/result/1
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Men,Semi-Final,2011-09-02,/api/v1/category_rounds/1737/results,/api/v1/events/681/result/1
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Men,Final,2011-09-02,/api/v1/category_rounds/1738/results,/api/v1/events/681/result/1
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Qualification,2011-09-02,/api/v1/category_rounds/1731/results,/api/v1/events/681/result/5
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Semi-Final,2011-09-02,/api/v1/category_rounds/1732/results,/api/v1/events/681/result/5
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Lead,Women,Final,2011-09-02,/api/v1/category_rounds/1733/results,/api/v1/events/681/result/5
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Men,Qualification,2011-09-02,/api/v1/category_rounds/1739/results,/api/v1/events/681/result/2
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Men,Final,2011-09-02,/api/v1/category_rounds/1740/results,/api/v1/events/681/result/2
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Qualification,2011-09-02,/api/v1/category_rounds/1734/results,/api/v1/events/681/result/6
+"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",681,2011,Xining,Speed,Women,Final,2011-09-02,/api/v1/category_rounds/1735/results,/api/v1/events/681/result/6
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Qualification,2011-09-07,/api/v1/category_rounds/1746/results,/api/v1/events/682/result/1
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Semi-Final,2011-09-07,/api/v1/category_rounds/1747/results,/api/v1/events/682/result/1
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Men,Final,2011-09-07,/api/v1/category_rounds/1748/results,/api/v1/events/682/result/1
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Women,Qualification,2011-09-07,/api/v1/category_rounds/1741/results,/api/v1/events/682/result/5
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Women,Semi-Final,2011-09-07,/api/v1/category_rounds/1742/results,/api/v1/events/682/result/5
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Lead,Women,Final,2011-09-07,/api/v1/category_rounds/1743/results,/api/v1/events/682/result/5
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Speed,Men,Qualification,2011-09-07,/api/v1/category_rounds/1749/results,/api/v1/events/682/result/2
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Speed,Men,Final,2011-09-07,/api/v1/category_rounds/1750/results,/api/v1/events/682/result/2
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Speed,Women,Qualification,2011-09-07,/api/v1/category_rounds/1744/results,/api/v1/events/682/result/6
+"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",682,2011,Changzhi,Speed,Women,Final,2011-09-07,/api/v1/category_rounds/1745/results,/api/v1/events/682/result/6
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2011,683,2011,Puurs,Lead,Men,Qualification,2011-09-30,/api/v1/category_rounds/1754/results,/api/v1/events/683/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2011,683,2011,Puurs,Lead,Men,Semi-Final,2011-09-30,/api/v1/category_rounds/1755/results,/api/v1/events/683/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2011,683,2011,Puurs,Lead,Men,Final,2011-09-30,/api/v1/category_rounds/1756/results,/api/v1/events/683/result/1
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2011,683,2011,Puurs,Lead,Women,Qualification,2011-09-30,/api/v1/category_rounds/1751/results,/api/v1/events/683/result/5
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2011,683,2011,Puurs,Lead,Women,Semi-Final,2011-09-30,/api/v1/category_rounds/1752/results,/api/v1/events/683/result/5
+IFSC Climbing Worldcup (L) - Puurs (BEL) 2011,683,2011,Puurs,Lead,Women,Final,2011-09-30,/api/v1/category_rounds/1753/results,/api/v1/events/683/result/5
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Men,Qualification,2011-10-08,/api/v1/category_rounds/1760/results,/api/v1/events/684/result/1
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Men,Semi-Final,2011-10-08,/api/v1/category_rounds/1761/results,/api/v1/events/684/result/1
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Men,Final,2011-10-08,/api/v1/category_rounds/1762/results,/api/v1/events/684/result/1
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Qualification,2011-10-08,/api/v1/category_rounds/1757/results,/api/v1/events/684/result/5
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Semi-Final,2011-10-08,/api/v1/category_rounds/1758/results,/api/v1/events/684/result/5
+IFSC Climbing Worldcup (L) - Boulder (USA) 2011,684,2011,Boulder,Lead,Women,Final,2011-10-08,/api/v1/category_rounds/1759/results,/api/v1/events/684/result/5
+IFSC Climbing Worldcup (L) - Amman (JOR) 2011 ,685,2011,Amman,Lead,Men,Qualification,2011-10-20,/api/v1/category_rounds/1766/results,/api/v1/events/685/result/1
+IFSC Climbing Worldcup (L) - Amman (JOR) 2011 ,685,2011,Amman,Lead,Men,Semi-Final,2011-10-20,/api/v1/category_rounds/1767/results,/api/v1/events/685/result/1
+IFSC Climbing Worldcup (L) - Amman (JOR) 2011 ,685,2011,Amman,Lead,Men,Final,2011-10-20,/api/v1/category_rounds/1768/results,/api/v1/events/685/result/1
+IFSC Climbing Worldcup (L) - Amman (JOR) 2011 ,685,2011,Amman,Lead,Women,Qualification,2011-10-20,/api/v1/category_rounds/1763/results,/api/v1/events/685/result/5
+IFSC Climbing Worldcup (L) - Amman (JOR) 2011 ,685,2011,Amman,Lead,Women,Semi-Final,2011-10-20,/api/v1/category_rounds/1764/results,/api/v1/events/685/result/5
+IFSC Climbing Worldcup (L) - Amman (JOR) 2011 ,685,2011,Amman,Lead,Women,Final,2011-10-20,/api/v1/category_rounds/1765/results,/api/v1/events/685/result/5
+IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Qualification,2011-10-28,/api/v1/category_rounds/1772/results,/api/v1/events/686/result/1
+IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Semi-Final,2011-10-28,/api/v1/category_rounds/1773/results,/api/v1/events/686/result/1
+IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Men,Final,2011-10-28,/api/v1/category_rounds/1774/results,/api/v1/events/686/result/1
+IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Qualification,2011-10-28,/api/v1/category_rounds/1769/results,/api/v1/events/686/result/5
+IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Semi-Final,2011-10-28,/api/v1/category_rounds/1770/results,/api/v1/events/686/result/5
+IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Men,Qualification,2011-11-19,/api/v1/category_rounds/1778/results,/api/v1/events/687/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Men,Semi-Final,2011-11-19,/api/v1/category_rounds/1779/results,/api/v1/events/687/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Men,Final,2011-11-19,/api/v1/category_rounds/1780/results,/api/v1/events/687/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Qualification,2011-11-19,/api/v1/category_rounds/1775/results,/api/v1/events/687/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Semi-Final,2011-11-19,/api/v1/category_rounds/1776/results,/api/v1/events/687/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2011,687,2011,Kranj,Lead,Women,Final,2011-11-19,/api/v1/category_rounds/1777/results,/api/v1/events/687/result/5
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Men,Qualification,2011-11-26,/api/v1/category_rounds/1784/results,/api/v1/events/688/result/1
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Men,Semi-Final,2011-11-26,/api/v1/category_rounds/1785/results,/api/v1/events/688/result/1
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Men,Final,2011-11-26,/api/v1/category_rounds/1786/results,/api/v1/events/688/result/1
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Qualification,2011-11-26,/api/v1/category_rounds/1781/results,/api/v1/events/688/result/5
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Semi-Final,2011-11-26,/api/v1/category_rounds/1782/results,/api/v1/events/688/result/5
+IFSC Climbing Worldcup (L) - Barcelona (ESP) 2011,688,2011,Barcelona,Lead,Women,Final,2011-11-26,/api/v1/category_rounds/1783/results,/api/v1/events/688/result/5

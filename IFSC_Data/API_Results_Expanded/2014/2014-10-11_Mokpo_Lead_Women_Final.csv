@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Markovic Mina,SLO,1,45+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Women,Final,2014-10-11,/api/v1/category_rounds/3092/results,/api/v1/events/863/result/5,45+
+Verhoeven Anak,BEL,2,43+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Women,Final,2014-10-11,/api/v1/category_rounds/3092/results,/api/v1/events/863/result/5,43+
+Janicot Hélène,FRA,3,38+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Women,Final,2014-10-11,/api/v1/category_rounds/3092/results,/api/v1/events/863/result/5,38+
+Röck Magdalena,AUT,4,37.5+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Women,Final,2014-10-11,/api/v1/category_rounds/3092/results,/api/v1/events/863/result/5,37.5+
+Posch Katharina,AUT,5,33+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Women,Final,2014-10-11,/api/v1/category_rounds/3092/results,/api/v1/events/863/result/5,33+
+Kim Jain,KOR,6,32+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Women,Final,2014-10-11,/api/v1/category_rounds/3092/results,/api/v1/events/863/result/5,32+
+Schranz Christine,AUT,7,19+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Women,Final,2014-10-11,/api/v1/category_rounds/3092/results,/api/v1/events/863/result/5,19+
+Tajima Aika,JPN,8,6+,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Women,Final,2014-10-11,/api/v1/category_rounds/3092/results,/api/v1/events/863/result/5,6+

@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+ANRAKU Sorato,JPN,1,TOP,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Men,Final,2025-04-25,/api/v1/category_rounds/9959/results,/api/v1/events/1406/result/1,TOP,"2025-04-25_Wujiang, CHN_Lead_Men_Final.csv"
+SUZUKI Neo,JPN,2,40+,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Men,Final,2025-04-25,/api/v1/category_rounds/9959/results,/api/v1/events/1406/result/1,40+,"2025-04-25_Wujiang, CHN_Lead_Men_Final.csv"
+GINÉS LÓPEZ Alberto,ESP,3,39+,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Men,Final,2025-04-25,/api/v1/category_rounds/9959/results,/api/v1/events/1406/result/1,39+,"2025-04-25_Wujiang, CHN_Lead_Men_Final.csv"
+YOSHIDA Satone,JPN,4,33,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Men,Final,2025-04-25,/api/v1/category_rounds/9959/results,/api/v1/events/1406/result/1,33,"2025-04-25_Wujiang, CHN_Lead_Men_Final.csv"
+PAN Yufei,CHN,5,32+,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Men,Final,2025-04-25,/api/v1/category_rounds/9959/results,/api/v1/events/1406/result/1,32+,"2025-04-25_Wujiang, CHN_Lead_Men_Final.csv"
+POTOCAR Luka,SLO,6,32,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Men,Final,2025-04-25,/api/v1/category_rounds/9959/results,/api/v1/events/1406/result/1,32,"2025-04-25_Wujiang, CHN_Lead_Men_Final.csv"
+SCHENK Filip,ITA,7,28+,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Men,Final,2025-04-25,/api/v1/category_rounds/9959/results,/api/v1/events/1406/result/1,28+,"2025-04-25_Wujiang, CHN_Lead_Men_Final.csv"
+FLOHÉ Yannick,GER,8,28+,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Men,Final,2025-04-25,/api/v1/category_rounds/9959/results,/api/v1/events/1406/result/1,28+,"2025-04-25_Wujiang, CHN_Lead_Men_Final.csv"

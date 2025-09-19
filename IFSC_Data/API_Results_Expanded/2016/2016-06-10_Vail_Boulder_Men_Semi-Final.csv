@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Rubtsov  Aleksei,RUS,1,3t10 3b7,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,2,2,X,X,4,2,4,3
+Fujii Kokoro,JPN,2,3t11 4b12,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,2,2,4,4,X,1,5,5
+Narasaki Tomoa,JPN,3,3t12 3b9,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,4,4,X,X,4,1,4,4
+Ogata Yoshiyuki,JPN,4,3t19 4b19,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,5,4,4,3,X,4,10,8
+Gelmanov Rustam,RUS,5,2t6 2b6,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,X,X,X,1,1,5,5
+McColl Sean,CAN,5,2t6 2b6,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,X,X,X,3,3,3,3
+Stranik Martin,CZE,7,2t10 4b18,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,8,8,X,5,X,3,2,2
+Watabe Keita,JPN,8,2t10 2b9,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,X,X,X,5,4,5,5
+Moroni Gabriele,ITA,9,2t14 2b11,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,5,4,X,X,X,X,9,7
+Landman Tyler,GBR,10,2t19 3b21,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,X,X,4,5,3,14,14
+Kruder Jernej,SLO,11,1t2 3b13,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,2,2,X,1,X,X,X,10
+Verhoeven Jorg,NED,12,1t3 1b3,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,X,X,X,3,3,X,X
+Chon Jongwon,KOR,13,1t4 2b5,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,X,X,X,X,1,4,4
+Scarperi Stefan,ITA,14,1t4 2b6,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,X,X,2,X,X,4,4
+Woods Daniel,USA,15,1t5 2b6,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,5,5,X,1,X,X,X,X
+Ometz Baptiste,SUI,16,1t7 2b8,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,X,X,X,X,1,7,7
+Hans Moritz,GER,17,0t 2b10,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,6,X,X,X,4,X,X
+Khazanov Alex,ISR,18,0t 1b11,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,X,X,X,X,X,X,11
+Barrans David,GBR,19,0t 0b,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,X,X,X,X,X,X,X
+Rugens Rolands,LVA,19,0t 0b,IFSC Climbing Worldcup (B) - Vail (USA) 2016,943,2016,Vail,Boulder,Men,Semi-Final,2016-06-10,/api/v1/category_rounds/3844/results,/api/v1/events/943/result/3,X,X,X,X,X,X,X,X

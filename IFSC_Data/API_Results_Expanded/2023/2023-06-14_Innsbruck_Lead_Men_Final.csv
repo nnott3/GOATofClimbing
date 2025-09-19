@@ -1,0 +1,10 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Lehmann Sascha,SUI,1,44+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Final,2023-06-14,/api/v1/category_rounds/8264/results,/api/v1/events/1297/result/1,44+
+Megos Alexander,GER,2,44+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Final,2023-06-14,/api/v1/category_rounds/8264/results,/api/v1/events/1297/result/1,44+
+Schubert Jakob,AUT,3,42+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Final,2023-06-14,/api/v1/category_rounds/8264/results,/api/v1/events/1297/result/1,42+
+ANRAKU Sorato,JPN,4,42+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Final,2023-06-14,/api/v1/category_rounds/8264/results,/api/v1/events/1297/result/1,42+
+Schalck Mejdi,FRA,5,42+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Final,2023-06-14,/api/v1/category_rounds/8264/results,/api/v1/events/1297/result/1,42+
+YOSHIDA Satone,JPN,6,42+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Final,2023-06-14,/api/v1/category_rounds/8264/results,/api/v1/events/1297/result/1,42+
+HIGUCHI Masahiro,JPN,7,42,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Final,2023-06-14,/api/v1/category_rounds/8264/results,/api/v1/events/1297/result/1,42
+Ginés López Alberto,ESP,8,42,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Final,2023-06-14,/api/v1/category_rounds/8264/results,/api/v1/events/1297/result/1,42
+HOMMA Taisei,JPN,9,40+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Final,2023-06-14,/api/v1/category_rounds/8264/results,/api/v1/events/1297/result/1,40+

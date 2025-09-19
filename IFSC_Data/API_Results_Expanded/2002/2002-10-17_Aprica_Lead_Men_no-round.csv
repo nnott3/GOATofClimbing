@@ -1,0 +1,54 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Chabot Alexandre,FRA,1,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Mrázek Tomás,CZE,2,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Crespi Flavio,ITA,3,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Lagni Bernardino,ITA,4,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Auclair François,FRA,5,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Pouvreau Gérome,FRA,6,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Julian  Puigblanque Ramón ,ESP,7,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Barbero Alfonso Pablo ,ESP,8,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Lachat Cédric,SUI,9,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Lella Donato,ITA,10,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Bindhammer Christian,GER,11,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Sharma Chris,USA,12,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Caude David,FRA,13,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Fuselier Michaël,FRA,13,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Petit François,FRA,15,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Petrenko Maksym,UKR,16,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Brenna Cristian,ITA,17,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Sova Matej,SLO,18,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Zavagnin Davide,ITA,19,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Kryvosheytsev Yevgen,UKR,20,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Vinokur Vadim,USA,20,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Bindhammer Andreas,GER,22,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Bosma Peter,SWE,23,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Gusak Igor,UKR,23,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Kazbekov Serik,UKR,23,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Ten Sijthoff Casper,NED,23,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Felix Martin,SUI,27,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Millet Sylvain,FRA,27,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Dugit Stephane,FRA,29,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Fichtinger Reinhard,AUT,29,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Becan Klemen,SLO,31,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Colonetti Roberto,ITA,32,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Doyle Mike,CAN,33,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Hoppe Markus,GER,33,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Huber Christoph,AUT,33,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Reis Jürgen,AUT,36,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Cominotti Giacomo,ITA,37,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Mc Clure Steve,GBR,37,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Achermann Thomas,SUI,39,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Dugit Fabien,FRA,39,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Valjavec Tomaz,SLO,39,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Baxter Adrian,GBR,42,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Stack Adam,USA,42,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Jaggi Martin,SUI,44,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Lo Piccolo Cédric,FRA,44,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Mobråten Martin,NOR,44,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Moelter Mike,USA,47,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Samyn Remi,FRA,47,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Kim Jaha,KOR,49,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Lampugnani Diego,SUI,49,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Christophersen Stian,NOR,51,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Woods Peter,CAN,51,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1
+Ushiro Teppei,JPN,53,,UIAA Worldcup - Aprica (ITA) 2002,286,2002,Aprica,Lead,Men,2002-10-17,/api/v1/events/286/result/1

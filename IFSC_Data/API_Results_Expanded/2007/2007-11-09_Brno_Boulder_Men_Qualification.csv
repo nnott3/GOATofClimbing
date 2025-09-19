@@ -1,0 +1,54 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Sharafutdinov Dmitrii,RUS,1,6t15 6b11,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Glairon Mondet Guillaume,FRA,2,4t4 6b9,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Fischhuber Kilian,AUT,3,4t5 6b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Barrans David,GBR,4,4t6 6b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Müller Matthias,SUI,4,4t6 6b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Matsushima Akito,JPN,6,4t8 5b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Moroni Gabriele,ITA,7,4t9 6b9,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Ennemoser Lukas,AUT,8,3t3 6b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Hukkataival Nalle,FIN,9,3t5 6b10,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Gelmanov Rustam,RUS,10,3t5 6b12,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Sugita Masatoshi,JPN,10,3t5 6b12,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Stranik Martin,CZE,12,3t5 5b5,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Verhoeven Jorg,NED,12,3t5 5b5,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Würth Peter,GER,14,3t8 4b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Preti Lucas,ITA,15,3t9 5b12,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Julien Stéphan,FRA,16,2t3 5b9,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Borowka Karsten,GER,17,2t4 6b10,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Wilhelm Heiko,AUT,18,2t4 3b5,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Croxall Mark,GBR,19,2t6 3b6,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Parry Gareth,GBR,20,1t1 6b14,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Mackenzie Roddy,GBR,21,1t1 5b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Ten Sijthoff Casper,NED,21,1t1 5b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Baumann Jonas,GER,23,1t1 5b10,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Shalagin Mykhaylo,UKR,23,1t1 5b10,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Becan Klemen,SLO,25,1t1 4b5,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Wagner Roland,AUT,26,1t1 4b6,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Farrell Thomas,AUS,27,1t1 4b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Matuszek Jacek,POL,27,1t1 4b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Hlavacek Jakub,CZE,29,1t1 4b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Jongeneelen Wouter,NED,30,1t1 4b9,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Chernikov Mikhail,RUS,31,1t1 4b11,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Pribil Jiri,CZE,32,1t1 3b3,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Huerta Mauricio,MEX,33,1t1 3b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Satanek David,SVK,34,1t1 3b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Kovacik Jakub,SVK,35,1t1 3b11,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Chvala Jan,CZE,36,1t2 3b5,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Karabas Mümin,TUR,37,1t2 3b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Greksak Tomas,SVK,38,1t2 2b2,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Petrescu Catalin,ROU,38,1t2 2b2,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Pekarev Mikhail,RUS,40,1t2 2b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Merz Aric,GER,41,1t3 5b14,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Ungureanu Daniel,ROU,42,1t3 3b6,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Resch Petr,CZE,43,1t3 2b2,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Rant Blaz,SLO,44,1t4 2b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Bradác Jiri,CZE,45,1t5 2b6,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Aktuyun Zorbey,TUR,46,1t6 2b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Kazennov Ilya,RUS,47,0t 3b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Kozel David,CZE,47,0t 3b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Pavel Gabriel,ROU,47,0t 3b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Konishi Daisuke,JPN,50,0t 3b10,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Wojciechowski Tomasz,POL,51,0t 3b14,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Saul Hamish,AUS,52,0t 2b9,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3
+Palut Dogan Oguz,TUR,53,0t 0b,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Men,Qualification,2007-11-09,/api/v1/category_rounds/709/results,/api/v1/events/485/result/3

@@ -1,0 +1,45 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Eiter Angela,AUT,1,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+schöpf Bettina,AUT,2,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Sarkany Muriel,BEL,3,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Levet Sandrine,FRA,4,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Stöhr Anna,AUT,5,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Saurwein Katharina,AUT,6,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Franko Lucka,SLO,7,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Martin Delphine,FRA,8,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Januel Caroline,FRA,9,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Bacher Barbara,AUT,10,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Lavarda Jenny,ITA,10,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Eyer Alexandra,SUI,12,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Vidmar Katja,SLO,13,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Crouvisier Stéphanie,FRA,14,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Graftiaux Chloé,BEL,14,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Iovane Luisa,ITA,14,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Kysilkova Tereza,CZE,17,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Raffetseder Gerda,AUT,18,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Malamid Evgeniia,RUS,19,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Novikova Natalia,RUS,20,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Forestier Monique,AUS,21,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Harnisch Martina,AUT,22,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Markovic Mina,SLO,23,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Knorr Damaris,GER,24,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Schranz Barbara,AUT,25,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Knoche Lisa,GER,26,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Bacher Sabine,AUT,27,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Etter Susanne,SUI,28,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Stendal Linn Karin,NOR,28,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Louis Stéphanie,SUI,30,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Zeilemaker Monica,NED,31,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Ruh Nadine,GER,32,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Ostapenko Olena,UKR,33,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Giroux Elodie,FRA,34,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Moosburger Miriam,AUT,34,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Ilic Caroline,FRA,36,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Nilsson Ingela,SWE,36,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Nilwik Rachel,NED,38,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Knabl Sabine,AUT,39,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+"Tan Li Ying, Suzanna",SGP,40,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Kudrova Nelly,CZE,41,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Low Shuang'E,SGP,42,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+Goh Tan Leng,SGP,43,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5
+OJEDA SANCHEZ Daila,ESP,44,,UIAA Worldcup - Imst (AUT) 2004,350,2004,Imst,Lead,Women,2004-05-28,/api/v1/events/350/result/5

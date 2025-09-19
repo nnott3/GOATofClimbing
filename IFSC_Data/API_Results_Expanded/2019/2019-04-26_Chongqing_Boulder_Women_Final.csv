@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Garnbret Janja,SLO,1,4T4z 8 6,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Women,Final,2019-04-26,/api/v1/category_rounds/5469/results,/api/v1/events/1114/result/7,1,1,4,2,1,1,2,2
+Noguchi Akiyo,JPN,2,4T4z 12 9,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Women,Final,2019-04-26,/api/v1/category_rounds/5469/results,/api/v1/events/1114/result/7,1,1,4,1,2,2,5,5
+Pilz Jessica,AUT,3,3T4z 8 11,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Women,Final,2019-04-26,/api/v1/category_rounds/5469/results,/api/v1/events/1114/result/7,1,1,5,5,X,3,2,2
+Klingler Petra,SUI,4,1T3z 2 8,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Women,Final,2019-04-26,/api/v1/category_rounds/5469/results,/api/v1/events/1114/result/7,X,1,X,X,2,2,X,5
+Ito Futaba,JPN,5,1T2z 1 4,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Women,Final,2019-04-26,/api/v1/category_rounds/5469/results,/api/v1/events/1114/result/7,1,1,X,3,X,X,X,X
+Kadic Katja,SLO,6,0T4z 0 10,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Women,Final,2019-04-26,/api/v1/category_rounds/5469/results,/api/v1/events/1114/result/7,X,1,X,4,X,1,X,4

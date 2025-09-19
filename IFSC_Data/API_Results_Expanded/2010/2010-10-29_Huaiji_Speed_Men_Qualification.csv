@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Zhong QiXin,CHN,1,6.580,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Hroza Libor,CZE,2,6.910,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Vaitsekhovskii Evgenii,RUS,3,7.220,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Kokorin Stanislav,RUS,4,7.250,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Toozandehjani Hamidreza,IRI,5,7.300,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Sinitcyn Sergei,RUS,6,7.360,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Zhang Yuhang,CHN,7,7.490,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+ZHANG Ning,CHN,8,7.580,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Swirk Lukasz,POL,9,7.810,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Zhong Lincai,CHN,10,7.890,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Nigmanov Zufar,RUS,11,7.960,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Mohammadinegad Mohsen,IRI,12,8.210,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Abdrakhmanov Sergey,RUS,13,8.400,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Lai pingsheng,CHN,14,8.480,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Sheikhbahaei Omid,IRI,15,8.880,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Gál Máté,HUN,16,9.070,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Lai Chi-Wai,HKG,17,9.080,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Qu HaiBin,CHN,18,9.180,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Suolang Jiacuo,CHN,19,9.350,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2
+Ma ZiDa,CHN,20,9.450,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Men,Qualification,2010-10-29,/api/v1/category_rounds/1449/results,/api/v1/events/621/result/2

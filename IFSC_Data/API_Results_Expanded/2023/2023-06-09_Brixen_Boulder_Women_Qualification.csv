@@ -1,0 +1,80 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone,P5_Top,P5_Zone
+Meul Hannah,GER,1,4T5z 6 6,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,2,2,X,1,1,1,2,1
+Gejo Stasa,SRB,1,4T5z 6 6,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,3,1,X,2,1,1,1,1
+Kruder Julija,SLO,1,5T5z 9 8,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,1,1,1,1,1,3,3,2,2
+Kerem Ayala,ISR,4,5T5z 18 18,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,2,2,1,1,8,8,6,6
+Mackenzie Oceania,AUS,5,4T5z 7 6,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,2,2,3,1,1,1,X,1
+Fischer Madison,CAN,5,4T5z 8 10,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,3,1,1,3,3,3,2
+Matsufuji Anon,JPN,7,4T5z 9 14,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,3,3,3,3,X,5,1,1,2,2
+Klingler Petra,SUI,7,4T5z 10 12,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,2,1,1,6,6,2,2
+Färber Johanna,AUT,9,4T5z 10 11,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,3,3,5,5,X,1,1,1,1,1
+Hopfensitz Sandra,GER,9,4T5z 17 18,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,1,1,12,12,3,3
+Grossman Natalia,USA,11,4T4z 4 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,1,1,1,1,X,X,1,1
+LUO ZHILU,CHN,11,4T4z 9 5,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,3,2,X,X,4,1,1,1,1,1
+SEO Chaehyun,KOR,13,4T4z 7 6,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,2,1,1,1,1,X,X,3,2
+Sanders Anastasia,USA,13,4T4z 11 9,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,3,3,X,X,5,3,2,2,1,1
+NAKAGAWA Ryu,JPN,15,4T4z 13 9,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,5,5,X,X,4,1,2,2,2,1
+Rakovec Lucka,SLO,15,4T4z 10 7,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,1,1,2,2,X,X,6,3
+Cohaut Flavy,FRA,17,3T5z 4 13,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,2,X,8,X,1,1,1,1,1
+Fogu Miriam,ITA,17,3T5z 5 10,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,1,X,2,1,1,X,5,2,1
+SEKIKAWA Melody,JPN,19,3T5z 5 16,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,3,3,X,10,X,1,1,1,1,1
+Condie Kyra,USA,19,3T5z 5 15,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,2,X,2,1,1,X,9,2,1
+Torres Illamola Aida,ESP,21,3T5z 11 21,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,2,2,X,10,8,7
+Stasiuk Maya,AUS,21,3T5z 6 10,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,3,2,X,3,X,3,1,1,2,1
+Moroni Camilla,ITA,23,3T4z 3 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,1,1,X,X,1,1
+Tesio Giorgia,ITA,23,3T4z 3 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,1,1,X,X,1,1
+Coscoy Cloe,USA,23,3T5z 7 16,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,4,4,X,9,X,1,1,1,2,1
+Sterrer Franziska,AUT,26,3T5z 19 18,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,12,12,X,2,X,1,2,2,5,1
+ELHADJ MIMOUNE Selma,FRA,27,3T4z 4 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,1,1,X,X,2,1
+Cullen Kylie,USA,27,3T4z 5 5,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,3,1,X,X,X,2,1,1,1,1
+Avezou Zélia,FRA,27,3T4z 4 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,1,1,X,X,2,1
+Kümin Andrea,SUI,30,3T4z 6 5,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,X,X,1,2,2,3,1
+Gibert Fanny,FRA,31,3T4z 4 5,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,1,X,2,1,1,X,X,1,1
+Toothill Holly,GBR,31,3T4z 7 8,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,5,5,X,X,X,1,1,1,1,1
+Briggs Evangelina,CAN,31,3T4z 7 8,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,5,2,X,X,X,4,1,1,1,1
+Tarkus Lucija,SLO,34,3T4z 5 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,1,1,X,X,3,1
+Debevec Katja,SLO,35,3T4z 7 9,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,5,5,X,X,X,2,1,1,1,1
+Taub Yael,ISR,35,3T4z 5 6,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,2,2,X,X,2,2
+Dörffel Lucia,GER,37,3T4z 6 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,3,1,X,X,2,1
+Caulier Chloe,BEL,37,3T4z 8 9,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,4,3,X,X,X,4,1,1,3,1
+Kura Nanako,JPN,39,3T4z 6 6,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,2,2,X,X,3,2
+SA Sol,KOR,39,3T4z 8 10,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,5,5,X,X,X,2,1,1,2,2
+AOYAGI Mia,JPN,41,3T4z 6 9,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,2,X,4,1,1,X,X,3,2
+Rekabi Elnaz,IRI,41,3T4z 6 9,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,2,X,4,2,1,X,X,2,2
+Lettner Sandra,AUT,41,3T4z 8 13,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,5,5,X,X,X,6,1,1,2,1
+Pilz Jessica,AUT,44,3T4z 9 8,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,6,5,X,X,X,1,1,1,2,1
+ITO Futaba,JPN,45,3T4z 7 5,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,1,1,X,X,5,2
+Kindlihagen Ingrid,NOR,45,3T4z 13 9,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,8,4,X,X,X,1,3,3,2,1
+Yokoyama Sofya,SUI,47,3T4z 7 8,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,2,X,2,1,1,X,X,4,3
+Hönig Afra,GER,47,3T4z 7 8,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,1,1,X,X,5,5
+Lochner Leonie,GER,47,3T3z 9 7,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,6,5,X,X,X,X,1,1,2,1
+Yip Alannah,CAN,50,2T4z 4 8,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,2,X,X,X,2,2,2,X,2
+Aguado Valentina,ARG,51,2T4z 10 14,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,8,6,X,X,X,3,2,2,X,3
+Pérez Duato Rebeca,ESP,51,3T4z 8 5,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,3,1,X,1,1,1,X,X,4,2
+Bärtschi Natalie,SUI,53,2T4z 11 11,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,8,6,X,X,X,1,3,3,X,1
+Dreamer Maya,ISR,53,3T4z 8 7,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,1,1,X,X,6,4
+Medici Giulia,ITA,55,2T3z 5 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,X,X,X,X,2,1,1,4,1
+KALLIA Evdoxia-Aikaterini,GRE,55,3T3z 9 8,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,3,3,X,X,1,1,X,X,5,4
+Zhang YUETONG,CHN,57,2T4z 3 7,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,1,X,2,1,1,X,X,X,3
+Thompson-Smith Molly,GBR,57,1T4z 1 13,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,10,X,X,X,1,1,1,X,1
+KIM Jain,KOR,59,2T4z 3 10,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,2,X,1,1,1,X,X,X,6
+Totkova Aleksandra,BUL,59,1T4z 2 12,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,8,X,X,X,1,2,2,X,1
+Loikas Laura,FIN,59,2T4z 3 10,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,3,2,2,X,X,X,4
+Ghisolfi Claudia,ITA,62,1T3z 3 3,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,X,X,X,X,1,3,1,X,1
+Bjarnason Svana,ISL,63,1T3z 4 10,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,X,X,X,X,7,4,1,X,2
+Dal Zotto Caterina,ITA,63,2T4z 4 11,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,X,3,3,X,6,X,1
+Rogora Laura,ITA,65,2T3z 2 3,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,X,1,1,X,X,X,1
+Damasco Jordyn,AUS,65,1T3z 5 8,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,X,X,X,X,3,5,3,X,2
+Peetermans Zoe,GBR,67,1T4z 4 9,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,2,X,1,4,3,X,X,X,3
+Becerra Rocio Ailen,ARG,67,1T2z 3 4,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,X,X,X,X,X,3,3,X,1
+Mellado Quinteros Ignacia,CHI,69,1T3z 1 15,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,1,X,13,X,X,X,X
+KATERI Alexandra,GRE,69,0T2z 0 18,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,10,X,X,X,X,X,X,X,8
+González Rámirez María Fernanda,MEX,71,0T1z 0 2,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,X,X,X,X,X,X,X,X,2
+Ramezani Rahil,IRI,71,1T3z 2 6,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,2,2,X,X,X,1,X,X,X,3
+Silva Muykuay,CHI,73,1T3z 5 14,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,5,4,X,X,X,3,X,X,X,7
+Trajkoska Sara,MKD,73,0T1z 0 9,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,X,X,X,X,X,X,X,X,9
+Storå Regine,NOR,75,1T2z 1 2,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,1,1,X,X,X,X,X,X,X,1
+Sepulveda Elizabeth,PUR,75,0T1z 0 11,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,X,X,X,X,X,X,X,X,11
+Duron Antonio Iris Pamela,HON,77,0T0z 0 0,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,X,X,X,X,X,X,X,X,X
+Im Vinnith,CAM,77,0T0z 0 0,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,X,X,X,X,X,X,X,X,X
+Hernandez Guerrero Grecia Daniela,ESA,77,0T0z 0 0,IFSC World Cup Brixen 2023,1296,2023,Brixen,Boulder,Women,Qualification,2023-06-09,/api/v1/category_rounds/7684/results,/api/v1/events/1296/result/7,X,X,X,X,X,X,X,X,X,X

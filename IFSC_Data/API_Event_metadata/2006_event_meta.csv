@@ -1,0 +1,51 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Climbing Worldcup (B) - Birmingham (GBR) 2006,425,2006,Birmingham,Boulder,Men,2006-03-17,/api/v1/events/425/result/3
+UIAA Climbing Worldcup (B) - Birmingham (GBR) 2006,425,2006,Birmingham,Boulder,Women,2006-03-17,/api/v1/events/425/result/7
+UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Boulder,Men,2006-04-21,/api/v1/events/426/result/3
+UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Boulder,Women,2006-04-21,/api/v1/events/426/result/7
+UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
+UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
+UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Men,2006-04-28,/api/v1/events/427/result/1
+UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
+UIAA Climbing Worldcup (B) - Rovereto (ITA) 2006,428,2006,Rovereto,Boulder,Men,2006-05-12,/api/v1/events/428/result/3
+UIAA Climbing Worldcup (B) - Rovereto (ITA) 2006,428,2006,Rovereto,Boulder,Women,2006-05-12,/api/v1/events/428/result/7
+UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Lead,Men,2006-05-19,/api/v1/events/429/result/1
+UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Lead,Women,2006-05-19,/api/v1/events/429/result/5
+UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Men,2006-05-19,/api/v1/events/429/result/2
+UIAA Climbing Worldcup (L+S) - Dresden (GER) 2006,429,2006,Dresden,Speed,Women,2006-05-19,/api/v1/events/429/result/6
+UIAA Climbing Worldcup (B) - Grindelwald (SUI) 2006,430,2006,Grindelwald,Boulder,Men,2006-06-09,/api/v1/events/430/result/3
+UIAA Climbing Worldcup (B) - Grindelwald (SUI) 2006,430,2006,Grindelwald,Boulder,Women,2006-06-09,/api/v1/events/430/result/7
+UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Men,2006-06-16,/api/v1/events/431/result/3
+UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
+UIAA Climbing Worldcup (B) - Hall (AUT) 2006,432,2006,Hall,Boulder,Men,2006-06-22,/api/v1/events/432/result/3
+UIAA Climbing Worldcup (B) - Hall (AUT) 2006,432,2006,Hall,Boulder,Women,2006-06-22,/api/v1/events/432/result/7
+UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Lead,Men,2006-07-12,/api/v1/events/433/result/1
+UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Lead,Women,2006-07-12,/api/v1/events/433/result/5
+UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Men,2006-07-12,/api/v1/events/433/result/2
+UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6
+UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
+UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
+UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Women,2006-07-29,/api/v1/events/435/result/6
+UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Men,2006-08-05,/api/v1/events/436/result/1
+UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
+UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
+UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
+UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Lead,Men,2006-08-12,/api/v1/events/437/result/1
+UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Lead,Women,2006-08-12,/api/v1/events/437/result/5
+UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Speed,Men,2006-08-12,/api/v1/events/437/result/2
+UIAA Climbing Worldcup (L+S) - Kuala Lumpur (MAS) 2006,437,2006,Kuala Lumpur,Speed,Women,2006-08-12,/api/v1/events/437/result/6
+UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Men,2006-09-16,/api/v1/events/438/result/1
+UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
+UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Women,2006-10-02,/api/v1/events/439/result/5
+UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Speed,Men,2006-10-02,/api/v1/events/439/result/2
+UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Speed,Women,2006-10-02,/api/v1/events/439/result/6
+UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Boulder,Men,2006-11-02,/api/v1/events/440/result/3
+UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Boulder,Women,2006-11-02,/api/v1/events/440/result/7
+UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Men,2006-11-02,/api/v1/events/440/result/2
+UIAA Climbing Worldcup (B+S) - Moscow (RUS) 2006,440,2006,Moscow,Speed,Women,2006-11-02,/api/v1/events/440/result/6
+UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
+UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
+UIAA Worldcup (L) - Kranj (SLO) 2006,442,2006,Kranj,Lead,Men,2006-11-18,/api/v1/events/442/result/1
+UIAA Worldcup (L) - Kranj (SLO) 2006,442,2006,Kranj,Lead,Women,2006-11-18,/api/v1/events/442/result/5

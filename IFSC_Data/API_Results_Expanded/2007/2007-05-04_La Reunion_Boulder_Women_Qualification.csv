@@ -1,0 +1,11 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Ansade Maud,FRA,1,6t6 6b6,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Qualification,2007-05-04,/api/v1/category_rounds/617/results,/api/v1/events/473/result/7
+Hoarau Anne,FRA,1,6t6 6b6,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Qualification,2007-05-04,/api/v1/category_rounds/617/results,/api/v1/events/473/result/7
+Seguy Audrey,GBR,1,6t6 6b6,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Qualification,2007-05-04,/api/v1/category_rounds/617/results,/api/v1/events/473/result/7
+Rajfova Silvie,CZE,4,6t7 6b6,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Qualification,2007-05-04,/api/v1/category_rounds/617/results,/api/v1/events/473/result/7
+Danion Juliette,FRA,5,6t7 6b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Qualification,2007-05-04,/api/v1/category_rounds/617/results,/api/v1/events/473/result/7
+Graftiaux Chloé,BEL,5,6t7 6b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Qualification,2007-05-04,/api/v1/category_rounds/617/results,/api/v1/events/473/result/7
+Ciret Colette,FRA,7,6t8 6b8,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Qualification,2007-05-04,/api/v1/category_rounds/617/results,/api/v1/events/473/result/7
+Chevrier Anne-Laure,FRA,8,5t5 6b14,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Qualification,2007-05-04,/api/v1/category_rounds/617/results,/api/v1/events/473/result/7
+Harmand Ludivine,FRA,9,5t6 6b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Qualification,2007-05-04,/api/v1/category_rounds/617/results,/api/v1/events/473/result/7
+Lind Angelica,SWE,10,4t5 6b7,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Qualification,2007-05-04,/api/v1/category_rounds/617/results,/api/v1/events/473/result/7

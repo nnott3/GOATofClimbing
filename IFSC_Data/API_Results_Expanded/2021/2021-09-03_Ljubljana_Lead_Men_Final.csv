@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Higuchi Masahiro,JPN,1,37,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Final,2021-09-03,/api/v1/category_rounds/6763/results,/api/v1/events/1197/result/1,37
+Potocar Luka,SLO,2,31+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Final,2021-09-03,/api/v1/category_rounds/6763/results,/api/v1/events/1197/result/1,31+
+Halenke Sebastian,GER,3,31+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Final,2021-09-03,/api/v1/category_rounds/6763/results,/api/v1/events/1197/result/1,31+
+Skofic Domen,SLO,4,31+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Final,2021-09-03,/api/v1/category_rounds/6763/results,/api/v1/events/1197/result/1,31+
+Samoilov Fedir,UKR,5,30+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Final,2021-09-03,/api/v1/category_rounds/6763/results,/api/v1/events/1197/result/1,30+
+YOSHIDA Satone,JPN,6,16+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Final,2021-09-03,/api/v1/category_rounds/6763/results,/api/v1/events/1197/result/1,16+
+Preskar Milan,SLO,7,15+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Final,2021-09-03,/api/v1/category_rounds/6763/results,/api/v1/events/1197/result/1,15+
+YURIKUSA Ao,JPN,8,15+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Men,Final,2021-09-03,/api/v1/category_rounds/6763/results,/api/v1/events/1197/result/1,15+

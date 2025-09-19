@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Pilz Jessica,AUT,1,Top,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Women,Final,2018-10-27,/api/v1/category_rounds/5022/results,/api/v1/events/1060/result/5,Top
+Garnbret Janja,SLO,2,Top,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Women,Final,2018-10-27,/api/v1/category_rounds/5022/results,/api/v1/events/1060/result/5,Top
+Noguchi Akiyo,JPN,3,43+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Women,Final,2018-10-27,/api/v1/category_rounds/5022/results,/api/v1/events/1060/result/5,43+
+Krampl Mia,SLO,4,37+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Women,Final,2018-10-27,/api/v1/category_rounds/5022/results,/api/v1/events/1060/result/5,37+
+Kotake Mei,JPN,5,36+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Women,Final,2018-10-27,/api/v1/category_rounds/5022/results,/api/v1/events/1060/result/5,36+
+Markovic Mina,SLO,6,35,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Women,Final,2018-10-27,/api/v1/category_rounds/5022/results,/api/v1/events/1060/result/5,35
+Kalan Tjasa,SLO,7,32,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Women,Final,2018-10-27,/api/v1/category_rounds/5022/results,/api/v1/events/1060/result/5,32
+Tajima Aika,JPN,8,30+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Women,Final,2018-10-27,/api/v1/category_rounds/5022/results,/api/v1/events/1060/result/5,30+

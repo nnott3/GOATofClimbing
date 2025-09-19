@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Fischhuber Kilian,AUT,1,2t2 3b3,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Men,Final,2009-05-01,/api/v1/category_rounds/1138/results,/api/v1/events/563/result/3,1,1,1,1,X,1,X,X
+Moroni Gabriele,ITA,2,2t3 3b6,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Men,Final,2009-05-01,/api/v1/category_rounds/1138/results,/api/v1/events/563/result/3,1,1,2,1,X,4,X,X
+Ondra Adam,CZE,3,2t6 4b8,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Men,Final,2009-05-01,/api/v1/category_rounds/1138/results,/api/v1/events/563/result/3,1,1,5,4,X,1,X,2
+Preti Lucas,ITA,4,1t1 4b11,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Men,Final,2009-05-01,/api/v1/category_rounds/1138/results,/api/v1/events/563/result/3,1,1,X,5,X,1,X,4
+Shalagin Mykhaylo,UKR,5,1t1 3b4,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Men,Final,2009-05-01,/api/v1/category_rounds/1138/results,/api/v1/events/563/result/3,1,1,X,2,X,1,X,X
+Glairon Mondet Guillaume,FRA,6,1t2 3b7,IFSC Climbing Worldcup (B) - Hall (AUT) 2009,563,2009,Hall,Boulder,Men,Final,2009-05-01,/api/v1/category_rounds/1138/results,/api/v1/events/563/result/3,2,1,X,4,X,2,X,X

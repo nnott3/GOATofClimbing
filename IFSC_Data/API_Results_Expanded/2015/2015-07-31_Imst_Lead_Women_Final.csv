@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Markovic Mina,SLO,1,55,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Final,2015-07-31,/api/v1/category_rounds/3464/results,/api/v1/events/904/result/5,55
+Garnbret Janja,SLO,2,54+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Final,2015-07-31,/api/v1/category_rounds/3464/results,/api/v1/events/904/result/5,54+
+Pilz Jessica,AUT,3,52+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Final,2015-07-31,/api/v1/category_rounds/3464/results,/api/v1/events/904/result/5,52+
+Janicot Hélène,FRA,4,51+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Final,2015-07-31,/api/v1/category_rounds/3464/results,/api/v1/events/904/result/5,51+
+Kobayashi Yuka,JPN,5,38,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Final,2015-07-31,/api/v1/category_rounds/3464/results,/api/v1/events/904/result/5,38
+Kalan Tjasa,SLO,6,35,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Final,2015-07-31,/api/v1/category_rounds/3464/results,/api/v1/events/904/result/5,35
+Schranz Christine,AUT,7,16+,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Final,2015-07-31,/api/v1/category_rounds/3464/results,/api/v1/events/904/result/5,16+
+Verhoeven Anak,BEL,8,15,IFSC Climbing Worldcup (L) - Imst (AUT) 2015 ,904,2015,Imst,Lead,Women,Final,2015-07-31,/api/v1/category_rounds/3464/results,/api/v1/events/904/result/5,15

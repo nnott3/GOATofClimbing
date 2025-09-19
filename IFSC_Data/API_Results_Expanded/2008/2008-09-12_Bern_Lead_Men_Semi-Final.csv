@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kryukov Valeriy,UKR,1,29+,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,29+
+Usobiaga Lakunza Patxi,ESP,2,29-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,29-
+Verhoeven Jorg,NED,2,29-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,29-
+Mrázek Tomás,CZE,2,29-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,29-
+Amma Sachi,JPN,5,28+,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,28+
+Desgranges Romain,FRA,5,28+,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,28+
+McColl Sean,CAN,5,28+,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,28+
+Julian  Puigblanque Ramón ,ESP,8,28,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,28
+Lachat Cédric,SUI,9,28-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,28-
+Midtboe Magnus,NOR,10,27-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,27-
+Dugit Fabien,FRA,10,27-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,27-
+Watanabe Kazuma,JPN,12,26-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,26-
+Högström Magnus,SWE,12,26-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,26-
+Ballet Thomas,FRA,14,24-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,24-
+Comina Fabien,FRA,15,21,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,21
+Culver Aurélien,FRA,16,21-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,21-
+Becan Klemen,SLO,17,20-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,20-
+Sommer Remo,SUI,17,20-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,20-
+Jaggi Martin,SUI,19,19.5,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,19.5
+Danker Stefan,GER,20,19.5-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,19.5-
+Ten Sijthoff Casper,NED,21,19-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,19-
+Kaurov Ivan,RUS,22,18-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,18-
+Josseron Gabriel,FRA,23,13,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,13
+Terentyev Sergey,RUS,23,13,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,13
+Jubes Angarita Marco Antonio,ESP,23,13,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,13
+Schmid Thomas,SUI,26,13-,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,13-
+Winkler Daniel,SUI,27,6,IFSC Climbing Worldcup (L) - Bern (SUI) 2008,522,2008,Bern,Lead,Men,Semi-Final,2008-09-12,/api/v1/category_rounds/905/results,/api/v1/events/522/result/1,6

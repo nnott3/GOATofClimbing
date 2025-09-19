@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,Top
+Ondra Adam,CZE,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,Top
+Supper Gautier,FRA,3,35,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,35
+Schubert Jakob,AUT,4,32,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,32
+Romain Manuel,FRA,5,31,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,31
+Becan Klemen,SLO,6,28+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,28+
+Tauporn Thomas,GER,7,28-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,28-
+Verhoeven Jorg,NED,8,27,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,27
+Raztresen Jure,SLO,9,27-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,27-
+Desgranges Romain,FRA,10,26-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,26-
+Matsushima Akito,JPN,11,26-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,26-
+Dzyubyak Yuriy,UKR,12,20-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,20-
+Min Hyunbin,KOR,13,20-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,20-
+Skofic Domen,SLO,14,18-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,18-
+Kryukov Valeriy,UKR,15,17,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,17
+Son Sangwon,KOR,16,15,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,15
+Chernikov Mikhail,RUS,17,15,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,15
+Amma Sachi,JPN,18,15,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,15
+Ghisolfi Stefano,ITA,19,15,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,15
+Shibata Masaki,JPN,20,15,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,15
+Högström Magnus,SWE,21,14-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,14-
+Lama David,AUT,22,12,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,12
+Watanabe Kazuma,JPN,23,12-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,12-
+Ozawa Shinta,JPN,24,12-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,12-
+Kalina Alexander,RUS,25,12-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,12-
+Usobiaga Lakunza Patxi,ESP,26,11,IFSC Climbing Worldcup (L) - Kranj (SLO) 2010,622,2010,Kranj,Lead,Men,Semi-Final,2010-11-13,/api/v1/category_rounds/1455/results,/api/v1/events/622/result/1,11

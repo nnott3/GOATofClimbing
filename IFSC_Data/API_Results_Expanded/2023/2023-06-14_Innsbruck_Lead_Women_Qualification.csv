@@ -1,0 +1,90 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+Garnbret Janja,SLO,1,1.0,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,TOP,47+
+SEO Chaehyun,KOR,2,2.45,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,49+,45
+Mori Ai,JPN,3,3.46,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,49+,43+
+Pilz Jessica,AUT,4,4.58,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,49+,40+
+Grossman Natalia,USA,5,5.29,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,46+,43+
+Raboutou Brooke,USA,6,7.94,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,43+,43
+Rakovec Lucka,SLO,7,8.22,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,47,34
+Janicot Hélène,FRA,8,8.49,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,37+,43+
+Krampl Mia,SLO,9,8.75,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,45+,39+
+Hily Manon,FRA,10,8.97,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,46+,34+
+Romain Salomé,FRA,11,9.45,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,43+,39+
+Thompson-Smith Molly,GBR,12,11.4,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,38+,38
+Rogora Laura,ITA,13,12.12,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,46+,32+
+van der Meer Lynn,NED,14,14.07,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,39,33
+KOIKE Hana,JPN,15,16.26,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,36+,34+
+Pötzi Mattea,AUT,16,17.23,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,37+,33
+TANII Natsuki,JPN,17,17.62,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,36+,34
+Totkova Aleksandra,BUL,18,21.0,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,37+,32
+KIM Jain,KOR,19,22.06,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,34+,33
+Sanders Anastasia,USA,20,23.14,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,35+,32+
+Zhang YUETONG,CHN,21,23.74,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,36+,32
+Chanourdie Julia,FRA,22,25.46,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,37+,30+
+Copar Sara,SLO,22,25.46,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,37+,30+
+Nonaka Miho,JPN,24,26.0,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,35+,31+
+Lukan Vita,SLO,25,26.06,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,38,29+
+Tarkus Lucija,SLO,26,27.1,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32,33
+Adamovska Eliska,CZE,27,28.06,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32+,32+
+Egli Liv,SUI,27,28.06,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32+,32+
+Smetanova Michaela,CZE,29,29.55,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,37+,29+
+Skusek Lana,SLO,30,31.18,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,35,30+
+Hammelmüller Eva Maria,AUT,31,31.52,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32+,31+
+Demmel Martina,GER,32,32.59,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,34+,30+
+Kazbekova Ievgeniia,UKR,32,32.59,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,34+,30+
+Siruckova Tereza,CZE,34,33.0,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,37+,22+
+Hafsaas Tina Johnsen,NOR,35,34.47,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,33+,30+
+Avezou Zélia,FRA,36,35.2,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,31,32+
+Aguado Valentina,ARG,37,36.74,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32+,30+
+Mackenzie Oceania,AUS,37,36.74,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32+,30+
+NAKAGAWA Ryu,JPN,39,37.83,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,34+,29+
+Condie Kyra,USA,40,40.02,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32,30+
+Lettner Sandra,AUT,40,40.02,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32,30+
+Moroni Camilla,ITA,40,40.02,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32,30+
+Rekabi Elnaz,IRI,43,41.7,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,30+,31
+Caulier Chloe,BEL,44,42.71,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,29+,31
+Kümin Andrea,SUI,45,43.74,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32,30
+Dreamer Maya,ISR,46,43.89,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,31+,30+
+Shiran Noa,ISR,47,46.23,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32+,28
+ITO Futaba,JPN,48,46.46,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32,29+
+Sterrer Franziska,AUT,48,46.46,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32,29+
+Hopfensitz Sandra,GER,50,46.49,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,33+,22
+Dörffel Lucia,GER,51,46.86,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,30+,30+
+Mellado Quinteros Ignacia,CHI,52,49.42,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,33+,19
+Fiser Julia,AUT,53,50.94,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,31+,29+
+Gejo Stasa,SRB,53,50.94,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,31+,29+
+Ghisolfi Claudia,ITA,53,50.94,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,31+,29+
+SA Sol,KOR,53,50.94,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,31+,29+
+Peetermans Zoe,GBR,57,53.99,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,32,22
+Buršíková Martina,SVK,58,54.24,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,31+,28+
+Martínez Almendros Iziar,ESP,58,54.24,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,31+,28+
+LUO ZHILU,CHN,60,56.89,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,31+,22+
+Tesio Giorgia,ITA,61,59.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,24,29+
+Agambayeva Margarita,KAZ,62,60.93,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,25,28+
+Avender Sophia,AUT,63,61.85,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,31+,19+
+Frangos Rebecca,CAN,63,61.85,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,31+,19+
+Atkins Käthe,GER,65,62.71,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,28+,22+
+Yip Alannah,CAN,66,63.21,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,30+,22
+Hulliger Michelle,SUI,67,64.24,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,30,22
+Coscoy Cloe,USA,68,65.31,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,24+,22+
+Contreras Alejandra,CHI,69,65.75,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,28,22
+Garlick Lucy,GBR,70,66.49,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,25,22
+Potapova Nika,UKR,71,66.61,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,23+,26
+Stasiuk Maya,AUS,72,71.0,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,24+,19+
+Köhler  Anja,BRA,73,72.65,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,23+,21+
+Cullen Kylie,USA,74,73.44,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,24+,18+
+Castillo Lianet,VEN,75,73.96,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,23+,19+
+Becerra Rocio Ailen,ARG,76,76.03,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,24+,14
+Ramezani Rahil,IRI,77,76.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,23+,18+
+Earle Chloe,CAN,78,77.99,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,23+,18
+Bjarnason Svana,ISL,79,78.23,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,21,18+
+Sepulveda Elizabeth,PUR,80,78.72,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,20,18+
+WONG Tseng-shun,HKG,81,79.68,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,23+,13+
+Hidalgo Amezquita María Fernanda,MEX,82,81.23,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,17+,18
+VALSAMIDI Danai,GRE,83,81.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,18,14+
+Oates Tegwen,RSA,84,84.0,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,12,10
+Trajkoska Sara,MKD,85,85.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,7+,7+
+Duron Antonio Iris Pamela,HON,86,85.99,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,6,8
+Im Vinnith,CAM,87,86.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,7,7
+Hernandez Guerrero Grecia Daniela,ESA,88,88.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,3,4
+Luna Velasco Arantza,MEX,88,88.5,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Qualification,2023-06-14,/api/v1/category_rounds/7688/results,/api/v1/events/1297/result/5,2+,4+

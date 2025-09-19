@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Bailey Sean,USA,1,TOP,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,TOP
+Ondra Adam,CZE,1,TOP,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,TOP
+Potocar Luka,SLO,3,TOP,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,TOP
+YOSHIDA Satone,JPN,4,TOP,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,TOP
+Avezou Sam,FRA,5,40+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,40+
+Flohé Yannick,GER,6,36+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,36+
+Homma Taisei,JPN,6,36+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,36+
+Lehmann Sascha,SUI,6,36+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,36+
+McArthur Hamish,GBR,6,36+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,36+
+Puman Hannes,SWE,10,36+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,36+
+Scherz Stefan,AUT,11,35+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,35+
+LEE DOHYUN,KOR,12,34+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,34+
+Skofic Domen,SLO,12,34+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,34+
+Jenft Paul,FRA,14,34+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,34+
+Duval Arsène,FRA,15,34+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,34+
+Schenk Filip,ITA,16,34+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,34+
+Higuchi Masahiro,JPN,17,34+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,34+
+Posch Mathias,AUT,18,34+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,34+
+Fujii Kokoro,JPN,19,33+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,33+
+Duffy Colin,USA,20,33+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,33+
+GEFFROY Romaric,FRA,21,31+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,31+
+Preskar Milan,SLO,22,30+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,30+
+Bonder Jeremy,FRA,23,30+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,30+
+Halenke Sebastian,GER,23,30+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,30+
+Pope James,GBR,25,29+,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,29+
+Megos Alexander,GER,26,13,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1,13

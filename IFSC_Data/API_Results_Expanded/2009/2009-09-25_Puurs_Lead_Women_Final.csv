@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ernst Johanna,AUT,1,Top,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Women,Final,2009-09-25,/api/v1/category_rounds/1205/results,/api/v1/events/573/result/5,Top
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Women,Final,2009-09-25,/api/v1/category_rounds/1205/results,/api/v1/events/573/result/5,Top
+Vidmar Maja,SLO,1,Top,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Women,Final,2009-09-25,/api/v1/category_rounds/1205/results,/api/v1/events/573/result/5,Top
+Eiter Angela,AUT,4,51+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Women,Final,2009-09-25,/api/v1/category_rounds/1205/results,/api/v1/events/573/result/5,51+
+Durif Charlotte,FRA,5,51-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Women,Final,2009-09-25,/api/v1/category_rounds/1205/results,/api/v1/events/573/result/5,51-
+Ciavaldini Caroline,FRA,6,50+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Women,Final,2009-09-25,/api/v1/category_rounds/1205/results,/api/v1/events/573/result/5,50+
+Chereshneva Yana,RUS,7,44-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Women,Final,2009-09-25,/api/v1/category_rounds/1205/results,/api/v1/events/573/result/5,44-
+Eyer Alexandra,SUI,8,43-,IFSC Climbing Worldcup (L) - Puurs (BEL) 2009,573,2009,Puurs,Lead,Women,Final,2009-09-25,/api/v1/category_rounds/1205/results,/api/v1/events/573/result/5,43-

@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Tanii Natsuki,JPN,1,43+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,43+
+Garnbret Janja,SLO,2,43,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,43
+SEO CHAEHYUN,KOR,3,42+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,42+
+Rogora Laura,ITA,4,39+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,39+
+Grossman Natalia,USA,5,39+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,39+
+Raboutou Brooke,USA,6,38+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,38+
+Lukan Vita,SLO,7,38+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,38+
+NAKAGAWA Ryu,JPN,8,35+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,35+
+Rakovec Lucka,SLO,9,35+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,35+
+Meul Hannah,GER,10,35+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,35+
+Janicot Hélène,FRA,11,34,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,34
+Hily Manon,FRA,12,32+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,32+
+Krampl Mia,SLO,13,32,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,32
+Ito Futaba,JPN,14,31+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,31+
+Scolaris Ilaria,ITA,15,29+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,29+
+Ghisolfi Claudia,ITA,16,27+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,27+
+Thompson-Smith Molly,GBR,17,26+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,26+
+Pouget Camille,FRA,18,25+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,25+
+LUO ZHILU,CHN,19,25,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,25
+ABE Momoko,JPN,20,23+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,23+
+Atkins Käthe,GER,21,21,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,21
+Copar Sara,SLO,21,21,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,21
+Zhang YUETONG,CHN,23,20,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,20
+Tesio Giorgia,ITA,24,19+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,19+
+Ota Risa,JPN,25,17+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,17+
+Kotake Mei,JPN,26,17,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5,17

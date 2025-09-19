@@ -1,0 +1,44 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Rakhmetov Salavat,RUS,1,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+DU LAC Daniel,FRA,2,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Fischhuber Kilian,AUT,3,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Jongeneelen Wouter,NED,4,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Meyer Jérôme,FRA,5,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Oleksy Tomasz,POL,6,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Ghidini Stefano,ITA,7,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Ovchinnikov Evgeny,RUS,8,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Kazbekov Serik,UKR,9,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Laurence Ludovic,FRA,10,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Dutray Mathieu,FRA,11,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Julien Stephane,FRA,12,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Caminati Michele,ITA,13,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Preti Lucas,ITA,14,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Gaidioz Loïc,FRA,15,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Progulakis Georgos,ITA,16,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Müller Matthias,SUI,17,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Borowka Karsten,GER,18,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Parisse Luca,ITA,19,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Scarian Riccardo,ITA,20,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Graham Chris,GBR,21,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Wilhelm Heiko,AUT,22,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Core Christian,ITA,23,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Cehovin Urh,SLO,24,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Gandolfo Alessandro,ITA,25,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Fanguin Géraud,FRA,26,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Golob Jurij,SLO,27,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Noviant Severin,FRA,28,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Gisler David,SUI,29,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Earl Andrew,GBR,30,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Benk Christian,GER,31,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Jung Daniel,GER,32,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Lachat Raphaël,SUI,32,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Croxall Mark,GBR,34,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Soucek Radovah,CZE,35,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Sugden Tom,GBR,35,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Sabthier Benoit,FRA,37,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Konovalov Dmytro,UKR,38,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Giupponi Luca,ITA,39,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Schiestl Bernhard,AUT,40,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Neuhaus Thorsten,GER,41,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Van Raaij Bart,NED,42,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3
+Jongeneelen Jeroen,NED,43,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Men,2003-09-11,/api/v1/events/319/result/3

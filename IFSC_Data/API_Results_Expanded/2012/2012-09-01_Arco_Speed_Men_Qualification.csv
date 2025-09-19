@@ -1,0 +1,17 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Hroza Libor,CZE,1,6.460,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Abdrakhmanov Sergey,RUS,2,6.730,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Sinitcyn Sergei,RUS,3,6.900,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Mawem Bassa,FRA,4,6.920,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Gontero Leonardo,ITA,5,6.930,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Boldyrev Danyil,UKR,6,7.010,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Vaitsekhovskii Evgenii,RUS,7,7.030,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Komosinski Jedrzej,POL,8,7.070,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Swirk Lukasz,POL,9,7.180,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Kokorin Stanislav,RUS,10,7.220,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Yurko Oleksiy,UKR,11,7.440,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Shevchenko Arsenii,RUS,12,8.050,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Escobar Manuel,VEN,13,8.100,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+LE COUSTER Yoann,FRA,14,8.140,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Estevez  Isaac,ECU,15,8.440,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+Quinteros Andres,ECU,16,8.690,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2

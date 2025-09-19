@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,41+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,41+
+Rogora Laura,ITA,2,41+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,41+
+Garnbret Janja,SLO,3,39,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,39
+Verhoeven Anak,BEL,3,39,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,39
+Markovic Mina,SLO,5,37+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,37+
+Becerra Mathilde,FRA,6,36+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,36+
+Pilz Jessica,AUT,7,35+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,35+
+Schubert Hannah,AUT,8,34+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,34+
+Koller Anne-Sophie,SUI,9,34+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,34+
+Chanourdie Julia,FRA,10,31+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,31+
+Arc Nolwenn,FRA,11,30+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,30+
+Choong Katherine,SUI,11,30+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,30+
+Kazbekova Ievgeniia,UKR,11,30+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,30+
+Ring Alina,SUI,14,30+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,30+
+Lukan Vita,SLO,15,30+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,30+
+Janicot Hélène,FRA,16,30,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,30
+Repusic Urska,SLO,17,30,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,30
+Posch Katharina,AUT,18,30,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,30
+Romain Salomé,FRA,19,29,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,29
+Berthier Nolwen,FRA,20,29,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,29
+Ghisolfi Claudia,ITA,21,28+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,28+
+Fiser Julia,AUT,22,28+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,28+
+Cuypers Celine,BEL,23,21+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,21+
+Hulliger Michelle,SUI,24,20+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,20+
+Caulier Chloe,BEL,25,20+,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,20+
+Ota Risa,JPN,26,20,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",991,2017,Villars,Lead,Women,Semi-Final,2017-07-07,/api/v1/category_rounds/4300/results,/api/v1/events/991/result/5,20

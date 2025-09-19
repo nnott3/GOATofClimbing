@@ -1,0 +1,73 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+ANDRADA JIMENEZ Daniel,ESP,1,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Tuscan Frédéric,FRA,2,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Meyer Jérôme,FRA,3,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Jourjon Jean Baptiste,FRA,4,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Calibani Mauro,ITA,5,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Oleksy Tomasz,POL,6,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Rakhmetov Salavat,RUS,7,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Repcik Marek,SVK,8,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Fischhuber Kilian,AUT,9,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Okano Hiroshi,JPN,10,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Core Christian,ITA,11,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Carrion Obel,USA,12,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Müller Matthias,SUI,13,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Julien Stephane,FRA,14,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Golob Jurij,SLO,15,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Kazbekov Serik,UKR,16,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Gaidioz Loïc,FRA,17,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Gisler David,SUI,18,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Pons Aleman Juan,ESP,19,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Giupponi Luca,ITA,20,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Douloub Iouri,RUS,21,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Bychkov Dmitrii,RUS,22,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Lee Jae-Yong,KOR,23,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Dard Yohann,FRA,24,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Meral Julien,FRA,25,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Meikl Alexander,AUT,26,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Teijsse Dennis,NED,27,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Haager Benedikt,GER,28,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Kryvosheytsev Yevgen,UKR,29,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Poplavskiy Stanislav,RUS,30,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Scarian Riccardo,ITA,31,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Kovacs Miklos,HUN,32,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Son Sangwon,KOR,33,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Mrázek Tomás,CZE,34,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Dutray Mathieu,FRA,35,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Lo Piccolo Cédric,FRA,36,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Parry Gareth,GBR,37,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Valjavec Tomaz,SLO,38,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Maruki Futoshi,JPN,39,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Miyabo Yuji,JPN,39,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Stack John,USA,41,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Nourmamatov Serguei,RUS,42,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Grom Aljosa,SLO,43,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Berger Yannick,FRA,44,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Cehovin Urh,SLO,45,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Cseko Arpad,HUN,46,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Archambault Dan,CAN,47,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Barbero Alfonso Pablo ,ESP,48,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Lachat Raphaël,SUI,49,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Macias Matutano Bruno,ESP,50,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Vilstrup Thøger,DEN,51,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Wu Yen-Yi,TPE,52,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Konstantakopoulos Theodoros,GRE,53,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Littlefair Stuart,GBR,53,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Umnitsyn Mikhail,RUS,53,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Ceintre Arnaud,FRA,56,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Cho Kyu-Bog,KOR,56,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Lampugnani Diego,SUI,56,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Jou Chun-Ming,TPE,59,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Kim Hee-Jo,KOR,59,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Andersen Sören,DEN,61,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Kozmine Daniil,RUS,61,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Komakhidze Lucas,GEO,63,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Zitnik Primoz,SLO,64,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Giammarco Luca,ITA,65,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Gusak Igor,UKR,65,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Bloch Elliot,USA,67,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Bozsik Richárd,HUN,68,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Feradze Valeri,GEO,68,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Park Joung-Yong,KOR,68,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Rakosi Gergely,HUN,68,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3
+Solansky Pavel,CZE,68,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Boulder,Men,2001-07-11,/api/v1/events/241/result/3

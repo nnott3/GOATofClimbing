@@ -1,0 +1,45 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+Ondra Adam,CZE,1,1.22,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,TOP,TOP
+Schubert Jakob,AUT,2,2.29,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,TOP,33+
+Ginés López Alberto,ESP,3,3.97,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,40+,33+
+Megos Alexander,GER,3,3.97,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,40+,33+
+Khaibullin Rishat,KAZ,5,6.54,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,40+,31+
+Potocar Luka,SLO,6,9.5,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,36+,31+
+Schalck Mejdi,FRA,6,9.5,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,36+,31+
+Skofic Domen,SLO,6,9.5,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,36+,31+
+Monchois Nao,FRA,9,9.72,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,40+,29
+Avezou Sam,FRA,10,9.87,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,28,32
+Fourbet Diego,FRA,11,11.54,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,25+,32
+Parmentier Hugo,FRA,12,11.68,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18,33+
+Bombardi Marcello,ITA,13,12.33,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,36+,29+
+Stranik Martin,CZE,14,15.56,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,36+,28+
+Posch Mathias,AUT,15,16.32,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,25+,30
+Martin Philipp,GER,16,16.6,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,36+,27+
+Duval Alistair,FRA,17,18.11,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,25+,29+
+Hanke Christoph,GER,17,18.11,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,25+,29+
+Avezou Leo,FRA,19,18.55,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,30+,28+
+Konecny Jakub,CZE,20,19.29,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,23+,30+
+Schenk Filip,ITA,21,20.12,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,30+,27
+Timmermans Loïc,BEL,22,20.2,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,26,28+
+Jenft Paul,FRA,23,20.59,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,24+,29+
+Colombo Davide Marco,ITA,24,20.75,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,25+,29
+Flohé Yannick,GER,25,22.86,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,25+,28+
+Bonder Jeremy,FRA,26,23.59,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,24+,29
+Lemaire Adrien,FRA,26,23.59,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,24+,29
+Vettorata Francesco,ITA,28,24.98,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18,29+
+Hojer Jan,GER,29,26.4,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,25+,25+
+Potucek Simon,CZE,29,26.4,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,25+,25+
+Collin Nicolas,BEL,31,28.62,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18,29
+Zajc Ziga,SLO,32,30.48,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,24,26
+Vancraeynest Ties,BEL,33,32.81,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,24,24+
+Linacisoro Molina Mikel Asier,ESP,34,33.05,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18,28
+Kleesattel Max,GER,35,33.16,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,24+,20+
+Bergant Martin,SLO,36,35.05,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18,26
+Scherz Stefan,AUT,37,36.41,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18,25+
+Luypaert Arno,BEL,38,36.44,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,19+,20+
+Bazan Martín Héctor,ESP,39,37.01,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18+,20+
+Preskar Milan,SLO,40,37.73,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18,24+
+Parma Georg,AUT,41,38.5,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18,22+
+Fossali Ludovico,ITA,42,40.23,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18,20+
+Lempereur Sven,BEL,42,40.23,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18,20+
+Potucek Stepan,CZE,42,40.23,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Men,Qualification,2020-08-21,/api/v1/category_rounds/469/results,/api/v1/events/65/result/1,18,20+

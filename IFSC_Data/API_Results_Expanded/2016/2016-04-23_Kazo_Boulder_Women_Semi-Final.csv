@@ -1,0 +1,21 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Coxsey Shauna,GBR,1,2t2 3b3,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,1,1,X,1,1,1,X,X
+Gibert Fanny,FRA,2,2t3 4b7,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,3,X,1,2,2,1,1
+Le Neve Melissa,FRA,2,2t3 4b7,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,3,X,1,1,1,2,2
+Klingler Petra,SUI,4,2t4 4b7,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,3,3,X,1,1,1,X,2
+Caulier Chloe,BEL,5,1t1 3b5,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,X,X,2,1,1,X,2
+Nonaka Miho,JPN,6,1t2 4b4,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,1,X,1,2,1,X,1
+Tracy Michaela,GBR,7,1t2 4b11,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,4,X,1,2,2,X,4
+Retschy Monika,GER,8,1t2 3b4,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,X,X,1,2,1,X,2
+Onoe Aya,JPN,9,1t2 3b8,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,6,X,1,X,X,2,1
+Stöhr Anna,AUT,10,1t3 2b2,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,3,1,X,1,X,X,X,X
+Schwaiger Berit,AUT,11,1t4 1b1,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,X,X,X,4,1,X,X
+Kaiser Clementine,FRA,12,0t 4b8,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,2,X,1,X,1,X,4
+Yip Alannah,CAN,13,0t 3b4,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,2,X,1,X,1,X,X
+Crane Leah,GBR,14,0t 3b5,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,X,X,1,X,3,X,1
+Saurwein Katharina,AUT,15,0t 3b9,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,6,X,2,X,1,X,X
+kajima Tomoko,JPN,16,0t 3b12,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,X,X,3,X,3,X,6
+Kotake Mei,JPN,17,0t 2b3,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,X,X,2,X,1,X,X
+Sa Sol,KOR,18,0t 1b1,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,X,X,1,X,X,X,X
+Sinnhuber Karoline,AUT,18,0t 1b1,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,X,X,1,X,X,X,X
+Noguchi Akiyo,JPN,20,0t 1b3,IFSC Climbing Worldcup (B) - Kazo (JPN) 2016,938,2016,Kazo,Boulder,Women,Semi-Final,2016-04-23,/api/v1/category_rounds/3809/results,/api/v1/events/938/result/7,X,X,X,3,X,X,X,X

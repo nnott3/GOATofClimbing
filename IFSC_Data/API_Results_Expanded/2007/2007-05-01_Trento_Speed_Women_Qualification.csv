@@ -1,0 +1,13 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Tuzhylina Svitlana,UKR,1,26.050,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+Ryepko Olena,UKR,2,26.380,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+Rodriguez Francis,VEN,3,26.400,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+Ropek Edyta,POL,4,26.680,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+Stenkovaya Anna,RUS,5,26.800,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+Yurina Valentina,RUS,6,27.250,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+Ruyga Tatiana,RUS,7,27.370,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+Da Silva Rosmery,VEN,8,27.510,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+Piratinskaya Mayya,RUS,9,27.530,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+Blanco Lucelia,VEN,10,27.990,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+Zampar Cassandra,ITA,11,29.530,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6
+Karesova Eliska,CZE,12,31.160,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,472,2007,Trento,Speed,Women,Qualification,2007-05-01,/api/v1/category_rounds/613/results,/api/v1/events/472/result/6

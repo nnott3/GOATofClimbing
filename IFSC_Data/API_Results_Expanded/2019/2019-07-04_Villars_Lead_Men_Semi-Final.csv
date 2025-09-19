@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Narasaki Tomoa,JPN,1,37+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,37+
+Skofic Domen,SLO,2,36+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,36+
+Lehmann Sascha,SUI,3,36+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,36+
+Hada Yuki,JPN,4,36+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,36+
+Fujii Kokoro,JPN,5,33+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,33+
+Pan YuFei,CHN,6,32,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,32
+Megos Alexander,GER,7,31+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,31+
+Narasaki Meichi,JPN,8,31+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,31+
+Stranik Martin,CZE,9,31+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,31+
+KIM Hanwool,KOR,10,30,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,30
+Ghisolfi Stefano,ITA,11,29+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,29+
+Potocar Luka,SLO,12,29+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,29+
+Sugimoto Rei,JPN,13,29,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,29
+Schubert Jakob,AUT,14,27+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,27+
+Bergant Martin,SLO,15,26+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,26+
+Bombardi Marcello,ITA,16,26+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,26+
+Collin Nicolas,BEL,17,26+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,26+
+Flohé Yannick,GER,18,26,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,26
+Harada Kai,JPN,19,26,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,26
+Bosi William,GBR,20,26,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,26
+McColl Sean,CAN,21,24+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,24+
+Grupper Jesse,USA,22,24+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,24+
+Preskar Milan,SLO,23,24+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,24+
+Lee Dohyun,KOR,24,18+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,18+
+Joannes Thomas,FRA,25,17,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,17
+Ginés López Alberto,ESP,26,9+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1,9+

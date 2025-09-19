@@ -1,0 +1,44 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+Garnbret Janja,SLO,1,1.94,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,TOP,43+
+Rogora Laura,ITA,1,1.94,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,TOP,43+
+Chanourdie Julia,FRA,3,3.16,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,TOP,41+
+Lukan Vita,SLO,4,4.18,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,TOP,40
+Arc Nolwenn,FRA,5,5.74,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,44+,43
+Adamovska Eliska,CZE,6,6.2,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,45+,40+
+Kalan Tjasa,SLO,7,7.48,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,45+,35+
+Schranz Christine,AUT,8,8.62,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,43+,40+
+Pilz Jessica,AUT,9,9.54,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,45+,34+
+Tarkus Lucija,SLO,9,9.54,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,45+,34+
+Slemensek Tjasa,SLO,11,11.96,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,44+,34+
+Romain Salomé,FRA,12,11.98,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,45+,33+
+Ghisolfi Claudia,ITA,13,14.42,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,40+,34+
+Skusek Lana,SLO,14,14.87,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,38+,34+
+Gibert Fanny,FRA,15,15.72,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,34+,34+
+Pouget Camille,FRA,15,15.72,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,34+,34+
+Tesio Giorgia,ITA,15,15.72,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,34+,34+
+Doumont Heloïse,BEL,18,16.25,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,44+,33
+Watillon Lucie,BEL,19,17.48,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,33+,34+
+Arthaud Nina,FRA,20,17.54,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,41+,33+
+Janosova Marketa,CZE,21,18.55,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,43+,30
+Meul Hannah,GER,22,20.99,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,34,33+
+PLASSOUX DJIGA INA,FRA,22,20.99,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,34,33+
+Scolaris Ilaria,ITA,24,21.95,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,33+,33+
+Fiser Julia,AUT,25,23.74,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,32+,33+
+Demmel Martina,GER,26,26.48,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,32+,30
+Wienand Roxana,GER,27,27.75,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,32+,29+
+Dörffel Lucia,GER,28,28.96,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,32+,28+
+Calliet Agathe,FRA,29,31.96,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,30+,28+
+Smetanova Michaela,CZE,30,32.19,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,27+,29+
+Flohé Luisa,GER,31,32.33,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,32+,25+
+Bobenrieth Colette,FRA,32,33.2,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,31,26
+Cassol Silvia,ITA,33,33.25,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,30+,26+
+Argudo Marugan Ana Belén,ESP,34,33.99,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,32+,25
+Gejo Stasa,SRB,34,33.99,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,29+,26+
+Hammelmüller Eva Maria,AUT,36,34.09,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,22+,29+
+Pötzi Mattea,AUT,37,34.6,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,31,25+
+Lerondel Saula,FRA,38,35.41,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,26,26+
+Kralikova Nikola,CZE,39,36.99,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,28+,25+
+Benach Zubero Maria,ESP,40,38.99,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,23,25+
+Torres Illamola Aida,ESP,41,40.42,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,19+,25+
+Širůčková Tereza,CZE,42,40.47,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,24+,25
+Magalhaes de Castro  Bianca,BRA,43,41.75,IFSC - Climbing World Cup (L) - Briançon (FRA) 2020,65,2020,Briançon,Lead,Women,Qualification,2020-08-21,/api/v1/category_rounds/470/results,/api/v1/events/65/result/5,22+,25

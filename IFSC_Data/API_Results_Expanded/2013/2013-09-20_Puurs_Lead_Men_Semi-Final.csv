@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Schubert Jakob,AUT,1,Top,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,Top
+Amma Sachi,JPN,1,Top,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,Top
+Desgranges Romain,FRA,1,Top,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,Top
+Midtboe Magnus,NOR,1,Top,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,Top
+Julian  Puigblanque Ramón ,ESP,1,Top,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,Top
+McColl Sean,CAN,6,50+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,50+
+Min Hyunbin,KOR,7,50+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,50+
+Romain Manuel,FRA,8,50,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,50
+Skofic Domen,SLO,8,50,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,50
+Ballet Thomas,FRA,10,49+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,49+
+Supper Gautier,FRA,11,48+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,48+
+Matsushima Akito,JPN,12,43,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,43
+Becan Klemen,SLO,13,42+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,42+
+Vettorata Francesco,ITA,14,35+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,35+
+Raztresen Jure,SLO,15,32+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,32+
+Ghisolfi Stefano,ITA,16,32,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,32
+Ravanal Tomas,CHI,17,32,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,32
+Hanke Christoph,GER,18,26+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,26+
+Köb Lukas,AUT,19,26+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,26+
+Krakenberger Franz,SUI,20,23+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,23+
+Bombardi Marcello,ITA,21,23,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,23
+Timmermans Loïc,BEL,22,17+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,17+
+Lechner Mario,AUT,23,12,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,12
+Chernikov Mikhail,RUS,24,12,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,12
+Zazulin Evgenii,RUS,25,9+,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,9+
+Cho Seungwoon,KOR,26,9,IFSC Climbing Worldcup (L) - Puurs (BEL) 2013,801,2013,Puurs,Lead,Men,Semi-Final,2013-09-20,/api/v1/category_rounds/2594/results,/api/v1/events/801/result/1,9

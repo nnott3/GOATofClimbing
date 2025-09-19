@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Raboutou Brooke,USA,1,3T4z 6 6,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Women,Final,2023-04-21,/api/v1/category_rounds/8123/results,/api/v1/events/1291/result/7,2,2,X,1,2,1,2,2
+Meul Hannah,GER,2,1T3z 1 8,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Women,Final,2023-04-21,/api/v1/category_rounds/8123/results,/api/v1/events/1291/result/7,1,1,X,2,X,5,X,X
+Matsufuji Anon,JPN,3,0T3z 0 7,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Women,Final,2023-04-21,/api/v1/category_rounds/8123/results,/api/v1/events/1291/result/7,X,1,X,4,X,2,X,X
+Kerem Ayala,ISR,4,0T3z 0 9,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Women,Final,2023-04-21,/api/v1/category_rounds/8123/results,/api/v1/events/1291/result/7,X,1,X,5,X,3,X,X
+LUO ZHILU,CHN,5,0T3z 0 11,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Women,Final,2023-04-21,/api/v1/category_rounds/8123/results,/api/v1/events/1291/result/7,X,1,X,1,X,9,X,X
+Krampl Mia,SLO,6,0T1z 0 9,IFSC World Cup Hachioji 2023,1291,2023,Hachioji,Boulder,Women,Final,2023-04-21,/api/v1/category_rounds/8123/results,/api/v1/events/1291/result/7,X,X,X,X,X,9,X,X

@@ -1,0 +1,139 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2018 ,1047,2018,Meiringen,Boulder,Men,Qualification,2018-04-13,/api/v1/category_rounds/4919/results,/api/v1/events/1047/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2018 ,1047,2018,Meiringen,Boulder,Men,Semi-Final,2018-04-13,/api/v1/category_rounds/4920/results,/api/v1/events/1047/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2018 ,1047,2018,Meiringen,Boulder,Men,Final,2018-04-13,/api/v1/category_rounds/4921/results,/api/v1/events/1047/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2018 ,1047,2018,Meiringen,Boulder,Women,Qualification,2018-04-13,/api/v1/category_rounds/4916/results,/api/v1/events/1047/result/7
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2018 ,1047,2018,Meiringen,Boulder,Women,Semi-Final,2018-04-13,/api/v1/category_rounds/4917/results,/api/v1/events/1047/result/7
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2018 ,1047,2018,Meiringen,Boulder,Women,Final,2018-04-13,/api/v1/category_rounds/4918/results,/api/v1/events/1047/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Men,Qualification,2018-04-21,/api/v1/category_rounds/4927/results,/api/v1/events/1048/result/3
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Men,Semi-Final,2018-04-21,/api/v1/category_rounds/4928/results,/api/v1/events/1048/result/3
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Men,Final,2018-04-21,/api/v1/category_rounds/4929/results,/api/v1/events/1048/result/3
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Women,Qualification,2018-04-21,/api/v1/category_rounds/4922/results,/api/v1/events/1048/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Women,Semi-Final,2018-04-21,/api/v1/category_rounds/4923/results,/api/v1/events/1048/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Women,Final,2018-04-21,/api/v1/category_rounds/4924/results,/api/v1/events/1048/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Speed,Men,Qualification,2018-04-21,/api/v1/category_rounds/4930/results,/api/v1/events/1048/result/2
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Speed,Men,Final,2018-04-21,/api/v1/category_rounds/4931/results,/api/v1/events/1048/result/2
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Speed,Women,Qualification,2018-04-21,/api/v1/category_rounds/4925/results,/api/v1/events/1048/result/6
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Speed,Women,Final,2018-04-21,/api/v1/category_rounds/4926/results,/api/v1/events/1048/result/6
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",1049,2018,Chongqing,Boulder,Men,Qualification,2018-05-05,/api/v1/category_rounds/4937/results,/api/v1/events/1049/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",1049,2018,Chongqing,Boulder,Men,Semi-Final,2018-05-05,/api/v1/category_rounds/4938/results,/api/v1/events/1049/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",1049,2018,Chongqing,Boulder,Men,Final,2018-05-05,/api/v1/category_rounds/4939/results,/api/v1/events/1049/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",1049,2018,Chongqing,Boulder,Women,Qualification,2018-05-05,/api/v1/category_rounds/4932/results,/api/v1/events/1049/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",1049,2018,Chongqing,Boulder,Women,Semi-Final,2018-05-05,/api/v1/category_rounds/4933/results,/api/v1/events/1049/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",1049,2018,Chongqing,Boulder,Women,Final,2018-05-05,/api/v1/category_rounds/4934/results,/api/v1/events/1049/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",1049,2018,Chongqing,Speed,Men,Qualification,2018-05-05,/api/v1/category_rounds/4940/results,/api/v1/events/1049/result/2
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",1049,2018,Chongqing,Speed,Men,Final,2018-05-05,/api/v1/category_rounds/4941/results,/api/v1/events/1049/result/2
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",1049,2018,Chongqing,Speed,Women,Qualification,2018-05-05,/api/v1/category_rounds/4935/results,/api/v1/events/1049/result/6
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",1049,2018,Chongqing,Speed,Women,Final,2018-05-05,/api/v1/category_rounds/4936/results,/api/v1/events/1049/result/6
+"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Men,Qualification,2018-05-12,/api/v1/category_rounds/4947/results,/api/v1/events/1050/result/3
+"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Men,Semi-Final,2018-05-12,/api/v1/category_rounds/4948/results,/api/v1/events/1050/result/3
+"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Men,Final,2018-05-12,/api/v1/category_rounds/4949/results,/api/v1/events/1050/result/3
+"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Women,Qualification,2018-05-12,/api/v1/category_rounds/4942/results,/api/v1/events/1050/result/7
+"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Women,Semi-Final,2018-05-12,/api/v1/category_rounds/4943/results,/api/v1/events/1050/result/7
+"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Boulder,Women,Final,2018-05-12,/api/v1/category_rounds/4944/results,/api/v1/events/1050/result/7
+"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Speed,Men,Qualification,2018-05-12,/api/v1/category_rounds/4950/results,/api/v1/events/1050/result/2
+"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Speed,Men,Final,2018-05-12,/api/v1/category_rounds/4951/results,/api/v1/events/1050/result/2
+"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Speed,Women,Qualification,2018-05-12,/api/v1/category_rounds/4945/results,/api/v1/events/1050/result/6
+"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",1050,2018,Taian,Speed,Women,Final,2018-05-12,/api/v1/category_rounds/4946/results,/api/v1/events/1050/result/6
+IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Men,Qualification,2018-06-02,/api/v1/category_rounds/4955/results,/api/v1/events/1051/result/3
+IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Men,Semi-Final,2018-06-02,/api/v1/category_rounds/4956/results,/api/v1/events/1051/result/3
+IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Men,Final,2018-06-02,/api/v1/category_rounds/4957/results,/api/v1/events/1051/result/3
+IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Women,Qualification,2018-06-02,/api/v1/category_rounds/4952/results,/api/v1/events/1051/result/7
+IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Women,Semi-Final,2018-06-02,/api/v1/category_rounds/4953/results,/api/v1/events/1051/result/7
+IFSC Climbing Worldcup (B) - Hachioji (JPN) 2018 ,1051,2018,Tokyo,Boulder,Women,Final,2018-06-02,/api/v1/category_rounds/4954/results,/api/v1/events/1051/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2018 ,1052,2018,Vail,Boulder,Men,Qualification,2018-06-08,/api/v1/category_rounds/4961/results,/api/v1/events/1052/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2018 ,1052,2018,Vail,Boulder,Men,Semi-Final,2018-06-08,/api/v1/category_rounds/4962/results,/api/v1/events/1052/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2018 ,1052,2018,Vail,Boulder,Men,Final,2018-06-08,/api/v1/category_rounds/4963/results,/api/v1/events/1052/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2018 ,1052,2018,Vail,Boulder,Women,Qualification,2018-06-08,/api/v1/category_rounds/4958/results,/api/v1/events/1052/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2018 ,1052,2018,Vail,Boulder,Women,Semi-Final,2018-06-08,/api/v1/category_rounds/4959/results,/api/v1/events/1052/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2018 ,1052,2018,Vail,Boulder,Women,Final,2018-06-08,/api/v1/category_rounds/4960/results,/api/v1/events/1052/result/7
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Lead,Men,Qualification,2018-07-06,/api/v1/category_rounds/4969/results,/api/v1/events/1053/result/1
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Lead,Men,Semi-Final,2018-07-06,/api/v1/category_rounds/4970/results,/api/v1/events/1053/result/1
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Lead,Men,Final,2018-07-06,/api/v1/category_rounds/4971/results,/api/v1/events/1053/result/1
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Lead,Women,Qualification,2018-07-06,/api/v1/category_rounds/4964/results,/api/v1/events/1053/result/5
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Lead,Women,Semi-Final,2018-07-06,/api/v1/category_rounds/4965/results,/api/v1/events/1053/result/5
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Lead,Women,Final,2018-07-06,/api/v1/category_rounds/4966/results,/api/v1/events/1053/result/5
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Men,Qualification,2018-07-06,/api/v1/category_rounds/4972/results,/api/v1/events/1053/result/2
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Men,Final,2018-07-06,/api/v1/category_rounds/4973/results,/api/v1/events/1053/result/2
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Qualification,2018-07-06,/api/v1/category_rounds/4967/results,/api/v1/events/1053/result/6
+"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",1053,2018,Villars,Speed,Women,Final,2018-07-06,/api/v1/category_rounds/4968/results,/api/v1/events/1053/result/6
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Men,Qualification,2018-07-11,/api/v1/category_rounds/4979/results,/api/v1/events/1054/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Men,Semi-Final,2018-07-11,/api/v1/category_rounds/4980/results,/api/v1/events/1054/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Men,Final,2018-07-11,/api/v1/category_rounds/4981/results,/api/v1/events/1054/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Women,Qualification,2018-07-11,/api/v1/category_rounds/4974/results,/api/v1/events/1054/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Women,Semi-Final,2018-07-11,/api/v1/category_rounds/4975/results,/api/v1/events/1054/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Lead,Women,Final,2018-07-11,/api/v1/category_rounds/4976/results,/api/v1/events/1054/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Speed,Men,Qualification,2018-07-11,/api/v1/category_rounds/4982/results,/api/v1/events/1054/result/2
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Speed,Men,Final,2018-07-11,/api/v1/category_rounds/4983/results,/api/v1/events/1054/result/2
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Speed,Women,Qualification,2018-07-11,/api/v1/category_rounds/4977/results,/api/v1/events/1054/result/6
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",1054,2018,Chamonix,Speed,Women,Final,2018-07-11,/api/v1/category_rounds/4978/results,/api/v1/events/1054/result/6
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Qualification,2018-07-20,/api/v1/category_rounds/4987/results,/api/v1/events/1055/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Semi-Final,2018-07-20,/api/v1/category_rounds/4988/results,/api/v1/events/1055/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Men,Final,2018-07-20,/api/v1/category_rounds/4989/results,/api/v1/events/1055/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Women,Qualification,2018-07-20,/api/v1/category_rounds/4984/results,/api/v1/events/1055/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Women,Semi-Final,2018-07-20,/api/v1/category_rounds/4985/results,/api/v1/events/1055/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2018 ,1055,2018,Briançon,Lead,Women,Final,2018-07-20,/api/v1/category_rounds/4986/results,/api/v1/events/1055/result/5
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Qualification,2018-07-27,/api/v1/category_rounds/4995/results,/api/v1/events/1056/result/1
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Semi-Final,2018-07-27,/api/v1/category_rounds/4996/results,/api/v1/events/1056/result/1
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Women,Qualification,2018-07-27,/api/v1/category_rounds/4990/results,/api/v1/events/1056/result/5
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Women,Semi-Final,2018-07-27,/api/v1/category_rounds/4991/results,/api/v1/events/1056/result/5
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Women,Final,2018-07-27,/api/v1/category_rounds/4992/results,/api/v1/events/1056/result/5
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Men,Qualification,2018-07-27,/api/v1/category_rounds/4998/results,/api/v1/events/1056/result/2
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Men,Final,2018-07-27,/api/v1/category_rounds/4999/results,/api/v1/events/1056/result/2
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Qualification,2018-07-27,/api/v1/category_rounds/4993/results,/api/v1/events/1056/result/6
+"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Speed,Women,Final,2018-07-27,/api/v1/category_rounds/4994/results,/api/v1/events/1056/result/6
+IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Men,Qualification,2018-08-17,/api/v1/category_rounds/5003/results,/api/v1/events/1057/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Men,Semi-Final,2018-08-17,/api/v1/category_rounds/5004/results,/api/v1/events/1057/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Men,Final,2018-08-17,/api/v1/category_rounds/5005/results,/api/v1/events/1057/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Women,Qualification,2018-08-17,/api/v1/category_rounds/5000/results,/api/v1/events/1057/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Women,Semi-Final,2018-08-17,/api/v1/category_rounds/5001/results,/api/v1/events/1057/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2018 ,1057,2018,Munich,Boulder,Women,Final,2018-08-17,/api/v1/category_rounds/5002/results,/api/v1/events/1057/result/7
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Qualification,2018-09-06,/api/v1/category_rounds/5040/results,/api/v1/events/1061/result/1
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Semi-Final,2018-09-06,/api/v1/category_rounds/5041/results,/api/v1/events/1061/result/1
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Men,Final,2018-09-06,/api/v1/category_rounds/5042/results,/api/v1/events/1061/result/1
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Qualification,2018-09-06,/api/v1/category_rounds/5030/results,/api/v1/events/1061/result/5
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5031/results,/api/v1/events/1061/result/5
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Lead,Women,Final,2018-09-06,/api/v1/category_rounds/5032/results,/api/v1/events/1061/result/5
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Men,Qualification,2018-09-06,/api/v1/category_rounds/5043/results,/api/v1/events/1061/result/3
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Men,Semi-Final,2018-09-06,/api/v1/category_rounds/5044/results,/api/v1/events/1061/result/3
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Men,Final,2018-09-06,/api/v1/category_rounds/5045/results,/api/v1/events/1061/result/3
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Women,Qualification,2018-09-06,/api/v1/category_rounds/5033/results,/api/v1/events/1061/result/7
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Women,Semi-Final,2018-09-06,/api/v1/category_rounds/5034/results,/api/v1/events/1061/result/7
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Boulder,Women,Final,2018-09-06,/api/v1/category_rounds/5035/results,/api/v1/events/1061/result/7
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Speed,Men,Qualification,2018-09-06,/api/v1/category_rounds/5046/results,/api/v1/events/1061/result/2
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Speed,Men,Final,2018-09-06,/api/v1/category_rounds/5047/results,/api/v1/events/1061/result/2
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Speed,Women,Qualification,2018-09-06,/api/v1/category_rounds/5036/results,/api/v1/events/1061/result/6
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Speed,Women,Final,2018-09-06,/api/v1/category_rounds/5037/results,/api/v1/events/1061/result/6
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Combined,Men,Qualification,2018-09-06,/api/v1/category_rounds/5048/results,/api/v1/events/1061/result/4
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Combined,Men,Final,2018-09-06,/api/v1/category_rounds/5049/results,/api/v1/events/1061/result/4
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Combined,Women,Qualification,2018-09-06,/api/v1/category_rounds/5038/results,/api/v1/events/1061/result/8
+IFSC Climbing World Championships - Innsbruck (AUT) 2018,1061,2018,Innsbruck,Combined,Women,Final,2018-09-06,/api/v1/category_rounds/5039/results,/api/v1/events/1061/result/8
+IFSC Climbing World Championships Combined - Innsbruck (AUT) 2018,1062,2018,Combined,Combined,Men,Qualification,2018-09-15,/api/v1/category_rounds/5052/results,/api/v1/events/1062/result/4
+IFSC Climbing World Championships Combined - Innsbruck (AUT) 2018,1062,2018,Combined,Combined,Men,Final,2018-09-15,/api/v1/category_rounds/5053/results,/api/v1/events/1062/result/4
+IFSC Climbing World Championships Combined - Innsbruck (AUT) 2018,1062,2018,Combined,Combined,Women,Qualification,2018-09-15,/api/v1/category_rounds/5050/results,/api/v1/events/1062/result/8
+IFSC Climbing World Championships Combined - Innsbruck (AUT) 2018,1062,2018,Combined,Combined,Women,Final,2018-09-15,/api/v1/category_rounds/5051/results,/api/v1/events/1062/result/8
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Men,Qualification,2018-09-29,/api/v1/category_rounds/5009/results,/api/v1/events/1058/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Men,Semi-Final,2018-09-29,/api/v1/category_rounds/5010/results,/api/v1/events/1058/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Men,Final,2018-09-29,/api/v1/category_rounds/5011/results,/api/v1/events/1058/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Qualification,2018-09-29,/api/v1/category_rounds/5006/results,/api/v1/events/1058/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Semi-Final,2018-09-29,/api/v1/category_rounds/5007/results,/api/v1/events/1058/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2018 ,1058,2018,Kranj,Lead,Women,Final,2018-09-29,/api/v1/category_rounds/5008/results,/api/v1/events/1058/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Qualification,2018-10-20,/api/v1/category_rounds/5016/results,/api/v1/events/1059/result/1
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Men,Semi-Final,2018-10-20,/api/v1/category_rounds/5017/results,/api/v1/events/1059/result/1
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Qualification,2018-10-20,/api/v1/category_rounds/5012/results,/api/v1/events/1059/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Lead,Women,Semi-Final,2018-10-20,/api/v1/category_rounds/5013/results,/api/v1/events/1059/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Qualification,2018-10-20,/api/v1/category_rounds/5018/results,/api/v1/events/1059/result/2
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Men,Final,2018-10-20,/api/v1/category_rounds/5019/results,/api/v1/events/1059/result/2
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Women,Qualification,2018-10-20,/api/v1/category_rounds/5014/results,/api/v1/events/1059/result/6
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",1059,2018,Wujiang,Speed,Women,Final,2018-10-20,/api/v1/category_rounds/5015/results,/api/v1/events/1059/result/6
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Qualification,2018-10-27,/api/v1/category_rounds/5025/results,/api/v1/events/1060/result/1
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Semi-Final,2018-10-27,/api/v1/category_rounds/5026/results,/api/v1/events/1060/result/1
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Women,Qualification,2018-10-27,/api/v1/category_rounds/5020/results,/api/v1/events/1060/result/5
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Women,Semi-Final,2018-10-27,/api/v1/category_rounds/5021/results,/api/v1/events/1060/result/5
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Women,Final,2018-10-27,/api/v1/category_rounds/5022/results,/api/v1/events/1060/result/5
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Men,Qualification,2018-10-27,/api/v1/category_rounds/5028/results,/api/v1/events/1060/result/2
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Men,Final,2018-10-27,/api/v1/category_rounds/5029/results,/api/v1/events/1060/result/2
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Qualification,2018-10-27,/api/v1/category_rounds/5023/results,/api/v1/events/1060/result/6
+"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Speed,Women,Final,2018-10-27,/api/v1/category_rounds/5024/results,/api/v1/events/1060/result/6

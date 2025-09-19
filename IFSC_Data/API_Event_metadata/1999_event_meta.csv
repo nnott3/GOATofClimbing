@@ -1,0 +1,31 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup - Wiener Neustadt (AUT) 1999,197,1999,Wiener Neustadt,Lead,Men,1999-04-15,/api/v1/events/197/result/1
+UIAA Worldcup - Wiener Neustadt (AUT) 1999,197,1999,Wiener Neustadt,Lead,Women,1999-04-15,/api/v1/events/197/result/5
+UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Lead,Men,1999-05-27,/api/v1/events/1170/result/1
+UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Lead,Women,1999-05-27,/api/v1/events/1170/result/5
+UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Men,1999-05-27,/api/v1/events/1170/result/2
+UIAA Worldcup - Leipzig (GER) 1999,1170,1999,Leipzig,Speed,Women,1999-05-27,/api/v1/events/1170/result/6
+UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Men,1999-06-09,/api/v1/events/198/result/1
+UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
+UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Women,1999-06-09,/api/v1/events/198/result/6
+UIAA Worldcup - Benasque (ESP) 1999,199,1999,Benasque,Boulder,Men,1999-07-02,/api/v1/events/199/result/3
+UIAA Worldcup - Benasque (ESP) 1999,199,1999,Benasque,Boulder,Women,1999-07-02,/api/v1/events/199/result/7
+UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
+UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
+UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Men,1999-07-16,/api/v1/events/201/result/3
+UIAA Worldcup - Chamonix (FRA) 1999,201,1999,Chamonix,Boulder,Women,1999-07-16,/api/v1/events/201/result/7
+UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
+UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Women,1999-07-23,/api/v1/events/202/result/6
+UIAA Worldcup - Bardonecchia (ITA) 1999,203,1999,Bardonecchia,Boulder,Men,1999-07-30,/api/v1/events/203/result/3
+UIAA Worldcup - Bardonecchia (ITA) 1999,203,1999,Bardonecchia,Boulder,Women,1999-07-30,/api/v1/events/203/result/7
+UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
+UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
+UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Men,1999-08-27,/api/v1/events/205/result/3
+UIAA Worldcup - Grenoble (FRA) 1999,205,1999,Grenoble,Boulder,Women,1999-08-27,/api/v1/events/205/result/7
+UIAA Worldcup - Kranj (SLO) 1999,206,1999,Kranj,Lead,Men,1999-11-11,/api/v1/events/206/result/1
+UIAA Worldcup - Kranj (SLO) 1999,206,1999,Kranj,Lead,Women,1999-11-11,/api/v1/events/206/result/5
+UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Lead,Men,1999-12-02,/api/v1/events/207/result/1
+UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Lead,Women,1999-12-02,/api/v1/events/207/result/5
+UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
+UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Women,1999-12-02,/api/v1/events/207/result/6

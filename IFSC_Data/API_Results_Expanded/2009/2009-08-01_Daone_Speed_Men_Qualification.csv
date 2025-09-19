@@ -1,0 +1,16 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Swirk Lukasz,POL,1,14.790,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Komosinski Jedrzej,POL,2,14.950,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Sinitcyn Sergei,RUS,3,15.600,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Hroza Libor,CZE,4,15.620,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Kokorin Stanislav,RUS,5,15.900,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Oleksy Tomasz,POL,6,16.700,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Osipov Maksym,UKR,7,17.050,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Abdrakhmanov Sergey,RUS,8,17.250,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Sirotti Michel,ITA,9,20.930,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Peshekhonov Alexander,RUS,10,22.790,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Boulbahaiem Salah,BEL,11,24.550,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Preti Lucas,ITA,12,28.810,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Ghisolfi Stefano,ITA,13,35.480,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Gontero Leonardo,ITA,14,36.210,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2
+Juhasz Gyula,HUN,15,43.020,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Qualification,2009-08-01,/api/v1/category_rounds/1189/results,/api/v1/events/570/result/2

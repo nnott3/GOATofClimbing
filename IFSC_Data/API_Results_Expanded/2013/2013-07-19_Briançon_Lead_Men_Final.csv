@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,47+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Men,Final,2013-07-19,/api/v1/category_rounds/2573/results,/api/v1/events/797/result/1,47+
+Amma Sachi,JPN,2,46+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Men,Final,2013-07-19,/api/v1/category_rounds/2573/results,/api/v1/events/797/result/1,46+
+Lachat Cédric,SUI,3,39+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Men,Final,2013-07-19,/api/v1/category_rounds/2573/results,/api/v1/events/797/result/1,39+
+Skofic Domen,SLO,4,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Men,Final,2013-07-19,/api/v1/category_rounds/2573/results,/api/v1/events/797/result/1,35+
+Romain Manuel,FRA,5,35,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Men,Final,2013-07-19,/api/v1/category_rounds/2573/results,/api/v1/events/797/result/1,35
+Ghisolfi Stefano,ITA,6,33+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Men,Final,2013-07-19,/api/v1/category_rounds/2573/results,/api/v1/events/797/result/1,33+
+Supper Gautier,FRA,7,32+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Men,Final,2013-07-19,/api/v1/category_rounds/2573/results,/api/v1/events/797/result/1,32+
+Tauporn Thomas,GER,8,32+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Men,Final,2013-07-19,/api/v1/category_rounds/2573/results,/api/v1/events/797/result/1,32+

@@ -1,0 +1,15 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA World Championchip - Paris 1997,164,1997,Paris,Lead,Men,1997-01-31,/api/v1/events/164/result/1
+UIAA World Championchip - Paris 1997,164,1997,Paris,Lead,Women,1997-01-31,/api/v1/events/164/result/5
+UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
+UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Women,1997-01-31,/api/v1/events/164/result/6
+UIAA Worldcup - Courmayeur 1997,165,1997,Courmayeur,Lead,Men,1997-09-04,/api/v1/events/165/result/1
+UIAA Worldcup - Courmayeur 1997,165,1997,Courmayeur,Lead,Women,1997-09-04,/api/v1/events/165/result/5
+UIAA Worldcup - Prag 1997,166,1997,Prag,Lead,Men,1997-10-23,/api/v1/events/166/result/1
+UIAA Worldcup - Prag 1997,166,1997,Prag,Lead,Women,1997-10-23,/api/v1/events/166/result/5
+UIAA Worldcup - Kranj 1997,167,1997,Kranj,Lead,Men,1997-11-08,/api/v1/events/167/result/1
+UIAA Worldcup - Kranj 1997,167,1997,Kranj,Lead,Women,1997-11-08,/api/v1/events/167/result/5
+UIAA Worldcup - Imst 1997,168,1997,Imst,Lead,Men,1997-11-21,/api/v1/events/168/result/1
+UIAA Worldcup - Imst 1997,168,1997,Imst,Lead,Women,1997-11-21,/api/v1/events/168/result/5
+UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
+UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Women,1997-11-28,/api/v1/events/169/result/5

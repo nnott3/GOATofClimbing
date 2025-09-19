@@ -1,0 +1,30 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Eiter Angela,AUT,1,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Gros Natalija,SLO,2,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Vidmar Maja,SLO,3,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Levet Sandrine,FRA,4,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Kobayashi Yuka,JPN,5,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Ciavaldini Caroline,FRA,6,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Chereshneva Yana,RUS,7,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Durif Charlotte,FRA,8,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Bacher Barbara,AUT,9,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Pinet Florence,FRA,10,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Cufar Martina,SLO,11,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Anda Villanueva Irati,ESP,12,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Caprez Nina,SUI,13,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Noguchi Akiyo,JPN,14,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Zijlstra Vera,NED,15,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Cardoso Janine,BRA,16,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Lavarda Jenny,ITA,17,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Rajfova Silvie,CZE,18,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Sandoz Mélanie,FRA,19,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Markovic Mina,SLO,20,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Franko Lucka,SLO,21,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Ostapenko Olena,UKR,22,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Raffetseder Gerda,AUT,23,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Madate Tomoko,JPN,24,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Kim Hyun-Jung,KOR,25,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Karadağ Evren,TUR,26,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Ruchka Natalia,UKR,27,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Ozver Gurgel,TUR,28,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5
+Yarsur Duygu,TUR,29,,UIAA Climbing Worldcup (L) - Marbella (ESP) 2006,438,2006,Marbella,Lead,Women,2006-09-16,/api/v1/events/438/result/5

@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Vidmar Maja,SLO,1,42-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Final,2007-11-17,/api/v1/category_rounds/714/results,/api/v1/events/486/result/5,42-
+Anda Villanueva Irati,ESP,2,36-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Final,2007-11-17,/api/v1/category_rounds/714/results,/api/v1/events/486/result/5,36-
+Franko Lucka,SLO,3,36-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Final,2007-11-17,/api/v1/category_rounds/714/results,/api/v1/events/486/result/5,36-
+Ciavaldini Caroline,FRA,4,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Final,2007-11-17,/api/v1/category_rounds/714/results,/api/v1/events/486/result/5,26+
+Durif Charlotte,FRA,5,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Final,2007-11-17,/api/v1/category_rounds/714/results,/api/v1/events/486/result/5,26+
+Markovic Mina,SLO,6,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Final,2007-11-17,/api/v1/category_rounds/714/results,/api/v1/events/486/result/5,26+
+Eyer Alexandra,SUI,7,18-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Final,2007-11-17,/api/v1/category_rounds/714/results,/api/v1/events/486/result/5,18-
+Sarkany Muriel,BEL,8,16.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Women,Final,2007-11-17,/api/v1/category_rounds/714/results,/api/v1/events/486/result/5,16.5+

@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Narasaki Tomoa,JPN,1,4T4z 12 12,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Men,Final,2018-04-21,/api/v1/category_rounds/4929/results,/api/v1/events/1048/result/3,6,6,1,1,3,3,2,2
+Kruder Jernej,SLO,2,3T4z 5 6,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Men,Final,2018-04-21,/api/v1/category_rounds/4929/results,/api/v1/events/1048/result/3,3,3,X,1,1,1,1,1
+Vezonik Gregor,SLO,3,3T4z 6 9,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Men,Final,2018-04-21,/api/v1/category_rounds/4929/results,/api/v1/events/1048/result/3,3,3,2,2,X,3,1,1
+Chon Jongwon,KOR,4,3T4z 9 18,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Men,Final,2018-04-21,/api/v1/category_rounds/4929/results,/api/v1/events/1048/result/3,6,6,1,1,2,2,X,9
+Rubtsov  Aleksei,RUS,5,2T4z 4 27,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Men,Final,2018-04-21,/api/v1/category_rounds/4929/results,/api/v1/events/1048/result/3,X,16,2,2,2,1,X,8
+Moroni Gabriele,ITA,6,2T3z 7 14,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",1048,2018,Moscow,Boulder,Men,Final,2018-04-21,/api/v1/category_rounds/4929/results,/api/v1/events/1048/result/3,X,7,6,6,1,1,X,X

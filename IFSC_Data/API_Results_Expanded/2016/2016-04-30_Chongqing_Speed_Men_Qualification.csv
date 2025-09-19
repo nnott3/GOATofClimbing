@@ -1,0 +1,36 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Alipourshenazandifar Reza,IRI,1,6.000,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Timofeev Dmitrii,RUS,1,6.000,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Mawem Bassa,FRA,3,6.070,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Dzienski Marcin,POL,4,6.210,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Kokorin Stanislav,RUS,5,6.320,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Shikov Aleksandr,RUS,6,6.340,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Hroza Libor,CZE,7,6.470,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Vaitsekhovskii Evgenii,RUS,8,6.570,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Shilov Aleksandr,RUS,9,6.610,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Ou ZhiYong,CHN,10,6.630,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Boldyrev Danyil,UKR,11,6.800,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Gontero Leonardo,ITA,12,6.810,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Toozandehjani Hamidreza,IRI,13,6.830,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Rindi Sufriyanto,INA,14,6.850,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Santoni Alessandro,ITA,15,6.900,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Abudzar Yulianto,INA,16,6.910,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Galar Pandu Asmoro,INA,17,6.950,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Kriz Jan,CZE,18,7.160,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Lewicki Michal,POL,19,7.330,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Chae Sungjoon,KOR,20,7.340,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Mohammadi Morteza,IRI,21,7.390,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+CHEN ZhiXuan,CHN,22,7.530,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Ma ZiDa,CHN,23,7.730,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+LIN PengHui,CHN,24,7.780,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+McColl Sean,CAN,25,7.820,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Tyapkin Igor,UKR,26,7.940,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+DUAN YuRong,CHN,27,8.200,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Sordyl Tomasz,POL,28,8.610,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Qu HaiBin,CHN,29,8.660,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Pan YuFei,CHN,30,8.990,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Ogata Yoshiyuki,JPN,31,9.330,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+AU Chi-fung,HKG,32,9.920,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Beisembayev Yerzhan,KAZ,33,10.910,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Chan Cheung-chi Shoji,HKG,34,11.360,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2
+Watabe Keita,JPN,35,fall,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",939,2016,Chongqing,Speed,Men,Qualification,2016-04-30,/api/v1/category_rounds/3822/results,/api/v1/events/939/result/2

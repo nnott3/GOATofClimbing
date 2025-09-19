@@ -1,0 +1,30 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Vidmar Maja,SLO,1,Top,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,Top
+Eiter Angela,AUT,1,Top,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,Top
+Sarkany Muriel,BEL,1,Top,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,Top
+Gros Natalija,SLO,1,Top,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,Top
+Ciavaldini Caroline,FRA,1,Top,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,Top
+Eyer Alexandra,SUI,1,Top,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,Top
+Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,Top
+Noguchi Akiyo,JPN,1,Top,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,Top
+Kobayashi Yuka,JPN,9,51,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,51
+Bacher Barbara,AUT,9,51,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,51
+Lavarda Jenny,ITA,11,50-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,50-
+Saurwein Katharina,AUT,12,49-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,49-
+Huang Li-Ping,CHN,13,48+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,48+
+Levet Sandrine,FRA,14,48,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,48
+Kim Jain,KOR,15,47,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,47
+Li Chunhua,CHN,16,44+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,44+
+Durif Charlotte,FRA,17,44,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,44
+Chereshneva Yana,RUS,17,44,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,44
+Caprez Nina,SUI,19,42,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,42
+Pinet Florence,FRA,20,41,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,41
+Malamid Evgeniia,RUS,21,40-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,40-
+Zhang Dan,CHN,22,39,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,39
+Anda Villanueva Irati,ESP,23,37,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,37
+Li Xuqing,CHN,24,28,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,28
+Bahareh Moradi,IRI,25,22,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,22
+Solaimani Fatemeh,IRI,26,20,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,20
+Wei Chia-Ling,TPE,27,19-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,19-
+Lee Hung Ying,TPE,28,17+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,17+
+Soltaninejad Sajedeh,IRI,29,17-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Women,Qualification,2007-08-11,/api/v1/category_rounds/661/results,/api/v1/events/480/result/5,17-

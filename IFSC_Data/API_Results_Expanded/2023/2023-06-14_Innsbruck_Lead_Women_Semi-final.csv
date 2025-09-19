@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+SEO Chaehyun,KOR,1,46+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,46+
+Mori Ai,JPN,2,46+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,46+
+Garnbret Janja,SLO,3,46,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,46
+Pilz Jessica,AUT,4,40+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,40+
+Krampl Mia,SLO,5,36+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,36+
+Grossman Natalia,USA,6,34+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,34+
+Raboutou Brooke,USA,7,34+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,34+
+Janicot Hélène,FRA,8,32+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,32+
+Thompson-Smith Molly,GBR,9,32+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,32+
+Rogora Laura,ITA,10,32+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,32+
+KIM Jain,KOR,11,32+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,32+
+Romain Salomé,FRA,12,32,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,32
+Nonaka Miho,JPN,13,31+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,31+
+Tarkus Lucija,SLO,14,28,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,28
+Chanourdie Julia,FRA,15,25+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,25+
+Pötzi Mattea,AUT,16,23+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,23+
+Lukan Vita,SLO,17,23+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,23+
+Rakovec Lucka,SLO,18,20,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,20
+Hily Manon,FRA,19,19+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,19+
+Zhang YUETONG,CHN,20,19,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,19
+KOIKE Hana,JPN,21,18+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,18+
+Sanders Anastasia,USA,22,18+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,18+
+van der Meer Lynn,NED,23,18,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,18
+Totkova Aleksandra,BUL,24,18,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,18
+Copar Sara,SLO,25,18,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,18
+TANII Natsuki,JPN,26,12+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Women,Semi-final,2023-06-14,/api/v1/category_rounds/8125/results,/api/v1/events/1297/result/5,12+

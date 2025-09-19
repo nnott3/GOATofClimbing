@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+ANRAKU Sorato,JPN,1,39+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Men,Final,2023-09-22,/api/v1/category_rounds/8502/results,/api/v1/events/1303/result/1,39+
+OMATA Shion,JPN,2,30+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Men,Final,2023-09-22,/api/v1/category_rounds/8502/results,/api/v1/events/1303/result/1,30+
+HOMMA Taisei,JPN,3,26+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Men,Final,2023-09-22,/api/v1/category_rounds/8502/results,/api/v1/events/1303/result/1,26+
+Ogata Yoshiyuki,JPN,4,26+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Men,Final,2023-09-22,/api/v1/category_rounds/8502/results,/api/v1/events/1303/result/1,26+
+SONG Yunchan,KOR,5,24+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Men,Final,2023-09-22,/api/v1/category_rounds/8502/results,/api/v1/events/1303/result/1,24+
+YURIKUSA Ao,JPN,6,23+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Men,Final,2023-09-22,/api/v1/category_rounds/8502/results,/api/v1/events/1303/result/1,23+
+Lehmann Sascha,SUI,7,23,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Men,Final,2023-09-22,/api/v1/category_rounds/8502/results,/api/v1/events/1303/result/1,23
+Collin Nicolas,BEL,8,23,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Men,Final,2023-09-22,/api/v1/category_rounds/8502/results,/api/v1/events/1303/result/1,23

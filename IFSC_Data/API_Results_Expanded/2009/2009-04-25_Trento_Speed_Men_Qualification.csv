@@ -1,0 +1,24 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Styenkovyy Maksym,UKR,1,7.630,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Hroza Libor,CZE,2,8.210,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Sinitcyn Sergei,RUS,3,8.290,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+ZHANG Ning,CHN,4,8.690,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Komondi Csaba,HUN,5,8.920,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Abdrakhmanov Sergey,RUS,6,8.970,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Komosinski Jedrzej,POL,7,9.030,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Vaitsekhovskii Evgenii,RUS,8,9.200,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Zhong QiXin,CHN,9,9.340,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Kokorin Stanislav,RUS,10,9.400,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Li Guangpu,CHN,11,9.550,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Preti Lucas,ITA,12,9.570,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Swirk Lukasz,POL,13,9.890,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+De Las Salas Leonel,VEN,14,9.910,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Yurko Oleksiy,UKR,14,9.910,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Osipov Maksym,UKR,16,10.030,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Sirotti Michel,ITA,17,10.460,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Nieves Josmar,VEN,18,10.760,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Gontero Leonardo,ITA,19,12.090,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Sifra Martin,CZE,20,13.240,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Ghisolfi Stefano,ITA,21,13.920,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Juhasz Gyula,HUN,22,14.210,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2
+Molnar Gergõ,HUN,23,15.310,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,562,2009,Trento,Speed,Men,Qualification,2009-04-25,/api/v1/category_rounds/1131/results,/api/v1/events/562/result/2

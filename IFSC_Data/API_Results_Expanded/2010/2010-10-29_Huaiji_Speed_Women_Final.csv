@@ -1,0 +1,5 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+Ropek Edyta,,1,9.76,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Women,Final,2010-10-29,/api/v1/category_rounds/1445/results,/api/v1/events/621/result/6,True,9.79,True,9.76,,
+He CuiLian,,2,9.81,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Women,Final,2010-10-29,/api/v1/category_rounds/1445/results,/api/v1/events/621/result/6,True,10.01,False,9.81,,
+Alekseeva Kseniia,,3,10.45,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Women,Final,2010-10-29,/api/v1/category_rounds/1445/results,/api/v1/events/621/result/6,False,FALL,,,True,10.45
+PAN Xuhua,,4,10.51,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",621,2010,Huaiji,Speed,Women,Final,2010-10-29,/api/v1/category_rounds/1445/results,/api/v1/events/621/result/6,False,10.23,,,False,10.51

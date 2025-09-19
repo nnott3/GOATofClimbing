@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,Top
+Markovic Mina,SLO,2,43.5,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,43.5
+Pilz Jessica,AUT,3,41+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,41+
+Ota Risa,JPN,4,41+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,41+
+Miller Delaney,USA,5,41+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,41+
+Fakhritdinova Dinara,RUS,6,41,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,41
+Verhoeven Anak,BEL,7,39,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,39
+Becerra Mathilde,FRA,8,39,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,39
+Kalan Tjasa,SLO,9,38+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,38+
+Röck Magdalena,AUT,10,38+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,38+
+Janicot Hélène,FRA,11,38,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,38
+Posch Katharina,AUT,12,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,35+
+Dufraisse Alizée,FRA,13,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,35+
+Kobayashi Yuka,JPN,14,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,35+
+Schranz Christine,AUT,15,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,35+
+Chanourdie Julia,FRA,16,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,35+
+Fiser Julia,AUT,17,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,35+
+Schubert Hannah,AUT,18,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,35+
+van Bergen Nikki,NED,19,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,35+
+Choong Katherine,SUI,20,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,35+
+Lavarda Jenny,ITA,21,35+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,35+
+Terenteva Galina,RUS,22,34,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,34
+Onoe Aya,JPN,23,33,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,33
+Romain Salomé,FRA,24,32+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,32+
+Ghisolfi Claudia,ITA,25,29,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,29
+Marigo Léa,FRA,26,27+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2015,903,2015,Briançon,Lead,Women,Semi-Final,2015-07-17,/api/v1/category_rounds/3457/results,/api/v1/events/903/result/5,27+

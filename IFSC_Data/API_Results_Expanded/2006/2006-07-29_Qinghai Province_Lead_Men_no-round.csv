@@ -1,0 +1,31 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Julian  Puigblanque Ramón ,ESP,1,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Verhoeven Jorg,NED,2,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Mrázek Tomás,CZE,3,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Crespi Flavio,ITA,4,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Usobiaga Lakunza Patxi,ESP,5,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Winkler Daniel,SUI,6,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Marin Garcia Eduard,ESP,7,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Millet Sylvain,FRA,8,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Becan Klemen,SLO,9,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Lachat Cédric,SUI,10,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Fuselier Michaël,FRA,11,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Preußler Timo,GER,12,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Liu Changzhong,CHN,13,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Norgaard Rasmus,DEN,14,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Kim Janghyuk,KOR,15,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Cao Rongwu,CHN,16,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Lee Jae-Yong,KOR,17,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Dugit Fabien,FRA,18,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Reis Jürgen,AUT,19,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Kim Jabee,KOR,20,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Chu Ka-Wai,HKG,21,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Sova Matej,SLO,22,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Kim Jaha,KOR,23,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Cai LuYuan,CHN,24,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Fujieda Kunihiro,JPN,25,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Ye Xiangyang,CHN,26,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Chang Yeu-Shiang,TPE,27,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Lu Xiaolong,CHN,28,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Cheng Chao-Chun,TPE,29,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1
+Wang Qinghua,CHN,30,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Men,2006-07-29,/api/v1/events/434/result/1

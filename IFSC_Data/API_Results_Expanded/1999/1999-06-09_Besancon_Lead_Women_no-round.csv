@@ -1,0 +1,47 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Brown Katie,USA,1,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Sarkany Muriel,BEL,2,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Choumilova Elena,RUS,3,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Go Mi-Sun,KOR,4,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Bereciartu Urruzola Josune,ESP,5,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Bihr Isabelle,FRA,6,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Gronkiewicz-Marcisz Iwona,POL,7,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Sansoz Liv,FRA,8,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Cufar Martina,SLO,9,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Iovane Luisa,ITA,10,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Kryvonis Olena,UKR,10,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Schultz Annatina,SUI,10,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Perlova Nataliya,UKR,13,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Uhden Marietta,GER,14,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Marchisio Stella,ITA,15,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Novikova Natalia,RUS,15,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Piszczek Renata,POL,15,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Anthoni Kim,BEL,18,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Sedlmayer Katrin,GER,18,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Guzzi Nastja,SLO,20,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Knorr Damaris,GER,20,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Artioli Martina,ITA,22,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Truden Sasa,SLO,23,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Ulmonova Simona,CZE,24,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Hartmann Iva,SUI,25,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Nilsson Ingela,SWE,25,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Kim Hyun-Jung,KOR,27,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Kuhngaberova Jitka,CZE,28,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Eyer Alexandra,SUI,29,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Benetti Lisa,ITA,30,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Stranska Barbara,CZE,31,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Bell Claire,GBR,32,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Kimura Rie,JPN,32,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Nieselt Eva,GER,32,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Podgorbounskikh Zosia,RUS,32,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Louis Stéphanie,SUI,36,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Creamer Lucy,GBR,37,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Trnkova Lenka,CZE,38,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Allen Rebecca,GBR,39,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Cardoso Janine,BRA,39,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Arran Anne,GBR,41,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Hawke Emma,NZL,42,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+May Abigail,GBR,43,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Ostale Sara Aylin,CHI,44,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Wallin Lou,SWE,45,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5
+Aguirre Leire,ESP,999,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Lead,Women,1999-06-09,/api/v1/events/198/result/5

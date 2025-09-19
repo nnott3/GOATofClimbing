@@ -1,0 +1,23 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Levochkina  Yuliya,RUS,1,8.533,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Jaubert Anouck,FRA,2,8.971,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Rudzinska Aleksandra,POL,3,9.027,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Ropek Edyta,POL,4,9.311,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Gaidamakina Alina,RUS,5,9.413,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Tsyganova Anna,RUS,6,9.471,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Titova Natalia,RUS,7,9.639,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Heitz Margot,FRA,8,9.664,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Bruckner Esther,FRA,9,9.735,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Polekhina Kseniya,RUS,10,9.778,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Pichler Stefanie,AUT,11,9.836,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Krasavina Mariia,RUS,12,10.044,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Savisko Anastasiya,UKR,13,10.140,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Buczek Klaudia,POL,14,10.553,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Elmer Alexandra,AUT,15,10.642,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Stepanova Nataliia,RUS,16,10.759,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Yurina Valentina,RUS,17,10.896,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Kaplina Iuliia,RUS,18,10.907,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Prokopiuk Monika,POL,19,11.025,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Lach Nina,AUT,20,11.704,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Wu Jacquelyn,USA,21,11.905,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+Krizova Eva,CZE,22,14.781,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6

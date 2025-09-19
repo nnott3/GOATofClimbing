@@ -1,0 +1,36 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Ernst Johanna,AUT,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Vidmar Maja,SLO,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Noguchi Akiyo,JPN,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Ciavaldini Caroline,FRA,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Gros Natalija,SLO,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Durif Charlotte,FRA,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Chereshneva Yana,RUS,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Shalagina Olga,UKR,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Saurwein Katharina,AUT,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Malamid Evgeniia,RUS,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Eyer Alexandra,SUI,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Schranz Christine,AUT,1,Top,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,Top
+Wurm Juliane,GER,15,29+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,29+
+Gosar Asja,SLO,16,28+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,28+
+Ociepka Kinga,POL,17,28-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,28-
+Zijlstra Vera,NED,17,28-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,28-
+Midtboe Hannah,NOR,19,27,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,27
+Stendal Linn Karin,NOR,19,27,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,27
+Miroshnichenko Julia,RUS,21,27-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,27-
+Le Neve Melissa,FRA,22,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,26+
+Pinet Florence,FRA,23,26,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,26
+van Bergen Nikki,NED,24,26-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,26-
+Anda Villanueva Irati,ESP,25,25-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,25-
+Kos Leja,SLO,26,23-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,23-
+Rodriguez Francis,VEN,27,21-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,21-
+Modrzejewska Agata,POL,28,18-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,18-
+Levstek Patricija,SLO,29,17,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,17
+Ostapenko Olena,UKR,30,16-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,16-
+Nedyalkova Spasina,BUL,31,15,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,15
+Matthews Sarah,AUS,32,13,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,13
+Medvedieva Olga,UKR,33,12,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,12
+Milosavljevic Marija,SRB,34,11,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,11
+Bogaciu Anamaria,ROU,35,1+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Women,Qualification,2008-11-15,/api/v1/category_rounds/933/results,/api/v1/events/526/result/5,1+

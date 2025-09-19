@@ -1,0 +1,7 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+Markovic Mina,SLO,1,4t8 4b7,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Women,Final,2012-04-21,/api/v1/category_rounds/2053/results,/api/v1/events/728/result/7,2,2,3,3,2,1,1,1
+Coxsey Shauna,GBR,2,2t2 4b4,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Women,Final,2012-04-21,/api/v1/category_rounds/2053/results,/api/v1/events/728/result/7,1,1,1,1,X,1,X,1
+Stöhr Anna,AUT,3,2t3 4b4,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Women,Final,2012-04-21,/api/v1/category_rounds/2053/results,/api/v1/events/728/result/7,2,1,1,1,X,1,X,1
+Oda Momoka,JPN,4,2t3 4b7,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Women,Final,2012-04-21,/api/v1/category_rounds/2053/results,/api/v1/events/728/result/7,1,1,X,2,2,1,X,3
+Noguchi Akiyo,JPN,5,1t1 4b7,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Women,Final,2012-04-21,/api/v1/category_rounds/2053/results,/api/v1/events/728/result/7,X,2,X,3,1,1,X,1
+Le Neve Melissa,FRA,6,0t 3b7,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Women,Final,2012-04-21,/api/v1/category_rounds/2053/results,/api/v1/events/728/result/7,X,4,X,X,X,2,X,1

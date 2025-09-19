@@ -1,0 +1,30 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Krasavina Mariia,RUS,1,8.050,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Kaplina Iuliia,RUS,2,8.110,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Jaubert Anouck,FRA,3,8.280,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Levochkina  Yuliya,RUS,4,8.390,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Ropek Edyta,POL,5,8.440,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Tsyganova Anna,RUS,5,8.440,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Rudzinska Aleksandra,POL,7,8.480,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Gaidamakina Alina,RUS,8,8.530,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Marenych Alla,UKR,9,8.820,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Lugovenko Yana,UKR,10,8.980,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Prokopiuk Monika,POL,11,9.280,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Lach Nina,AUT,12,9.540,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Elmer Alexandra,AUT,13,9.610,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Motovilova Svetlana,RUS,14,9.670,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Chudziak Patrycja,POL,15,9.720,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Brozek Anna,POL,16,10.010,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Zakharova Margaryta,UKR,17,10.020,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Buczek Klaudia,POL,18,10.390,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+McKeehan Grace,USA,19,10.740,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Kolokovska Anna,UKR,20,10.840,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Mattioli Erika,ITA,21,10.990,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Marsanova Margarita,USA,22,11.070,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Rojas Andrea,ECU,23,11.320,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Randi Giorgia,ITA,24,11.430,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Mejia  Nicole ,ECU,25,11.450,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Gallucci Teresa,ITA,26,12.210,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Romero Marisa,USA,27,12.240,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Casellato Ginevra,ITA,28,13.470,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+Rosero Carolina,ECU,29,16.610,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6

@@ -1,0 +1,121 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2019 ,1112,2019,Meiringen,Boulder,Men,Qualification,2019-04-05,/api/v1/category_rounds/5454/results,/api/v1/events/1112/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2019 ,1112,2019,Meiringen,Boulder,Men,Semi-Final,2019-04-05,/api/v1/category_rounds/5455/results,/api/v1/events/1112/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2019 ,1112,2019,Meiringen,Boulder,Men,Final,2019-04-05,/api/v1/category_rounds/5456/results,/api/v1/events/1112/result/3
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2019 ,1112,2019,Meiringen,Boulder,Women,Qualification,2019-04-05,/api/v1/category_rounds/5451/results,/api/v1/events/1112/result/7
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2019 ,1112,2019,Meiringen,Boulder,Women,Semi-Final,2019-04-05,/api/v1/category_rounds/5452/results,/api/v1/events/1112/result/7
+IFSC Climbing Worldcup (B) - Meiringen (SUI) 2019 ,1112,2019,Meiringen,Boulder,Women,Final,2019-04-05,/api/v1/category_rounds/5453/results,/api/v1/events/1112/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Men,Qualification,2019-04-12,/api/v1/category_rounds/5462/results,/api/v1/events/1113/result/3
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Men,Semi-Final,2019-04-12,/api/v1/category_rounds/5463/results,/api/v1/events/1113/result/3
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Men,Final,2019-04-12,/api/v1/category_rounds/5464/results,/api/v1/events/1113/result/3
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Women,Qualification,2019-04-12,/api/v1/category_rounds/5457/results,/api/v1/events/1113/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Women,Semi-Final,2019-04-12,/api/v1/category_rounds/5458/results,/api/v1/events/1113/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Boulder,Women,Final,2019-04-12,/api/v1/category_rounds/5459/results,/api/v1/events/1113/result/7
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Men,Qualification,2019-04-12,/api/v1/category_rounds/5465/results,/api/v1/events/1113/result/2
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Men,Final,2019-04-12,/api/v1/category_rounds/5466/results,/api/v1/events/1113/result/2
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Qualification,2019-04-12,/api/v1/category_rounds/5460/results,/api/v1/events/1113/result/6
+"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",1113,2019,Moscow,Speed,Women,Final,2019-04-12,/api/v1/category_rounds/5461/results,/api/v1/events/1113/result/6
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Men,Qualification,2019-04-26,/api/v1/category_rounds/5472/results,/api/v1/events/1114/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Men,Semi-Final,2019-04-26,/api/v1/category_rounds/5473/results,/api/v1/events/1114/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Men,Final,2019-04-26,/api/v1/category_rounds/5474/results,/api/v1/events/1114/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Women,Qualification,2019-04-26,/api/v1/category_rounds/5467/results,/api/v1/events/1114/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Women,Semi-Final,2019-04-26,/api/v1/category_rounds/5468/results,/api/v1/events/1114/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Boulder,Women,Final,2019-04-26,/api/v1/category_rounds/5469/results,/api/v1/events/1114/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Speed,Men,Qualification,2019-04-26,/api/v1/category_rounds/5475/results,/api/v1/events/1114/result/2
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Speed,Men,Final,2019-04-26,/api/v1/category_rounds/5476/results,/api/v1/events/1114/result/2
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Speed,Women,Qualification,2019-04-26,/api/v1/category_rounds/5470/results,/api/v1/events/1114/result/6
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",1114,2019,Chongqing,Speed,Women,Final,2019-04-26,/api/v1/category_rounds/5471/results,/api/v1/events/1114/result/6
+"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",1115,2019,Wujiang,Boulder,Men,Qualification,2019-05-03,/api/v1/category_rounds/5482/results,/api/v1/events/1115/result/3
+"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",1115,2019,Wujiang,Boulder,Men,Semi-Final,2019-05-03,/api/v1/category_rounds/5483/results,/api/v1/events/1115/result/3
+"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",1115,2019,Wujiang,Boulder,Men,Final,2019-05-03,/api/v1/category_rounds/5484/results,/api/v1/events/1115/result/3
+"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",1115,2019,Wujiang,Boulder,Women,Qualification,2019-05-03,/api/v1/category_rounds/5477/results,/api/v1/events/1115/result/7
+"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",1115,2019,Wujiang,Boulder,Women,Semi-Final,2019-05-03,/api/v1/category_rounds/5478/results,/api/v1/events/1115/result/7
+"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",1115,2019,Wujiang,Boulder,Women,Final,2019-05-03,/api/v1/category_rounds/5479/results,/api/v1/events/1115/result/7
+"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",1115,2019,Wujiang,Speed,Men,Qualification,2019-05-03,/api/v1/category_rounds/5485/results,/api/v1/events/1115/result/2
+"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",1115,2019,Wujiang,Speed,Men,Final,2019-05-03,/api/v1/category_rounds/5486/results,/api/v1/events/1115/result/2
+"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",1115,2019,Wujiang,Speed,Women,Qualification,2019-05-03,/api/v1/category_rounds/5480/results,/api/v1/events/1115/result/6
+"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",1115,2019,Wujiang,Speed,Women,Final,2019-05-03,/api/v1/category_rounds/5481/results,/api/v1/events/1115/result/6
+IFSC Climbing Worldcup (B) - Munich (GER) 2019,1116,2019,Munich,Boulder,Men,Qualification,2019-05-18,/api/v1/category_rounds/5490/results,/api/v1/events/1116/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2019,1116,2019,Munich,Boulder,Men,Semi-Final,2019-05-18,/api/v1/category_rounds/5491/results,/api/v1/events/1116/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2019,1116,2019,Munich,Boulder,Men,Final,2019-05-18,/api/v1/category_rounds/5492/results,/api/v1/events/1116/result/3
+IFSC Climbing Worldcup (B) - Munich (GER) 2019,1116,2019,Munich,Boulder,Women,Qualification,2019-05-18,/api/v1/category_rounds/5487/results,/api/v1/events/1116/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2019,1116,2019,Munich,Boulder,Women,Semi-Final,2019-05-18,/api/v1/category_rounds/5488/results,/api/v1/events/1116/result/7
+IFSC Climbing Worldcup (B) - Munich (GER) 2019,1116,2019,Munich,Boulder,Women,Final,2019-05-18,/api/v1/category_rounds/5489/results,/api/v1/events/1116/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2019 ,1117,2019,Vail,Boulder,Men,Qualification,2019-06-07,/api/v1/category_rounds/5496/results,/api/v1/events/1117/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2019 ,1117,2019,Vail,Boulder,Men,Semi-Final,2019-06-07,/api/v1/category_rounds/5497/results,/api/v1/events/1117/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2019 ,1117,2019,Vail,Boulder,Men,Final,2019-06-07,/api/v1/category_rounds/5498/results,/api/v1/events/1117/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2019 ,1117,2019,Vail,Boulder,Women,Qualification,2019-06-07,/api/v1/category_rounds/5493/results,/api/v1/events/1117/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2019 ,1117,2019,Vail,Boulder,Women,Semi-Final,2019-06-07,/api/v1/category_rounds/5494/results,/api/v1/events/1117/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2019 ,1117,2019,Vail,Boulder,Women,Final,2019-06-07,/api/v1/category_rounds/5495/results,/api/v1/events/1117/result/7
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Qualification,2019-07-04,/api/v1/category_rounds/5504/results,/api/v1/events/1118/result/1
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Semi-Final,2019-07-04,/api/v1/category_rounds/5505/results,/api/v1/events/1118/result/1
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Men,Final,2019-07-04,/api/v1/category_rounds/5506/results,/api/v1/events/1118/result/1
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Qualification,2019-07-04,/api/v1/category_rounds/5499/results,/api/v1/events/1118/result/5
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Semi-Final,2019-07-04,/api/v1/category_rounds/5500/results,/api/v1/events/1118/result/5
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Qualification,2019-07-04,/api/v1/category_rounds/5507/results,/api/v1/events/1118/result/2
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Men,Final,2019-07-04,/api/v1/category_rounds/5508/results,/api/v1/events/1118/result/2
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Women,Qualification,2019-07-04,/api/v1/category_rounds/5502/results,/api/v1/events/1118/result/6
+"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Speed,Women,Final,2019-07-04,/api/v1/category_rounds/5503/results,/api/v1/events/1118/result/6
+"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Men,Qualification,2019-07-11,/api/v1/category_rounds/5514/results,/api/v1/events/1119/result/1
+"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Men,Semi-Final,2019-07-11,/api/v1/category_rounds/5515/results,/api/v1/events/1119/result/1
+"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Men,Final,2019-07-11,/api/v1/category_rounds/5516/results,/api/v1/events/1119/result/1
+"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Women,Qualification,2019-07-11,/api/v1/category_rounds/5509/results,/api/v1/events/1119/result/5
+"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Women,Semi-Final,2019-07-11,/api/v1/category_rounds/5510/results,/api/v1/events/1119/result/5
+"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Lead,Women,Final,2019-07-11,/api/v1/category_rounds/5511/results,/api/v1/events/1119/result/5
+"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Speed,Men,Qualification,2019-07-11,/api/v1/category_rounds/5517/results,/api/v1/events/1119/result/2
+"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Speed,Men,Final,2019-07-11,/api/v1/category_rounds/5518/results,/api/v1/events/1119/result/2
+"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Speed,Women,Qualification,2019-07-11,/api/v1/category_rounds/5512/results,/api/v1/events/1119/result/6
+"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",1119,2019,Chamonix,Speed,Women,Final,2019-07-11,/api/v1/category_rounds/5513/results,/api/v1/events/1119/result/6
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Men,Qualification,2019-07-19,/api/v1/category_rounds/5522/results,/api/v1/events/1120/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Men,Semi-Final,2019-07-19,/api/v1/category_rounds/5523/results,/api/v1/events/1120/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Men,Final,2019-07-19,/api/v1/category_rounds/5524/results,/api/v1/events/1120/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Qualification,2019-07-19,/api/v1/category_rounds/5519/results,/api/v1/events/1120/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Semi-Final,2019-07-19,/api/v1/category_rounds/5520/results,/api/v1/events/1120/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Qualification,2019-08-11,/api/v1/category_rounds/5535/results,/api/v1/events/1121/result/1
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5536/results,/api/v1/events/1121/result/1
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Women,Qualification,2019-08-11,/api/v1/category_rounds/5525/results,/api/v1/events/1121/result/5
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Women,Semi-Final,2019-08-11,/api/v1/category_rounds/5526/results,/api/v1/events/1121/result/5
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Women,Final,2019-08-11,/api/v1/category_rounds/5527/results,/api/v1/events/1121/result/5
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Boulder,Men,Qualification,2019-08-11,/api/v1/category_rounds/5538/results,/api/v1/events/1121/result/3
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Boulder,Men,Semi-Final,2019-08-11,/api/v1/category_rounds/5539/results,/api/v1/events/1121/result/3
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Boulder,Men,Final,2019-08-11,/api/v1/category_rounds/5540/results,/api/v1/events/1121/result/3
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Boulder,Women,Qualification,2019-08-11,/api/v1/category_rounds/5528/results,/api/v1/events/1121/result/7
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Boulder,Women,Semi-Final,2019-08-11,/api/v1/category_rounds/5529/results,/api/v1/events/1121/result/7
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Boulder,Women,Final,2019-08-11,/api/v1/category_rounds/5530/results,/api/v1/events/1121/result/7
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Speed,Men,Qualification,2019-08-11,/api/v1/category_rounds/5541/results,/api/v1/events/1121/result/2
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Speed,Men,Final,2019-08-11,/api/v1/category_rounds/5542/results,/api/v1/events/1121/result/2
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Speed,Women,Qualification,2019-08-11,/api/v1/category_rounds/5531/results,/api/v1/events/1121/result/6
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Speed,Women,Final,2019-08-11,/api/v1/category_rounds/5532/results,/api/v1/events/1121/result/6
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Combined,Men,Qualification,2019-08-11,/api/v1/category_rounds/5543/results,/api/v1/events/1121/result/4
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Combined,Men,Final,2019-08-11,/api/v1/category_rounds/5544/results,/api/v1/events/1121/result/4
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Combined,Women,Qualification,2019-08-11,/api/v1/category_rounds/5533/results,/api/v1/events/1121/result/8
+IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Combined,Women,Final,2019-08-11,/api/v1/category_rounds/5534/results,/api/v1/events/1121/result/8
+IFSC Climbing World Championships Combined - Hachioji (JPN) 2019,1122,2019,Combined,Combined,Men,Qualification,2019-08-18,/api/v1/category_rounds/5547/results,/api/v1/events/1122/result/4
+IFSC Climbing World Championships Combined - Hachioji (JPN) 2019,1122,2019,Combined,Combined,Men,Final,2019-08-18,/api/v1/category_rounds/5548/results,/api/v1/events/1122/result/4
+IFSC Climbing World Championships Combined - Hachioji (JPN) 2019,1122,2019,Combined,Combined,Women,Qualification,2019-08-18,/api/v1/category_rounds/5545/results,/api/v1/events/1122/result/8
+IFSC Climbing World Championships Combined - Hachioji (JPN) 2019,1122,2019,Combined,Combined,Women,Final,2019-08-18,/api/v1/category_rounds/5546/results,/api/v1/events/1122/result/8
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Men,Qualification,2019-09-28,/api/v1/category_rounds/5552/results,/api/v1/events/1123/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Men,Semi-Final,2019-09-28,/api/v1/category_rounds/5553/results,/api/v1/events/1123/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Men,Final,2019-09-28,/api/v1/category_rounds/5554/results,/api/v1/events/1123/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Qualification,2019-09-28,/api/v1/category_rounds/5549/results,/api/v1/events/1123/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Semi-Final,2019-09-28,/api/v1/category_rounds/5550/results,/api/v1/events/1123/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Qualification,2019-10-18,/api/v1/category_rounds/5560/results,/api/v1/events/1124/result/1
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Semi-Final,2019-10-18,/api/v1/category_rounds/5561/results,/api/v1/events/1124/result/1
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Men,Final,2019-10-18,/api/v1/category_rounds/5562/results,/api/v1/events/1124/result/1
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Women,Qualification,2019-10-18,/api/v1/category_rounds/5555/results,/api/v1/events/1124/result/5
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Women,Semi-Final,2019-10-18,/api/v1/category_rounds/5556/results,/api/v1/events/1124/result/5
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Lead,Women,Final,2019-10-18,/api/v1/category_rounds/5557/results,/api/v1/events/1124/result/5
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Speed,Men,Qualification,2019-10-18,/api/v1/category_rounds/5563/results,/api/v1/events/1124/result/2
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Speed,Men,Final,2019-10-18,/api/v1/category_rounds/5564/results,/api/v1/events/1124/result/2
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Speed,Women,Qualification,2019-10-18,/api/v1/category_rounds/5558/results,/api/v1/events/1124/result/6
+"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",1124,2019,Xiamen,Speed,Women,Final,2019-10-18,/api/v1/category_rounds/5559/results,/api/v1/events/1124/result/6
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Men,Qualification,2019-10-26,/api/v1/category_rounds/5568/results,/api/v1/events/1125/result/1
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Men,Semi-Final,2019-10-26,/api/v1/category_rounds/5569/results,/api/v1/events/1125/result/1
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Men,Final,2019-10-26,/api/v1/category_rounds/5570/results,/api/v1/events/1125/result/1
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Qualification,2019-10-26,/api/v1/category_rounds/5565/results,/api/v1/events/1125/result/5
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Semi-Final,2019-10-26,/api/v1/category_rounds/5566/results,/api/v1/events/1125/result/5
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5

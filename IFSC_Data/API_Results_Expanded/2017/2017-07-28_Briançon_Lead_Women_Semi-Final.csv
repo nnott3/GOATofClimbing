@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,Top,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,Top
+Verhoeven Anak,BEL,1,Top,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,Top
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,Top
+Pilz Jessica,AUT,4,42+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,42+
+Markovic Mina,SLO,5,37+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,37+
+Chanourdie Julia,FRA,6,37+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,37+
+Hayes Margo,USA,7,37,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,37
+Romain Salomé,FRA,8,31+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,31+
+Janicot Hélène,FRA,9,29.5+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,29.5+
+Choong Katherine,SUI,10,29+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,29+
+Thompson-Smith Molly,GBR,11,29+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,29+
+Ota Risa,JPN,12,29+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,29+
+Raboutou Brooke,USA,13,29,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,29
+Meshkova Viktoriia,RUS,14,28,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,28
+Fiser Julia,AUT,15,27+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,27+
+Lukan Vita,SLO,16,27,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,27
+Berthier Nolwen,FRA,17,27,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,27
+Posch Katharina,AUT,18,26+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,26+
+Schubert Hannah,AUT,19,26+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,26+
+YOSHIMURA  Moe,JPN,20,26+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,26+
+Stöckler Laura,AUT,21,26+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,26+
+Koller Anne-Sophie,SUI,22,26,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,26
+Doumont Heloïse,BEL,23,25+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,25+
+Hafsaas Tina Johnsen,NOR,24,19,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,19
+Ring Alina,SUI,25,15+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,15+
+Kim Minseon,KOR,26,15+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2017,1165,2017,Briançon,Lead,Women,Semi-Final,2017-07-28,/api/v1/category_rounds/6005/results,/api/v1/events/1165/result/5,15+

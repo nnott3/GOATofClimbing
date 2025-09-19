@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,1/4_winner,1/4_time,1/2_winner,1/2_time,Final_winner,Final_time,Small Final_winner,Small Final_time
+Hroza Libor,,1,14.94,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Final,2009-08-01,/api/v1/category_rounds/1190/results,/api/v1/events/570/result/2,True,15.07,True,14.95,True,14.94,,
+Osipov Maksym,,2,18.51,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Final,2009-08-01,/api/v1/category_rounds/1190/results,/api/v1/events/570/result/2,True,19.98,True,15.38,False,18.51,,
+Swirk Lukasz,,3,15.39,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Final,2009-08-01,/api/v1/category_rounds/1190/results,/api/v1/events/570/result/2,True,14.8,False,15.95,,,True,15.39
+Oleksy Tomasz,,4,23.01,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Final,2009-08-01,/api/v1/category_rounds/1190/results,/api/v1/events/570/result/2,True,18.07,False,FALL,,,False,23.01
+Kokorin Stanislav,,5,16.52,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Final,2009-08-01,/api/v1/category_rounds/1190/results,/api/v1/events/570/result/2,False,16.52,,,,,,
+Sinitcyn Sergei,,6,18.90,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Final,2009-08-01,/api/v1/category_rounds/1190/results,/api/v1/events/570/result/2,False,18.9,,,,,,
+Abdrakhmanov Sergey,,7,24.51,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Final,2009-08-01,/api/v1/category_rounds/1190/results,/api/v1/events/570/result/2,False,24.51,,,,,,
+Komosinski Jedrzej,,8,FALL,IFSC Climbing Worldcup (S)  - Daone (ITA) 2009,570,2009,Daone,Speed,Men,Final,2009-08-01,/api/v1/category_rounds/1190/results,/api/v1/events/570/result/2,False,FALL,,,,,,

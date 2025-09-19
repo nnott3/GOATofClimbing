@@ -1,0 +1,26 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Oleksy Tomasz,POL,1,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Peshekhonov Alexander,RUS,2,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Omeltchenko Denis,RUS,3,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Minatchev Evgueni,RUS,4,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Soubbotine Iakov,RUS,5,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Konovalov Dmytro,UKR,6,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Shevchenko Kyrylo,UKR,7,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Baranov Vladislav,RUS,8,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Sharafutdinov Dmitrii,RUS,9,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Charafoutdinov Denis,RUS,10,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Komondi Csaba,HUN,11,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Shalagin Mykhaylo,UKR,12,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Klepikov Pavel,RUS,13,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Chaoulsky Alexandre,RUS,14,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Kosterin Alexander,RUS,15,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Vaitsekhovskii Evgenii,RUS,16,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Gadeev Alexei,RUS,17,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Popov Sergey,RUS,18,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Tchernykh Maxim,RUS,19,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Lobzov Stanislav,RUS,20,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Piniguine Serguei,RUS,21,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Zemski Alexei,RUS,22,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Bartha Attila,HUN,23,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Sadyrov Marat,RUS,24,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2
+Sinitcyn Sergei,RUS,24,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Men,2003-05-30,/api/v1/events/308/result/2

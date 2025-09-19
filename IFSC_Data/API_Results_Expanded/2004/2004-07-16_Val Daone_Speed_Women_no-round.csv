@@ -1,0 +1,11 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
+Ruyga Tatiana,RUS,1,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Women,2004-07-16,/api/v1/events/353/result/6
+Hendrawati Agung Ethi,INA,2,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Women,2004-07-16,/api/v1/events/353/result/6
+Yurina Valentina,RUS,3,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Women,2004-07-16,/api/v1/events/353/result/6
+Stenkovaya Anna,RUS,4,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Women,2004-07-16,/api/v1/events/353/result/6
+Ostapenko Olena,UKR,5,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Women,2004-07-16,/api/v1/events/353/result/6
+Piratinskaya Mayya,RUS,5,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Women,2004-07-16,/api/v1/events/353/result/6
+Saulevich Olesya,RUS,5,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Women,2004-07-16,/api/v1/events/353/result/6
+Zakharova Olga,UKR,5,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Women,2004-07-16,/api/v1/events/353/result/6
+Karesova Eliska,CZE,9,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Women,2004-07-16,/api/v1/events/353/result/6
+Herzog Nina,AUT,10,,UIAA Worldcup - Val Daone (ITA) 2004,353,2004,Val Daone,Speed,Women,2004-07-16,/api/v1/events/353/result/6

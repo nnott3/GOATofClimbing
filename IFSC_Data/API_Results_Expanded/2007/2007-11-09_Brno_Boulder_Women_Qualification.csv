@@ -1,0 +1,37 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Shalagina Olga,UKR,1,6t8 6b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Gros Natalija,SLO,2,6t12 6b9,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Tuzhylina Svitlana,UKR,3,5t6 6b6,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Stöhr Anna,AUT,4,5t6 6b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Abramchuk Yulia,RUS,5,5t7 5b5,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Bezhko Olga,UKR,6,4t4 6b6,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Danion Juliette,FRA,7,4t6 6b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Rajfova Silvie,CZE,8,3t4 6b6,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Ansade Maud,FRA,9,3t7 6b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Lavarda Jenny,ITA,10,3t11 6b15,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Bibik Olga,RUS,11,3t16 6b17,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Lind Angelica,SWE,12,2t2 6b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Balakireva Alexandra,RUS,13,2t2 6b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Shemulinkina  Tatiana,RUS,14,2t2 6b10,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Gallyamova Anna,RUS,15,2t4 5b7,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Vidmar Katja,SLO,16,2t5 6b9,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Johannesen Therese,NOR,17,1t1 4b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Hodann Anja,SWE,18,1t2 5b6,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Saurwein Katharina,AUT,19,1t3 6b11,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Lipenska Helena,CZE,20,1t4 6b13,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Fickuliakova Katarina,SVK,21,1t4 5b9,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Zijlstra Vera,NED,22,1t5 5b10,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Graftiaux Chloé,BEL,23,1t6 6b15,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Ozver Gurgel,TUR,24,1t7 3b9,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Dupalova Dominika,CZE,25,1t8 3b11,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Kudrova Nelly,CZE,26,0t 6b11,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Bacher Barbara,AUT,27,0t 5b9,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Mandru Amalia,ROU,28,0t 4b5,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Gel'fer Alisa,UKR,29,0t 4b11,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Cermakova Anna,CZE,30,0t 3b5,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Khudyakova Anna,RUS,31,0t 3b8,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Bogaciu Anamaria,ROU,32,0t 2b2,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Seguy Audrey,GBR,32,0t 2b2,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Merrick Diane,GBR,34,0t 2b3,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Karakulak V.D.B.Kaag Filiz,TUR,35,0t 1b1,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7
+Ochenatu Crina,ROU,35,0t 1b1,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Qualification,2007-11-09,/api/v1/category_rounds/706/results,/api/v1/events/485/result/7

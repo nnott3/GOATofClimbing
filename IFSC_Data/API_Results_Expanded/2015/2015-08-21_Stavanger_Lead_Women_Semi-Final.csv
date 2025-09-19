@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,Top
+Verhoeven Anak,BEL,1,Top,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,Top
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,Top
+Pilz Jessica,AUT,4,42+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,42+
+Janicot Hélène,FRA,4,42+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,42+
+Kobayashi Yuka,JPN,6,42+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,42+
+Kalan Tjasa,SLO,7,42,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,42
+Ota Risa,JPN,8,41+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,41+
+Becerra Mathilde,FRA,9,41,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,41
+Rosen Kajsa,SWE,10,39+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,39+
+Malamid Evgeniia,RUS,11,39+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,39+
+Posch Katharina,AUT,12,39+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,39+
+Stotz Rebekka,SUI,13,39+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,39+
+Chanourdie Julia,FRA,14,37+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,37+
+Choong Katherine,SUI,15,36+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,36+
+Onoe Aya,JPN,16,36,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,36
+Dufraisse Alizée,FRA,17,35+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,35+
+Schranz Christine,AUT,18,35,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,35
+Röck Magdalena,AUT,19,29+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,29+
+Lavarda Jenny,ITA,20,29+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,29+
+Fredman Netta,ISR,21,29+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,29+
+Hafsaas Tina Johnsen,NOR,22,29,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,29
+Ring Alina,SUI,23,27+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,27+
+Miller Delaney,USA,24,26+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,26+
+Bacher Barbara,AUT,25,21+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,21+
+Vejmolova Iva,CZE,26,20+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Women,Semi-Final,2015-08-21,/api/v1/category_rounds/3475/results,/api/v1/events/906/result/5,20+

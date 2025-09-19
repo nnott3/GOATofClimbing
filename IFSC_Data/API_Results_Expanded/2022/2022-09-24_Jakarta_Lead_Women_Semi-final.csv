@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+SEO Chaehyun,KOR,1,TOP,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,TOP
+Meul Hannah,GER,2,TOP,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,TOP
+GARNBRET Janja,SLO,3,41+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,41+
+Rogora Laura,ITA,4,40,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,40
+Tanii Natsuki,JPN,5,35+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,35+
+NAKAGAWA Ryu,JPN,6,34+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,34+
+Lukan Vita,SLO,7,34,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,34
+Krampl Mia,SLO,8,31+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,31+
+KOIKE Hana,JPN,9,31+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,31+
+OTA Risa,JPN,10,30+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,30+
+Condie Kyra,USA,11,30+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,30+
+KOTAKE Mei,JPN,12,30+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,30+
+Yip Alannah,CAN,13,26+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,26+
+Atkins Käthe,GER,14,25+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,25+
+Shiran Noa,ISR,15,25+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,25+
+Adamovska Eliska,CZE,16,25,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,25
+Smetanova Michaela,CZE,17,24+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,24+
+Demmel Martina,GER,18,24+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,24+
+Lee Hung Ying,TPE,19,24,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,24
+SEO Yejoo,KOR,20,23+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,23+
+WIDIA FUJIYANTI,INA,21,23+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,23+
+KAKIZAKI Miu,JPN,22,23,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,23
+Egli Liv,SUI,23,22,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,22
+Lin Hsiu-Ju,TPE,24,21+,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,21+
+Earle Chloe,CAN,25,18,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,18
+LINTANG CAHYANI SUKMA,INA,26,15,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5,15

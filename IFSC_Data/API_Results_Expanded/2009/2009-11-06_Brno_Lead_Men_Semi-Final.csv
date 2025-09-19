@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Mrázek Tomás,CZE,1,37,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,37
+Julian  Puigblanque Ramón ,ESP,2,37,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,37
+Tauporn Thomas,GER,3,35-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,35-
+Usobiaga Lakunza Patxi,ESP,4,34+,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,34+
+Romain Manuel,FRA,5,34,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,34
+Matsushima Akito,JPN,6,33,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,33
+Schubert Jakob,AUT,7,33-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,33-
+Lama David,AUT,7,33-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,33-
+Watanabe Kazuma,JPN,9,32-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,32-
+Chernikov Mikhail,RUS,10,31+,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,31+
+Ondra Adam,CZE,11,31,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,31
+Supper Gautier,FRA,12,31,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,31
+Midtboe Magnus,NOR,13,30-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,30-
+Amma Sachi,JPN,14,28-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,28-
+Becan Klemen,SLO,14,28-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,28-
+Marin Garcia Eduard,ESP,16,28-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,28-
+Crespi Flavio,ITA,17,28-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,28-
+Stranik Martin,CZE,18,27+,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,27+
+Shoprin Alexander,RUS,19,27-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,27-
+Desgranges Romain,FRA,20,26,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,26
+Rudigier Max,AUT,21,21+,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,21+
+Sova Matej,SLO,22,21-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,21-
+Becan Jure,SLO,23,21-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,21-
+Zazulin Evgenii,RUS,24,21-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,21-
+Son Sangwon,KOR,25,21-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,21-
+Nitta Tatsumi,JPN,26,16-,IFSC Climbing Worldcup (L) - Brno (CZE) 2009,574,2009,Brno,Lead,Men,Semi-Final,2009-11-06,/api/v1/category_rounds/1213/results,/api/v1/events/574/result/1,16-

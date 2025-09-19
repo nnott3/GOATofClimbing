@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Julian  Puigblanque Ramón ,ESP,1,37,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,37
+Schubert Jakob,AUT,2,36+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,36+
+Amma Sachi,JPN,2,36+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,36+
+Desgranges Romain,FRA,4,35,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,35
+Midtboe Magnus,NOR,5,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,34+
+Ballet Thomas,FRA,6,33,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,33
+Verhoeven Jorg,NED,7,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,31+
+Min Hyunbin,KOR,8,29+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,29+
+Primozic Urban,SLO,9,29,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,29
+Matsushima Akito,JPN,10,27+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,27+
+Romain Manuel,FRA,10,27+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,27+
+McColl Sean,CAN,12,27,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,27
+Chernikov Mikhail,RUS,13,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,26+
+Becan Klemen,SLO,14,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,26+
+Ghisolfi Stefano,ITA,15,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,26+
+Vettorata Francesco,ITA,16,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,26+
+Bombardi Marcello,ITA,17,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,26+
+Skofic Domen,SLO,18,25,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,25
+Lechner Mario,AUT,19,24+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,24+
+Becan Jure,SLO,20,23+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,23+
+Köb Lukas,AUT,21,23+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,23+
+Kim Jabee,KOR,22,18+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,18+
+Timmermans Loïc,BEL,23,16+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,16+
+Grandelius Erik,SWE,24,13+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,13+
+Nilssen John Henry,NOR,25,10+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,10+
+Schellingerhout Elko,NED,26,8+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1,8+

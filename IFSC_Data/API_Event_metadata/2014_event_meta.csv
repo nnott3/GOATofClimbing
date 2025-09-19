@@ -1,0 +1,139 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",849,2014,Chongqing,Boulder,Men,Qualification,2014-04-26,/api/v1/category_rounds/2989/results,/api/v1/events/849/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",849,2014,Chongqing,Boulder,Men,Semi-Final,2014-04-26,/api/v1/category_rounds/2990/results,/api/v1/events/849/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",849,2014,Chongqing,Boulder,Men,Final,2014-04-26,/api/v1/category_rounds/2991/results,/api/v1/events/849/result/3
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",849,2014,Chongqing,Boulder,Women,Qualification,2014-04-26,/api/v1/category_rounds/2984/results,/api/v1/events/849/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",849,2014,Chongqing,Boulder,Women,Semi-Final,2014-04-26,/api/v1/category_rounds/2985/results,/api/v1/events/849/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",849,2014,Chongqing,Boulder,Women,Final,2014-04-26,/api/v1/category_rounds/2986/results,/api/v1/events/849/result/7
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",849,2014,Chongqing,Speed,Men,Qualification,2014-04-26,/api/v1/category_rounds/2992/results,/api/v1/events/849/result/2
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",849,2014,Chongqing,Speed,Men,Final,2014-04-26,/api/v1/category_rounds/2993/results,/api/v1/events/849/result/2
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",849,2014,Chongqing,Speed,Women,Qualification,2014-04-26,/api/v1/category_rounds/2987/results,/api/v1/events/849/result/6
+"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",849,2014,Chongqing,Speed,Women,Final,2014-04-26,/api/v1/category_rounds/2988/results,/api/v1/events/849/result/6
+"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",850,2014,Baku,Boulder,Men,Qualification,2014-05-03,/api/v1/category_rounds/2999/results,/api/v1/events/850/result/3
+"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",850,2014,Baku,Boulder,Men,Semi-Final,2014-05-03,/api/v1/category_rounds/3000/results,/api/v1/events/850/result/3
+"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",850,2014,Baku,Boulder,Men,Final,2014-05-03,/api/v1/category_rounds/3001/results,/api/v1/events/850/result/3
+"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",850,2014,Baku,Boulder,Women,Qualification,2014-05-03,/api/v1/category_rounds/2994/results,/api/v1/events/850/result/7
+"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",850,2014,Baku,Boulder,Women,Semi-Final,2014-05-03,/api/v1/category_rounds/2995/results,/api/v1/events/850/result/7
+"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",850,2014,Baku,Boulder,Women,Final,2014-05-03,/api/v1/category_rounds/2996/results,/api/v1/events/850/result/7
+"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",850,2014,Baku,Speed,Men,Qualification,2014-05-03,/api/v1/category_rounds/3002/results,/api/v1/events/850/result/2
+"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",850,2014,Baku,Speed,Men,Final,2014-05-03,/api/v1/category_rounds/3003/results,/api/v1/events/850/result/2
+"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",850,2014,Baku,Speed,Women,Qualification,2014-05-03,/api/v1/category_rounds/2997/results,/api/v1/events/850/result/6
+"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",850,2014,Baku,Speed,Women,Final,2014-05-03,/api/v1/category_rounds/2998/results,/api/v1/events/850/result/6
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2014 ,851,2014,Grindelwald,Boulder,Men,Qualification,2014-05-10,/api/v1/category_rounds/3007/results,/api/v1/events/851/result/3
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2014 ,851,2014,Grindelwald,Boulder,Men,Semi-Final,2014-05-10,/api/v1/category_rounds/3008/results,/api/v1/events/851/result/3
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2014 ,851,2014,Grindelwald,Boulder,Men,Final,2014-05-10,/api/v1/category_rounds/3009/results,/api/v1/events/851/result/3
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2014 ,851,2014,Grindelwald,Boulder,Women,Qualification,2014-05-10,/api/v1/category_rounds/3004/results,/api/v1/events/851/result/7
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2014 ,851,2014,Grindelwald,Boulder,Women,Semi-Final,2014-05-10,/api/v1/category_rounds/3005/results,/api/v1/events/851/result/7
+IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2014 ,851,2014,Grindelwald,Boulder,Women,Final,2014-05-10,/api/v1/category_rounds/3006/results,/api/v1/events/851/result/7
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2014 ,852,2014,Innsbruck,Boulder,Men,Qualification,2014-05-16,/api/v1/category_rounds/3013/results,/api/v1/events/852/result/3
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2014 ,852,2014,Innsbruck,Boulder,Men,Semi-Final,2014-05-16,/api/v1/category_rounds/3014/results,/api/v1/events/852/result/3
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2014 ,852,2014,Innsbruck,Boulder,Men,Final,2014-05-16,/api/v1/category_rounds/3015/results,/api/v1/events/852/result/3
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2014 ,852,2014,Innsbruck,Boulder,Women,Qualification,2014-05-16,/api/v1/category_rounds/3010/results,/api/v1/events/852/result/7
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2014 ,852,2014,Innsbruck,Boulder,Women,Semi-Final,2014-05-16,/api/v1/category_rounds/3011/results,/api/v1/events/852/result/7
+IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2014 ,852,2014,Innsbruck,Boulder,Women,Final,2014-05-16,/api/v1/category_rounds/3012/results,/api/v1/events/852/result/7
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2014 ,853,2014,Toronto,Boulder,Men,Qualification,2014-05-31,/api/v1/category_rounds/3019/results,/api/v1/events/853/result/3
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2014 ,853,2014,Toronto,Boulder,Men,Semi-Final,2014-05-31,/api/v1/category_rounds/3020/results,/api/v1/events/853/result/3
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2014 ,853,2014,Toronto,Boulder,Men,Final,2014-05-31,/api/v1/category_rounds/3021/results,/api/v1/events/853/result/3
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2014 ,853,2014,Toronto,Boulder,Women,Qualification,2014-05-31,/api/v1/category_rounds/3016/results,/api/v1/events/853/result/7
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2014 ,853,2014,Toronto,Boulder,Women,Semi-Final,2014-05-31,/api/v1/category_rounds/3017/results,/api/v1/events/853/result/7
+IFSC Climbing Worldcup (B) - Toronto (CAN) 2014 ,853,2014,Toronto,Boulder,Women,Final,2014-05-31,/api/v1/category_rounds/3018/results,/api/v1/events/853/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2014,854,2014,Vail,Boulder,Men,Qualification,2014-06-06,/api/v1/category_rounds/3025/results,/api/v1/events/854/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2014,854,2014,Vail,Boulder,Men,Semi-Final,2014-06-06,/api/v1/category_rounds/3026/results,/api/v1/events/854/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2014,854,2014,Vail,Boulder,Men,Final,2014-06-06,/api/v1/category_rounds/3027/results,/api/v1/events/854/result/3
+IFSC Climbing Worldcup (B) - Vail (USA) 2014,854,2014,Vail,Boulder,Women,Qualification,2014-06-06,/api/v1/category_rounds/3022/results,/api/v1/events/854/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2014,854,2014,Vail,Boulder,Women,Semi-Final,2014-06-06,/api/v1/category_rounds/3023/results,/api/v1/events/854/result/7
+IFSC Climbing Worldcup (B) - Vail (USA) 2014,854,2014,Vail,Boulder,Women,Final,2014-06-06,/api/v1/category_rounds/3024/results,/api/v1/events/854/result/7
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Qualification,2014-06-20,/api/v1/category_rounds/3036/results,/api/v1/events/855/result/1
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3037/results,/api/v1/events/855/result/1
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Men,Final,2014-06-20,/api/v1/category_rounds/3038/results,/api/v1/events/855/result/1
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Qualification,2014-06-20,/api/v1/category_rounds/3028/results,/api/v1/events/855/result/5
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3029/results,/api/v1/events/855/result/5
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Lead,Women,Final,2014-06-20,/api/v1/category_rounds/3030/results,/api/v1/events/855/result/5
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Boulder,Men,Qualification,2014-06-20,/api/v1/category_rounds/3039/results,/api/v1/events/855/result/3
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Boulder,Men,Semi-Final,2014-06-20,/api/v1/category_rounds/3040/results,/api/v1/events/855/result/3
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Boulder,Men,Final,2014-06-20,/api/v1/category_rounds/3041/results,/api/v1/events/855/result/3
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Boulder,Women,Qualification,2014-06-20,/api/v1/category_rounds/3031/results,/api/v1/events/855/result/7
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Boulder,Women,Semi-Final,2014-06-20,/api/v1/category_rounds/3032/results,/api/v1/events/855/result/7
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Boulder,Women,Final,2014-06-20,/api/v1/category_rounds/3033/results,/api/v1/events/855/result/7
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Speed,Men,Qualification,2014-06-20,/api/v1/category_rounds/3042/results,/api/v1/events/855/result/2
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Speed,Men,Final,2014-06-20,/api/v1/category_rounds/3043/results,/api/v1/events/855/result/2
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Speed,Women,Qualification,2014-06-20,/api/v1/category_rounds/3034/results,/api/v1/events/855/result/6
+"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",855,2014,Haiyang,Speed,Women,Final,2014-06-20,/api/v1/category_rounds/3035/results,/api/v1/events/855/result/6
+IFSC Climbing Worldcup (B) - Laval (FRA) 2014,856,2014,Laval,Boulder,Men,Qualification,2014-06-27,/api/v1/category_rounds/3047/results,/api/v1/events/856/result/3
+IFSC Climbing Worldcup (B) - Laval (FRA) 2014,856,2014,Laval,Boulder,Men,Semi-Final,2014-06-27,/api/v1/category_rounds/3048/results,/api/v1/events/856/result/3
+IFSC Climbing Worldcup (B) - Laval (FRA) 2014,856,2014,Laval,Boulder,Men,Final,2014-06-27,/api/v1/category_rounds/3049/results,/api/v1/events/856/result/3
+IFSC Climbing Worldcup (B) - Laval (FRA) 2014,856,2014,Laval,Boulder,Women,Qualification,2014-06-27,/api/v1/category_rounds/3044/results,/api/v1/events/856/result/7
+IFSC Climbing Worldcup (B) - Laval (FRA) 2014,856,2014,Laval,Boulder,Women,Semi-Final,2014-06-27,/api/v1/category_rounds/3045/results,/api/v1/events/856/result/7
+IFSC Climbing Worldcup (B) - Laval (FRA) 2014,856,2014,Laval,Boulder,Women,Final,2014-06-27,/api/v1/category_rounds/3046/results,/api/v1/events/856/result/7
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Qualification,2014-07-10,/api/v1/category_rounds/3055/results,/api/v1/events/857/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Semi-Final,2014-07-10,/api/v1/category_rounds/3056/results,/api/v1/events/857/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Qualification,2014-07-10,/api/v1/category_rounds/3050/results,/api/v1/events/857/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Semi-Final,2014-07-10,/api/v1/category_rounds/3051/results,/api/v1/events/857/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Men,Qualification,2014-07-10,/api/v1/category_rounds/3058/results,/api/v1/events/857/result/2
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Men,Final,2014-07-10,/api/v1/category_rounds/3059/results,/api/v1/events/857/result/2
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Qualification,2014-07-10,/api/v1/category_rounds/3053/results,/api/v1/events/857/result/6
+"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Speed,Women,Final,2014-07-10,/api/v1/category_rounds/3054/results,/api/v1/events/857/result/6
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2014,858,2014,Briançon,Lead,Men,Qualification,2014-07-19,/api/v1/category_rounds/3062/results,/api/v1/events/858/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2014,858,2014,Briançon,Lead,Men,Semi-Final,2014-07-19,/api/v1/category_rounds/3063/results,/api/v1/events/858/result/1
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2014,858,2014,Briançon,Lead,Women,Qualification,2014-07-19,/api/v1/category_rounds/3060/results,/api/v1/events/858/result/5
+IFSC Climbing Worldcup (L) - Briançon (FRA) 2014,858,2014,Briançon,Lead,Women,Semi-Final,2014-07-19,/api/v1/category_rounds/3061/results,/api/v1/events/858/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Qualification,2014-08-01,/api/v1/category_rounds/3067/results,/api/v1/events/859/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Semi-Final,2014-08-01,/api/v1/category_rounds/3068/results,/api/v1/events/859/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Men,Final,2014-08-01,/api/v1/category_rounds/3069/results,/api/v1/events/859/result/1
+IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Women,Qualification,2014-08-01,/api/v1/category_rounds/3064/results,/api/v1/events/859/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Women,Semi-Final,2014-08-01,/api/v1/category_rounds/3065/results,/api/v1/events/859/result/5
+IFSC Climbing Worldcup (L) - Imst (AUT) 2014 ,859,2014,Imst,Lead,Women,Final,2014-08-01,/api/v1/category_rounds/3066/results,/api/v1/events/859/result/5
+IFSC Climbing World Championship (B) - Munich (GER) 2014,860,2014,Munich,Boulder,Men,Qualification,2014-08-21,/api/v1/category_rounds/3073/results,/api/v1/events/860/result/3
+IFSC Climbing World Championship (B) - Munich (GER) 2014,860,2014,Munich,Boulder,Men,Semi-Final,2014-08-21,/api/v1/category_rounds/3074/results,/api/v1/events/860/result/3
+IFSC Climbing World Championship (B) - Munich (GER) 2014,860,2014,Munich,Boulder,Men,Final,2014-08-21,/api/v1/category_rounds/3075/results,/api/v1/events/860/result/3
+IFSC Climbing World Championship (B) - Munich (GER) 2014,860,2014,Munich,Boulder,Women,Qualification,2014-08-21,/api/v1/category_rounds/3070/results,/api/v1/events/860/result/7
+IFSC Climbing World Championship (B) - Munich (GER) 2014,860,2014,Munich,Boulder,Women,Semi-Final,2014-08-21,/api/v1/category_rounds/3071/results,/api/v1/events/860/result/7
+IFSC Climbing World Championship (B) - Munich (GER) 2014,860,2014,Munich,Boulder,Women,Final,2014-08-21,/api/v1/category_rounds/3072/results,/api/v1/events/860/result/7
+IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Qualification,2014-08-30,/api/v1/category_rounds/3078/results,/api/v1/events/861/result/2
+IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Men,Final,2014-08-30,/api/v1/category_rounds/3079/results,/api/v1/events/861/result/2
+IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Qualification,2014-08-30,/api/v1/category_rounds/3076/results,/api/v1/events/861/result/6
+IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,861,2014,Arco,Speed,Women,Final,2014-08-30,/api/v1/category_rounds/3077/results,/api/v1/events/861/result/6
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Qualification,2014-09-08,/api/v1/category_rounds/3085/results,/api/v1/events/862/result/1
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Semi-Final,2014-09-08,/api/v1/category_rounds/3086/results,/api/v1/events/862/result/1
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Qualification,2014-09-08,/api/v1/category_rounds/3080/results,/api/v1/events/862/result/5
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Semi-Final,2014-09-08,/api/v1/category_rounds/3081/results,/api/v1/events/862/result/5
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Women,Final,2014-09-08,/api/v1/category_rounds/3082/results,/api/v1/events/862/result/5
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Speed,Men,Qualification,2014-09-08,/api/v1/category_rounds/3088/results,/api/v1/events/862/result/2
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Speed,Men,Final,2014-09-08,/api/v1/category_rounds/3089/results,/api/v1/events/862/result/2
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Speed,Women,Qualification,2014-09-08,/api/v1/category_rounds/3083/results,/api/v1/events/862/result/6
+"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Speed,Women,Final,2014-09-08,/api/v1/category_rounds/3084/results,/api/v1/events/862/result/6
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Qualification,2014-10-11,/api/v1/category_rounds/3095/results,/api/v1/events/863/result/1
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Semi-Final,2014-10-11,/api/v1/category_rounds/3096/results,/api/v1/events/863/result/1
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Men,Final,2014-10-11,/api/v1/category_rounds/3097/results,/api/v1/events/863/result/1
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Women,Qualification,2014-10-11,/api/v1/category_rounds/3090/results,/api/v1/events/863/result/5
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Women,Semi-Final,2014-10-11,/api/v1/category_rounds/3091/results,/api/v1/events/863/result/5
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Lead,Women,Final,2014-10-11,/api/v1/category_rounds/3092/results,/api/v1/events/863/result/5
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Men,Qualification,2014-10-11,/api/v1/category_rounds/3098/results,/api/v1/events/863/result/2
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Men,Final,2014-10-11,/api/v1/category_rounds/3099/results,/api/v1/events/863/result/2
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Women,Qualification,2014-10-11,/api/v1/category_rounds/3093/results,/api/v1/events/863/result/6
+"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",863,2014,Mokpo,Speed,Women,Final,2014-10-11,/api/v1/category_rounds/3094/results,/api/v1/events/863/result/6
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Qualification,2014-10-18,/api/v1/category_rounds/3105/results,/api/v1/events/864/result/1
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Semi-Final,2014-10-18,/api/v1/category_rounds/3106/results,/api/v1/events/864/result/1
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Men,Final,2014-10-18,/api/v1/category_rounds/3107/results,/api/v1/events/864/result/1
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Qualification,2014-10-18,/api/v1/category_rounds/3100/results,/api/v1/events/864/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Semi-Final,2014-10-18,/api/v1/category_rounds/3101/results,/api/v1/events/864/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Lead,Women,Final,2014-10-18,/api/v1/category_rounds/3102/results,/api/v1/events/864/result/5
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Men,Qualification,2014-10-18,/api/v1/category_rounds/3108/results,/api/v1/events/864/result/2
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Men,Final,2014-10-18,/api/v1/category_rounds/3109/results,/api/v1/events/864/result/2
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Women,Qualification,2014-10-18,/api/v1/category_rounds/3103/results,/api/v1/events/864/result/6
+"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",864,2014,Wujiang,Speed,Women,Final,2014-10-18,/api/v1/category_rounds/3104/results,/api/v1/events/864/result/6
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Qualification,2014-10-25,/api/v1/category_rounds/3113/results,/api/v1/events/865/result/1
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Semi-Final,2014-10-25,/api/v1/category_rounds/3114/results,/api/v1/events/865/result/1
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Men,Final,2014-10-25,/api/v1/category_rounds/3115/results,/api/v1/events/865/result/1
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Women,Qualification,2014-10-25,/api/v1/category_rounds/3110/results,/api/v1/events/865/result/5
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Women,Semi-Final,2014-10-25,/api/v1/category_rounds/3111/results,/api/v1/events/865/result/5
+IFSC Climbing Worldcup (L) - Inzai (JPN) 2014 ,865,2014,Inzai,Lead,Women,Final,2014-10-25,/api/v1/category_rounds/3112/results,/api/v1/events/865/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 ,866,2014,Kranj,Lead,Men,Qualification,2014-11-15,/api/v1/category_rounds/3119/results,/api/v1/events/866/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 ,866,2014,Kranj,Lead,Men,Semi-Final,2014-11-15,/api/v1/category_rounds/3120/results,/api/v1/events/866/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 ,866,2014,Kranj,Lead,Men,Final,2014-11-15,/api/v1/category_rounds/3121/results,/api/v1/events/866/result/1
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 ,866,2014,Kranj,Lead,Women,Qualification,2014-11-15,/api/v1/category_rounds/3116/results,/api/v1/events/866/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 ,866,2014,Kranj,Lead,Women,Semi-Final,2014-11-15,/api/v1/category_rounds/3117/results,/api/v1/events/866/result/5
+IFSC Climbing Worldcup (L) - Kranj (SLO) 2014 ,866,2014,Kranj,Lead,Women,Final,2014-11-15,/api/v1/category_rounds/3118/results,/api/v1/events/866/result/5

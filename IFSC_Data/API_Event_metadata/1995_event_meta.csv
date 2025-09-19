@@ -1,0 +1,13 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup - Frankfurt 1995,143,1995,Frankfurt,Lead,Men,1995-04-06,/api/v1/events/143/result/1
+UIAA Worldcup - Frankfurt 1995,143,1995,Frankfurt,Lead,Women,1995-04-06,/api/v1/events/143/result/5
+UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Lead,Men,1995-05-05,/api/v1/events/145/result/1
+UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Lead,Women,1995-05-05,/api/v1/events/145/result/5
+UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Men,1995-05-05,/api/v1/events/145/result/2
+UIAA Worldchampionchip - Genève 1995,145,1995,Genève,Speed,Women,1995-05-05,/api/v1/events/145/result/6
+UIAA Worldcup - Moscow 1995,144,1995,Moscow,Lead,Men,1995-10-21,/api/v1/events/144/result/1
+UIAA Worldcup - Moscow 1995,144,1995,Moscow,Lead,Women,1995-10-21,/api/v1/events/144/result/5
+UIAA Worldcup - Birmingham 1995,146,1995,Birmingham,Lead,Men,1995-11-24,/api/v1/events/146/result/1
+UIAA Worldcup - Birmingham 1995,146,1995,Birmingham,Lead,Women,1995-11-24,/api/v1/events/146/result/5
+UIAA Worldcup - Aix-les-Bains 1995,147,1995,Aix-les-Bains,Lead,Men,1995-12-07,/api/v1/events/147/result/1
+UIAA Worldcup - Aix-les-Bains 1995,147,1995,Aix-les-Bains,Lead,Women,1995-12-07,/api/v1/events/147/result/5

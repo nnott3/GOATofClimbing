@@ -1,0 +1,29 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Krasavina Mariia,RUS,1,10.130,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Alekseeva Kseniia,RUS,2,10.200,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Buczek Klaudia,POL,3,10.620,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Ropek Edyta,POL,4,10.640,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Bruckner Esther,FRA,5,10.840,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Blanco Lucelia,VEN,6,11.010,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Prokopiuk Monika,POL,7,11.120,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Levochkina  Yuliya,RUS,8,11.190,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Pichler Stefanie,AUT,9,11.330,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Jaubert Anouck,FRA,10,11.350,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Polekhina Kseniya,RUS,11,11.360,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Yurina Valentina,RUS,12,11.430,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Ryepko Olena,UKR,13,11.760,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Kuznetsova Tamara,KAZ,14,11.780,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Klingler Petra,SUI,15,11.790,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+BUD Gusaim Oleksandra,UKR,16,11.860,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Boyarskikh  Ekaterina,RUS,17,11.880,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Tsyganova Anna,RUS,18,12.340,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Haag Isabell,GER,19,12.800,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Stenkovaya Anna,RUS,20,12.880,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Morandi Sara,ITA,21,13.570,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Mingolla Federica,ITA,22,13.810,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Fichtner Andrea,GER,23,14.490,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Facci Michela,ITA,24,15.010,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Wagnerova Anna,CZE,25,15.050,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Limonta Chiara,ITA,26,16.750,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Korcova Simona,SVK,27,20.780,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6
+Korcova Lucia,SVK,28,23.090,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",665,2011,Milano,Speed,Women,Qualification,2011-04-14,/api/v1/category_rounds/1636/results,/api/v1/events/665/result/6

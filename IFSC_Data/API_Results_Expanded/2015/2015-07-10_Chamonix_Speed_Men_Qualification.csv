@@ -1,0 +1,43 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Hroza Libor,CZE,1,5.820,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Boldyrev Danyil,UKR,2,5.940,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Dzienski Marcin,POL,3,6.170,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Zhong QiXin,CHN,3,6.170,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Maimuratov Amir,KAZ,5,6.210,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Mawem Bassa,FRA,5,6.210,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Moro Guillaume,FRA,7,6.270,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Kokorin Stanislav,RUS,8,6.300,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Timofeev Dmitrii,RUS,9,6.340,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Shikov Aleksandr,RUS,10,6.360,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Shilov Aleksandr,RUS,11,6.370,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Nambot Quentin,FRA,12,6.420,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Poliakov Anton,RUS,13,6.460,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Gontaryk Yaroslav,UKR,14,6.530,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Shevchenko Arsenii,RUS,15,6.570,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Santoni Alessandro,ITA,16,6.610,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Deulin Vladislav,RUS,17,6.620,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Stewart-Patterson Robert,CAN,18,6.630,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Vaitsekhovskii Evgenii,RUS,19,6.670,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Komosinski Jedrzej,POL,20,6.680,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Fossali Ludovico,ITA,21,6.930,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Halasa Rafal,POL,22,6.990,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Zama Stanislao,ITA,23,7.110,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Manosalvas Josue,ECU,24,7.150,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Gontero Leonardo,ITA,25,7.210,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Pitzel Thomas,USA,25,7.210,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Lewicki Michal,POL,27,7.330,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Estevez  Isaac,ECU,28,7.730,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Valencia Danny,ECU,29,7.910,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Kim Jungju,KOR,30,8.000,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Diachkov Maksim,RUS,31,8.330,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Wojcik Marek,POL,32,8.700,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+McColl Sean,CAN,33,8.710,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Bilodeau Francis,CAN,34,8.840,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Pasqua Tommaso,ITA,35,9.610,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Burian Petr,CZE,36,9.710,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Ghisolfi Stefano,ITA,37,9.970,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Schubert Jakob,AUT,38,11.670,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Korenaga Keiichiro,JPN,39,11.990,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Rahimkhanov  Ramel,AZE,40,12.460,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Cano Blazquez Javier,ESP,41,16.180,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2
+Flor Vazquez Jonatan,ESP,42,18.150,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",902,2015,Chamonix,Speed,Men,Qualification,2015-07-10,/api/v1/category_rounds/3454/results,/api/v1/events/902/result/2

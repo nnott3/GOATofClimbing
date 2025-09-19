@@ -1,0 +1,9 @@
+event_name,event_id,year,location,discipline,gender,start_date,event_results
+UIAA Worldcup - Beauregard (ITA) 1998,179,1998,Beauregard,Speed,Men,1998-07-31,/api/v1/events/179/result/2
+UIAA Worldcup - Beauregard (ITA) 1998,179,1998,Beauregard,Speed,Women,1998-07-31,/api/v1/events/179/result/6
+UIAA Worldcup - Courmayeur (ITA) 1998,180,1998,Courmayeur,Lead,Men,1998-09-03,/api/v1/events/180/result/1
+UIAA Worldcup - Courmayeur (ITA) 1998,180,1998,Courmayeur,Lead,Women,1998-09-03,/api/v1/events/180/result/5
+UIAA Worldcup - Milan (ITA) 1998,181,1998,Milan,Lead,Men,1998-10-08,/api/v1/events/181/result/1
+UIAA Worldcup - Milan (ITA) 1998,181,1998,Milan,Lead,Women,1998-10-08,/api/v1/events/181/result/5
+UIAA Worldcup - Kranj (SLO) 1998,182,1998,Kranj,Lead,Men,1998-11-13,/api/v1/events/182/result/1
+UIAA Worldcup - Kranj (SLO) 1998,182,1998,Kranj,Lead,Women,1998-11-13,/api/v1/events/182/result/5

@@ -1,0 +1,39 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+Escobar Manuel,VEN,1,26.090,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Vaitsekhovskii Evgenii,RUS,2,28.530,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Kosterin Alexander,RUS,3,29.950,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Peshekhonov Alexander,RUS,4,31.440,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Salimov Oleksandr,UKR,5,32.720,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Sharafutdinov Dmitrii,RUS,6,33.100,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Hroza Libor,CZE,7,33.120,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Sinitcyn Sergei,RUS,8,34.860,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Carvajal Nestor,VEN,9,35.470,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Januel Nicolas,FRA,10,36.520,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Skripov Anatoly,RUS,11,36.550,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Badia Nicolas,FRA,12,36.660,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+De Las Salas Leonel,VEN,13,36.820,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Jubes Angarita Marco Antonio,ESP,14,36.910,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Preti Lucas,ITA,15,37.200,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Vorobyev Valeriy,RUS,16,37.710,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Komondi Csaba,HUN,17,38.880,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Lau Johannes,GER,18,39.620,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Chernikov Mikhail,RUS,19,40.220,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Kaurov Ivan,RUS,20,40.290,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Chapelle Sylvain,FRA,21,41.200,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Osipov Maksym,UKR,22,41.710,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Shyshkovskyy Ivan,UKR,23,41.790,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Lopez Mateos Eric ,ESP,24,42.360,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Kryvonos Sergiy,UKR,25,43.230,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Glairon Mondet Guillaume,FRA,26,43.260,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Amann Mark,AUT,27,43.930,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Swirk Lukasz,POL,28,46.010,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Sirotti Michel,ITA,29,46.730,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Subbotin Iakov,RUS,30,47.250,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Cai LuYuan,CHN,31,48.020,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Gogol Mikhail,RUS,32,48.110,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Lai Chi-Wai,HKG,33,50.670,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Boulbahaiem Salah,BEL,34,62.060,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Juhasz Gyula,HUN,35,64.380,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Hejl Jakub,CZE,36,67.960,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Svacha Jiri,CZE,37,fall,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
+Zhong QiXin,CHN,37,fall,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,478,2007,Chamonix,Speed,Men,Qualification,2007-07-11,/api/v1/category_rounds/655/results,/api/v1/events/478/result/2
