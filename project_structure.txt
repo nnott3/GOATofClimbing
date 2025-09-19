@@ -1,0 +1,20 @@
+Data/
+└── aggregate_data/
+    ├── aggregated_results.csv
+    └── [era-specific files].csv
+
+Elo_Data/
+├── elo_history.csv
+
+utils/
+├── scraper_init.py => IFSCScraper
+├── main.py => IFSCDataManager, 
+├── data_aggregator.py => IFSCDataAggregator
+├── analysis.py => ClimbingAnalyzer
+├── elo_scoring.py => ELOCalculator
+├── streamlit_elo.py
+├── streamlit_overview.py
+├── streamlit_countries.py
+├── streamlit_athlete.py
+
+app.py
