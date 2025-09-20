@@ -1,17 +1,17 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Stenkovaya Anna,RUS,1,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Podgorbounskikh Zosia,RUS,2,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Ochtchepkova Olga,RUS,3,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Ryepko Olena,UKR,4,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Sutkina Svetlana,RUS,5,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Saulevich Olesya,RUS,6,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Yurina Valentina,RUS,7,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Titova Natalia,RUS,8,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Ryzhkova Margarita,RUS,9,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Piratinskaya Mayya,RUS,10,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Ruyga Tatiana,RUS,11,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Baranova Natalia,RUS,12,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Evstigneeva Olga,RUS,13,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Ropek Edyta,POL,14,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Gavrilova Olga,RUS,15,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
-Nilsson Kristina,SWE,15,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Stenkovaya Anna,RUS,1,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Podgorbounskikh Zosia,RUS,2,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Ochtchepkova Olga,RUS,3,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Ryepko Olena,UKR,4,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Sutkina Svetlana,RUS,5,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Saulevich Olesya,RUS,6,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Yurina Valentina,RUS,7,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Titova Natalia,RUS,8,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Ryzhkova Margarita,RUS,9,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Piratinskaya Mayya,RUS,10,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Ruyga Tatiana,RUS,11,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Baranova Natalia,RUS,12,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Evstigneeva Olga,RUS,13,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Ropek Edyta,POL,14,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Gavrilova Olga,RUS,15,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv
+Nilsson Kristina,SWE,15,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (B+S),308,2003,Yekaterinburg,Speed,Women,2003-05-30,/api/v1/events/308/result/6,2003-05-30_Yekaterinburg_Speed_Women_no-round.csv

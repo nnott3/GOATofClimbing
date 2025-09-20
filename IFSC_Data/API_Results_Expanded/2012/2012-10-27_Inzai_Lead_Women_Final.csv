@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,Top
-Kim Jain,KOR,2,51+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,51+
-Vidmar Maja,SLO,3,49+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,49+
-Ernst Johanna,AUT,4,47+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,47+
-Oda Momoka,JPN,5,47+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,47+
-Noguchi Akiyo,JPN,6,47+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,47+
-Fakhritdinova Dinara,RUS,7,46,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,46
-Durif Charlotte,FRA,8,45+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,45+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Markovic Mina,SLO,1,Top,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,Top,2012-10-27_Inzai_Lead_Women_Final.csv
+Kim Jain,KOR,2,51+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,51+,2012-10-27_Inzai_Lead_Women_Final.csv
+Vidmar Maja,SLO,3,49+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,49+,2012-10-27_Inzai_Lead_Women_Final.csv
+Ernst Johanna,AUT,4,47+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,47+,2012-10-27_Inzai_Lead_Women_Final.csv
+Oda Momoka,JPN,5,47+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,47+,2012-10-27_Inzai_Lead_Women_Final.csv
+Noguchi Akiyo,JPN,6,47+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,47+,2012-10-27_Inzai_Lead_Women_Final.csv
+Fakhritdinova Dinara,RUS,7,46,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,46,2012-10-27_Inzai_Lead_Women_Final.csv
+Durif Charlotte,FRA,8,45+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5,45+,2012-10-27_Inzai_Lead_Women_Final.csv

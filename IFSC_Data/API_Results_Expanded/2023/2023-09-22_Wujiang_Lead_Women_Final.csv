@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Mori Ai,JPN,1,36+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,36+
-Pilz Jessica,AUT,2,31+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,31+
-TANII Natsuki,JPN,3,26+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,26+
-Zhang YUETONG,CHN,4,22+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,22+
-ITO Futaba,JPN,5,22,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,22
-Nonaka Miho,JPN,6,21+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,21+
-KIM Jain,KOR,7,20+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,20+
-Hily Manon,FRA,8,17+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,17+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Mori Ai,JPN,1,36+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,36+,2023-09-22_Wujiang_Lead_Women_Final.csv
+Pilz Jessica,AUT,2,31+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,31+,2023-09-22_Wujiang_Lead_Women_Final.csv
+TANII Natsuki,JPN,3,26+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,26+,2023-09-22_Wujiang_Lead_Women_Final.csv
+Zhang YUETONG,CHN,4,22+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,22+,2023-09-22_Wujiang_Lead_Women_Final.csv
+ITO Futaba,JPN,5,22,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,22,2023-09-22_Wujiang_Lead_Women_Final.csv
+Nonaka Miho,JPN,6,21+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,21+,2023-09-22_Wujiang_Lead_Women_Final.csv
+KIM Jain,KOR,7,20+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,20+,2023-09-22_Wujiang_Lead_Women_Final.csv
+Hily Manon,FRA,8,17+,IFSC World Cup Wujiang 2023,1303,2023,Wujiang,Lead,Women,Final,2023-09-22,/api/v1/category_rounds/8503/results,/api/v1/events/1303/result/5,17+,2023-09-22_Wujiang_Lead_Women_Final.csv

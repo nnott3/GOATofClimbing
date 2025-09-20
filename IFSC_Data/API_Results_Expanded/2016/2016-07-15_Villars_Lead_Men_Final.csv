@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-McColl Sean,CAN,1,28+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,28+
-Korenaga Keiichiro,JPN,2,25+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,25+
-Joannes Thomas,FRA,3,25+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,25+
-Bailey Sean,USA,4,24+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,24+
-Primozic Urban,SLO,5,22,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,22
-Schubert Jakob,AUT,6,19,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,19
-Higuchi Masahiro,JPN,7,19,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,19
-Fujii Kokoro,JPN,8,17,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,17
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+McColl Sean,CAN,1,28+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,28+,2016-07-15_Villars_Lead_Men_Final.csv
+Korenaga Keiichiro,JPN,2,25+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,25+,2016-07-15_Villars_Lead_Men_Final.csv
+Joannes Thomas,FRA,3,25+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,25+,2016-07-15_Villars_Lead_Men_Final.csv
+Bailey Sean,USA,4,24+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,24+,2016-07-15_Villars_Lead_Men_Final.csv
+Primozic Urban,SLO,5,22,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,22,2016-07-15_Villars_Lead_Men_Final.csv
+Schubert Jakob,AUT,6,19,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,19,2016-07-15_Villars_Lead_Men_Final.csv
+Higuchi Masahiro,JPN,7,19,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,19,2016-07-15_Villars_Lead_Men_Final.csv
+Fujii Kokoro,JPN,8,17,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",945,2016,Villars,Lead,Men,Final,2016-07-15,/api/v1/category_rounds/3863/results,/api/v1/events/945/result/1,17,2016-07-15_Villars_Lead_Men_Final.csv

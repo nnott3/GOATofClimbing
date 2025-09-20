@@ -1,10 +1,10 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Usobiaga Lakunza Patxi,ESP,1,44+,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,44+
-Julian  Puigblanque Ramón ,ESP,2,40-,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,40-
-Amma Sachi,JPN,3,40-,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,40-
-Ondra Adam,CZE,4,40-,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,40-
-Lama David,AUT,5,37-,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,37-
-Schubert Jakob,AUT,6,36,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,36
-Son Sangwon,KOR,7,36-,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,36-
-Min Hyunbin,KOR,8,32+,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,32+
-Desgranges Romain,FRA,9,24+,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,24+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Usobiaga Lakunza Patxi,ESP,1,44+,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,44+,2010-08-28_Chuncheon_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,2,40-,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,40-,2010-08-28_Chuncheon_Lead_Men_Final.csv
+Amma Sachi,JPN,3,40-,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,40-,2010-08-28_Chuncheon_Lead_Men_Final.csv
+Ondra Adam,CZE,4,40-,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,40-,2010-08-28_Chuncheon_Lead_Men_Final.csv
+Lama David,AUT,5,37-,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,37-,2010-08-28_Chuncheon_Lead_Men_Final.csv
+Schubert Jakob,AUT,6,36,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,36,2010-08-28_Chuncheon_Lead_Men_Final.csv
+Son Sangwon,KOR,7,36-,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,36-,2010-08-28_Chuncheon_Lead_Men_Final.csv
+Min Hyunbin,KOR,8,32+,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,32+,2010-08-28_Chuncheon_Lead_Men_Final.csv
+Desgranges Romain,FRA,9,24+,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",619,2010,Chuncheon,Lead,Men,Final,2010-08-28,/api/v1/category_rounds/1433/results,/api/v1/events/619/result/1,24+,2010-08-28_Chuncheon_Lead_Men_Final.csv

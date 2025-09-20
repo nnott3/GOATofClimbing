@@ -1,47 +1,47 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Pons Pedro,ESP,1,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-DU LAC Daniel,FRA,2,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Meyer Jérôme,FRA,3,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-ANDRADA JIMENEZ Daniel,ESP,4,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Julien Stephane,FRA,5,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Core Christian,ITA,6,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Tuscan Frédéric,FRA,7,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Meral Julien,FRA,8,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Golob Jurij,SLO,9,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Fairfield Timmy,CAN,10,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Rakhmetov Salavat,RUS,11,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Noe Frédéric,FRA,12,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Danis Jean Luc,FRA,13,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Dutray Mathieu,FRA,14,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Cehovin Urh,SLO,15,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Sabthier Benoit,FRA,16,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Kazbekov Serik,UKR,17,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Okano Hiroshi,JPN,18,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Aunet Jimmy,FRA,19,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Pont Gabriel,FRA,20,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Müller Matthias,SUI,21,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Ceccaldi Jérome,FRA,22,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Philippe Jonathan,FRA,23,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Kryvosheytsev Yevgen,UKR,24,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Daures Luc,FRA,25,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Scarian Riccardo,ITA,26,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Jeandenand Damien,FRA,27,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Chau-Uhu Olivier,FRA,28,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Chabot Alexandre,FRA,29,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-De Girolamo Vincent,FRA,30,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Haager Benedikt,GER,31,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Gadenz Yuri,ITA,32,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Umnitsyn Mikhail,RUS,32,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Felgerolle Benjamin,FRA,34,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Pinier Nicolas,FRA,35,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Littlefair Stuart,GBR,36,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Foubert Benoît,FRA,37,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Allard Hugo,FRA,38,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Afonso Daniel,FRA,39,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Loubriat Jocelyn,FRA,40,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Chapelle Sylvain,FRA,41,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Misson Robin,FRA,42,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Ovchinnikov Evgeny,RUS,43,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Boure Denis,FRA,44,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Louvet Jérome,FRA,45,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
-Morozkine Oleg,RUS,46,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Pons Pedro,ESP,1,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+DU LAC Daniel,FRA,2,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Meyer Jérôme,FRA,3,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+ANDRADA JIMENEZ Daniel,ESP,4,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Julien Stephane,FRA,5,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Core Christian,ITA,6,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Tuscan Frédéric,FRA,7,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Meral Julien,FRA,8,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Golob Jurij,SLO,9,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Fairfield Timmy,CAN,10,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Rakhmetov Salavat,RUS,11,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Noe Frédéric,FRA,12,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Danis Jean Luc,FRA,13,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Dutray Mathieu,FRA,14,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Cehovin Urh,SLO,15,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Sabthier Benoit,FRA,16,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Kazbekov Serik,UKR,17,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Okano Hiroshi,JPN,18,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Aunet Jimmy,FRA,19,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Pont Gabriel,FRA,20,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Müller Matthias,SUI,21,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Ceccaldi Jérome,FRA,22,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Philippe Jonathan,FRA,23,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Kryvosheytsev Yevgen,UKR,24,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Daures Luc,FRA,25,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Scarian Riccardo,ITA,26,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Jeandenand Damien,FRA,27,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Chau-Uhu Olivier,FRA,28,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Chabot Alexandre,FRA,29,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+De Girolamo Vincent,FRA,30,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Haager Benedikt,GER,31,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Gadenz Yuri,ITA,32,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Umnitsyn Mikhail,RUS,32,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Felgerolle Benjamin,FRA,34,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Pinier Nicolas,FRA,35,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Littlefair Stuart,GBR,36,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Foubert Benoît,FRA,37,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Allard Hugo,FRA,38,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Afonso Daniel,FRA,39,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Loubriat Jocelyn,FRA,40,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Chapelle Sylvain,FRA,41,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Misson Robin,FRA,42,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Ovchinnikov Evgeny,RUS,43,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Boure Denis,FRA,44,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Louvet Jérome,FRA,45,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv
+Morozkine Oleg,RUS,46,,UIAA Worldcup - Grenoble (FRA) 2000,221,2000,Grenoble,Boulder,Men,2000-08-31,/api/v1/events/221/result/3,2000-08-31_Grenoble_Boulder_Men_no-round.csv

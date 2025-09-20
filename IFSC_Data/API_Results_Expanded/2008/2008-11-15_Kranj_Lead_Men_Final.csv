@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Becan Klemen,SLO,1,29,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,29
-Verhoeven Jorg,NED,2,29-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,29-
-Usobiaga Lakunza Patxi,ESP,3,26-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,26-
-Mrázek Tomás,CZE,4,25-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,25-
-Schubert Jakob,AUT,5,25-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,25-
-Lachat Cédric,SUI,6,24.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,24.5
-Guerimand Flavien,FRA,7,15-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,15-
-Amma Sachi,JPN,8,15-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,15-
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Becan Klemen,SLO,1,29,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,29,2008-11-15_Kranj_Lead_Men_Final.csv
+Verhoeven Jorg,NED,2,29-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,29-,2008-11-15_Kranj_Lead_Men_Final.csv
+Usobiaga Lakunza Patxi,ESP,3,26-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,26-,2008-11-15_Kranj_Lead_Men_Final.csv
+Mrázek Tomás,CZE,4,25-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,25-,2008-11-15_Kranj_Lead_Men_Final.csv
+Schubert Jakob,AUT,5,25-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,25-,2008-11-15_Kranj_Lead_Men_Final.csv
+Lachat Cédric,SUI,6,24.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,24.5,2008-11-15_Kranj_Lead_Men_Final.csv
+Guerimand Flavien,FRA,7,15-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,15-,2008-11-15_Kranj_Lead_Men_Final.csv
+Amma Sachi,JPN,8,15-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2008,526,2008,Kranj,Lead,Men,Final,2008-11-15,/api/v1/category_rounds/938/results,/api/v1/events/526/result/1,15-,2008-11-15_Kranj_Lead_Men_Final.csv

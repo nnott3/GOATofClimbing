@@ -1,28 +1,28 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Styenkovyy Maksym,UKR,1,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Chaoulsky Alexandre,RUS,2,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Peshekhonov Alexander,RUS,3,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Netsvetaev-Dolgalev Vladimir,RUS,4,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Gadeev Alexei,RUS,5,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Baranov Vladislav,RUS,6,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Toni Firmansyah,INA,7,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Soubbotine Iakov,RUS,8,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Kozmine Daniil,RUS,9,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Sergeyev (Liachenko) Alexandre,RUS,10,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Khaidarchine Dmitri,RUS,11,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Komondi Csaba,HUN,12,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Rosyid Nurrahman,INA,13,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Kim Dong-Sik,KOR,14,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Gozum Erwin,PHI,15,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Abdullah Daniel,MAS,16,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Cho Kyu-Bog,KOR,17,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Lai Chi-Wai,HKG,18,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Mohd Yazid Bin Mohd Yusof,SGP,19,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Cao Rongwu,CHN,20,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Charafoutdinov Denis,RUS,21,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Muhd Hatta,SGP,22,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Rozihan Bin Anwar,SGP,23,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Huang Zhifeng,CHN,24,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-ZHAO Lei,CHN,25,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Chao Tzu-Kai,TPE,26,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
-Bin Affandi Azizul,MAS,27,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Styenkovyy Maksym,UKR,1,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Chaoulsky Alexandre,RUS,2,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Peshekhonov Alexander,RUS,3,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Netsvetaev-Dolgalev Vladimir,RUS,4,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Gadeev Alexei,RUS,5,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Baranov Vladislav,RUS,6,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Toni Firmansyah,INA,7,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Soubbotine Iakov,RUS,8,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Kozmine Daniil,RUS,9,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Sergeyev (Liachenko) Alexandre,RUS,10,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Khaidarchine Dmitri,RUS,11,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Komondi Csaba,HUN,12,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Rosyid Nurrahman,INA,13,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Kim Dong-Sik,KOR,14,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Gozum Erwin,PHI,15,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Abdullah Daniel,MAS,16,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Cho Kyu-Bog,KOR,17,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Lai Chi-Wai,HKG,18,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Mohd Yazid Bin Mohd Yusof,SGP,19,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Cao Rongwu,CHN,20,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Charafoutdinov Denis,RUS,21,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Muhd Hatta,SGP,22,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Rozihan Bin Anwar,SGP,23,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Huang Zhifeng,CHN,24,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+ZHAO Lei,CHN,25,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Chao Tzu-Kai,TPE,26,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv
+Bin Affandi Azizul,MAS,27,,UIAA Worldcup - Kuala Lumpur (MAS) 2001,247,2001,Kuala Lumpur,Speed,Men,2001-11-02,/api/v1/events/247/result/2,2001-11-02_Kuala Lumpur_Speed_Men_no-round.csv

@@ -1,22 +1,22 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Vaitsekhovskii Evgenii,RUS,1,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Rozak Erianto,INA,2,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Asmoro Galar Pandu,INA,3,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Yulianto Abudzar,INA,4,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Lai Chi-Wai,HKG,5,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Kosterin Alexander,RUS,6,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Komondi Csaba,HUN,7,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Wahid Syafiq Utama Abdul,SGP,8,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Escobar Manuel,VEN,9,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Muhd Zaki bin Ramli,SGP,10,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Peshekhonov Alexander,RUS,11,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Fernandez Gary Leon,SGP,12,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Hafnizam Bakhori,MAS,13,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-De Las Salas Leonel,VEN,14,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Carvajal Nestor,VEN,15,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Masdari Zakariaya,MAS,16,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Irit Susanto,INA,17,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Mohd Yusoff Muhammad Ridzuan,SGP,18,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Muhamad Uzair,SGP,19,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Ron Ho,SGP,20,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
-Jaafar Mohd Tarmizi,MAS,21,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Vaitsekhovskii Evgenii,RUS,1,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Rozak Erianto,INA,2,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Asmoro Galar Pandu,INA,3,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Yulianto Abudzar,INA,4,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Lai Chi-Wai,HKG,5,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Kosterin Alexander,RUS,6,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Komondi Csaba,HUN,7,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Wahid Syafiq Utama Abdul,SGP,8,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Escobar Manuel,VEN,9,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Muhd Zaki bin Ramli,SGP,10,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Peshekhonov Alexander,RUS,11,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Fernandez Gary Leon,SGP,12,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Hafnizam Bakhori,MAS,13,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+De Las Salas Leonel,VEN,14,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Carvajal Nestor,VEN,15,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Masdari Zakariaya,MAS,16,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Irit Susanto,INA,17,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Mohd Yusoff Muhammad Ridzuan,SGP,18,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Muhamad Uzair,SGP,19,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Ron Ho,SGP,20,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv
+Jaafar Mohd Tarmizi,MAS,21,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Men,2006-08-05,/api/v1/events/436/result/2,2006-08-05_Singapore_Speed_Men_no-round.csv

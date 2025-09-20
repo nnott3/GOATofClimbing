@@ -1,37 +1,37 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Lama David,AUT,1,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Usobiaga Lakunza Patxi,ESP,2,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Crespi Flavio,ITA,3,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Julian  Puigblanque Ramón ,ESP,3,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Mrázek Tomás,CZE,3,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Verhoeven Jorg,NED,6,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Lachat Cédric,SUI,7,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Marin Garcia Eduard,ESP,8,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Zardini Luca,ITA,9,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Midtboe Magnus,NOR,10,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Millet Sylvain,FRA,11,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Droetto Fabrizio,ITA,12,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Fuselier Michaël,FRA,13,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Bindhammer Christian,GER,14,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Fischhuber Kilian,AUT,14,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Winkler Daniel,SUI,14,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Comina Fabien,FRA,17,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-McColl Sean,CAN,18,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Jaggi Martin,SUI,19,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Dugit Stephane,FRA,20,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Guerimand Flavien,FRA,21,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Caude David,FRA,22,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Becan Klemen,SLO,23,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Sova Matej,SLO,24,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Pintar Matevz,SLO,25,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Romain Manuel,FRA,26,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Hequin Olivier,FRA,27,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Pekarev Mikhail,RUS,27,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Desgranges Romain,FRA,29,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Gambaro Matteo,ITA,29,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Berezoski André,BRA,31,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Reis Jürgen,AUT,32,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Gusak Igor,UKR,33,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-De Mattia Nicola,ITA,34,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Htenas Athanasios,GRE,35,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
-Kolokas Ioannis,GRE,36,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Lama David,AUT,1,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,2,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Crespi Flavio,ITA,3,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,3,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Mrázek Tomás,CZE,3,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,6,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Lachat Cédric,SUI,7,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Marin Garcia Eduard,ESP,8,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Zardini Luca,ITA,9,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Midtboe Magnus,NOR,10,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Millet Sylvain,FRA,11,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Droetto Fabrizio,ITA,12,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Fuselier Michaël,FRA,13,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Bindhammer Christian,GER,14,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Fischhuber Kilian,AUT,14,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Winkler Daniel,SUI,14,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Comina Fabien,FRA,17,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+McColl Sean,CAN,18,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Jaggi Martin,SUI,19,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Dugit Stephane,FRA,20,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Guerimand Flavien,FRA,21,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Caude David,FRA,22,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Becan Klemen,SLO,23,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Sova Matej,SLO,24,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Pintar Matevz,SLO,25,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Romain Manuel,FRA,26,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Hequin Olivier,FRA,27,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Pekarev Mikhail,RUS,27,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Desgranges Romain,FRA,29,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Gambaro Matteo,ITA,29,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Berezoski André,BRA,31,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Reis Jürgen,AUT,32,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Gusak Igor,UKR,33,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+De Mattia Nicola,ITA,34,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Htenas Athanasios,GRE,35,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv
+Kolokas Ioannis,GRE,36,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Men,2006-11-11,/api/v1/events/441/result/1,2006-11-11_Penne_Lead_Men_no-round.csv

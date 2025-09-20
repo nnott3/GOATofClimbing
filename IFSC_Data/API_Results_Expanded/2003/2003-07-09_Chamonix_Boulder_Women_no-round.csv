@@ -1,40 +1,40 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Levet Sandrine,FRA,1,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Perlova Nataliya,UKR,2,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Rogeaux Fanny,FRA,3,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Bibik Olga,RUS,4,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Danion Juliette,FRA,5,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Kotasova-Kostruhova Vera,CZE,6,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Chereshneva Venera,RUS,7,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Shalagina Olga,UKR,8,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Motteau Myriam,FRA,9,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Abramchuk Yulia,RUS,10,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Marchisio Stella,ITA,11,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Theroux Corinne,FRA,12,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Berry Samantha,AUS,13,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Giammarco Giulia,ITA,14,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Bacher Barbara,AUT,15,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Aguirre Leire,ESP,16,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Ritsch Isabella,AUT,17,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Ogawa Tomoko,JPN,18,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Harrington Emily,USA,19,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Iakovleva Olga,RUS,20,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Rands Lisa,USA,21,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Stämberg Malin,SWE,22,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Cintalova Katarina,SVK,23,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Lipenska Helena,CZE,24,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Anthoni Kim,BEL,25,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Hendrawati Agung Ethi,INA,26,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Kugler Eliza,POL,27,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Cintalova Zuzana,SVK,28,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Lind Angelica,SWE,29,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Ropek Edyta,POL,30,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-De Grandi Stefania,ITA,31,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Martindale Alison,GBR,32,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Rivett Christina,DEN,33,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Förander Jenny,SWE,34,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Stendal Linn Karin,NOR,35,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Hawke Emma,NZL,36,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Jensen Sheila,DEN,37,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Kero Mia,SWE,37,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
-Pieper Irene,NED,37,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Levet Sandrine,FRA,1,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Perlova Nataliya,UKR,2,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Rogeaux Fanny,FRA,3,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Bibik Olga,RUS,4,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Danion Juliette,FRA,5,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Kotasova-Kostruhova Vera,CZE,6,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Chereshneva Venera,RUS,7,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Shalagina Olga,UKR,8,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Motteau Myriam,FRA,9,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Abramchuk Yulia,RUS,10,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Marchisio Stella,ITA,11,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Theroux Corinne,FRA,12,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Berry Samantha,AUS,13,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Giammarco Giulia,ITA,14,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Bacher Barbara,AUT,15,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Aguirre Leire,ESP,16,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Ritsch Isabella,AUT,17,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Ogawa Tomoko,JPN,18,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Harrington Emily,USA,19,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Iakovleva Olga,RUS,20,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Rands Lisa,USA,21,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Stämberg Malin,SWE,22,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Cintalova Katarina,SVK,23,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Lipenska Helena,CZE,24,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Anthoni Kim,BEL,25,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Hendrawati Agung Ethi,INA,26,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Kugler Eliza,POL,27,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Cintalova Zuzana,SVK,28,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Lind Angelica,SWE,29,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Ropek Edyta,POL,30,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+De Grandi Stefania,ITA,31,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Martindale Alison,GBR,32,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Rivett Christina,DEN,33,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Förander Jenny,SWE,34,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Stendal Linn Karin,NOR,35,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Hawke Emma,NZL,36,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Jensen Sheila,DEN,37,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Kero Mia,SWE,37,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv
+Pieper Irene,NED,37,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Boulder,Women,2003-07-09,/api/v1/events/315/result/7,2003-07-09_Chamonix_Boulder_Women_no-round.csv

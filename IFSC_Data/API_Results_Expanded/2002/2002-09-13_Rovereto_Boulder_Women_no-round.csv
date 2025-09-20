@@ -1,30 +1,30 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Motteau Myriam,FRA,1,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Lee Lauren,USA,2,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Perlova Nataliya,UKR,3,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Lavarda Jenny,ITA,4,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Ritsch Isabella,AUT,5,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Iakovleva Olga,RUS,6,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Kotasova-Kostruhova Vera,CZE,7,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Haager Nicola,GER,8,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Son Mélanie,FRA,9,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Rogeaux Fanny,FRA,10,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Aguirre Leire,ESP,11,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-De Grandi Stefania,ITA,12,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Marchisio Stella,ITA,13,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Giammarco Giulia,ITA,14,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Abgrall Emilie,FRA,15,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Theroux Corinne,FRA,16,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Minoret Chloé,FRA,17,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Martin Sancho Berta,ESP,18,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Bacher Barbara,AUT,19,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Martindale Alison,GBR,19,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Abramchuk Yulia,RUS,21,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Nieselt Eva,GER,22,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Hughes Lucinda,GBR,23,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Gaggero Flavia,ITA,24,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Ogawa Tomoko,JPN,25,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Renwick Sadie,GBR,26,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Decorps Tiffen,FRA,27,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Gordon Jo,GBR,27,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
-Hawke Emma,NZL,27,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Motteau Myriam,FRA,1,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Lee Lauren,USA,2,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Perlova Nataliya,UKR,3,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Lavarda Jenny,ITA,4,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Ritsch Isabella,AUT,5,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Iakovleva Olga,RUS,6,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Kotasova-Kostruhova Vera,CZE,7,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Haager Nicola,GER,8,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Son Mélanie,FRA,9,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Rogeaux Fanny,FRA,10,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Aguirre Leire,ESP,11,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+De Grandi Stefania,ITA,12,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Marchisio Stella,ITA,13,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Giammarco Giulia,ITA,14,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Abgrall Emilie,FRA,15,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Theroux Corinne,FRA,16,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Minoret Chloé,FRA,17,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Martin Sancho Berta,ESP,18,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Bacher Barbara,AUT,19,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Martindale Alison,GBR,19,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Abramchuk Yulia,RUS,21,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Nieselt Eva,GER,22,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Hughes Lucinda,GBR,23,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Gaggero Flavia,ITA,24,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Ogawa Tomoko,JPN,25,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Renwick Sadie,GBR,26,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Decorps Tiffen,FRA,27,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Gordon Jo,GBR,27,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv
+Hawke Emma,NZL,27,,UIAA Worldcup - Rovereto (ITA) 2002,285,2002,Rovereto,Boulder,Women,2002-09-13,/api/v1/events/285/result/7,2002-09-13_Rovereto_Boulder_Women_no-round.csv

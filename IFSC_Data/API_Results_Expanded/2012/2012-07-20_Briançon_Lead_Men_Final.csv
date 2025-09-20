@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Amma Sachi,JPN,1,53+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,53+
-McColl Sean,CAN,2,50+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,50+
-Schubert Jakob,AUT,3,49,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,49
-Midtboe Magnus,NOR,4,48+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,48+
-Desgranges Romain,FRA,5,44,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,44
-Ghisolfi Stefano,ITA,6,44,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,44
-Julian  Puigblanque Ramón ,ESP,7,38+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,38+
-Min Hyunbin,KOR,8,15,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,15
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Amma Sachi,JPN,1,53+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,53+,2012-07-20_Briançon_Lead_Men_Final.csv
+McColl Sean,CAN,2,50+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,50+,2012-07-20_Briançon_Lead_Men_Final.csv
+Schubert Jakob,AUT,3,49,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,49,2012-07-20_Briançon_Lead_Men_Final.csv
+Midtboe Magnus,NOR,4,48+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,48+,2012-07-20_Briançon_Lead_Men_Final.csv
+Desgranges Romain,FRA,5,44,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,44,2012-07-20_Briançon_Lead_Men_Final.csv
+Ghisolfi Stefano,ITA,6,44,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,44,2012-07-20_Briançon_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,7,38+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,38+,2012-07-20_Briançon_Lead_Men_Final.csv
+Min Hyunbin,KOR,8,15,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1,15,2012-07-20_Briançon_Lead_Men_Final.csv

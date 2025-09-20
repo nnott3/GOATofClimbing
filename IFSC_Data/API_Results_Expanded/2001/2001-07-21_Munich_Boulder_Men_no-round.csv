@@ -1,51 +1,51 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-ANDRADA JIMENEZ Daniel,ESP,1,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Oleksy Tomasz,POL,2,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Meyer Jérôme,FRA,3,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Rakhmetov Salavat,RUS,4,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Julien Stephane,FRA,5,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Calibani Mauro,ITA,6,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Pons Aleman Juan,ESP,7,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Tuscan Frédéric,FRA,8,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Jourjon Jean Baptiste,FRA,9,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Core Christian,ITA,10,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Meral Julien,FRA,11,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Dard Yohann,FRA,12,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Borowka Karsten,GER,13,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Golob Jurij,SLO,14,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Okano Hiroshi,JPN,15,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Stack John,USA,16,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Lachat Raphaël,SUI,17,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Scarian Riccardo,ITA,18,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Brunn Manuel,GER,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Carrion Obel,USA,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Parry Gareth,GBR,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Soucek Radovah,CZE,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Vedenmeer Andrey,UKR,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Zitnik Primoz,SLO,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Bychkov Dmitrii,RUS,25,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Sanganas Enrico,GER,25,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Schönenberger Urs,SUI,25,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Gaidioz Loïc,FRA,28,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Neuhaus Thorsten,GER,29,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Haager Benedikt,GER,30,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Meikl Alexander,AUT,30,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Chrastina Andrej,SVK,32,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Müller Matthias,SUI,32,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Rant Blaz,SLO,34,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Teijsse Dennis,NED,35,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Gisler David,SUI,36,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Miyabo Yuji,JPN,37,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Macias Matutano Bruno,ESP,38,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Dutray Mathieu,FRA,39,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Berger Yannick,FRA,40,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Doubravsk Tomasz,CZE,41,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Konstantakopoulos Theodoros,GRE,42,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Lamprecht Anton,GER,43,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Archambault Dan,CAN,44,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Zakharov Vladimir,UKR,44,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Maruki Futoshi,JPN,46,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Kozmine Daniil,RUS,47,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Bloch Elliot,USA,48,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Douloub Iouri,RUS,48,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
-Sharma Chris,USA,999,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+ANDRADA JIMENEZ Daniel,ESP,1,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Oleksy Tomasz,POL,2,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Meyer Jérôme,FRA,3,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Rakhmetov Salavat,RUS,4,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Julien Stephane,FRA,5,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Calibani Mauro,ITA,6,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Pons Aleman Juan,ESP,7,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Tuscan Frédéric,FRA,8,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Jourjon Jean Baptiste,FRA,9,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Core Christian,ITA,10,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Meral Julien,FRA,11,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Dard Yohann,FRA,12,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Borowka Karsten,GER,13,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Golob Jurij,SLO,14,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Okano Hiroshi,JPN,15,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Stack John,USA,16,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Lachat Raphaël,SUI,17,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Scarian Riccardo,ITA,18,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Brunn Manuel,GER,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Carrion Obel,USA,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Parry Gareth,GBR,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Soucek Radovah,CZE,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Vedenmeer Andrey,UKR,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Zitnik Primoz,SLO,19,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Bychkov Dmitrii,RUS,25,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Sanganas Enrico,GER,25,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Schönenberger Urs,SUI,25,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Gaidioz Loïc,FRA,28,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Neuhaus Thorsten,GER,29,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Haager Benedikt,GER,30,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Meikl Alexander,AUT,30,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Chrastina Andrej,SVK,32,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Müller Matthias,SUI,32,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Rant Blaz,SLO,34,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Teijsse Dennis,NED,35,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Gisler David,SUI,36,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Miyabo Yuji,JPN,37,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Macias Matutano Bruno,ESP,38,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Dutray Mathieu,FRA,39,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Berger Yannick,FRA,40,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Doubravsk Tomasz,CZE,41,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Konstantakopoulos Theodoros,GRE,42,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Lamprecht Anton,GER,43,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Archambault Dan,CAN,44,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Zakharov Vladimir,UKR,44,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Maruki Futoshi,JPN,46,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Kozmine Daniil,RUS,47,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Bloch Elliot,USA,48,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Douloub Iouri,RUS,48,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv
+Sharma Chris,USA,999,,UIAA Worldcup - Munich (GER ) 2001,242,2001,Munich,Boulder,Men,2001-07-21,/api/v1/events/242/result/3,2001-07-21_Munich_Boulder_Men_no-round.csv

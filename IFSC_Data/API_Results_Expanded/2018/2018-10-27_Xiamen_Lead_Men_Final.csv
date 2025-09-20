@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Skofic Domen,SLO,1,45+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,45+
-Ghisolfi Stefano,ITA,2,45+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,45+
-Min Hyunbin,KOR,3,38+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,38+
-Nishida Hidemasa,JPN,4,23,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,23
-Homma Taisei,JPN,5,20+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,20+
-Desgranges Romain,FRA,6,20+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,20+
-Hada Yuki,JPN,7,20+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,20+
-Lehmann Sascha,SUI,8,20+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,20+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Skofic Domen,SLO,1,45+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,45+,2018-10-27_Xiamen_Lead_Men_Final.csv
+Ghisolfi Stefano,ITA,2,45+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,45+,2018-10-27_Xiamen_Lead_Men_Final.csv
+Min Hyunbin,KOR,3,38+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,38+,2018-10-27_Xiamen_Lead_Men_Final.csv
+Nishida Hidemasa,JPN,4,23,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,23,2018-10-27_Xiamen_Lead_Men_Final.csv
+Homma Taisei,JPN,5,20+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,20+,2018-10-27_Xiamen_Lead_Men_Final.csv
+Desgranges Romain,FRA,6,20+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,20+,2018-10-27_Xiamen_Lead_Men_Final.csv
+Hada Yuki,JPN,7,20+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,20+,2018-10-27_Xiamen_Lead_Men_Final.csv
+Lehmann Sascha,SUI,8,20+,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",1060,2018,Xiamen,Lead,Men,Final,2018-10-27,/api/v1/category_rounds/5027/results,/api/v1/events/1060/result/1,20+,2018-10-27_Xiamen_Lead_Men_Final.csv

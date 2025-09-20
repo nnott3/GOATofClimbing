@@ -1,28 +1,28 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Julian  Puigblanque Ramón ,ESP,1,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Verhoeven Jorg,NED,2,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Lachat Cédric,SUI,3,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Mrázek Tomás,CZE,4,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Zardini Luca,ITA,5,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Crespi Flavio,ITA,6,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Hoppe Markus,GER,7,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Liu Changzhong,CHN,8,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Amma Sachi,JPN,9,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Caude David,FRA,10,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Desgranges Romain,FRA,10,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Millet Sylvain,FRA,10,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Preußler Timo,GER,10,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Usobiaga Lakunza Patxi,ESP,14,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Ito Hidekazu,JPN,15,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Ozawa Shinta,JPN,16,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Bokhari Hafzanizam,MAS,17,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Cao Rongwu,CHN,18,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Ye Xiangyang,CHN,19,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-"Koh Zher Yeow, Jay",SGP,20,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Chu Ka-Wai,HKG,21,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-"Low Kien Seong, Francis",MAS,22,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Chang Yeu-Shiang,TPE,23,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Lok Chi-Wai,HKG,24,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Abu Hassan Khairul Hafiz,MAS,25,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Huang Kuo-Wei,TPE,26,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
-Uzair Muhamad,SGP,27,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Julian  Puigblanque Ramón ,ESP,1,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,2,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Lachat Cédric,SUI,3,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Mrázek Tomás,CZE,4,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Zardini Luca,ITA,5,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Crespi Flavio,ITA,6,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Hoppe Markus,GER,7,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Liu Changzhong,CHN,8,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Amma Sachi,JPN,9,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Caude David,FRA,10,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Desgranges Romain,FRA,10,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Millet Sylvain,FRA,10,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Preußler Timo,GER,10,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,14,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Ito Hidekazu,JPN,15,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Ozawa Shinta,JPN,16,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Bokhari Hafzanizam,MAS,17,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Cao Rongwu,CHN,18,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Ye Xiangyang,CHN,19,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+"Koh Zher Yeow, Jay",SGP,20,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Chu Ka-Wai,HKG,21,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+"Low Kien Seong, Francis",MAS,22,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Chang Yeu-Shiang,TPE,23,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Lok Chi-Wai,HKG,24,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Abu Hassan Khairul Hafiz,MAS,25,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Huang Kuo-Wei,TPE,26,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv
+Uzair Muhamad,SGP,27,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Lead,Men,2005-10-21,/api/v1/events/401/result/1,2005-10-21_Shanghai_Lead_Men_no-round.csv

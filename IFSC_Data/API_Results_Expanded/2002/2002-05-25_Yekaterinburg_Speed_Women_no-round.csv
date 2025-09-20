@@ -1,15 +1,15 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Ryepko Olena,UKR,1,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Piratinskaya Mayya,RUS,2,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Sutkina Svetlana,RUS,3,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Zakharova Olga,UKR,4,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Stenkovaya Anna,RUS,5,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Yurina Valentina,RUS,6,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Saulevich Olesya,RUS,7,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Ochtchepkova Olga,RUS,8,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Kleochina Olesia,RUS,9,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Podgorbounskikh Zosia,RUS,10,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Ostapenko Olena,UKR,11,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Ryzhkova Margarita,RUS,12,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Krasilnokova Yekaterin,KAZ,13,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
-Chkadua Katarina,GEO,14,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Ryepko Olena,UKR,1,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Piratinskaya Mayya,RUS,2,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Sutkina Svetlana,RUS,3,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Zakharova Olga,UKR,4,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Stenkovaya Anna,RUS,5,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Yurina Valentina,RUS,6,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Saulevich Olesya,RUS,7,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Ochtchepkova Olga,RUS,8,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Kleochina Olesia,RUS,9,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Podgorbounskikh Zosia,RUS,10,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Ostapenko Olena,UKR,11,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Ryzhkova Margarita,RUS,12,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Krasilnokova Yekaterin,KAZ,13,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv
+Chkadua Katarina,GEO,14,,3. UIAA Worldcup - Yekaterinburg (RUS) 2002,278,2002,Yekaterinburg,Speed,Women,2002-05-25,/api/v1/events/278/result/6,2002-05-25_Yekaterinburg_Speed_Women_no-round.csv

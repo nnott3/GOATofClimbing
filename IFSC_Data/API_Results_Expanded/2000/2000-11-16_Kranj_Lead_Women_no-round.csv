@@ -1,35 +1,35 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Sansoz Liv,FRA,1,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Cufar Martina,SLO,2,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Bodet Stéphanie,FRA,3,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Schultz Annatina,SUI,4,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Sarkany Muriel,BEL,5,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Go Mi-Sun,KOR,6,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Choumilova Elena,RUS,7,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Knorr Damaris,GER,8,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Lavarda Jenny,ITA,9,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Kotasova-Kostruhova Vera,CZE,10,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Minoret Chloé,FRA,11,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Tusar Eva,SLO,12,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Perlova Nataliya,UKR,13,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-schöpf Bettina,AUT,14,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Levet Sandrine,FRA,15,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Petrignet Carole,FRA,15,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Guzzi Nastja,SLO,17,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Vidmar Katja,SLO,18,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Truden Sasa,SLO,19,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Nagakai Hoshiko,JPN,20,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Nilsson Ingela,SWE,20,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Kuhngaberova Jitka,CZE,22,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Oman Jana,SLO,23,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Trnkova Lenka,CZE,24,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Martha Cécile,FRA,25,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Raffetseder Gerda,AUT,25,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Huang Bai-Le,TPE,27,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Landeghem Sandr Van,FRA,27,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Allen Rebecca,GBR,29,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Kim Sung-Shi,KOR,29,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Förander Jenny,SWE,31,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Ivanova Petia Gueorguieva,BUL,31,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-May Abigail,GBR,31,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
-Kim Joung-Mi,KOR,34,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Sansoz Liv,FRA,1,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Cufar Martina,SLO,2,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Bodet Stéphanie,FRA,3,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Schultz Annatina,SUI,4,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Sarkany Muriel,BEL,5,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Go Mi-Sun,KOR,6,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Choumilova Elena,RUS,7,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Knorr Damaris,GER,8,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Lavarda Jenny,ITA,9,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Kotasova-Kostruhova Vera,CZE,10,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Minoret Chloé,FRA,11,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Tusar Eva,SLO,12,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Perlova Nataliya,UKR,13,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+schöpf Bettina,AUT,14,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Levet Sandrine,FRA,15,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Petrignet Carole,FRA,15,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Guzzi Nastja,SLO,17,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Vidmar Katja,SLO,18,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Truden Sasa,SLO,19,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Nagakai Hoshiko,JPN,20,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Nilsson Ingela,SWE,20,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Kuhngaberova Jitka,CZE,22,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Oman Jana,SLO,23,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Trnkova Lenka,CZE,24,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Martha Cécile,FRA,25,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Raffetseder Gerda,AUT,25,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Huang Bai-Le,TPE,27,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Landeghem Sandr Van,FRA,27,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Allen Rebecca,GBR,29,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Kim Sung-Shi,KOR,29,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Förander Jenny,SWE,31,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Ivanova Petia Gueorguieva,BUL,31,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+May Abigail,GBR,31,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv
+Kim Joung-Mi,KOR,34,,UIAA Worldcup - Kranj (SLO) 2000,226,2000,Kranj,Lead,Women,2000-11-16,/api/v1/events/226/result/5,2000-11-16_Kranj_Lead_Women_no-round.csv

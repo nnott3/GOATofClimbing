@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Mrázek Tomás,CZE,1,47,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,47
-Schubert Jakob,AUT,2,41-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,41-
-Amma Sachi,JPN,3,38-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,38-
-Usobiaga Lakunza Patxi,ESP,4,32-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,32-
-Romain Manuel,FRA,5,32-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,32-
-Midtboe Magnus,NOR,6,30-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,30-
-Julian  Puigblanque Ramón ,ESP,7,11,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,11
-Verhoeven Jorg,NED,8,10.5,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,10.5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Mrázek Tomás,CZE,1,47,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,47,2008-06-27_Qinghai_Lead_Men_Final.csv
+Schubert Jakob,AUT,2,41-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,41-,2008-06-27_Qinghai_Lead_Men_Final.csv
+Amma Sachi,JPN,3,38-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,38-,2008-06-27_Qinghai_Lead_Men_Final.csv
+Usobiaga Lakunza Patxi,ESP,4,32-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,32-,2008-06-27_Qinghai_Lead_Men_Final.csv
+Romain Manuel,FRA,5,32-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,32-,2008-06-27_Qinghai_Lead_Men_Final.csv
+Midtboe Magnus,NOR,6,30-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,30-,2008-06-27_Qinghai_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,7,11,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,11,2008-06-27_Qinghai_Lead_Men_Final.csv
+Verhoeven Jorg,NED,8,10.5,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Men,Final,2008-06-27,/api/v1/category_rounds/878/results,/api/v1/events/518/result/1,10.5,2008-06-27_Qinghai_Lead_Men_Final.csv

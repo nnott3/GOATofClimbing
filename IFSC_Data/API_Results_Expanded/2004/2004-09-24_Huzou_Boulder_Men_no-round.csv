@@ -1,43 +1,43 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Meyer Jérôme,FRA,1,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Rakhmetov Salavat,RUS,2,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Oleksy Tomasz,POL,3,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Laurence Ludovic,FRA,4,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Fischhuber Kilian,AUT,5,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Benk Christian,GER,6,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-DU LAC Daniel,FRA,7,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Kazbekov Serik,UKR,8,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Parry Gareth,GBR,9,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Matsushima Akito,JPN,10,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Julien Stephane,FRA,11,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Müller Matthias,SUI,12,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Jongeneelen Wouter,NED,13,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Kim Janghyuk,KOR,14,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Gaidioz Loïc,FRA,15,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Croxall Mark,GBR,16,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Mogaki Keita,JPN,17,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Lai Chi-Wai,HKG,18,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Watanabe Kazuma,JPN,19,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Chu Ka-Wai,HKG,20,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Kartiko Bondan,INA,20,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Earl Andrew,GBR,22,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Jou Chun-Ming,TPE,23,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Cao Rongwu,CHN,24,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Cai LuYuan,CHN,25,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Tan Sze Ping,SGP,26,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Culpepper Tyler,NZL,27,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Edwards Marc,AUS,28,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Wu Yen-Yi,TPE,28,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Xin Ri-Long,CHN,28,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Sun Man-Wai,HKG,31,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Cheng Chao-Chun,TPE,32,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Guerrero Hubberth Kristian,PHI,32,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Liu Changzhong,CHN,34,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Cheung Chi-Chiu,HKG,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Li Shaoman,CHN,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Ngai Po-fuk,HKG,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Pahati Jaime Amiel,PHI,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Song Yanfeng,CHN,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Ye Xiangyang,CHN,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-Zhang Yubin,CHN,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
-ZHAO Lei,CHN,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Meyer Jérôme,FRA,1,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Rakhmetov Salavat,RUS,2,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Oleksy Tomasz,POL,3,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Laurence Ludovic,FRA,4,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Fischhuber Kilian,AUT,5,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Benk Christian,GER,6,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+DU LAC Daniel,FRA,7,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Kazbekov Serik,UKR,8,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Parry Gareth,GBR,9,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Matsushima Akito,JPN,10,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Julien Stephane,FRA,11,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Müller Matthias,SUI,12,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Jongeneelen Wouter,NED,13,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Kim Janghyuk,KOR,14,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Gaidioz Loïc,FRA,15,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Croxall Mark,GBR,16,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Mogaki Keita,JPN,17,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Lai Chi-Wai,HKG,18,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Watanabe Kazuma,JPN,19,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Chu Ka-Wai,HKG,20,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Kartiko Bondan,INA,20,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Earl Andrew,GBR,22,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Jou Chun-Ming,TPE,23,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Cao Rongwu,CHN,24,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Cai LuYuan,CHN,25,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Tan Sze Ping,SGP,26,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Culpepper Tyler,NZL,27,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Edwards Marc,AUS,28,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Wu Yen-Yi,TPE,28,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Xin Ri-Long,CHN,28,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Sun Man-Wai,HKG,31,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Cheng Chao-Chun,TPE,32,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Guerrero Hubberth Kristian,PHI,32,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Liu Changzhong,CHN,34,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Cheung Chi-Chiu,HKG,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Li Shaoman,CHN,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Ngai Po-fuk,HKG,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Pahati Jaime Amiel,PHI,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Song Yanfeng,CHN,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Ye Xiangyang,CHN,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+Zhang Yubin,CHN,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv
+ZHAO Lei,CHN,35,,UIAA Worldcup - Huzou (CHN) 2004,357,2004,Huzou,Boulder,Men,2004-09-24,/api/v1/events/357/result/3,2004-09-24_Huzou_Boulder_Men_no-round.csv

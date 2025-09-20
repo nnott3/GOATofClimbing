@@ -1,7 +1,7 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
-Shalagina Olga,UKR,1,4t6 4b6,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7
-Danion Juliette,FRA,2,4t11 4b11,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7
-Graftiaux Chloé,BEL,3,2t2 3b3,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7
-Rajfova Silvie,CZE,4,2t2 3b3,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7
-Gros Natalija,SLO,5,2t12 4b14,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7
-Bacher Sabine,AUT,6,0t 3b10,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,source_file
+Shalagina Olga,UKR,1,4t6 4b6,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7,2007-03-30_Erlangen_Boulder_Women_Final.csv
+Danion Juliette,FRA,2,4t11 4b11,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7,2007-03-30_Erlangen_Boulder_Women_Final.csv
+Graftiaux Chloé,BEL,3,2t2 3b3,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7,2007-03-30_Erlangen_Boulder_Women_Final.csv
+Rajfova Silvie,CZE,4,2t2 3b3,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7,2007-03-30_Erlangen_Boulder_Women_Final.csv
+Gros Natalija,SLO,5,2t12 4b14,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7,2007-03-30_Erlangen_Boulder_Women_Final.csv
+Bacher Sabine,AUT,6,0t 3b10,IFSC Climbing Worldcup (B) - Erlangen (GER) 2007,468,2007,Erlangen,Boulder,Women,Final,2007-03-30,/api/v1/category_rounds/593/results,/api/v1/events/468/result/7,2007-03-30_Erlangen_Boulder_Women_Final.csv

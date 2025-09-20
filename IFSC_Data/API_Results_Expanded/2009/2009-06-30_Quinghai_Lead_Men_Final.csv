@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Usobiaga Lakunza Patxi,ESP,1,Top,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,Top
-Ondra Adam,CZE,2,45-,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,45-
-Lama David,AUT,3,42-,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,42-
-Amma Sachi,JPN,4,41+,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,41+
-McColl Sean,CAN,5,37+,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,37+
-Kryukov Valeriy,UKR,6,34-,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,34-
-Lachat Cédric,SUI,7,32,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,32
-Nitta Tatsumi,JPN,8,27-,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,27-
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Usobiaga Lakunza Patxi,ESP,1,Top,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,Top,2009-06-30_Quinghai_Lead_Men_Final.csv
+Ondra Adam,CZE,2,45-,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,45-,2009-06-30_Quinghai_Lead_Men_Final.csv
+Lama David,AUT,3,42-,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,42-,2009-06-30_Quinghai_Lead_Men_Final.csv
+Amma Sachi,JPN,4,41+,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,41+,2009-06-30_Quinghai_Lead_Men_Final.csv
+McColl Sean,CAN,5,37+,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,37+,2009-06-30_Quinghai_Lead_Men_Final.csv
+Kryukov Valeriy,UKR,6,34-,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,34-,2009-06-30_Quinghai_Lead_Men_Final.csv
+Lachat Cédric,SUI,7,32,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,32,2009-06-30_Quinghai_Lead_Men_Final.csv
+Nitta Tatsumi,JPN,8,27-,IFSC Climbing World Championships  - Qinghai (CHN) 2009,568,2009,Quinghai,Lead,Men,Final,2009-06-30,/api/v1/category_rounds/1171/results,/api/v1/events/568/result/1,27-,2009-06-30_Quinghai_Lead_Men_Final.csv

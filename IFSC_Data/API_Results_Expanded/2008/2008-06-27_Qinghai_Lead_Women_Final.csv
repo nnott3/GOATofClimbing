@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Ernst Johanna,AUT,1,Top,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,Top
-Gros Natalija,SLO,2,43+,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,43+
-Durif Charlotte,FRA,3,42-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,42-
-Chereshneva Yana,RUS,4,40,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,40
-Eyer Alexandra,SUI,5,30-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,30-
-Bacher Barbara,AUT,6,28-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,28-
-Sarkany Muriel,BEL,7,20-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,20-
-Markovic Mina,SLO,8,11+,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,11+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Ernst Johanna,AUT,1,Top,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,Top,2008-06-27_Qinghai_Lead_Women_Final.csv
+Gros Natalija,SLO,2,43+,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,43+,2008-06-27_Qinghai_Lead_Women_Final.csv
+Durif Charlotte,FRA,3,42-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,42-,2008-06-27_Qinghai_Lead_Women_Final.csv
+Chereshneva Yana,RUS,4,40,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,40,2008-06-27_Qinghai_Lead_Women_Final.csv
+Eyer Alexandra,SUI,5,30-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,30-,2008-06-27_Qinghai_Lead_Women_Final.csv
+Bacher Barbara,AUT,6,28-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,28-,2008-06-27_Qinghai_Lead_Women_Final.csv
+Sarkany Muriel,BEL,7,20-,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,20-,2008-06-27_Qinghai_Lead_Women_Final.csv
+Markovic Mina,SLO,8,11+,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,518,2008,Qinghai,Lead,Women,Final,2008-06-27,/api/v1/category_rounds/873/results,/api/v1/events/518/result/5,11+,2008-06-27_Qinghai_Lead_Women_Final.csv

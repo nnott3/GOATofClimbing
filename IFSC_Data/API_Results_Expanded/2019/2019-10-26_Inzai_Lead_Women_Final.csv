@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,Top
-Garnbret Janja,SLO,2,39,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,39
-Seo Chaehyun,KOR,3,37+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,37+
-Noguchi Akiyo,JPN,4,36+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,36+
-Nonaka Miho,JPN,5,34+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,34+
-Tanii Natsuki,JPN,6,34+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,34+
-Rogora Laura,ITA,7,20,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,20
-Tajima Aika,JPN,8,19+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,19+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,Top,2019-10-26_Inzai_Lead_Women_Final.csv
+Garnbret Janja,SLO,2,39,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,39,2019-10-26_Inzai_Lead_Women_Final.csv
+Seo Chaehyun,KOR,3,37+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,37+,2019-10-26_Inzai_Lead_Women_Final.csv
+Noguchi Akiyo,JPN,4,36+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,36+,2019-10-26_Inzai_Lead_Women_Final.csv
+Nonaka Miho,JPN,5,34+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,34+,2019-10-26_Inzai_Lead_Women_Final.csv
+Tanii Natsuki,JPN,6,34+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,34+,2019-10-26_Inzai_Lead_Women_Final.csv
+Rogora Laura,ITA,7,20,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,20,2019-10-26_Inzai_Lead_Women_Final.csv
+Tajima Aika,JPN,8,19+,IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ,1125,2019,Inzai,Lead,Women,Final,2019-10-26,/api/v1/category_rounds/5567/results,/api/v1/events/1125/result/5,19+,2019-10-26_Inzai_Lead_Women_Final.csv

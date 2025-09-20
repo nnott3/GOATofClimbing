@@ -1,27 +1,27 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Lehmann Sascha,SUI,1,43+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,43+
-Schubert Jakob,AUT,2,43,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,43
-HIGUCHI Masahiro,JPN,3,42+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,42+
-HOMMA Taisei,JPN,4,42,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,42
-ANRAKU Sorato,JPN,5,40,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,40
-Schalck Mejdi,FRA,6,40,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,40
-Ginés López Alberto,ESP,7,40,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,40
-Megos Alexander,GER,8,39+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,39+
-YOSHIDA Satone,JPN,8,39+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,39+
-YURIKUSA Ao,JPN,10,39+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,39+
-Grupper Jesse,USA,11,39+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,39+
-OMATA Shion,JPN,12,38+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,38+
-PAN YUFEI,CHN,13,32+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,32+
-Potocar Luka,SLO,14,31+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,31+
-NARASAKI Tomoa,JPN,15,31+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,31+
-Roberts Toby,GBR,16,29+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,29+
-NARASAKI Meichi,JPN,17,28+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,28+
-Ogata Yoshiyuki,JPN,18,27+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,27+
-Tomatis Giorgio,ITA,19,27+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,27+
-Preskar Milan,SLO,20,27+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,27+
-Scherz Stefan,AUT,21,27+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,27+
-Jenft Paul,FRA,22,26+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,26+
-Duffy Colin,USA,23,26,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,26
-Bombardi Marcello,ITA,24,13,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,13
-LEE Dohyun,KOR,25,9+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,9+
-SONG Yunchan,KOR,26,9+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,9+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Lehmann Sascha,SUI,1,43+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,43+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Schubert Jakob,AUT,2,43,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,43,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+HIGUCHI Masahiro,JPN,3,42+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,42+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+HOMMA Taisei,JPN,4,42,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,42,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+ANRAKU Sorato,JPN,5,40,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,40,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Schalck Mejdi,FRA,6,40,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,40,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Ginés López Alberto,ESP,7,40,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,40,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Megos Alexander,GER,8,39+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,39+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+YOSHIDA Satone,JPN,8,39+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,39+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+YURIKUSA Ao,JPN,10,39+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,39+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Grupper Jesse,USA,11,39+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,39+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+OMATA Shion,JPN,12,38+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,38+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+PAN YUFEI,CHN,13,32+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,32+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Potocar Luka,SLO,14,31+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,31+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+NARASAKI Tomoa,JPN,15,31+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,31+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Roberts Toby,GBR,16,29+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,29+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+NARASAKI Meichi,JPN,17,28+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,28+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Ogata Yoshiyuki,JPN,18,27+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,27+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Tomatis Giorgio,ITA,19,27+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,27+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Preskar Milan,SLO,20,27+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,27+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Scherz Stefan,AUT,21,27+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,27+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Jenft Paul,FRA,22,26+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,26+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Duffy Colin,USA,23,26,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,26,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+Bombardi Marcello,ITA,24,13,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,13,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+LEE Dohyun,KOR,25,9+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,9+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv
+SONG Yunchan,KOR,26,9+,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Lead,Men,Semi-final,2023-06-14,/api/v1/category_rounds/8124/results,/api/v1/events/1297/result/1,9+,2023-06-14_Innsbruck_Lead_Men_Semi-final.csv

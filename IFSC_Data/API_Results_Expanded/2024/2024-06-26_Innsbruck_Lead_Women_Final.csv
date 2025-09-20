@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+GARNBRET Janja,SLO,1,TOP,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Final,2024-06-26,/api/v1/category_rounds/9090/results,/api/v1/events/1356/result/5,TOP,2024-06-26_Innsbruck_Lead_Women_Final.csv
+MORI Ai,JPN,2,TOP,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Final,2024-06-26,/api/v1/category_rounds/9090/results,/api/v1/events/1356/result/5,TOP,2024-06-26_Innsbruck_Lead_Women_Final.csv
+SEO Chaehyun,KOR,3,36,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Final,2024-06-26,/api/v1/category_rounds/9090/results,/api/v1/events/1356/result/5,36,2024-06-26_Innsbruck_Lead_Women_Final.csv
+PILZ Jessica,AUT,4,22+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Final,2024-06-26,/api/v1/category_rounds/9090/results,/api/v1/events/1356/result/5,22+,2024-06-26_Innsbruck_Lead_Women_Final.csv
+TOTKOVA Aleksandra,BUL,5,22+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Final,2024-06-26,/api/v1/category_rounds/9090/results,/api/v1/events/1356/result/5,22+,2024-06-26_Innsbruck_Lead_Women_Final.csv
+Sanders Anastasia,USA,6,22+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Final,2024-06-26,/api/v1/category_rounds/9090/results,/api/v1/events/1356/result/5,22+,2024-06-26_Innsbruck_Lead_Women_Final.csv
+PÖTZI Mattea,AUT,7,22+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Final,2024-06-26,/api/v1/category_rounds/9090/results,/api/v1/events/1356/result/5,22+,2024-06-26_Innsbruck_Lead_Women_Final.csv
+ZHANG Yuetong,CHN,8,21+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Final,2024-06-26,/api/v1/category_rounds/9090/results,/api/v1/events/1356/result/5,21+,2024-06-26_Innsbruck_Lead_Women_Final.csv

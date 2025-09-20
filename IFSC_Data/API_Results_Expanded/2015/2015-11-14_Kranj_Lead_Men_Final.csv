@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Ondra Adam,CZE,1,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,37+
-McColl Sean,CAN,2,37,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,37
-Schubert Jakob,AUT,3,36+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,36+
-Julian  Puigblanque Ramón ,ESP,4,36+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,36+
-Skofic Domen,SLO,5,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,34+
-Desgranges Romain,FRA,6,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,33+
-Nakano Minoru,JPN,7,12+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,12+
-Supper Gautier,FRA,8,12,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,12
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Ondra Adam,CZE,1,37+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,37+,2015-11-14_Kranj_Lead_Men_Final.csv
+McColl Sean,CAN,2,37,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,37,2015-11-14_Kranj_Lead_Men_Final.csv
+Schubert Jakob,AUT,3,36+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,36+,2015-11-14_Kranj_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,4,36+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,36+,2015-11-14_Kranj_Lead_Men_Final.csv
+Skofic Domen,SLO,5,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,34+,2015-11-14_Kranj_Lead_Men_Final.csv
+Desgranges Romain,FRA,6,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,33+,2015-11-14_Kranj_Lead_Men_Final.csv
+Nakano Minoru,JPN,7,12+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,12+,2015-11-14_Kranj_Lead_Men_Final.csv
+Supper Gautier,FRA,8,12,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Men,Final,2015-11-14,/api/v1/category_rounds/3501/results,/api/v1/events/909/result/1,12,2015-11-14_Kranj_Lead_Men_Final.csv

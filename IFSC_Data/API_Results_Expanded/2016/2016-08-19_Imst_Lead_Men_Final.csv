@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Skofic Domen,SLO,1,53+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,53+
-Schubert Jakob,AUT,2,53+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,53+
-Supper Gautier,FRA,3,50,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,50
-Desgranges Romain,FRA,4,49+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,49+
-Halenke Sebastian,GER,5,49+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,49+
-Ghisolfi Stefano,ITA,6,45+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,45+
-Julian  Puigblanque Ramón ,ESP,7,43+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,43+
-KIM Hanwool,KOR,8,33,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,33
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Skofic Domen,SLO,1,53+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,53+,2016-08-19_Imst_Lead_Men_Final.csv
+Schubert Jakob,AUT,2,53+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,53+,2016-08-19_Imst_Lead_Men_Final.csv
+Supper Gautier,FRA,3,50,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,50,2016-08-19_Imst_Lead_Men_Final.csv
+Desgranges Romain,FRA,4,49+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,49+,2016-08-19_Imst_Lead_Men_Final.csv
+Halenke Sebastian,GER,5,49+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,49+,2016-08-19_Imst_Lead_Men_Final.csv
+Ghisolfi Stefano,ITA,6,45+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,45+,2016-08-19_Imst_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,7,43+,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,43+,2016-08-19_Imst_Lead_Men_Final.csv
+KIM Hanwool,KOR,8,33,IFSC Climbing Worldcup (L) - Imst (AUT) 2016 ,948,2016,Imst,Lead,Men,Final,2016-08-19,/api/v1/category_rounds/3883/results,/api/v1/events/948/result/1,33,2016-08-19_Imst_Lead_Men_Final.csv

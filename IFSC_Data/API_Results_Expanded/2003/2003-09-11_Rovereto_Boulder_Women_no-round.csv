@@ -1,20 +1,20 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Levet Sandrine,FRA,1,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Danion Juliette,FRA,2,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Bibik Olga,RUS,3,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Perlova Nataliya,UKR,4,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Abramchuk Yulia,RUS,5,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Bacher Barbara,AUT,6,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Kotasova-Kostruhova Vera,CZE,7,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Theroux Corinne,FRA,8,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Giammarco Giulia,ITA,9,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Son Mélanie,FRA,10,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Motteau Myriam,FRA,11,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Bihr Isabelle,FRA,12,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-De Grandi Stefania,ITA,13,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Ritsch Isabella,AUT,14,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Pozzoli Giovanna,ITA,15,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Pieper Irene,NED,16,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Iovane Luisa,ITA,17,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Hawke Emma,NZL,18,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
-Lemaire Jen,USA,19,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Levet Sandrine,FRA,1,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Danion Juliette,FRA,2,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Bibik Olga,RUS,3,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Perlova Nataliya,UKR,4,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Abramchuk Yulia,RUS,5,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Bacher Barbara,AUT,6,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Kotasova-Kostruhova Vera,CZE,7,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Theroux Corinne,FRA,8,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Giammarco Giulia,ITA,9,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Son Mélanie,FRA,10,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Motteau Myriam,FRA,11,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Bihr Isabelle,FRA,12,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+De Grandi Stefania,ITA,13,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Ritsch Isabella,AUT,14,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Pozzoli Giovanna,ITA,15,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Pieper Irene,NED,16,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Iovane Luisa,ITA,17,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Hawke Emma,NZL,18,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv
+Lemaire Jen,USA,19,,UIAA Worldcup - Rovereto (ITA) 2003,319,2003,Rovereto,Boulder,Women,2003-09-11,/api/v1/events/319/result/7,2003-09-11_Rovereto_Boulder_Women_no-round.csv

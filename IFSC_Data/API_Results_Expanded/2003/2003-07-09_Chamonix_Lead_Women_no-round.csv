@@ -1,55 +1,55 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Sarkany Muriel,BEL,1,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Pouget Emilie,FRA,2,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Levet Sandrine,FRA,3,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Lavarda Jenny,ITA,4,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Eyer Alexandra,SUI,5,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Ciavaldini Caroline,FRA,6,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Eiter Angela,AUT,7,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Bacher Barbara,AUT,8,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Harrington Emily,USA,9,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Shalagina Olga,UKR,10,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Novikova Natalia,RUS,11,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Cufar Martina,SLO,12,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-schöpf Bettina,AUT,12,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Ostapenko Olena,UKR,14,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Hnizdilova Sona,CZE,15,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Raffetseder Gerda,AUT,15,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Knorr Damaris,GER,17,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Vidmar Katja,SLO,17,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Kimura Rie,JPN,19,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Franko Lucka,SLO,20,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Vidmar Maja,SLO,20,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Go Mi-Sun,KOR,22,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Nilsson Ingela,SWE,23,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Iakovleva Olga,RUS,24,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Minoret Chloé,FRA,24,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Sansoz Liv,FRA,26,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Louis Stéphanie,SUI,27,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Kysilkova Tereza,CZE,28,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Muñoz Eva Elez,ESP,29,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Bezhko Olga,UKR,30,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Benetti Lisa,ITA,31,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Bibik Olga,RUS,31,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Chereshneva Venera,RUS,31,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Kosmac Ana,SLO,31,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Cintalova Zuzana,SVK,35,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Balakireva Alexandra,RUS,36,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Rajfova Lucie,CZE,36,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Asher Elizabeth,USA,38,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Lipenska Helena,CZE,38,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Kim Hyun-Jung,KOR,40,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Knabl Sabine,AUT,41,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Stendal Linn Karin,NOR,42,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Zeilemaker Monica,NED,43,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Cintalova Katarina,SVK,44,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Kugler Eliza,POL,45,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Sakakibara Yuko,JPN,46,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Madate Tomoko,JPN,47,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Jacobs Rottem,ISR,48,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Käyhkö Janina,FIN,48,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Hendrawati Agung Ethi,INA,50,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Hawke Emma,NZL,51,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Archana Bangalore Subbarao,IND,52,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Rothschild Gail,USA,52,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
-Vathsala M. N.,IND,54,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Sarkany Muriel,BEL,1,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Pouget Emilie,FRA,2,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Levet Sandrine,FRA,3,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Lavarda Jenny,ITA,4,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Eyer Alexandra,SUI,5,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Ciavaldini Caroline,FRA,6,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Eiter Angela,AUT,7,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Bacher Barbara,AUT,8,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Harrington Emily,USA,9,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Shalagina Olga,UKR,10,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Novikova Natalia,RUS,11,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Cufar Martina,SLO,12,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+schöpf Bettina,AUT,12,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Ostapenko Olena,UKR,14,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Hnizdilova Sona,CZE,15,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Raffetseder Gerda,AUT,15,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Knorr Damaris,GER,17,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Vidmar Katja,SLO,17,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Kimura Rie,JPN,19,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Franko Lucka,SLO,20,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Vidmar Maja,SLO,20,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Go Mi-Sun,KOR,22,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Nilsson Ingela,SWE,23,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Iakovleva Olga,RUS,24,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Minoret Chloé,FRA,24,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Sansoz Liv,FRA,26,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Louis Stéphanie,SUI,27,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Kysilkova Tereza,CZE,28,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Muñoz Eva Elez,ESP,29,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Bezhko Olga,UKR,30,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Benetti Lisa,ITA,31,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Bibik Olga,RUS,31,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Chereshneva Venera,RUS,31,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Kosmac Ana,SLO,31,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Cintalova Zuzana,SVK,35,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Balakireva Alexandra,RUS,36,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Rajfova Lucie,CZE,36,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Asher Elizabeth,USA,38,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Lipenska Helena,CZE,38,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Kim Hyun-Jung,KOR,40,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Knabl Sabine,AUT,41,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Stendal Linn Karin,NOR,42,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Zeilemaker Monica,NED,43,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Cintalova Katarina,SVK,44,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Kugler Eliza,POL,45,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Sakakibara Yuko,JPN,46,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Madate Tomoko,JPN,47,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Jacobs Rottem,ISR,48,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Käyhkö Janina,FIN,48,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Hendrawati Agung Ethi,INA,50,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Hawke Emma,NZL,51,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Archana Bangalore Subbarao,IND,52,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Rothschild Gail,USA,52,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv
+Vathsala M. N.,IND,54,,UIAA Worldchampionship - Chamonix (FRA) 2003,315,2003,Chamonix,Lead,Women,2003-07-09,/api/v1/events/315/result/5,2003-07-09_Chamonix_Lead_Women_no-round.csv

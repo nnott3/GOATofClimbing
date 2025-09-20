@@ -1,20 +1,20 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Sinitcyn Sergei,RUS,1,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Peshekhonov Alexander,RUS,2,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Vaitsekhovskii Evgenii,RUS,3,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Kosterin Alexander,RUS,4,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Skripov Anatoly,RUS,5,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Lakhin Oleksandr,UKR,6,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Styenkovyy Maksym,UKR,7,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Sharafutdinov Dmitrii,RUS,8,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Petkov Mincho,BUL,9,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Oleksy Tomasz,POL,10,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Komondi Csaba,HUN,11,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Hroza Libor,CZE,12,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Shyshkovskyy Ivan,UKR,13,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Lazarov Blagovest,BUL,14,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Osipov Maksym,UKR,15,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Tyapkin Igor,UKR,16,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Zarchev Metodi,BUL,17,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Poberezhets Serhiy,UKR,18,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
-Gelmanov Rustam,RUS,19,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Sinitcyn Sergei,RUS,1,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Peshekhonov Alexander,RUS,2,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Vaitsekhovskii Evgenii,RUS,3,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Kosterin Alexander,RUS,4,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Skripov Anatoly,RUS,5,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Lakhin Oleksandr,UKR,6,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Styenkovyy Maksym,UKR,7,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Sharafutdinov Dmitrii,RUS,8,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Petkov Mincho,BUL,9,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Oleksy Tomasz,POL,10,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Komondi Csaba,HUN,11,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Hroza Libor,CZE,12,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Shyshkovskyy Ivan,UKR,13,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Lazarov Blagovest,BUL,14,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Osipov Maksym,UKR,15,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Tyapkin Igor,UKR,16,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Zarchev Metodi,BUL,17,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Poberezhets Serhiy,UKR,18,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv
+Gelmanov Rustam,RUS,19,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Men,2006-04-21,/api/v1/events/426/result/2,2006-04-21_Veliko Tarnovo_Speed_Men_no-round.csv

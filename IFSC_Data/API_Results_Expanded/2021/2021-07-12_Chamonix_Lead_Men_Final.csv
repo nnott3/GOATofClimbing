@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Bailey Sean,USA,1,34+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,34+
-Ghisolfi Stefano,ITA,2,32,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,32
-STRANIK Martin,CZE,3,32,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,32
-Lehmann Sascha,SUI,4,29,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,29
-Baudrand Victor,CAN,5,28+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,28+
-Bombardi Marcello,ITA,6,26+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,26+
-Potocar Luka,SLO,7,25+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,25+
-Jenft Paul,FRA,8,25,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,25
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Bailey Sean,USA,1,34+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,34+,2021-07-12_Chamonix_Lead_Men_Final.csv
+Ghisolfi Stefano,ITA,2,32,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,32,2021-07-12_Chamonix_Lead_Men_Final.csv
+STRANIK Martin,CZE,3,32,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,32,2021-07-12_Chamonix_Lead_Men_Final.csv
+Lehmann Sascha,SUI,4,29,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,29,2021-07-12_Chamonix_Lead_Men_Final.csv
+Baudrand Victor,CAN,5,28+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,28+,2021-07-12_Chamonix_Lead_Men_Final.csv
+Bombardi Marcello,ITA,6,26+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,26+,2021-07-12_Chamonix_Lead_Men_Final.csv
+Potocar Luka,SLO,7,25+,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,25+,2021-07-12_Chamonix_Lead_Men_Final.csv
+Jenft Paul,FRA,8,25,IFSC - Climbing World Cup (L) - Chamonix (FRA) 2021,1195,2021,Chamonix,Lead,Men,Final,2021-07-12,/api/v1/category_rounds/6623/results,/api/v1/events/1195/result/1,25,2021-07-12_Chamonix_Lead_Men_Final.csv

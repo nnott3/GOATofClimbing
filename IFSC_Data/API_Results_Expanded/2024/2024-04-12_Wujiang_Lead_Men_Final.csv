@@ -1,0 +1,10 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Roberts Toby,GBR,1,36+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Final,2024-04-12,/api/v1/category_rounds/8931/results,/api/v1/events/1354/result/1,36+,2024-04-12_Wujiang_Lead_Men_Final.csv
+HOMMA Taisei,JPN,2,36+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Final,2024-04-12,/api/v1/category_rounds/8931/results,/api/v1/events/1354/result/1,36+,2024-04-12_Wujiang_Lead_Men_Final.csv
+ANRAKU Sorato,JPN,3,32+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Final,2024-04-12,/api/v1/category_rounds/8931/results,/api/v1/events/1354/result/1,32+,2024-04-12_Wujiang_Lead_Men_Final.csv
+MURASHITA Zento,JPN,4,24+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Final,2024-04-12,/api/v1/category_rounds/8931/results,/api/v1/events/1354/result/1,24+,2024-04-12_Wujiang_Lead_Men_Final.csv
+Lehmann Sascha,SUI,5,24,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Final,2024-04-12,/api/v1/category_rounds/8931/results,/api/v1/events/1354/result/1,24,2024-04-12_Wujiang_Lead_Men_Final.csv
+Van Duysen Hannes,BEL,6,24,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Final,2024-04-12,/api/v1/category_rounds/8931/results,/api/v1/events/1354/result/1,24,2024-04-12_Wujiang_Lead_Men_Final.csv
+Tanaka Shuta,JPN,7,23+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Final,2024-04-12,/api/v1/category_rounds/8931/results,/api/v1/events/1354/result/1,23+,2024-04-12_Wujiang_Lead_Men_Final.csv
+Milne Maximillian,GBR,8,23+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Final,2024-04-12,/api/v1/category_rounds/8931/results,/api/v1/events/1354/result/1,23+,2024-04-12_Wujiang_Lead_Men_Final.csv
+OMATA Shion,JPN,9,21+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Final,2024-04-12,/api/v1/category_rounds/8931/results,/api/v1/events/1354/result/1,21+,2024-04-12_Wujiang_Lead_Men_Final.csv

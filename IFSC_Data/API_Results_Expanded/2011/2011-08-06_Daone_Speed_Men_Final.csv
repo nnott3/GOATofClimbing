@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Final_winner,Small Final_winner,1/2_winner
-Abdrakhmanov Sergey,,1.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,False,,
-Sinitcyn Sergei,,2.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,False,,
-Swirk Lukasz,,3.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,False,
-Nigmanov Zufar,,4.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,False,
-Kokorin Stanislav,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,,False
-Komosinski Jedrzej,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,,False
-Shevchenko Arsenii,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,,False
-Vaitsekhovskii Evgenii,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,,False
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Final_winner,Small Final_winner,1/2_winner,source_file
+Abdrakhmanov Sergey,,1.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,False,,,2011-08-06_Daone_Speed_Men_Final.csv
+Sinitcyn Sergei,,2.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,False,,,2011-08-06_Daone_Speed_Men_Final.csv
+Swirk Lukasz,,3.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,False,,2011-08-06_Daone_Speed_Men_Final.csv
+Nigmanov Zufar,,4.0,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,False,,2011-08-06_Daone_Speed_Men_Final.csv
+Kokorin Stanislav,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,,False,2011-08-06_Daone_Speed_Men_Final.csv
+Komosinski Jedrzej,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,,False,2011-08-06_Daone_Speed_Men_Final.csv
+Shevchenko Arsenii,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,,False,2011-08-06_Daone_Speed_Men_Final.csv
+Vaitsekhovskii Evgenii,,,,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,679,2011,Daone,Speed,Men,Final,2011-08-06,/api/v1/category_rounds/1724/results,/api/v1/events/679/result/2,,,False,2011-08-06_Daone_Speed_Men_Final.csv

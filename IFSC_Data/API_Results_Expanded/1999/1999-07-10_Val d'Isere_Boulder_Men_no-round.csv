@@ -1,44 +1,44 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Core Christian,ITA,1,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Kazbekov Serik,UKR,2,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Chabot Alexandre,FRA,3,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Rakhmetov Salavat,RUS,4,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Petit François,FRA,5,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Julien Stephane,FRA,6,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Danis Jean Luc,FRA,7,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Meyer Jérôme,FRA,8,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Jeandenand Damien,FRA,9,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Tuscan Frédéric,FRA,10,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Daures Luc,FRA,11,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Meral Julien,FRA,12,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-DU LAC Daniel,FRA,13,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Chemoulinkine Serguei,RUS,14,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Pons Pedro,ESP,15,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Markevych Petro,UKR,16,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Fairfield Timmy,CAN,17,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Oleksy Tomasz,POL,18,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Natech Faycal,FRA,19,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Giupponi Luca,ITA,20,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Vedenmeer Andrey,UKR,21,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Lebreton Olivier,FRA,22,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Lamiche Anthony,FRA,23,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Golob Jurij,SLO,24,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Scarian Riccardo,ITA,25,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Kryvosheytsev Yevgen,UKR,26,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Langris Sylvain,FRA,27,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Nourmamatov Serguei,RUS,28,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Scully Eric,USA,29,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Bychkov Dmitrii,RUS,30,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Dutray Mathieu,FRA,31,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Bresciani Matteo,ITA,32,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Soucek Radovah,CZE,33,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Zangerl Bernd,AUT,33,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Chapelle Sylvain,FRA,35,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Emprin Christian,FRA,35,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Coroller Frédéric,FRA,37,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Leenen Jos,NED,37,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Pinier Nicolas,FRA,37,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Bloch Elliot,USA,40,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Meijnhard Mike,NED,41,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Fioravanti Roberto,ITA,42,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
-Teijsse Dennis,NED,43,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Core Christian,ITA,1,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Kazbekov Serik,UKR,2,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Chabot Alexandre,FRA,3,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Rakhmetov Salavat,RUS,4,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Petit François,FRA,5,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Julien Stephane,FRA,6,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Danis Jean Luc,FRA,7,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Meyer Jérôme,FRA,8,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Jeandenand Damien,FRA,9,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Tuscan Frédéric,FRA,10,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Daures Luc,FRA,11,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Meral Julien,FRA,12,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+DU LAC Daniel,FRA,13,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Chemoulinkine Serguei,RUS,14,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Pons Pedro,ESP,15,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Markevych Petro,UKR,16,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Fairfield Timmy,CAN,17,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Oleksy Tomasz,POL,18,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Natech Faycal,FRA,19,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Giupponi Luca,ITA,20,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Vedenmeer Andrey,UKR,21,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Lebreton Olivier,FRA,22,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Lamiche Anthony,FRA,23,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Golob Jurij,SLO,24,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Scarian Riccardo,ITA,25,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Kryvosheytsev Yevgen,UKR,26,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Langris Sylvain,FRA,27,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Nourmamatov Serguei,RUS,28,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Scully Eric,USA,29,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Bychkov Dmitrii,RUS,30,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Dutray Mathieu,FRA,31,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Bresciani Matteo,ITA,32,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Soucek Radovah,CZE,33,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Zangerl Bernd,AUT,33,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Chapelle Sylvain,FRA,35,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Emprin Christian,FRA,35,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Coroller Frédéric,FRA,37,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Leenen Jos,NED,37,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Pinier Nicolas,FRA,37,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Bloch Elliot,USA,40,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Meijnhard Mike,NED,41,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Fioravanti Roberto,ITA,42,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv
+Teijsse Dennis,NED,43,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Men,1999-07-10,/api/v1/events/200/result/3,1999-07-10_Val d'Isere_Boulder_Men_no-round.csv

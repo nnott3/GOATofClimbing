@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Ondra Adam,CZE,1,35,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,35
-Skofic Domen,SLO,2,31,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,31
-McColl Sean,CAN,3,28+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,28+
-Julian  Puigblanque Ramón ,ESP,4,26+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,26+
-Schubert Jakob,AUT,5,22,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,22
-Halenke Sebastian,GER,6,21,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,21
-Supper Gautier,FRA,7,21,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,21
-Nakano Minoru,JPN,8,10,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,10
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Ondra Adam,CZE,1,35,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,35,2015-10-17_Wujiang_Lead_Men_Final.csv
+Skofic Domen,SLO,2,31,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,31,2015-10-17_Wujiang_Lead_Men_Final.csv
+McColl Sean,CAN,3,28+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,28+,2015-10-17_Wujiang_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,4,26+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,26+,2015-10-17_Wujiang_Lead_Men_Final.csv
+Schubert Jakob,AUT,5,22,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,22,2015-10-17_Wujiang_Lead_Men_Final.csv
+Halenke Sebastian,GER,6,21,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,21,2015-10-17_Wujiang_Lead_Men_Final.csv
+Supper Gautier,FRA,7,21,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,21,2015-10-17_Wujiang_Lead_Men_Final.csv
+Nakano Minoru,JPN,8,10,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",908,2015,Wujiang,Lead,Men,Final,2015-10-17,/api/v1/category_rounds/3493/results,/api/v1/events/908/result/1,10,2015-10-17_Wujiang_Lead_Men_Final.csv

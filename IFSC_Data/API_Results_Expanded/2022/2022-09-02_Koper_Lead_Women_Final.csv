@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Mori Ai,JPN,1,30+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,30+
-Garnbret Janja,SLO,2,27+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,27+
-Raboutou Brooke,USA,3,23+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,23+
-SEO Chaehyun,KOR,4,22,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,22
-Pilz Jessica,AUT,5,21+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,21+
-Krampl Mia,SLO,6,21+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,21+
-Grossman Natalia,USA,7,21+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,21+
-Janicot Hélène,FRA,8,16+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,16+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Mori Ai,JPN,1,30+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,30+,2022-09-02_Koper_Lead_Women_Final.csv
+Garnbret Janja,SLO,2,27+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,27+,2022-09-02_Koper_Lead_Women_Final.csv
+Raboutou Brooke,USA,3,23+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,23+,2022-09-02_Koper_Lead_Women_Final.csv
+SEO Chaehyun,KOR,4,22,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,22,2022-09-02_Koper_Lead_Women_Final.csv
+Pilz Jessica,AUT,5,21+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,21+,2022-09-02_Koper_Lead_Women_Final.csv
+Krampl Mia,SLO,6,21+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,21+,2022-09-02_Koper_Lead_Women_Final.csv
+Grossman Natalia,USA,7,21+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,21+,2022-09-02_Koper_Lead_Women_Final.csv
+Janicot Hélène,FRA,8,16+,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5,16+,2022-09-02_Koper_Lead_Women_Final.csv

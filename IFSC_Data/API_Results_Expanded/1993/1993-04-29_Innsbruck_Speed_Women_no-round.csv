@@ -1,10 +1,10 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Bibik Olga,RUS,1,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6
-Dorsimond Isabelle,BEL,2,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6
-Piszczek Renata,POL,3,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6
-Inozemtseva Yulia,RUS,4,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6
-Craciun-Pantis Mihaela,ROU,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6
-Panfyorova Margarita,UKR,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6
-Perlova Nataliya,UKR,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6
-Winkler Susan,GER,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6
-Mogi Eriko,JPN,9,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Bibik Olga,RUS,1,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6,1993-04-29_Innsbruck_Speed_Women_no-round.csv
+Dorsimond Isabelle,BEL,2,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6,1993-04-29_Innsbruck_Speed_Women_no-round.csv
+Piszczek Renata,POL,3,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6,1993-04-29_Innsbruck_Speed_Women_no-round.csv
+Inozemtseva Yulia,RUS,4,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6,1993-04-29_Innsbruck_Speed_Women_no-round.csv
+Craciun-Pantis Mihaela,ROU,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6,1993-04-29_Innsbruck_Speed_Women_no-round.csv
+Panfyorova Margarita,UKR,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6,1993-04-29_Innsbruck_Speed_Women_no-round.csv
+Perlova Nataliya,UKR,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6,1993-04-29_Innsbruck_Speed_Women_no-round.csv
+Winkler Susan,GER,5,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6,1993-04-29_Innsbruck_Speed_Women_no-round.csv
+Mogi Eriko,JPN,9,,UIAA World Championship - Innsbruck 1993,125,1993,Innsbruck,Speed,Women,1993-04-29,/api/v1/events/125/result/6,1993-04-29_Innsbruck_Speed_Women_no-round.csv

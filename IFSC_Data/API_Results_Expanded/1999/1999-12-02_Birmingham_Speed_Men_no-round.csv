@@ -1,38 +1,38 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Zakharov Vladimir,UKR,1,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Netsvetaev-Dolgalev Vladimir,RUS,2,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Gadeev Alexei,RUS,3,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Vedenmeer Andrey,UKR,4,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Kryvosheytsev Yevgen,UKR,5,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Oleksy Tomasz,POL,5,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Soubbotine Iakov,RUS,5,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Styenkovyy Maksym,UKR,5,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-ANDRADA JIMENEZ Daniel,ESP,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Bychkov Dmitrii,RUS,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Dutray Mathieu,FRA,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Giupponi Luca,ITA,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Komondi Csaba,HUN,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Manzanedo César Ciudad,ESP,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Müller Lukasz,POL,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Paukaev Alexandr,UKR,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Reis Jürgen,AUT,17,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Baranov Vladislav,RUS,18,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Ene Ionel,ROU,19,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Aunet Jimmy,FRA,20,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Girard Antoine,FRA,21,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Carson Neil,GBR,22,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Garbov Kalin,BUL,23,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Scortea Dan,ROU,24,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Heason Ben,GBR,25,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Parry Gareth,GBR,26,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Pfanner Andreas,AUT,27,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Fichtinger Reinhard,AUT,28,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Son Sangwon,KOR,29,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Paladino Jimmy,SWE,30,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Kim Byung Tae,KOR,31,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Heason Matt,GBR,32,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Petrovski Dejan,MKD,33,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Allansson Per,SWE,34,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Durand James,GBR,34,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Kim Dong-Sik,KOR,34,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
-Mus Johan,BEL,34,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Zakharov Vladimir,UKR,1,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Netsvetaev-Dolgalev Vladimir,RUS,2,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Gadeev Alexei,RUS,3,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Vedenmeer Andrey,UKR,4,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Kryvosheytsev Yevgen,UKR,5,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Oleksy Tomasz,POL,5,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Soubbotine Iakov,RUS,5,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Styenkovyy Maksym,UKR,5,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+ANDRADA JIMENEZ Daniel,ESP,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Bychkov Dmitrii,RUS,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Dutray Mathieu,FRA,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Giupponi Luca,ITA,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Komondi Csaba,HUN,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Manzanedo César Ciudad,ESP,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Müller Lukasz,POL,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Paukaev Alexandr,UKR,9,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Reis Jürgen,AUT,17,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Baranov Vladislav,RUS,18,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Ene Ionel,ROU,19,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Aunet Jimmy,FRA,20,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Girard Antoine,FRA,21,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Carson Neil,GBR,22,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Garbov Kalin,BUL,23,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Scortea Dan,ROU,24,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Heason Ben,GBR,25,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Parry Gareth,GBR,26,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Pfanner Andreas,AUT,27,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Fichtinger Reinhard,AUT,28,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Son Sangwon,KOR,29,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Paladino Jimmy,SWE,30,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Kim Byung Tae,KOR,31,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Heason Matt,GBR,32,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Petrovski Dejan,MKD,33,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Allansson Per,SWE,34,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Durand James,GBR,34,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Kim Dong-Sik,KOR,34,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv
+Mus Johan,BEL,34,,UIAA World Championship - Birmingham (GBR) 1999,207,1999,Birmingham,Speed,Men,1999-12-02,/api/v1/events/207/result/2,1999-12-02_Birmingham_Speed_Men_no-round.csv

@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Seo Chaehyun,KOR,1,34.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,34.5+
-Pilz Jessica,AUT,2,34.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,34.5
-Rakovec Lucka,SLO,3,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,34+
-Verhoeven Anak,BEL,4,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,34+
-Mori Ai,JPN,5,20+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,20+
-Hirano Natsumi,JPN,6,20+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,20+
-Krampl Mia,SLO,7,20+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,20+
-Kotake Mei,JPN,8,20+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,20+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Seo Chaehyun,KOR,1,34.5+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,34.5+,2019-09-28_Kranj_Lead_Women_Final.csv
+Pilz Jessica,AUT,2,34.5,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,34.5,2019-09-28_Kranj_Lead_Women_Final.csv
+Rakovec Lucka,SLO,3,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,34+,2019-09-28_Kranj_Lead_Women_Final.csv
+Verhoeven Anak,BEL,4,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,34+,2019-09-28_Kranj_Lead_Women_Final.csv
+Mori Ai,JPN,5,20+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,20+,2019-09-28_Kranj_Lead_Women_Final.csv
+Hirano Natsumi,JPN,6,20+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,20+,2019-09-28_Kranj_Lead_Women_Final.csv
+Krampl Mia,SLO,7,20+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,20+,2019-09-28_Kranj_Lead_Women_Final.csv
+Kotake Mei,JPN,8,20+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2019 ,1123,2019,Kranj,Lead,Women,Final,2019-09-28,/api/v1/category_rounds/5551/results,/api/v1/events/1123/result/5,20+,2019-09-28_Kranj_Lead_Women_Final.csv

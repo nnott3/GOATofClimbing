@@ -1,46 +1,46 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Eiter Angela,AUT,1,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Ciavaldini Caroline,FRA,2,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Sarkany Muriel,BEL,2,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-schöpf Bettina,AUT,4,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Kobayashi Yuka,JPN,5,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Gros Natalija,SLO,6,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Kim Jain,KOR,7,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Lavarda Jenny,ITA,8,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Eyer Alexandra,SUI,9,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Stöhr Anna,AUT,10,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Shalagina Olga,UKR,11,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Go Mi-Sun,KOR,12,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Martin Delphine,FRA,13,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Bacher Barbara,AUT,14,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Huang Li-Ping,CHN,15,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Li Chunhua,CHN,16,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Madate Tomoko,JPN,17,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Kysilkova Tereza,CZE,18,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Raffetseder Gerda,AUT,19,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Saurwein Katharina,AUT,20,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Labanu Ilmawaty,INA,21,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Perlova Nataliya,UKR,22,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Liu Hiu Ying,HKG,23,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Berry Samantha,AUS,24,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Piszczek Renata,POL,25,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Webster Sarah,AUS,26,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Huang Bai-Le,TPE,27,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Martin Sancho Berta,ESP,28,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Murjayanti A,INA,28,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-"Tan Li Ying, Suzanna",SGP,28,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Zeilemaker Monica,NED,28,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Xu Kitty,NZL,32,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Kuznetsova Tamara,KAZ,33,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Liu Gui-Ying,CHN,34,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-He Cuifang,CHN,35,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Cheng Lai-Sho,HKG,36,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Ramiro Barbara Joan,PHI,36,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Huang Qingzhu,CHN,38,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Wong Ming-o,HKG,38,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Wei Sheng-Ju,CHN,40,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Livaniu Athena,GRE,41,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Calica Blesilda Marie,PHI,42,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Irsaliyeva Dinara,KAZ,43,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-LI Suet-Man,HKG,43,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
-Tang Kit Ying,HKG,43,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Eiter Angela,AUT,1,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Ciavaldini Caroline,FRA,2,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Sarkany Muriel,BEL,2,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+schöpf Bettina,AUT,4,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Kobayashi Yuka,JPN,5,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Gros Natalija,SLO,6,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Kim Jain,KOR,7,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Lavarda Jenny,ITA,8,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Eyer Alexandra,SUI,9,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Stöhr Anna,AUT,10,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Shalagina Olga,UKR,11,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Go Mi-Sun,KOR,12,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Martin Delphine,FRA,13,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Bacher Barbara,AUT,14,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Huang Li-Ping,CHN,15,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Li Chunhua,CHN,16,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Madate Tomoko,JPN,17,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Kysilkova Tereza,CZE,18,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Raffetseder Gerda,AUT,19,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Saurwein Katharina,AUT,20,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Labanu Ilmawaty,INA,21,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Perlova Nataliya,UKR,22,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Liu Hiu Ying,HKG,23,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Berry Samantha,AUS,24,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Piszczek Renata,POL,25,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Webster Sarah,AUS,26,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Huang Bai-Le,TPE,27,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Martin Sancho Berta,ESP,28,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Murjayanti A,INA,28,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+"Tan Li Ying, Suzanna",SGP,28,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Zeilemaker Monica,NED,28,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Xu Kitty,NZL,32,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Kuznetsova Tamara,KAZ,33,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Liu Gui-Ying,CHN,34,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+He Cuifang,CHN,35,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Cheng Lai-Sho,HKG,36,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Ramiro Barbara Joan,PHI,36,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Huang Qingzhu,CHN,38,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Wong Ming-o,HKG,38,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Wei Sheng-Ju,CHN,40,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Livaniu Athena,GRE,41,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Calica Blesilda Marie,PHI,42,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Irsaliyeva Dinara,KAZ,43,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+LI Suet-Man,HKG,43,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv
+Tang Kit Ying,HKG,43,,UIAA Worldcup - Shanghai (CHN) 2004,358,2004,Shanghai,Lead,Women,2004-10-01,/api/v1/events/358/result/5,2004-10-01_Shanghai_Lead_Women_no-round.csv

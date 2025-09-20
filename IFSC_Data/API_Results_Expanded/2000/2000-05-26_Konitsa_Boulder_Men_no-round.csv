@@ -1,30 +1,30 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Julien Stephane,FRA,1,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Pons Pedro,ESP,2,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Core Christian,ITA,3,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Petit François,FRA,4,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Rakhmetov Salavat,RUS,5,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Tuscan Frédéric,FRA,6,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-ANDRADA JIMENEZ Daniel,ESP,7,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Dutray Mathieu,FRA,8,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Marinov Boyco,BUL,9,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Chabot Alexandre,FRA,10,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Laurence Ludovic,FRA,11,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Meyer Jérôme,FRA,12,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-DU LAC Daniel,FRA,13,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Garbov Kalin,BUL,14,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Golob Jurij,SLO,15,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Brenna Cristian,ITA,16,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Jeandenand Damien,FRA,17,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Scarian Riccardo,ITA,18,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Djambazov Todor,BUL,19,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Felgerolle Benjamin,FRA,20,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Cehovin Urh,SLO,21,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Fairfield Timmy,CAN,22,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Danis Jean Luc,FRA,24,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Thanopoulos Aristomenes,GRE,25,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Htenas Athanasios,GRE,26,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Pejkovski Zoran,MKD,27,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Gezerlis Spiridon,GRE,28,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Kuzmanovski Goran,MKD,29,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
-Trajkovski Martin,MKD,29,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Julien Stephane,FRA,1,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Pons Pedro,ESP,2,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Core Christian,ITA,3,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Petit François,FRA,4,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Rakhmetov Salavat,RUS,5,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Tuscan Frédéric,FRA,6,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+ANDRADA JIMENEZ Daniel,ESP,7,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Dutray Mathieu,FRA,8,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Marinov Boyco,BUL,9,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Chabot Alexandre,FRA,10,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Laurence Ludovic,FRA,11,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Meyer Jérôme,FRA,12,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+DU LAC Daniel,FRA,13,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Garbov Kalin,BUL,14,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Golob Jurij,SLO,15,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Brenna Cristian,ITA,16,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Jeandenand Damien,FRA,17,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Scarian Riccardo,ITA,18,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Djambazov Todor,BUL,19,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Felgerolle Benjamin,FRA,20,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Cehovin Urh,SLO,21,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Fairfield Timmy,CAN,22,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Danis Jean Luc,FRA,24,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Thanopoulos Aristomenes,GRE,25,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Htenas Athanasios,GRE,26,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Pejkovski Zoran,MKD,27,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Gezerlis Spiridon,GRE,28,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Kuzmanovski Goran,MKD,29,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv
+Trajkovski Martin,MKD,29,,UIAA Worldcup - Konitsa (GRE) 2000,216,2000,Konitsa,Boulder,Men,2000-05-26,/api/v1/events/216/result/3,2000-05-26_Konitsa_Boulder_Men_no-round.csv

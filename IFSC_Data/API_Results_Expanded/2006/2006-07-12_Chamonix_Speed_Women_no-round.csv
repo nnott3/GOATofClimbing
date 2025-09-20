@@ -1,11 +1,11 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Ruyga Tatiana,RUS,1,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6
-Alekseeva Kseniia,RUS,2,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6
-Yurina Valentina,RUS,3,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6
-Stenkovaya Anna,RUS,4,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6
-Rodriguez Francis,VEN,5,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6
-Dumont Alexandra,FRA,6,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6
-Ropek Edyta,POL,7,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6
-Policard Michaelle,FRA,8,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6
-Karesova Eliska,CZE,9,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6
-Blanco Lucelia,VEN,10,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Ruyga Tatiana,RUS,1,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6,2006-07-12_Chamonix_Speed_Women_no-round.csv
+Alekseeva Kseniia,RUS,2,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6,2006-07-12_Chamonix_Speed_Women_no-round.csv
+Yurina Valentina,RUS,3,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6,2006-07-12_Chamonix_Speed_Women_no-round.csv
+Stenkovaya Anna,RUS,4,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6,2006-07-12_Chamonix_Speed_Women_no-round.csv
+Rodriguez Francis,VEN,5,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6,2006-07-12_Chamonix_Speed_Women_no-round.csv
+Dumont Alexandra,FRA,6,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6,2006-07-12_Chamonix_Speed_Women_no-round.csv
+Ropek Edyta,POL,7,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6,2006-07-12_Chamonix_Speed_Women_no-round.csv
+Policard Michaelle,FRA,8,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6,2006-07-12_Chamonix_Speed_Women_no-round.csv
+Karesova Eliska,CZE,9,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6,2006-07-12_Chamonix_Speed_Women_no-round.csv
+Blanco Lucelia,VEN,10,,UIAA Climbing Worldcup (L+S) - Chamonix (FRA) 2006,433,2006,Chamonix,Speed,Women,2006-07-12,/api/v1/events/433/result/6,2006-07-12_Chamonix_Speed_Women_no-round.csv

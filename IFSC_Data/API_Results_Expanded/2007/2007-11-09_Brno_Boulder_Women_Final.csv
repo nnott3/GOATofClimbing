@@ -1,7 +1,7 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
-Danion Juliette,FRA,1,4t6 4b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7
-Stöhr Anna,AUT,2,4t7 4b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7
-Shalagina Olga,UKR,3,1t3 4b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7
-Abramchuk Yulia,RUS,4,0t 3b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7
-Bibik Olga,RUS,5,0t 3b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7
-Bezhko Olga,UKR,6,0t 3b6,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,source_file
+Danion Juliette,FRA,1,4t6 4b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7,2007-11-09_Brno_Boulder_Women_Final.csv
+Stöhr Anna,AUT,2,4t7 4b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7,2007-11-09_Brno_Boulder_Women_Final.csv
+Shalagina Olga,UKR,3,1t3 4b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7,2007-11-09_Brno_Boulder_Women_Final.csv
+Abramchuk Yulia,RUS,4,0t 3b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7,2007-11-09_Brno_Boulder_Women_Final.csv
+Bibik Olga,RUS,5,0t 3b4,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7,2007-11-09_Brno_Boulder_Women_Final.csv
+Bezhko Olga,UKR,6,0t 3b6,IFSC Climbing Worldcup (B) - Brno (CZE) 2007,485,2007,Brno,Boulder,Women,Final,2007-11-09,/api/v1/category_rounds/708/results,/api/v1/events/485/result/7,2007-11-09_Brno_Boulder_Women_Final.csv

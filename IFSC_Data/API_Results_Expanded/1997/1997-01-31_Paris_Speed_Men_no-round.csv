@@ -1,44 +1,44 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-ANDRADA JIMENEZ Daniel,ESP,1,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Kryvosheytsev Yevgen,UKR,2,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Bychkov Dmitrii,RUS,3,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Florine Hans,USA,4,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Oleksy Tomasz,POL,5,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Paukaev Alexandr,UKR,5,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Rakhmetov Kairat,KAZ,5,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Parry Gareth,GBR,8,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Vedenmeer Andrey,UKR,9,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Rakhmetov Salavat,RUS,10,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Dutray Mathieu,FRA,11,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Müller Lukasz,POL,11,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Laurence Ludovic,FRA,13,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Videnovski Milen,BUL,13,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-DU LAC Daniel,FRA,15,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Kozlov Alexei,RUS,16,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Manzanedo César Ciudad,ESP,17,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Garbov Kalin,BUL,18,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Koran Pavel,CZE,19,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Langris Sylvain,FRA,20,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Kazbekov Serik,UKR,21,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Zakharov Vladimir,UKR,21,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Mus Johan,BEL,23,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Benian Milan,CZE,24,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Ceintre Arnaud,FRA,25,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Carson Neil,GBR,26,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Iiyama Kenji,JPN,27,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Reiten Paal Benum,NOR,28,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Widder Wolfgang,GER,28,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Petrenko Maksym,UKR,30,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Tcherechnev Oleg,RUS,31,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Coenen Oliver,BEL,32,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Bransby Ben,GBR,33,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Ene Ionel,ROU,34,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Lea Michael,GBR,35,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Terjesen Lars,NOR,36,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Travers Neil,GBR,37,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Yip Heung-Fai,HKG,38,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Boulavko Oleg,RUS,39,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Finkel Christoph,GER,39,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Hirayama Yuji,JPN,39,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Netsvetaev-Dolgalev Vladimir,RUS,39,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
-Oniga Marius,ROU,39,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+ANDRADA JIMENEZ Daniel,ESP,1,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Kryvosheytsev Yevgen,UKR,2,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Bychkov Dmitrii,RUS,3,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Florine Hans,USA,4,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Oleksy Tomasz,POL,5,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Paukaev Alexandr,UKR,5,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Rakhmetov Kairat,KAZ,5,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Parry Gareth,GBR,8,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Vedenmeer Andrey,UKR,9,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Rakhmetov Salavat,RUS,10,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Dutray Mathieu,FRA,11,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Müller Lukasz,POL,11,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Laurence Ludovic,FRA,13,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Videnovski Milen,BUL,13,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+DU LAC Daniel,FRA,15,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Kozlov Alexei,RUS,16,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Manzanedo César Ciudad,ESP,17,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Garbov Kalin,BUL,18,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Koran Pavel,CZE,19,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Langris Sylvain,FRA,20,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Kazbekov Serik,UKR,21,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Zakharov Vladimir,UKR,21,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Mus Johan,BEL,23,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Benian Milan,CZE,24,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Ceintre Arnaud,FRA,25,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Carson Neil,GBR,26,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Iiyama Kenji,JPN,27,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Reiten Paal Benum,NOR,28,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Widder Wolfgang,GER,28,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Petrenko Maksym,UKR,30,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Tcherechnev Oleg,RUS,31,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Coenen Oliver,BEL,32,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Bransby Ben,GBR,33,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Ene Ionel,ROU,34,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Lea Michael,GBR,35,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Terjesen Lars,NOR,36,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Travers Neil,GBR,37,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Yip Heung-Fai,HKG,38,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Boulavko Oleg,RUS,39,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Finkel Christoph,GER,39,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Hirayama Yuji,JPN,39,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Netsvetaev-Dolgalev Vladimir,RUS,39,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv
+Oniga Marius,ROU,39,,UIAA World Championchip - Paris 1997,164,1997,Paris,Speed,Men,1997-01-31,/api/v1/events/164/result/2,1997-01-31_Paris_Speed_Men_no-round.csv

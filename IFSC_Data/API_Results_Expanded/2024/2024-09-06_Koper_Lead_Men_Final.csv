@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Roberts Toby,GBR,1,40,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Men,Final,2024-09-06,/api/v1/category_rounds/9285/results,/api/v1/events/1359/result/1,40,2024-09-06_Koper_Lead_Men_Final.csv
+ANRAKU Sorato,JPN,2,35,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Men,Final,2024-09-06,/api/v1/category_rounds/9285/results,/api/v1/events/1359/result/1,35,2024-09-06_Koper_Lead_Men_Final.csv
+Avezou Sam,FRA,3,31+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Men,Final,2024-09-06,/api/v1/category_rounds/9285/results,/api/v1/events/1359/result/1,31+,2024-09-06_Koper_Lead_Men_Final.csv
+OMATA Shion,JPN,4,30+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Men,Final,2024-09-06,/api/v1/category_rounds/9285/results,/api/v1/events/1359/result/1,30+,2024-09-06_Koper_Lead_Men_Final.csv
+Flohé Yannick,GER,5,30+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Men,Final,2024-09-06,/api/v1/category_rounds/9285/results,/api/v1/events/1359/result/1,30+,2024-09-06_Koper_Lead_Men_Final.csv
+Bertone Max,FRA,6,25+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Men,Final,2024-09-06,/api/v1/category_rounds/9285/results,/api/v1/events/1359/result/1,25+,2024-09-06_Koper_Lead_Men_Final.csv
+YURIKUSA Ao,JPN,7,16,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Men,Final,2024-09-06,/api/v1/category_rounds/9285/results,/api/v1/events/1359/result/1,16,2024-09-06_Koper_Lead_Men_Final.csv
+LEE Dohyun,KOR,8,12+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Men,Final,2024-09-06,/api/v1/category_rounds/9285/results,/api/v1/events/1359/result/1,12+,2024-09-06_Koper_Lead_Men_Final.csv

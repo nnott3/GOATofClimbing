@@ -1,19 +1,19 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Styenkovyy Maksym,UKR,1,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Komondi Csaba,HUN,2,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Zakharov Vladimir,UKR,3,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Vedenmeer Andrey,UKR,4,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Soubbotine Iakov,RUS,5,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Sergeyev (Liachenko) Alexandre,RUS,6,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Gadeev Alexei,RUS,7,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Januel Nicolas,FRA,8,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Müller Lukasz,POL,9,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Dutray Mathieu,FRA,10,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Baranov Vladislav,RUS,11,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Giupponi Luca,ITA,12,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Schönenberger Urs,SUI,13,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Lampugnani Diego,SUI,14,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Mohd Yazid Bin Mohd Yusof,SGP,15,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Decker Martin,GER,16,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Krivonos Andrei,UKR,17,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
-Paukaev Alexandr,UKR,17,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Styenkovyy Maksym,UKR,1,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Komondi Csaba,HUN,2,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Zakharov Vladimir,UKR,3,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Vedenmeer Andrey,UKR,4,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Soubbotine Iakov,RUS,5,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Sergeyev (Liachenko) Alexandre,RUS,6,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Gadeev Alexei,RUS,7,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Januel Nicolas,FRA,8,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Müller Lukasz,POL,9,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Dutray Mathieu,FRA,10,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Baranov Vladislav,RUS,11,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Giupponi Luca,ITA,12,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Schönenberger Urs,SUI,13,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Lampugnani Diego,SUI,14,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Mohd Yazid Bin Mohd Yusof,SGP,15,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Decker Martin,GER,16,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Krivonos Andrei,UKR,17,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv
+Paukaev Alexandr,UKR,17,,UIAA Worldcup - Nantes (FRA) 2000,225,2000,Nantes,Speed,Men,2000-11-01,/api/v1/events/225/result/2,2000-11-01_Nantes_Speed_Men_no-round.csv

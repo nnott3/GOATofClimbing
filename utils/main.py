@@ -1,159 +1,14 @@
-# import pandas as pd
-# import time
-# from pathlib import Path
-# from datetime import datetime
-# from utils.scraper_init import IFSCScraper
-# import sys
-
-# class IFSCIncrementalFetcher:
-#     def __init__(self):
-#         self.scraper = IFSCScraper()
-#         self.data_dir = Path('IFSC_Data')
-#         self.leagues_file = self.data_dir / 'all_years_leagues.csv'
-#         self.metadata_dir = self.data_dir / 'API_Event_metadata'
-    
-#     def get_existing_data(self, file_path):
-#         """Load existing CSV or return empty DataFrame."""
-#         return pd.read_csv(file_path) if file_path.exists() else pd.DataFrame()
-    
-#     def find_new_leagues(self, current_leagues, existing_leagues):
-#         """Find leagues that don't exist in database."""
-#         if existing_leagues.empty:
-#             return current_leagues
-        
-#         existing_keys = set(zip(existing_leagues['year'], existing_leagues['league_name']))
-#         current_keys = set(zip(current_leagues['year'], current_leagues['league_name']))
-#         new_keys = current_keys - existing_keys
-        
-#         if new_keys:
-#             return current_leagues[
-#                 current_leagues.apply(lambda x: (x['year'], x['league_name']) in new_keys, axis=1)
-#             ]
-#         return pd.DataFrame()
-    
-#     def find_new_events(self, current_events, existing_events):
-#         """Find events that don't exist in database."""
-#         if existing_events.empty:
-#             return current_events
-        
-#         existing_keys = set()
-#         for _, row in existing_events.iterrows():
-#             key = (row['event_id'], row['discipline'], row['gender'], row.get('round', 'N/A'))
-#             existing_keys.add(key)
-        
-#         new_events = []
-#         for _, row in current_events.iterrows():
-#             key = (row['event_id'], row['discipline'], row['gender'], row.get('round', 'N/A'))
-#             if key not in existing_keys:
-#                 new_events.append(row)
-        
-#         return pd.DataFrame(new_events) if new_events else pd.DataFrame()
-    
-#     def should_update_year(self, year):
-#         """Check if year should be updated (current and next year only)."""
-#         current_year = datetime.now().year
-#         return year >= current_year
-    
-#     def fetch_results_for_events(self, events_df):
-#         """Fetch results for given events."""
-#         for _, event in events_df.iterrows():
-#             try:
-#                 self.scraper.parse_round_result(event.to_dict())
-#             except Exception as e:
-#                 print(f"Error processing {event.get('event_name', 'Unknown')}: {e}")
-    
-#     def run_update(self):
-#         """Run incremental update - check for new leagues and events."""
-#         print("Starting incremental update...")
-#         start_time = time.time()
-        
-#         # Update leagues
-#         current_leagues = self.scraper.get_worldcup_leagues()
-#         existing_leagues = self.get_existing_data(self.leagues_file)
-#         new_leagues = self.find_new_leagues(current_leagues, existing_leagues)
-        
-#         print(f"Found {len(new_leagues)} new leagues")
-        
-#         # Check existing leagues for new events
-#         all_new_events = pd.DataFrame()
-        
-#         for _, league in existing_leagues.iterrows():
-#             year = league['year']
-#             if not self.should_update_year(year):
-#                 continue
-                
-#             events_file = self.metadata_dir / f"{year}_event_meta.csv"
-#             existing_events = self.get_existing_data(events_file)
-#             current_events = self.scraper.get_events_from_league(league['url'])
-            
-#             new_events = self.find_new_events(current_events, existing_events)
-#             if not new_events.empty:
-#                 all_new_events = pd.concat([all_new_events, new_events], ignore_index=True)
-        
-#         # Process completely new leagues
-#         for _, league in new_leagues.iterrows():
-#             new_events = self.scraper.get_events_from_league(league['url'])
-#             if not new_events.empty:
-#                 all_new_events = pd.concat([all_new_events, new_events], ignore_index=True)
-        
-#         # Fetch results for new events
-#         if not all_new_events.empty:
-#             print(f"Fetching results for {len(all_new_events)} new events...")
-#             self.fetch_results_for_events(all_new_events)
-#         else:
-#             print("No new events found")
-        
-#         print(f"Update completed in {(time.time() - start_time)/60:.1f} minutes")
-    
-#     def run_initial_fetch(self, start_year=None, end_year=None):
-#         """Run complete initial fetch."""
-#         print("Starting initial fetch...")
-#         start_time = time.time()
-        
-#         leagues_df = self.get_existing_data(self.leagues_file)
-#         if leagues_df.empty:
-#             leagues_df = self.scraper.get_worldcup_leagues()
-        
-#         # Filter by year range
-#         if start_year:
-#             leagues_df = leagues_df[leagues_df['year'] >= start_year]
-#         if end_year:
-#             leagues_df = leagues_df[leagues_df['year'] <= end_year]
-        
-#         for _, league in leagues_df.iterrows():
-#             year = league['year']
-#             print(f"Processing {year}...")
-            
-#             try:
-#                 events_df = self.scraper.get_events_from_league(league['url'])
-#                 if not events_df.empty:
-#                     self.fetch_results_for_events(events_df)
-#             except Exception as e:
-#                 print(f"Error processing {year}: {e}")
-        
-#         print(f"Scraping took a while, it was {(time.time() - start_time)/60:.1f} minutes")
-
-
-# # Usage
-# if __name__ == "__main__":
-    
-#     fetcher = IFSCIncrementalFetcher()
-    
-#     if len(sys.argv) > 1 and sys.argv[1] == 'initial':
-#         start_year = int(sys.argv[2]) if len(sys.argv) > 2 else None
-#         end_year = int(sys.argv[3]) if len(sys.argv) > 3 else None
-#         fetcher.run_initial_fetch(start_year, end_year)
-#     else:
-#         fetcher.run_update()
-
-
 import pandas as pd
 import time
 from pathlib import Path
 from datetime import datetime
-from .scraper_init import IFSCScraper
-from .data_aggregator import IFSCDataAggregator
-from .elo_scoring import ELOCalculator
+# from .scraper_init import IFSCScraper
+# from .data_aggregator import IFSCDataAggregator
+# from .elo_scoring import ELOCalculator
+
+from scraper_init import IFSCScraper
+from data_aggregator import IFSCDataAggregator
+from elo_scoring import ELOCalculator
 import logging
 
 logging.basicConfig(level=logging.INFO)
@@ -332,7 +187,7 @@ def main():
     manager = IFSCDataManager()
     
     # Configuration
-    FORCE_INITIAL_FETCH = False  # Set to True to force complete re-scraping
+    FORCE_INITIAL_FETCH = True  # Set to True to force complete re-scraping
     TEST_MODE = False  # Set to True to limit processing for testing
     
     try:

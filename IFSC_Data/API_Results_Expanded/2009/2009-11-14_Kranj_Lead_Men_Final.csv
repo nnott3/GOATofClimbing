@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Ondra Adam,CZE,1,47-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,47-
-Amma Sachi,JPN,2,44,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,44
-Schubert Jakob,AUT,3,44-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,44-
-Chernikov Mikhail,RUS,4,42-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,42-
-Becan Klemen,SLO,5,41,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,41
-Usobiaga Lakunza Patxi,ESP,6,40+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,40+
-Supper Gautier,FRA,7,37,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,37
-Midtboe Magnus,NOR,8,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,37-
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Ondra Adam,CZE,1,47-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,47-,2009-11-14_Kranj_Lead_Men_Final.csv
+Amma Sachi,JPN,2,44,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,44,2009-11-14_Kranj_Lead_Men_Final.csv
+Schubert Jakob,AUT,3,44-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,44-,2009-11-14_Kranj_Lead_Men_Final.csv
+Chernikov Mikhail,RUS,4,42-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,42-,2009-11-14_Kranj_Lead_Men_Final.csv
+Becan Klemen,SLO,5,41,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,41,2009-11-14_Kranj_Lead_Men_Final.csv
+Usobiaga Lakunza Patxi,ESP,6,40+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,40+,2009-11-14_Kranj_Lead_Men_Final.csv
+Supper Gautier,FRA,7,37,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,37,2009-11-14_Kranj_Lead_Men_Final.csv
+Midtboe Magnus,NOR,8,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Men,Final,2009-11-14,/api/v1/category_rounds/1220/results,/api/v1/events/575/result/1,37-,2009-11-14_Kranj_Lead_Men_Final.csv

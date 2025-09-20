@@ -1,23 +1,23 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Gadeev Alexei,RUS,1,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Baranov Vladislav,RUS,2,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Zakharov Vladimir,UKR,3,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Kozlov Alexei,RUS,4,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Oleksy Tomasz,POL,5,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Vedenmeer Andrey,UKR,6,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Krivonos Andrei,UKR,7,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Paukaev Alexandr,UKR,8,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Netsvetaev-Dolgalev Vladimir,RUS,9,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Soubbotine Iakov,RUS,10,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Komondi Csaba,HUN,11,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Müller Lukasz,POL,12,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Sergeyev (Liachenko) Alexandre,RUS,13,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Bychkov Dmitrii,RUS,14,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Gvelebiani Noukri,GEO,15,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Girard Antoine,FRA,16,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Pasareti Gabor,HUN,17,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Raspo Patrick,ITA,18,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Strommer Laszlo,HUN,19,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Szeleyi Gabor,HUN,20,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Kovacs Balasz,HUN,21,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
-Raspo Stefano,ITA,22,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Gadeev Alexei,RUS,1,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Baranov Vladislav,RUS,2,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Zakharov Vladimir,UKR,3,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Kozlov Alexei,RUS,4,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Oleksy Tomasz,POL,5,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Vedenmeer Andrey,UKR,6,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Krivonos Andrei,UKR,7,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Paukaev Alexandr,UKR,8,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Netsvetaev-Dolgalev Vladimir,RUS,9,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Soubbotine Iakov,RUS,10,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Komondi Csaba,HUN,11,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Müller Lukasz,POL,12,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Sergeyev (Liachenko) Alexandre,RUS,13,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Bychkov Dmitrii,RUS,14,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Gvelebiani Noukri,GEO,15,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Girard Antoine,FRA,16,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Pasareti Gabor,HUN,17,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Raspo Patrick,ITA,18,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Strommer Laszlo,HUN,19,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Szeleyi Gabor,HUN,20,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Kovacs Balasz,HUN,21,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv
+Raspo Stefano,ITA,22,,UIAA Worldcup - Beauregard (ITA) 1999,202,1999,Beauregard,Speed,Men,1999-07-23,/api/v1/events/202/result/2,1999-07-23_Beauregard_Speed_Men_no-round.csv

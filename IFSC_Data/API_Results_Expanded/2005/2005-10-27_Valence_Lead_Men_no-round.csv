@@ -1,48 +1,48 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Verhoeven Jorg,NED,1,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Fuselier Michaël,FRA,2,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Lachat Cédric,SUI,3,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Julian  Puigblanque Ramón ,ESP,4,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Crespi Flavio,ITA,5,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Midtboe Magnus,NOR,6,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Usobiaga Lakunza Patxi,ESP,7,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Mrázek Tomás,CZE,8,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Winkler Daniel,SUI,9,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Dugit Fabien,FRA,10,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Comina Fabien,FRA,11,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Desgranges Romain,FRA,11,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Caude David,FRA,13,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Valjavec Tomaz,SLO,14,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Petrenko Maksym,UKR,15,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Millet Sylvain,FRA,16,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-De Girolamo Vincent,FRA,17,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Badia Nicolas,FRA,18,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Zardini Luca,ITA,19,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Glairon Mondet Guillaume,FRA,20,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Dugit Stephane,FRA,21,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Jaggi Martin,SUI,22,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Sapey Anthony,SUI,22,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Kryvosheytsev Yevgen,UKR,24,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Son Sangwon,KOR,25,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Högström Magnus,SWE,26,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Vinokur Vadim,USA,27,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Gusak Igor,UKR,28,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Legrand Yannick,FRA,28,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Nastrog Nicolas,FRA,28,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Pagnoux Romain,FRA,28,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Guerimand Flavien,FRA,32,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Reis Jürgen,AUT,32,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Culver Aurélien,FRA,34,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Bergasse Remy,FRA,35,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Sarkany Frederic,BEL,35,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Becan Klemen,SLO,37,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Buchauer Konrad,AUT,37,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Giorgetti Arthur,FRA,37,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Kim Jaha,KOR,37,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Schmid Thomas,SUI,37,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Carlsson Erik,SWE,42,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Timmermans Michael,BEL,43,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Gerland Bastien,FRA,44,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Sova Matej,SLO,44,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Laurent David,FRA,46,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
-Munoz Dmitri,FRA,47,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Verhoeven Jorg,NED,1,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Fuselier Michaël,FRA,2,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Lachat Cédric,SUI,3,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,4,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Crespi Flavio,ITA,5,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Midtboe Magnus,NOR,6,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,7,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Mrázek Tomás,CZE,8,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Winkler Daniel,SUI,9,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Dugit Fabien,FRA,10,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Comina Fabien,FRA,11,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Desgranges Romain,FRA,11,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Caude David,FRA,13,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Valjavec Tomaz,SLO,14,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Petrenko Maksym,UKR,15,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Millet Sylvain,FRA,16,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+De Girolamo Vincent,FRA,17,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Badia Nicolas,FRA,18,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Zardini Luca,ITA,19,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Glairon Mondet Guillaume,FRA,20,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Dugit Stephane,FRA,21,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Jaggi Martin,SUI,22,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Sapey Anthony,SUI,22,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Kryvosheytsev Yevgen,UKR,24,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Son Sangwon,KOR,25,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Högström Magnus,SWE,26,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Vinokur Vadim,USA,27,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Gusak Igor,UKR,28,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Legrand Yannick,FRA,28,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Nastrog Nicolas,FRA,28,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Pagnoux Romain,FRA,28,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Guerimand Flavien,FRA,32,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Reis Jürgen,AUT,32,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Culver Aurélien,FRA,34,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Bergasse Remy,FRA,35,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Sarkany Frederic,BEL,35,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Becan Klemen,SLO,37,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Buchauer Konrad,AUT,37,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Giorgetti Arthur,FRA,37,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Kim Jaha,KOR,37,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Schmid Thomas,SUI,37,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Carlsson Erik,SWE,42,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Timmermans Michael,BEL,43,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Gerland Bastien,FRA,44,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Sova Matej,SLO,44,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Laurent David,FRA,46,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv
+Munoz Dmitri,FRA,47,,UIAA Worldcup (L) - Valence (FRA) 2005,402,2005,Valence,Lead,Men,2005-10-27,/api/v1/events/402/result/1,2005-10-27_Valence_Lead_Men_no-round.csv

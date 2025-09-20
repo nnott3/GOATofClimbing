@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Garnbret Janja,SLO,1,49+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,49+
-Seo Chaehyun,KOR,2,46,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,46
-Grossman Natalia,USA,3,41+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,41+
-Rogora Laura,ITA,4,39,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,39
-Lukan Vita,SLO,5,39,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,39
-Rakovec Lucka,SLO,6,34+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,34+
-Fakhritdinova Dinara,RUS,7,31+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,31+
-Tanii Natsuki,JPN,8,26,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,26
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Garnbret Janja,SLO,1,49+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,49+,2021-09-03_Ljubljana_Lead_Women_Final.csv
+Seo Chaehyun,KOR,2,46,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,46,2021-09-03_Ljubljana_Lead_Women_Final.csv
+Grossman Natalia,USA,3,41+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,41+,2021-09-03_Ljubljana_Lead_Women_Final.csv
+Rogora Laura,ITA,4,39,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,39,2021-09-03_Ljubljana_Lead_Women_Final.csv
+Lukan Vita,SLO,5,39,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,39,2021-09-03_Ljubljana_Lead_Women_Final.csv
+Rakovec Lucka,SLO,6,34+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,34+,2021-09-03_Ljubljana_Lead_Women_Final.csv
+Fakhritdinova Dinara,RUS,7,31+,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,31+,2021-09-03_Ljubljana_Lead_Women_Final.csv
+Tanii Natsuki,JPN,8,26,IFSC - Climbing World Cup (L) - Kranj (SLO) 2021,1197,2021,Ljubljana,Lead,Women,Final,2021-09-03,/api/v1/category_rounds/6764/results,/api/v1/events/1197/result/5,26,2021-09-03_Ljubljana_Lead_Women_Final.csv

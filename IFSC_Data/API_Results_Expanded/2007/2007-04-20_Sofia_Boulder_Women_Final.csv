@@ -1,7 +1,7 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
-Abramchuk Yulia,RUS,1,2t4 4b9,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7
-Noguchi Akiyo,JPN,2,2t4 3b4,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7
-Shemulinkina  Tatiana,RUS,3,2t4 3b5,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7
-Hodann Anja,SWE,4,2t5 3b3,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7
-Harmand Ludivine,FRA,5,1t2 2b4,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7
-Lind Angelica,SWE,6,0t 2b5,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,source_file
+Abramchuk Yulia,RUS,1,2t4 4b9,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7,2007-04-20_Sofia_Boulder_Women_Final.csv
+Noguchi Akiyo,JPN,2,2t4 3b4,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7,2007-04-20_Sofia_Boulder_Women_Final.csv
+Shemulinkina  Tatiana,RUS,3,2t4 3b5,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7,2007-04-20_Sofia_Boulder_Women_Final.csv
+Hodann Anja,SWE,4,2t5 3b3,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7,2007-04-20_Sofia_Boulder_Women_Final.csv
+Harmand Ludivine,FRA,5,1t2 2b4,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7,2007-04-20_Sofia_Boulder_Women_Final.csv
+Lind Angelica,SWE,6,0t 2b5,IFSC Climbing Worldcup (B) - Sofia (BUL) 2007,470,2007,Sofia,Boulder,Women,Final,2007-04-20,/api/v1/category_rounds/603/results,/api/v1/events/470/result/7,2007-04-20_Sofia_Boulder_Women_Final.csv

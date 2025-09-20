@@ -1,16 +1,16 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Bibik Olga,RUS,1,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Ovtchinnikova Elena,USA,2,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Chereshneva Venera,RUS,3,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Gronkiewicz-Marcisz Iwona,POL,4,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Churbanova Galina,KAZ,5,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Perlova Nataliya,UKR,5,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Jankova Elka,BUL,7,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Piszczek Renata,POL,7,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Butler Felicity,GBR,9,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Zadvornih Marie,KAZ,9,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Creamer Lucy,GBR,11,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Pashennik Nataliy,RUS,12,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Posarlie-Croitoru Elena,ROU,13,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Kryvonis Olena,UKR,14,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
-Lichtina Marina,KAZ,15,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Bibik Olga,RUS,1,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Ovtchinnikova Elena,USA,2,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Chereshneva Venera,RUS,3,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Gronkiewicz-Marcisz Iwona,POL,4,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Churbanova Galina,KAZ,5,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Perlova Nataliya,UKR,5,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Jankova Elka,BUL,7,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Piszczek Renata,POL,7,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Butler Felicity,GBR,9,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Zadvornih Marie,KAZ,9,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Creamer Lucy,GBR,11,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Pashennik Nataliy,RUS,12,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Posarlie-Croitoru Elena,ROU,13,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Kryvonis Olena,UKR,14,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv
+Lichtina Marina,KAZ,15,,UIAA Worldcup - Black See 1993,128,1993,Black See,Speed,Women,1993-08-26,/api/v1/events/128/result/6,1993-08-26_Black See_Speed_Women_no-round.csv

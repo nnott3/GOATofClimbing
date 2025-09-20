@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Kim Jain,KOR,1,50+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,50+
-Röck Magdalena,AUT,2,45+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,45+
-Markovic Mina,SLO,3,44+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,44+
-Verhoeven Anak,BEL,4,40,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,40
-Fakhritdinova Dinara,RUS,5,36+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,36+
-Noguchi Akiyo,JPN,6,36+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,36+
-Durif Charlotte,FRA,7,36+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,36+
-Ota Risa,JPN,8,31+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,31+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Kim Jain,KOR,1,50+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,50+,2014-07-10_Chamonix_Lead_Women_Final.csv
+Röck Magdalena,AUT,2,45+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,45+,2014-07-10_Chamonix_Lead_Women_Final.csv
+Markovic Mina,SLO,3,44+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,44+,2014-07-10_Chamonix_Lead_Women_Final.csv
+Verhoeven Anak,BEL,4,40,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,40,2014-07-10_Chamonix_Lead_Women_Final.csv
+Fakhritdinova Dinara,RUS,5,36+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,36+,2014-07-10_Chamonix_Lead_Women_Final.csv
+Noguchi Akiyo,JPN,6,36+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,36+,2014-07-10_Chamonix_Lead_Women_Final.csv
+Durif Charlotte,FRA,7,36+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,36+,2014-07-10_Chamonix_Lead_Women_Final.csv
+Ota Risa,JPN,8,31+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Women,Final,2014-07-10,/api/v1/category_rounds/3052/results,/api/v1/events/857/result/5,31+,2014-07-10_Chamonix_Lead_Women_Final.csv

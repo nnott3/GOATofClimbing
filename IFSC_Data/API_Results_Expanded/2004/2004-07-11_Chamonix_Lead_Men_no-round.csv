@@ -1,71 +1,71 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Chabot Alexandre,FRA,1,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Mrázek Tomás,CZE,2,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Millet Sylvain,FRA,3,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Julian  Puigblanque Ramón ,ESP,4,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Crespi Flavio,ITA,5,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Fuselier Michaël,FRA,6,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Petrenko Maksym,UKR,6,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Lachat Cédric,SUI,8,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Son Sangwon,KOR,9,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Usobiaga Lakunza Patxi,ESP,10,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Lagni Bernardino,ITA,11,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Auclair François,FRA,12,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Pouvreau Gérome,FRA,13,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Zardini Luca,ITA,14,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Bindhammer Christian,GER,15,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Ovchinnikov Evgeny,RUS,16,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Verhoeven Jorg,NED,17,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Fichtinger Reinhard,AUT,18,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Vinokur Vadim,USA,18,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Winkler Daniel,SUI,20,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Desgranges Romain,FRA,21,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Cabessut Romain,FRA,22,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Dugit Fabien,FRA,22,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Kim Jabee,KOR,24,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Becan Klemen,SLO,25,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Caude David,FRA,25,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Valjavec Tomaz,SLO,25,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Mecherzynski-Wiktor Andrzej,POL,28,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Lo Piccolo Cédric,FRA,29,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Sova Matej,SLO,29,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Manzanedo César Ciudad,ESP,31,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Douloub Iouri,RUS,32,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Sapey Anthony,SUI,32,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Guerimand Flavien,FRA,34,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Gusak Igor,UKR,34,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Jaggi Martin,SUI,34,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Legrand Yannick,FRA,34,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Sommer Remo,SUI,38,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Brenna Cristian,ITA,39,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Pagnoux Romain,FRA,39,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Pfanner Andreas,AUT,41,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Belhaj Said,SWE,42,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Mc Clure Steve,GBR,43,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Ten Sijthoff Casper,NED,44,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Babicz Filip,POL,45,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Felix Roman,SUI,46,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Baxter Adrian,GBR,47,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Ceintre Arnaud,FRA,48,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Giupponi Luca,ITA,48,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Ito Hidekazu,JPN,48,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Bindhammer Andreas,GER,51,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-De Girolamo Vincent,FRA,51,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Zazvonil Luka,SLO,51,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Gnerro Alberto,ITA,54,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Kim Jaha,KOR,54,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Roth Cody,USA,54,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Shaferov Sergei,BLR,57,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Hemund Kevin,SUI,58,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Shalagin Mykhaylo,UKR,59,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Ben Tan,SGP,60,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Mawson Neil,GBR,61,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Moosburger Emanuel,AUT,61,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Murooka Shogo,JPN,61,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Cao Rongwu,CHN,64,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Reis Jürgen,AUT,65,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Ding Xianghua,CHN,66,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Gambaro Matteo,ITA,67,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Karthik H. C.,IND,67,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Chen Xiaojie,CHN,69,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
-Wszolek Marcin,POL,70,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Chabot Alexandre,FRA,1,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Mrázek Tomás,CZE,2,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Millet Sylvain,FRA,3,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,4,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Crespi Flavio,ITA,5,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Fuselier Michaël,FRA,6,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Petrenko Maksym,UKR,6,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Lachat Cédric,SUI,8,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Son Sangwon,KOR,9,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,10,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Lagni Bernardino,ITA,11,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Auclair François,FRA,12,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Pouvreau Gérome,FRA,13,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Zardini Luca,ITA,14,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Bindhammer Christian,GER,15,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Ovchinnikov Evgeny,RUS,16,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,17,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Fichtinger Reinhard,AUT,18,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Vinokur Vadim,USA,18,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Winkler Daniel,SUI,20,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Desgranges Romain,FRA,21,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Cabessut Romain,FRA,22,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Dugit Fabien,FRA,22,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Kim Jabee,KOR,24,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Becan Klemen,SLO,25,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Caude David,FRA,25,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Valjavec Tomaz,SLO,25,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Mecherzynski-Wiktor Andrzej,POL,28,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Lo Piccolo Cédric,FRA,29,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Sova Matej,SLO,29,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Manzanedo César Ciudad,ESP,31,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Douloub Iouri,RUS,32,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Sapey Anthony,SUI,32,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Guerimand Flavien,FRA,34,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Gusak Igor,UKR,34,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Jaggi Martin,SUI,34,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Legrand Yannick,FRA,34,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Sommer Remo,SUI,38,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Brenna Cristian,ITA,39,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Pagnoux Romain,FRA,39,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Pfanner Andreas,AUT,41,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Belhaj Said,SWE,42,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Mc Clure Steve,GBR,43,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Ten Sijthoff Casper,NED,44,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Babicz Filip,POL,45,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Felix Roman,SUI,46,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Baxter Adrian,GBR,47,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Ceintre Arnaud,FRA,48,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Giupponi Luca,ITA,48,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Ito Hidekazu,JPN,48,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,51,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+De Girolamo Vincent,FRA,51,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Zazvonil Luka,SLO,51,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Gnerro Alberto,ITA,54,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Kim Jaha,KOR,54,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Roth Cody,USA,54,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Shaferov Sergei,BLR,57,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Hemund Kevin,SUI,58,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Shalagin Mykhaylo,UKR,59,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Ben Tan,SGP,60,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Mawson Neil,GBR,61,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Moosburger Emanuel,AUT,61,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Murooka Shogo,JPN,61,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Cao Rongwu,CHN,64,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Reis Jürgen,AUT,65,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Ding Xianghua,CHN,66,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Gambaro Matteo,ITA,67,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Karthik H. C.,IND,67,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Chen Xiaojie,CHN,69,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv
+Wszolek Marcin,POL,70,,UIAA Worldcup - Chamonix (FRA) 2004,352,2004,Chamonix,Lead,Men,2004-07-11,/api/v1/events/352/result/1,2004-07-11_Chamonix_Lead_Men_no-round.csv

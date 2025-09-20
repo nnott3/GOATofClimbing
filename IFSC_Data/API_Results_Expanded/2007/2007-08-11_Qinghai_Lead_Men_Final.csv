@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Mrázek Tomás,CZE,1,56-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,56-
-Crespi Flavio,ITA,2,54+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,54+
-Verhoeven Jorg,NED,3,48+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,48+
-Millet Sylvain,FRA,4,43,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,43
-Julian  Puigblanque Ramón ,ESP,5,41-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,41-
-Usobiaga Lakunza Patxi,ESP,6,40.5+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,40.5+
-Lachat Cédric,SUI,7,39-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,39-
-Winkler Daniel,SUI,8,30-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,30-
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Mrázek Tomás,CZE,1,56-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,56-,2007-08-11_Qinghai_Lead_Men_Final.csv
+Crespi Flavio,ITA,2,54+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,54+,2007-08-11_Qinghai_Lead_Men_Final.csv
+Verhoeven Jorg,NED,3,48+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,48+,2007-08-11_Qinghai_Lead_Men_Final.csv
+Millet Sylvain,FRA,4,43,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,43,2007-08-11_Qinghai_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,5,41-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,41-,2007-08-11_Qinghai_Lead_Men_Final.csv
+Usobiaga Lakunza Patxi,ESP,6,40.5+,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,40.5+,2007-08-11_Qinghai_Lead_Men_Final.csv
+Lachat Cédric,SUI,7,39-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,39-,2007-08-11_Qinghai_Lead_Men_Final.csv
+Winkler Daniel,SUI,8,30-,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Lead,Men,Final,2007-08-11,/api/v1/category_rounds/668/results,/api/v1/events/480/result/1,30-,2007-08-11_Qinghai_Lead_Men_Final.csv

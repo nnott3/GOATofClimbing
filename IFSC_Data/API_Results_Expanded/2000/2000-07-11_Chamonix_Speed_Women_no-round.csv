@@ -1,15 +1,15 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Ryepko Olena,UKR,1,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Novikova Natalia,RUS,2,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Podgorbounskikh Zosia,RUS,3,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Ruyga Tatiana,RUS,4,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Zakharova Olga,UKR,5,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Trnkova Lenka,CZE,6,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Kim Hyun-Jung,KOR,7,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Piszczek Renata,POL,8,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Go Mi-Sun,KOR,9,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Ropek Edyta,POL,10,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Minaeva Natalia,RUS,11,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Malamid Marina,RUS,12,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Wallin Lou,SWE,13,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
-Perlova Nataliya,UKR,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Ryepko Olena,UKR,1,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Novikova Natalia,RUS,2,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Podgorbounskikh Zosia,RUS,3,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Ruyga Tatiana,RUS,4,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Zakharova Olga,UKR,5,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Trnkova Lenka,CZE,6,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Kim Hyun-Jung,KOR,7,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Piszczek Renata,POL,8,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Go Mi-Sun,KOR,9,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Ropek Edyta,POL,10,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Minaeva Natalia,RUS,11,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Malamid Marina,RUS,12,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Wallin Lou,SWE,13,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv
+Perlova Nataliya,UKR,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Women,2000-07-11,/api/v1/events/218/result/6,2000-07-11_Chamonix_Speed_Women_no-round.csv

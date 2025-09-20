@@ -1,32 +1,32 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Choumilova Elena,RUS,1,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Bodet Stéphanie,FRA,2,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Uhden Marietta,GER,3,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Levet Sandrine,FRA,4,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Ryepko Olena,UKR,5,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Martin Delphine,FRA,6,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Novikova Natalia,RUS,7,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Gronkiewicz-Marcisz Iwona,POL,8,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Noel Lise,FRA,9,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Bihr Isabelle,FRA,10,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Cufar Martina,SLO,11,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Kotasova-Kostruhova Vera,CZE,12,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Perlova Nataliya,UKR,13,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Minoret Chloé,FRA,14,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Anthoni Kim,BEL,15,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Gouriou Gaelle,FRA,16,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Marchisio Stella,ITA,17,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Bauer Tanja,GER,18,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Savic Romana,SLO,19,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Danion Juliette,FRA,20,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Heurteaux Sophie,FRA,21,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Marti Nuria,ESP,22,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Couder Laeticia,FRA,23,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Delphino Amélie,FRA,23,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Astie Hélène,FRA,25,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Bell Claire,GBR,25,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Haager Nicola,GER,27,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Richer Natalie,FRA,28,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Annecchini Marina,ITA,29,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Guiguet Myrtille,FRA,30,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
-Van Der Putten Eleonora,NED,31,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Choumilova Elena,RUS,1,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Bodet Stéphanie,FRA,2,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Uhden Marietta,GER,3,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Levet Sandrine,FRA,4,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Ryepko Olena,UKR,5,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Martin Delphine,FRA,6,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Novikova Natalia,RUS,7,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Gronkiewicz-Marcisz Iwona,POL,8,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Noel Lise,FRA,9,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Bihr Isabelle,FRA,10,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Cufar Martina,SLO,11,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Kotasova-Kostruhova Vera,CZE,12,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Perlova Nataliya,UKR,13,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Minoret Chloé,FRA,14,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Anthoni Kim,BEL,15,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Gouriou Gaelle,FRA,16,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Marchisio Stella,ITA,17,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Bauer Tanja,GER,18,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Savic Romana,SLO,19,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Danion Juliette,FRA,20,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Heurteaux Sophie,FRA,21,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Marti Nuria,ESP,22,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Couder Laeticia,FRA,23,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Delphino Amélie,FRA,23,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Astie Hélène,FRA,25,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Bell Claire,GBR,25,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Haager Nicola,GER,27,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Richer Natalie,FRA,28,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Annecchini Marina,ITA,29,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Guiguet Myrtille,FRA,30,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv
+Van Der Putten Eleonora,NED,31,,UIAA Worldcup - Val d'Isere (FRA) 1999,200,1999,Val d'Isere,Boulder,Women,1999-07-10,/api/v1/events/200/result/7,1999-07-10_Val d'Isere_Boulder_Women_no-round.csv

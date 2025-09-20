@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Markovic Mina,SLO,1,35+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,35+
-Pilz Jessica,AUT,2,35+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,35+
-Garnbret Janja,SLO,3,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,34+
-Kim Jain,KOR,4,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,34+
-Verhoeven Anak,BEL,5,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,33+
-Janicot Hélène,FRA,6,23+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,23+
-Becerra Mathilde,FRA,7,22+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,22+
-Schranz Christine,AUT,8,22,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,22
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Markovic Mina,SLO,1,35+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,35+,2015-11-14_Kranj_Lead_Women_Final.csv
+Pilz Jessica,AUT,2,35+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,35+,2015-11-14_Kranj_Lead_Women_Final.csv
+Garnbret Janja,SLO,3,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,34+,2015-11-14_Kranj_Lead_Women_Final.csv
+Kim Jain,KOR,4,34+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,34+,2015-11-14_Kranj_Lead_Women_Final.csv
+Verhoeven Anak,BEL,5,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,33+,2015-11-14_Kranj_Lead_Women_Final.csv
+Janicot Hélène,FRA,6,23+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,23+,2015-11-14_Kranj_Lead_Women_Final.csv
+Becerra Mathilde,FRA,7,22+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,22+,2015-11-14_Kranj_Lead_Women_Final.csv
+Schranz Christine,AUT,8,22,IFSC Climbing Worldcup (L) - Kranj (SLO) 2015,909,2015,Kranj,Lead,Women,Final,2015-11-14,/api/v1/category_rounds/3498/results,/api/v1/events/909/result/5,22,2015-11-14_Kranj_Lead_Women_Final.csv

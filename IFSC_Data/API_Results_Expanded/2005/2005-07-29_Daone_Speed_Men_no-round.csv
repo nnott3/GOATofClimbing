@@ -1,15 +1,15 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Oleksy Tomasz,POL,1,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Sinitcyn Sergei,RUS,2,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Vaitsekhovskii Evgenii,RUS,3,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Soubbotine Iakov,RUS,4,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Styenkovyy Maksym,UKR,5,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Peshekhonov Alexander,RUS,6,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Hroza Libor,CZE,7,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Swirk Lukasz,POL,8,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Shyshkovskyy Ivan,UKR,9,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Lakhin Oleksandr,UKR,10,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Lai Chi-Wai,HKG,11,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Svacha Jiri,CZE,12,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Darmawahyu Dharma,INA,13,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
-Komondi Csaba,HUN,14,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Oleksy Tomasz,POL,1,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Sinitcyn Sergei,RUS,2,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Vaitsekhovskii Evgenii,RUS,3,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Soubbotine Iakov,RUS,4,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Styenkovyy Maksym,UKR,5,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Peshekhonov Alexander,RUS,6,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Hroza Libor,CZE,7,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Swirk Lukasz,POL,8,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Shyshkovskyy Ivan,UKR,9,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Lakhin Oleksandr,UKR,10,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Lai Chi-Wai,HKG,11,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Svacha Jiri,CZE,12,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Darmawahyu Dharma,INA,13,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv
+Komondi Csaba,HUN,14,,UIAA Worldcup (S) - Daone (ITA) 2005,398,2005,Daone,Speed,Men,2005-07-29,/api/v1/events/398/result/2,2005-07-29_Daone_Speed_Men_no-round.csv

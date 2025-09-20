@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Garnbret Janja,SLO,1,36+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,36+
-Seo Chaehyun,KOR,2,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+
-Mori Ai,JPN,3,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+
-Noguchi Akiyo,JPN,4,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+
-Krampl Mia,SLO,5,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+
-Rakovec Lucka,SLO,6,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+
-Chanourdie Julia,FRA,7,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+
-Tanii Natsuki,JPN,8,35,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Garnbret Janja,SLO,1,36+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,36+,2019-07-04_Villars_Lead_Women_Final.csv
+Seo Chaehyun,KOR,2,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+,2019-07-04_Villars_Lead_Women_Final.csv
+Mori Ai,JPN,3,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+,2019-07-04_Villars_Lead_Women_Final.csv
+Noguchi Akiyo,JPN,4,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+,2019-07-04_Villars_Lead_Women_Final.csv
+Krampl Mia,SLO,5,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+,2019-07-04_Villars_Lead_Women_Final.csv
+Rakovec Lucka,SLO,6,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+,2019-07-04_Villars_Lead_Women_Final.csv
+Chanourdie Julia,FRA,7,35+,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35+,2019-07-04_Villars_Lead_Women_Final.csv
+Tanii Natsuki,JPN,8,35,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",1118,2019,Villars,Lead,Women,Final,2019-07-04,/api/v1/category_rounds/5501/results,/api/v1/events/1118/result/5,35,2019-07-04_Villars_Lead_Women_Final.csv

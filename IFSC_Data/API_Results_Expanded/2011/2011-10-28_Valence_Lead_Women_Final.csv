@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Ernst Johanna,AUT,1,33-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,33-
-Posch Katharina,AUT,2,31-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,31-
-Chereshneva Yana,RUS,3,17-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,17-
-Eiter Angela,AUT,4,16,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,16
-Markovic Mina,SLO,5,14-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,14-
-Vidmar Maja,SLO,6,14-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,14-
-Röck Magdalena,AUT,7,14-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,14-
-Kim Jain,KOR,8,13,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,13
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Ernst Johanna,AUT,1,33-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,33-,2011-10-28_Valence_Lead_Women_Final.csv
+Posch Katharina,AUT,2,31-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,31-,2011-10-28_Valence_Lead_Women_Final.csv
+Chereshneva Yana,RUS,3,17-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,17-,2011-10-28_Valence_Lead_Women_Final.csv
+Eiter Angela,AUT,4,16,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,16,2011-10-28_Valence_Lead_Women_Final.csv
+Markovic Mina,SLO,5,14-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,14-,2011-10-28_Valence_Lead_Women_Final.csv
+Vidmar Maja,SLO,6,14-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,14-,2011-10-28_Valence_Lead_Women_Final.csv
+Röck Magdalena,AUT,7,14-,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,14-,2011-10-28_Valence_Lead_Women_Final.csv
+Kim Jain,KOR,8,13,IFSC Climbing Worldcup (L) - Valence (FRA) 2011,686,2011,Valence,Lead,Women,Final,2011-10-28,/api/v1/category_rounds/1771/results,/api/v1/events/686/result/5,13,2011-10-28_Valence_Lead_Women_Final.csv

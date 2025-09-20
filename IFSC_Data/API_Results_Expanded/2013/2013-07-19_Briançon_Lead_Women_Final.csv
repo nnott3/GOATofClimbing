@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,Top
-Markovic Mina,SLO,2,52,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,52
-Janicot Hélène,FRA,3,50+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,50+
-Fakhritdinova Dinara,RUS,4,50+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,50+
-Durif Charlotte,FRA,5,50+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,50+
-Noguchi Akiyo,JPN,6,44+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,44+
-Posch Katharina,AUT,7,38+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,38+
-Röck Magdalena,AUT,8,33,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,33
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Kim Jain,KOR,1,Top,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,Top,2013-07-19_Briançon_Lead_Women_Final.csv
+Markovic Mina,SLO,2,52,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,52,2013-07-19_Briançon_Lead_Women_Final.csv
+Janicot Hélène,FRA,3,50+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,50+,2013-07-19_Briançon_Lead_Women_Final.csv
+Fakhritdinova Dinara,RUS,4,50+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,50+,2013-07-19_Briançon_Lead_Women_Final.csv
+Durif Charlotte,FRA,5,50+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,50+,2013-07-19_Briançon_Lead_Women_Final.csv
+Noguchi Akiyo,JPN,6,44+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,44+,2013-07-19_Briançon_Lead_Women_Final.csv
+Posch Katharina,AUT,7,38+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,38+,2013-07-19_Briançon_Lead_Women_Final.csv
+Röck Magdalena,AUT,8,33,IFSC Climbing Worldcup (L) - Briançon (FRA) 2013,797,2013,Briançon,Lead,Women,Final,2013-07-19,/api/v1/category_rounds/2570/results,/api/v1/events/797/result/5,33,2013-07-19_Briançon_Lead_Women_Final.csv

@@ -1,43 +1,43 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Julian  Puigblanque Ramón ,ESP,1,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Chabot Alexandre,FRA,2,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Lachat Cédric,SUI,3,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Usobiaga Lakunza Patxi,ESP,4,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Auclair François,FRA,5,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Pouvreau Gérome,FRA,6,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Verhoeven Jorg,NED,7,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Zardini Luca,ITA,8,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Millet Sylvain,FRA,9,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Sapey Anthony,SUI,10,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Sova Matej,SLO,11,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Hoppe Markus,GER,12,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Bindhammer Christian,GER,13,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Fuselier Michaël,FRA,13,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Fichtinger Reinhard,AUT,15,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Repcik Juraj,SVK,16,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Fischhuber Kilian,AUT,17,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Roth Cody,USA,18,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Crespi Flavio,ITA,19,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Ovchinnikov Evgeny,RUS,20,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Skof Miha,SLO,21,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Becan Klemen,SLO,22,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Douloub Iouri,RUS,23,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Valjavec Tomaz,SLO,24,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Gnerro Alberto,ITA,25,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Preußler Timo,GER,26,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Jensterle Franci,SLO,27,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Bindhammer Andreas,GER,28,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Marin Garcia Eduard,ESP,29,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Rant Blaz,SLO,29,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Bornsek Jure,SLO,32,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Stepanjan David,SLO,33,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Golob Jurij,SLO,34,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Svub Ondrej,SVK,34,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Zazvonil Luka,SLO,34,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Jaggi Martin,SUI,37,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Pintar Matevz,SLO,38,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Klancnik Rok,SLO,39,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Knoche Thomas,GER,40,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Kozmus Matic,SLO,41,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Tasevski Vasil,MKD,42,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
-Ristovski Ilija,MKD,43,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Julian  Puigblanque Ramón ,ESP,1,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Chabot Alexandre,FRA,2,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Lachat Cédric,SUI,3,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,4,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Auclair François,FRA,5,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Pouvreau Gérome,FRA,6,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,7,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Zardini Luca,ITA,8,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Millet Sylvain,FRA,9,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Sapey Anthony,SUI,10,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Sova Matej,SLO,11,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Hoppe Markus,GER,12,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Bindhammer Christian,GER,13,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Fuselier Michaël,FRA,13,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Fichtinger Reinhard,AUT,15,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Repcik Juraj,SVK,16,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Fischhuber Kilian,AUT,17,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Roth Cody,USA,18,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Crespi Flavio,ITA,19,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Ovchinnikov Evgeny,RUS,20,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Skof Miha,SLO,21,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Becan Klemen,SLO,22,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Douloub Iouri,RUS,23,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Valjavec Tomaz,SLO,24,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Gnerro Alberto,ITA,25,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Preußler Timo,GER,26,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Jensterle Franci,SLO,27,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,28,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Marin Garcia Eduard,ESP,29,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Rant Blaz,SLO,29,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Bornsek Jure,SLO,32,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Stepanjan David,SLO,33,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Golob Jurij,SLO,34,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Svub Ondrej,SVK,34,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Zazvonil Luka,SLO,34,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Jaggi Martin,SUI,37,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Pintar Matevz,SLO,38,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Klancnik Rok,SLO,39,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Knoche Thomas,GER,40,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Kozmus Matic,SLO,41,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Tasevski Vasil,MKD,42,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv
+Ristovski Ilija,MKD,43,,UIAA Worldcup - Kranj (SLO) 2003,323,2003,Kranj,Lead,Men,2003-11-14,/api/v1/events/323/result/1,2003-11-14_Kranj_Lead_Men_no-round.csv

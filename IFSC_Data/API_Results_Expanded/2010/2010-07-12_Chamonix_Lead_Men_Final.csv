@@ -1,10 +1,10 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Julian  Puigblanque Ramón ,ESP,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,Top
-Usobiaga Lakunza Patxi,ESP,2,42-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,42-
-Verhoeven Jorg,NED,3,41+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,41+
-Amma Sachi,JPN,4,41-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,41-
-Romain Manuel,FRA,5,38-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,38-
-Supper Gautier,FRA,6,33+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,33+
-Desgranges Romain,FRA,7,33,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,33
-Schubert Jakob,AUT,8,32+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,32+
-Ondra Adam,CZE,9,27,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,27
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Julian  Puigblanque Ramón ,ESP,1,Top,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,Top,2010-07-12_Chamonix_Lead_Men_Final.csv
+Usobiaga Lakunza Patxi,ESP,2,42-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,42-,2010-07-12_Chamonix_Lead_Men_Final.csv
+Verhoeven Jorg,NED,3,41+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,41+,2010-07-12_Chamonix_Lead_Men_Final.csv
+Amma Sachi,JPN,4,41-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,41-,2010-07-12_Chamonix_Lead_Men_Final.csv
+Romain Manuel,FRA,5,38-,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,38-,2010-07-12_Chamonix_Lead_Men_Final.csv
+Supper Gautier,FRA,6,33+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,33+,2010-07-12_Chamonix_Lead_Men_Final.csv
+Desgranges Romain,FRA,7,33,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,33,2010-07-12_Chamonix_Lead_Men_Final.csv
+Schubert Jakob,AUT,8,32+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,32+,2010-07-12_Chamonix_Lead_Men_Final.csv
+Ondra Adam,CZE,9,27,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",615,2010,Chamonix,Lead,Men,Final,2010-07-12,/api/v1/category_rounds/1405/results,/api/v1/events/615/result/1,27,2010-07-12_Chamonix_Lead_Men_Final.csv

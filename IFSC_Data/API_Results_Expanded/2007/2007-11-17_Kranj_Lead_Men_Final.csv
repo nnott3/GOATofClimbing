@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Lachat Cédric,SUI,1,50,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,50
-Crespi Flavio,ITA,2,46+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,46+
-Mrázek Tomás,CZE,3,40-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,40-
-Schubert Jakob,AUT,4,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,37-
-Midtboe Magnus,NOR,5,36,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,36
-Verhoeven Jorg,NED,6,36-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,36-
-Becan Klemen,SLO,7,28+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,28+
-Kryukov Valeriy,UKR,8,0,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,0
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Lachat Cédric,SUI,1,50,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,50,2007-11-17_Kranj_Lead_Men_Final.csv
+Crespi Flavio,ITA,2,46+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,46+,2007-11-17_Kranj_Lead_Men_Final.csv
+Mrázek Tomás,CZE,3,40-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,40-,2007-11-17_Kranj_Lead_Men_Final.csv
+Schubert Jakob,AUT,4,37-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,37-,2007-11-17_Kranj_Lead_Men_Final.csv
+Midtboe Magnus,NOR,5,36,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,36,2007-11-17_Kranj_Lead_Men_Final.csv
+Verhoeven Jorg,NED,6,36-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,36-,2007-11-17_Kranj_Lead_Men_Final.csv
+Becan Klemen,SLO,7,28+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,28+,2007-11-17_Kranj_Lead_Men_Final.csv
+Kryukov Valeriy,UKR,8,0,IFSC Climbing Worldcup (L) - Kranj (SLO) 2007,486,2007,Kranj,Lead,Men,Final,2007-11-17,/api/v1/category_rounds/717/results,/api/v1/events/486/result/1,0,2007-11-17_Kranj_Lead_Men_Final.csv

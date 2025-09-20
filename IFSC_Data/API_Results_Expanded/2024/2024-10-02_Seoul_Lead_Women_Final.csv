@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+PILZ Jessica,AUT,1,48,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Final,2024-10-02,/api/v1/category_rounds/9380/results,/api/v1/events/1361/result/5,48,2024-10-02_Seoul_Lead_Women_Final.csv
+MORI Ai,JPN,2,46,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Final,2024-10-02,/api/v1/category_rounds/9380/results,/api/v1/events/1361/result/5,46,2024-10-02_Seoul_Lead_Women_Final.csv
+Sanders Anastasia,USA,3,45,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Final,2024-10-02,/api/v1/category_rounds/9380/results,/api/v1/events/1361/result/5,45,2024-10-02_Seoul_Lead_Women_Final.csv
+SEO Chaehyun,KOR,4,44+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Final,2024-10-02,/api/v1/category_rounds/9380/results,/api/v1/events/1361/result/5,44+,2024-10-02_Seoul_Lead_Women_Final.csv
+MCNEICE Erin,GBR,5,43,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Final,2024-10-02,/api/v1/category_rounds/9380/results,/api/v1/events/1361/result/5,43,2024-10-02_Seoul_Lead_Women_Final.csv
+Rekar Rosa,SLO,6,39,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Final,2024-10-02,/api/v1/category_rounds/9380/results,/api/v1/events/1361/result/5,39,2024-10-02_Seoul_Lead_Women_Final.csv
+ZHANG Yuetong,CHN,7,30+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Final,2024-10-02,/api/v1/category_rounds/9380/results,/api/v1/events/1361/result/5,30+,2024-10-02_Seoul_Lead_Women_Final.csv
+LUO Zhilu,CHN,8,30,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Final,2024-10-02,/api/v1/category_rounds/9380/results,/api/v1/events/1361/result/5,30,2024-10-02_Seoul_Lead_Women_Final.csv

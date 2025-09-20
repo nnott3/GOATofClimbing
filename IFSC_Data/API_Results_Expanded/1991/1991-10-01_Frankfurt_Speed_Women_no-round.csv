@@ -1,11 +1,11 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Dorsimond Isabelle,BEL,1,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6
-Brard Agnès,FRA,2,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6
-Chereshneva Venera,RUS,3,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6
-Inozemtseva Yulia,RUS,4,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6
-Dijkstra Ineke,NED,5,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6
-Eisenhut Andrea,GER,5,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6
-Kodina Irina,RUS,5,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6
-Gronkiewicz-Marcisz Iwona,POL,8,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6
-Butler Felicity,GBR,9,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6
-Feagin Nancy,USA,10,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Dorsimond Isabelle,BEL,1,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6,1991-10-01_Frankfurt_Speed_Women_no-round.csv
+Brard Agnès,FRA,2,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6,1991-10-01_Frankfurt_Speed_Women_no-round.csv
+Chereshneva Venera,RUS,3,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6,1991-10-01_Frankfurt_Speed_Women_no-round.csv
+Inozemtseva Yulia,RUS,4,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6,1991-10-01_Frankfurt_Speed_Women_no-round.csv
+Dijkstra Ineke,NED,5,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6,1991-10-01_Frankfurt_Speed_Women_no-round.csv
+Eisenhut Andrea,GER,5,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6,1991-10-01_Frankfurt_Speed_Women_no-round.csv
+Kodina Irina,RUS,5,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6,1991-10-01_Frankfurt_Speed_Women_no-round.csv
+Gronkiewicz-Marcisz Iwona,POL,8,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6,1991-10-01_Frankfurt_Speed_Women_no-round.csv
+Butler Felicity,GBR,9,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6,1991-10-01_Frankfurt_Speed_Women_no-round.csv
+Feagin Nancy,USA,10,,UIAA World Championship - Frankfurt 1991,103,1991,Frankfurt,Speed,Women,1991-10-01,/api/v1/events/103/result/6,1991-10-01_Frankfurt_Speed_Women_no-round.csv

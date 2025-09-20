@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Seo Chaehyun,KOR,1,Top,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,Top
-Garnbret Janja,SLO,2,Top,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,Top
-Tanii Natsuki,JPN,3,41+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,41+
-Krampl Mia,SLO,4,36,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,36
-Shiraishi Ashima,USA,5,36,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,36
-Zhang YueTong,CHN,6,33+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,33+
-Lukan Vita,SLO,7,32+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,32+
-Arthaud Nina,FRA,8,24+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,24+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Seo Chaehyun,KOR,1,Top,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,Top,2019-07-19_Briançon_Lead_Women_Final.csv
+Garnbret Janja,SLO,2,Top,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,Top,2019-07-19_Briançon_Lead_Women_Final.csv
+Tanii Natsuki,JPN,3,41+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,41+,2019-07-19_Briançon_Lead_Women_Final.csv
+Krampl Mia,SLO,4,36,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,36,2019-07-19_Briançon_Lead_Women_Final.csv
+Shiraishi Ashima,USA,5,36,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,36,2019-07-19_Briançon_Lead_Women_Final.csv
+Zhang YueTong,CHN,6,33+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,33+,2019-07-19_Briançon_Lead_Women_Final.csv
+Lukan Vita,SLO,7,32+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,32+,2019-07-19_Briançon_Lead_Women_Final.csv
+Arthaud Nina,FRA,8,24+,IFSC Climbing Worldcup (L) - Briançon (FRA) 2019 ,1120,2019,Briançon,Lead,Women,Final,2019-07-19,/api/v1/category_rounds/5521/results,/api/v1/events/1120/result/5,24+,2019-07-19_Briançon_Lead_Women_Final.csv

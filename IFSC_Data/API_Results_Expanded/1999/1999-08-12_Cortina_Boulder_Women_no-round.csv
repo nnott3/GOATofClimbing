@@ -1,25 +1,25 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Choumilova Elena,RUS,1,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Bodet Stéphanie,FRA,2,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Levet Sandrine,FRA,3,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Martin Delphine,FRA,4,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Chereshneva Venera,RUS,5,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Noel Lise,FRA,6,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Inozemtseva Yulia,RUS,7,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Kotasova-Kostruhova Vera,CZE,8,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Gronkiewicz-Marcisz Iwona,POL,9,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Gouriou Gaelle,FRA,10,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Minoret Chloé,FRA,11,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Chenevier Pigneur Delphine,FRA,12,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Marchisio Stella,ITA,13,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Perlova Nataliya,UKR,14,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Landeghem Sandr Van,FRA,15,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Plannels Ruth,ESP,16,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Frati Mirella,ITA,17,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Ostapenko Olena,UKR,18,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Watatuki Kazumi,JPN,19,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Ferrero Laura,ITA,20,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Nilsson Ingela,SWE,21,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Bibik Olga,RUS,22,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Walder Ulla,ITA,23,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
-Francone Alessandra,ITA,24,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Choumilova Elena,RUS,1,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Bodet Stéphanie,FRA,2,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Levet Sandrine,FRA,3,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Martin Delphine,FRA,4,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Chereshneva Venera,RUS,5,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Noel Lise,FRA,6,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Inozemtseva Yulia,RUS,7,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Kotasova-Kostruhova Vera,CZE,8,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Gronkiewicz-Marcisz Iwona,POL,9,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Gouriou Gaelle,FRA,10,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Minoret Chloé,FRA,11,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Chenevier Pigneur Delphine,FRA,12,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Marchisio Stella,ITA,13,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Perlova Nataliya,UKR,14,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Landeghem Sandr Van,FRA,15,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Plannels Ruth,ESP,16,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Frati Mirella,ITA,17,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Ostapenko Olena,UKR,18,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Watatuki Kazumi,JPN,19,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Ferrero Laura,ITA,20,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Nilsson Ingela,SWE,21,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Bibik Olga,RUS,22,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Walder Ulla,ITA,23,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv
+Francone Alessandra,ITA,24,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Women,1999-08-12,/api/v1/events/204/result/7,1999-08-12_Cortina_Boulder_Women_no-round.csv

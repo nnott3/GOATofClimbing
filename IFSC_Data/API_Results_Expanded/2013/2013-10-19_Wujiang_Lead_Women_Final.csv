@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Markovic Mina,SLO,1,38+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,38+
-Kim Jain,KOR,2,38+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,38+
-Röck Magdalena,AUT,3,34+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,34+
-Fakhritdinova Dinara,RUS,4,32+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,32+
-Oda Momoka,JPN,5,27+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,27+
-van Bergen Nikki,NED,6,27,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,27
-Posch Katharina,AUT,7,26+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,26+
-Ota Risa,JPN,8,26+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,26+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Markovic Mina,SLO,1,38+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,38+,2013-10-19_Wujiang_Lead_Women_Final.csv
+Kim Jain,KOR,2,38+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,38+,2013-10-19_Wujiang_Lead_Women_Final.csv
+Röck Magdalena,AUT,3,34+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,34+,2013-10-19_Wujiang_Lead_Women_Final.csv
+Fakhritdinova Dinara,RUS,4,32+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,32+,2013-10-19_Wujiang_Lead_Women_Final.csv
+Oda Momoka,JPN,5,27+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,27+,2013-10-19_Wujiang_Lead_Women_Final.csv
+van Bergen Nikki,NED,6,27,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,27,2013-10-19_Wujiang_Lead_Women_Final.csv
+Posch Katharina,AUT,7,26+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,26+,2013-10-19_Wujiang_Lead_Women_Final.csv
+Ota Risa,JPN,8,26+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Women,Final,2013-10-19,/api/v1/category_rounds/2622/results,/api/v1/events/805/result/5,26+,2013-10-19_Wujiang_Lead_Women_Final.csv

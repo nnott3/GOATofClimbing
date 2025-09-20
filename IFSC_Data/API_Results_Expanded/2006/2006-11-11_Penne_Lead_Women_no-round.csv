@@ -1,29 +1,29 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Eiter Angela,AUT,1,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Ciavaldini Caroline,FRA,2,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Levet Sandrine,FRA,3,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Gros Natalija,SLO,4,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Vidmar Maja,SLO,5,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Franko Lucka,SLO,6,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Markovic Mina,SLO,6,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Chereshneva Yana,RUS,8,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Saurwein Katharina,AUT,9,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Eyer Alexandra,SUI,10,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Schmid Christina,SUI,10,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Anda Villanueva Irati,ESP,12,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Bacher Barbara,AUT,13,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Kobayashi Yuka,JPN,14,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Pinet Florence,FRA,14,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Stendal Linn Karin,NOR,16,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Sandoz Mélanie,FRA,17,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Caprez Nina,SUI,18,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Cufar Martina,SLO,18,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Cardoso Janine,BRA,20,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Middleton Jacqui,AUS,21,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Durif Charlotte,FRA,22,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Allen Karen,AUS,23,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Lavarda Jenny,ITA,24,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Valsecchi Manuela,ITA,25,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Ostapenko Olena,UKR,26,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Stergiakou Chrysa,GRE,27,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
-Kerasidou Stella,GRE,28,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Eiter Angela,AUT,1,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Ciavaldini Caroline,FRA,2,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Levet Sandrine,FRA,3,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Gros Natalija,SLO,4,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Vidmar Maja,SLO,5,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Franko Lucka,SLO,6,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Markovic Mina,SLO,6,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Chereshneva Yana,RUS,8,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Saurwein Katharina,AUT,9,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Eyer Alexandra,SUI,10,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Schmid Christina,SUI,10,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Anda Villanueva Irati,ESP,12,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Bacher Barbara,AUT,13,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Kobayashi Yuka,JPN,14,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Pinet Florence,FRA,14,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Stendal Linn Karin,NOR,16,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Sandoz Mélanie,FRA,17,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Caprez Nina,SUI,18,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Cufar Martina,SLO,18,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Cardoso Janine,BRA,20,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Middleton Jacqui,AUS,21,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Durif Charlotte,FRA,22,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Allen Karen,AUS,23,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Lavarda Jenny,ITA,24,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Valsecchi Manuela,ITA,25,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Ostapenko Olena,UKR,26,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Stergiakou Chrysa,GRE,27,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv
+Kerasidou Stella,GRE,28,,UIAA Climbing Worldcup (L) - Penne (ITA) 2006,441,2006,Penne,Lead,Women,2006-11-11,/api/v1/events/441/result/5,2006-11-11_Penne_Lead_Women_no-round.csv

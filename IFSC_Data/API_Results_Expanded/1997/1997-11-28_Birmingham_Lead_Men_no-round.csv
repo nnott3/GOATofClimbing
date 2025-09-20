@@ -1,60 +1,60 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Petit Arnaud,FRA,1,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Legrand François,FRA,2,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Hirayama Yuji,JPN,3,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Caude David,FRA,4,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Sharma Chris,USA,5,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Brenna Cristian,ITA,6,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Bindhammer Christian,GER,7,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Laurence Ludovic,FRA,8,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Dewilde Paul,FRA,9,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Golob Jurij,SLO,9,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Vickers Ian,GBR,9,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Chemoulinkine Serguei,RUS,12,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Chevieux Elie,SUI,12,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Wandeler Simon,SUI,12,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Giupponi Luca,ITA,12,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Petit François,FRA,12,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Bindhammer Andreas,GER,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Core Christian,ITA,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-DU LAC Daniel,FRA,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Gisler Pascal,SUI,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Millet Sylvain,FRA,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Sarkany Frederic,BEL,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Grom Aljosa,SLO,23,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Otegui Zubiyaga Ricardo,ESP,23,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Jandenand Damien,FRA,25,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Martinez Fernando,ESP,26,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Le Gall Nicolas,FRA,27,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Mate Robert,GER,27,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Zardini Luca,ITA,29,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Gallot-Lavallee Mathieu,FRA,30,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Scarian Riccardo,ITA,30,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Julien Stephane,FRA,32,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Berry Adrian,GBR,33,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Villien David,FRA,33,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Feuerstein Thomas,AUT,35,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Miller Garth,AUS,35,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Caldwell Tommy,USA,37,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Lella Donato,ITA,37,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Cubitt Christopher,GBR,39,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Hawkins Justin,RSA,39,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Carson Neil,GBR,41,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Milewski Hans,AUT,41,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Tsuiki Takaaki,JPN,41,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Fürst Stefan,AUT,44,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Noe Frédéric,FRA,45,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Pou Iker,ESP,45,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Reiten Paal Benum,NOR,45,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Pöyry Henri,FIN,48,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Calibani Mauro,ITA,49,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Jensterle Franci,SLO,49,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Manzanedo César Ciudad,ESP,49,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Mitchell Tony,GBR,52,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Lama Martin,AUS,53,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Lea Michael,GBR,53,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Nytorp Tomi,FIN,55,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Vinokur Vadim,USA,55,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Bloch Chris,USA,57,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Saatsi Juha,FIN,57,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
-Bingham Richard,GBR,59,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Petit Arnaud,FRA,1,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Legrand François,FRA,2,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Hirayama Yuji,JPN,3,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Caude David,FRA,4,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Sharma Chris,USA,5,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Brenna Cristian,ITA,6,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Bindhammer Christian,GER,7,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Laurence Ludovic,FRA,8,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Dewilde Paul,FRA,9,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Golob Jurij,SLO,9,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Vickers Ian,GBR,9,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Chemoulinkine Serguei,RUS,12,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Chevieux Elie,SUI,12,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Wandeler Simon,SUI,12,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Giupponi Luca,ITA,12,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Petit François,FRA,12,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Core Christian,ITA,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+DU LAC Daniel,FRA,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Gisler Pascal,SUI,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Millet Sylvain,FRA,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Sarkany Frederic,BEL,17,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Grom Aljosa,SLO,23,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Otegui Zubiyaga Ricardo,ESP,23,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Jandenand Damien,FRA,25,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Martinez Fernando,ESP,26,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Le Gall Nicolas,FRA,27,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Mate Robert,GER,27,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Zardini Luca,ITA,29,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Gallot-Lavallee Mathieu,FRA,30,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Scarian Riccardo,ITA,30,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Julien Stephane,FRA,32,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Berry Adrian,GBR,33,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Villien David,FRA,33,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Feuerstein Thomas,AUT,35,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Miller Garth,AUS,35,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Caldwell Tommy,USA,37,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Lella Donato,ITA,37,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Cubitt Christopher,GBR,39,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Hawkins Justin,RSA,39,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Carson Neil,GBR,41,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Milewski Hans,AUT,41,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Tsuiki Takaaki,JPN,41,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Fürst Stefan,AUT,44,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Noe Frédéric,FRA,45,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Pou Iker,ESP,45,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Reiten Paal Benum,NOR,45,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Pöyry Henri,FIN,48,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Calibani Mauro,ITA,49,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Jensterle Franci,SLO,49,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Manzanedo César Ciudad,ESP,49,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Mitchell Tony,GBR,52,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Lama Martin,AUS,53,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Lea Michael,GBR,53,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Nytorp Tomi,FIN,55,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Vinokur Vadim,USA,55,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Bloch Chris,USA,57,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Saatsi Juha,FIN,57,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv
+Bingham Richard,GBR,59,,UIAA Worldcup - Birmingham 1997,169,1997,Birmingham,Lead,Men,1997-11-28,/api/v1/events/169/result/1,1997-11-28_Birmingham_Lead_Men_no-round.csv

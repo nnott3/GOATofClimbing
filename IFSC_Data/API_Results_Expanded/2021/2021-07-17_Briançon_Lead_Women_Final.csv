@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Adamovska Eliska,CZE,1,36,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,36
-Grossman Natalia,USA,2,35+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,35+
-Lukan Vita,SLO,3,29,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,29
-Shiraishi Ashima,USA,4,27+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,27+
-NAKAGAWA Ryu,JPN,5,27+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,27+
-Rakovec Lucka,SLO,6,26+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,26+
-Skusek Lana,SLO,7,24+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,24+
-Totkova Aleksandra,BUL,8,22+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,22+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Adamovska Eliska,CZE,1,36,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,36,2021-07-17_Briançon_Lead_Women_Final.csv
+Grossman Natalia,USA,2,35+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,35+,2021-07-17_Briançon_Lead_Women_Final.csv
+Lukan Vita,SLO,3,29,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,29,2021-07-17_Briançon_Lead_Women_Final.csv
+Shiraishi Ashima,USA,4,27+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,27+,2021-07-17_Briançon_Lead_Women_Final.csv
+NAKAGAWA Ryu,JPN,5,27+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,27+,2021-07-17_Briançon_Lead_Women_Final.csv
+Rakovec Lucka,SLO,6,26+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,26+,2021-07-17_Briançon_Lead_Women_Final.csv
+Skusek Lana,SLO,7,24+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,24+,2021-07-17_Briançon_Lead_Women_Final.csv
+Totkova Aleksandra,BUL,8,22+,IFSC - Climbing World Cup (L) - Briançon (FRA) 2021,1196,2021,Briançon,Lead,Women,Final,2021-07-17,/api/v1/category_rounds/6667/results,/api/v1/events/1196/result/5,22+,2021-07-17_Briançon_Lead_Women_Final.csv

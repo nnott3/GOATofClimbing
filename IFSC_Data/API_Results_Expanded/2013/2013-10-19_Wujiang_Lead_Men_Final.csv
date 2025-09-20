@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Amma Sachi,JPN,1,44+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,44+
-McColl Sean,CAN,2,43+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,43+
-Schubert Jakob,AUT,3,41+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,41+
-Desgranges Romain,FRA,4,41+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,41+
-Primozic Urban,SLO,5,40+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,40+
-Romain Manuel,FRA,6,38+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,38+
-Supper Gautier,FRA,7,38+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,38+
-Shimatani Naoki,JPN,8,29,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,29
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Amma Sachi,JPN,1,44+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,44+,2013-10-19_Wujiang_Lead_Men_Final.csv
+McColl Sean,CAN,2,43+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,43+,2013-10-19_Wujiang_Lead_Men_Final.csv
+Schubert Jakob,AUT,3,41+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,41+,2013-10-19_Wujiang_Lead_Men_Final.csv
+Desgranges Romain,FRA,4,41+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,41+,2013-10-19_Wujiang_Lead_Men_Final.csv
+Primozic Urban,SLO,5,40+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,40+,2013-10-19_Wujiang_Lead_Men_Final.csv
+Romain Manuel,FRA,6,38+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,38+,2013-10-19_Wujiang_Lead_Men_Final.csv
+Supper Gautier,FRA,7,38+,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,38+,2013-10-19_Wujiang_Lead_Men_Final.csv
+Shimatani Naoki,JPN,8,29,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",805,2013,Wujiang,Lead,Men,Final,2013-10-19,/api/v1/category_rounds/2627/results,/api/v1/events/805/result/1,29,2013-10-19_Wujiang_Lead_Men_Final.csv

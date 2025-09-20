@@ -1,72 +1,72 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Chabot Alexandre,FRA,1,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Usobiaga Lakunza Patxi,ESP,2,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Millet Sylvain,FRA,3,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Verhoeven Jorg,NED,3,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Ovchinnikov Evgeny,RUS,5,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Julian  Puigblanque Ramón ,ESP,6,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Lachat Cédric,SUI,7,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Fuselier Michaël,FRA,8,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Crespi Flavio,ITA,9,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Fischhuber Kilian,AUT,9,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Kim Jabee,KOR,11,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Zardini Luca,ITA,12,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Dugit Fabien,FRA,13,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Caude David,FRA,14,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Desgranges Romain,FRA,15,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Droetto Fabrizio,ITA,15,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Bindhammer Andreas,GER,17,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Sharafutdinov Dmitrii,RUS,18,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Lo Piccolo Cédric,FRA,19,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Midtboe Magnus,NOR,20,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Preußler Timo,GER,20,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Kaurov Ivan,RUS,22,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Min Hyunbin,KOR,22,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Bindhammer Christian,GER,24,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Laurent David,FRA,24,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Oleksy Tomasz,POL,24,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Badia Nicolas,FRA,27,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Kim Jaha,KOR,27,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Munoz Dmitri,FRA,27,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Pagnoux Romain,FRA,27,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Son Sangwon,KOR,27,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Culver Aurélien,FRA,32,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Lopez Emmanuel,FRA,32,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Gogol Mikhail,RUS,34,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Cabessut Romain,FRA,35,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Ito Hidekazu,JPN,35,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Kim Janghyuk,KOR,35,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Pekarev Mikhail,RUS,35,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Sapey Anthony,SUI,35,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Gusak Igor,UKR,40,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Nytorp Tomi,FIN,40,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Giorgetti Arthur,FRA,42,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Guerimand Flavien,FRA,43,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Jaggi Martin,SUI,43,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Nurmansyah Putra Kahir,INA,45,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Reis Jürgen,AUT,45,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Berezoski André,BRA,47,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Chae Min Woo,KOR,47,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Lee Jae-Yong,KOR,47,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Cossey Lee,AUS,50,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Becan Klemen,SLO,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Legrand Yannick,FRA,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Olivares Rafael,VEN,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Saeteri Sindre,NOR,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Shaferov Sergei,BLR,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Svub Ondrej,SVK,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Valjavec Tomaz,SLO,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Fichtinger Reinhard,AUT,58,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Cassiday Patrick,USA,59,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Andersen Sören,DEN,60,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Auestad Jon Egil,NOR,60,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Praveen C. M.,IND,60,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Chernikov Mikhail,RUS,63,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Grosso Cesar,BRA,63,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Norgaard Rasmus,DEN,63,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Bozsik Richárd,HUN,66,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-"Koh Zher Yeow, Jay",SGP,66,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Malina Václav,CZE,68,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Ashton William,USA,69,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Gilbert Chad,USA,69,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
-Vilstrup Thøger,DEN,71,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Chabot Alexandre,FRA,1,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,2,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Millet Sylvain,FRA,3,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,3,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Ovchinnikov Evgeny,RUS,5,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,6,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Lachat Cédric,SUI,7,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Fuselier Michaël,FRA,8,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Crespi Flavio,ITA,9,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Fischhuber Kilian,AUT,9,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Kim Jabee,KOR,11,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Zardini Luca,ITA,12,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Dugit Fabien,FRA,13,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Caude David,FRA,14,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Desgranges Romain,FRA,15,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Droetto Fabrizio,ITA,15,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,17,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Sharafutdinov Dmitrii,RUS,18,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Lo Piccolo Cédric,FRA,19,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Midtboe Magnus,NOR,20,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Preußler Timo,GER,20,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Kaurov Ivan,RUS,22,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Min Hyunbin,KOR,22,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Bindhammer Christian,GER,24,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Laurent David,FRA,24,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Oleksy Tomasz,POL,24,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Badia Nicolas,FRA,27,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Kim Jaha,KOR,27,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Munoz Dmitri,FRA,27,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Pagnoux Romain,FRA,27,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Son Sangwon,KOR,27,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Culver Aurélien,FRA,32,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Lopez Emmanuel,FRA,32,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Gogol Mikhail,RUS,34,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Cabessut Romain,FRA,35,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Ito Hidekazu,JPN,35,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Kim Janghyuk,KOR,35,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Pekarev Mikhail,RUS,35,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Sapey Anthony,SUI,35,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Gusak Igor,UKR,40,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Nytorp Tomi,FIN,40,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Giorgetti Arthur,FRA,42,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Guerimand Flavien,FRA,43,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Jaggi Martin,SUI,43,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Nurmansyah Putra Kahir,INA,45,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Reis Jürgen,AUT,45,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Berezoski André,BRA,47,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Chae Min Woo,KOR,47,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Lee Jae-Yong,KOR,47,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Cossey Lee,AUS,50,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Becan Klemen,SLO,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Legrand Yannick,FRA,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Olivares Rafael,VEN,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Saeteri Sindre,NOR,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Shaferov Sergei,BLR,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Svub Ondrej,SVK,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Valjavec Tomaz,SLO,51,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Fichtinger Reinhard,AUT,58,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Cassiday Patrick,USA,59,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Andersen Sören,DEN,60,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Auestad Jon Egil,NOR,60,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Praveen C. M.,IND,60,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Chernikov Mikhail,RUS,63,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Grosso Cesar,BRA,63,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Norgaard Rasmus,DEN,63,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Bozsik Richárd,HUN,66,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+"Koh Zher Yeow, Jay",SGP,66,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Malina Václav,CZE,68,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Ashton William,USA,69,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Gilbert Chad,USA,69,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv
+Vilstrup Thøger,DEN,71,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Lead,Men,2005-07-12,/api/v1/events/397/result/1,2005-07-12_Chamonix_Lead_Men_no-round.csv

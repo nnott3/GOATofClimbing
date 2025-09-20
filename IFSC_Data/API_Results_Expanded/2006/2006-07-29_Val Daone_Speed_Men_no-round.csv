@@ -1,14 +1,14 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Sinitcyn Sergei,RUS,1,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-Vaitsekhovskii Evgenii,RUS,2,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-Peshekhonov Alexander,RUS,3,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-Oleksy Tomasz,POL,4,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-Hroza Libor,CZE,5,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-Escobar Manuel,VEN,6,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-Swirk Lukasz,POL,7,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-Kosterin Alexander,RUS,8,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-De Las Salas Leonel,VEN,9,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-Svacha Jiri,CZE,10,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-Carvajal Nestor,VEN,11,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-Olivares Rafael,VEN,12,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
-REINOSO NARANJO Hernan Agustin,ECU,13,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Sinitcyn Sergei,RUS,1,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+Vaitsekhovskii Evgenii,RUS,2,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+Peshekhonov Alexander,RUS,3,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+Oleksy Tomasz,POL,4,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+Hroza Libor,CZE,5,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+Escobar Manuel,VEN,6,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+Swirk Lukasz,POL,7,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+Kosterin Alexander,RUS,8,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+De Las Salas Leonel,VEN,9,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+Svacha Jiri,CZE,10,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+Carvajal Nestor,VEN,11,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+Olivares Rafael,VEN,12,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv
+REINOSO NARANJO Hernan Agustin,ECU,13,,UIAA Climbing Worldcup (S) - Val Daone (ITA) 2006,435,2006,Val Daone,Speed,Men,2006-07-29,/api/v1/events/435/result/2,2006-07-29_Val Daone_Speed_Men_no-round.csv

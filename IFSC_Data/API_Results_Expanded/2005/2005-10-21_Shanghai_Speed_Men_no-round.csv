@@ -1,17 +1,17 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Vaitsekhovskii Evgenii,RUS,1,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Sinitcyn Sergei,RUS,2,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Chen Xiaojie,CHN,3,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Oleksy Tomasz,POL,4,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Lai Chi-Wai,HKG,5,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Hroza Libor,CZE,6,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Ma Hetai,CHN,7,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Ye Xiangyang,CHN,8,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Wahid Syafiq Utama Abdul,SGP,9,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Abu Hassan Khairul Hafiz,MAS,10,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Mohd Yusoff Muhammad Ridzuan,SGP,11,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Bokhari Hafzanizam,MAS,12,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-"Low Kien Seong, Francis",MAS,13,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Li Guangpu,CHN,14,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Ngai Po-fuk,HKG,15,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
-Muhamad Uzair,SGP,16,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Vaitsekhovskii Evgenii,RUS,1,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Sinitcyn Sergei,RUS,2,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Chen Xiaojie,CHN,3,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Oleksy Tomasz,POL,4,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Lai Chi-Wai,HKG,5,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Hroza Libor,CZE,6,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Ma Hetai,CHN,7,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Ye Xiangyang,CHN,8,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Wahid Syafiq Utama Abdul,SGP,9,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Abu Hassan Khairul Hafiz,MAS,10,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Mohd Yusoff Muhammad Ridzuan,SGP,11,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Bokhari Hafzanizam,MAS,12,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+"Low Kien Seong, Francis",MAS,13,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Li Guangpu,CHN,14,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Ngai Po-fuk,HKG,15,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv
+Muhamad Uzair,SGP,16,,UIAA Worldcup (L+S) - Shanghai (CHN) 2005,401,2005,Shanghai,Speed,Men,2005-10-21,/api/v1/events/401/result/2,2005-10-21_Shanghai_Speed_Men_no-round.csv

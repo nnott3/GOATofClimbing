@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Ernst Johanna,AUT,1,26-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,26-
-Gros Natalija,SLO,2,26-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,26-
-Chereshneva Yana,RUS,3,26-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,26-
-Ciavaldini Caroline,FRA,4,19-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,19-
-Eiter Angela,AUT,5,15-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,15-
-Kobayashi Yuka,JPN,6,15-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,15-
-Pinet Florence,FRA,7,15-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,15-
-Sarkany Muriel,BEL,8,0,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,0
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Ernst Johanna,AUT,1,26-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,26-,2009-07-12_Chamonix_Lead_Women_Final.csv
+Gros Natalija,SLO,2,26-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,26-,2009-07-12_Chamonix_Lead_Women_Final.csv
+Chereshneva Yana,RUS,3,26-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,26-,2009-07-12_Chamonix_Lead_Women_Final.csv
+Ciavaldini Caroline,FRA,4,19-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,19-,2009-07-12_Chamonix_Lead_Women_Final.csv
+Eiter Angela,AUT,5,15-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,15-,2009-07-12_Chamonix_Lead_Women_Final.csv
+Kobayashi Yuka,JPN,6,15-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,15-,2009-07-12_Chamonix_Lead_Women_Final.csv
+Pinet Florence,FRA,7,15-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,15-,2009-07-12_Chamonix_Lead_Women_Final.csv
+Sarkany Muriel,BEL,8,0,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Women,Final,2009-07-12,/api/v1/category_rounds/1179/results,/api/v1/events/569/result/5,0,2009-07-12_Chamonix_Lead_Women_Final.csv

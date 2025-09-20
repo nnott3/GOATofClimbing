@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Lama David,AUT,1,57-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,57-
-Mrázek Tomás,CZE,2,50-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,50-
-Usobiaga Lakunza Patxi,ESP,3,49+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,49+
-Lachat Cédric,SUI,4,48-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,48-
-Verhoeven Jorg,NED,5,40+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,40+
-Amma Sachi,JPN,6,30.5,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,30.5
-Marin Garcia Eduard,ESP,7,26,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,26
-Julian  Puigblanque Ramón ,ESP,8,19+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,19+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Lama David,AUT,1,57-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,57-,2007-05-11_Imst_Lead_Men_Final.csv
+Mrázek Tomás,CZE,2,50-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,50-,2007-05-11_Imst_Lead_Men_Final.csv
+Usobiaga Lakunza Patxi,ESP,3,49+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,49+,2007-05-11_Imst_Lead_Men_Final.csv
+Lachat Cédric,SUI,4,48-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,48-,2007-05-11_Imst_Lead_Men_Final.csv
+Verhoeven Jorg,NED,5,40+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,40+,2007-05-11_Imst_Lead_Men_Final.csv
+Amma Sachi,JPN,6,30.5,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,30.5,2007-05-11_Imst_Lead_Men_Final.csv
+Marin Garcia Eduard,ESP,7,26,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,26,2007-05-11_Imst_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,8,19+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Men,Final,2007-05-11,/api/v1/category_rounds/628/results,/api/v1/events/474/result/1,19+,2007-05-11_Imst_Lead_Men_Final.csv

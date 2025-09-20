@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Oda Momoka,JPN,1,60+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,60+
-Markovic Mina,SLO,2,57+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,57+
-Ernst Johanna,AUT,3,51+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,51+
-Malamid Evgeniia,RUS,4,51+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,51+
-Durif Charlotte,FRA,5,51+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,51+
-Janicot Hélène,FRA,6,50+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,50+
-Kobayashi Yuka,JPN,7,50+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,50+
-Brumagne Mathilde,BEL,8,48+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,48+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Oda Momoka,JPN,1,60+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,60+,2012-08-10_Imst_Lead_Women_Final.csv
+Markovic Mina,SLO,2,57+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,57+,2012-08-10_Imst_Lead_Women_Final.csv
+Ernst Johanna,AUT,3,51+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,51+,2012-08-10_Imst_Lead_Women_Final.csv
+Malamid Evgeniia,RUS,4,51+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,51+,2012-08-10_Imst_Lead_Women_Final.csv
+Durif Charlotte,FRA,5,51+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,51+,2012-08-10_Imst_Lead_Women_Final.csv
+Janicot Hélène,FRA,6,50+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,50+,2012-08-10_Imst_Lead_Women_Final.csv
+Kobayashi Yuka,JPN,7,50+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,50+,2012-08-10_Imst_Lead_Women_Final.csv
+Brumagne Mathilde,BEL,8,48+,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5,48+,2012-08-10_Imst_Lead_Women_Final.csv

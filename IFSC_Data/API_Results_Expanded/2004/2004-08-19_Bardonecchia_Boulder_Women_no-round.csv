@@ -1,28 +1,28 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Levet Sandrine,FRA,1,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Giammarco Giulia,ITA,2,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Abramchuk Yulia,RUS,3,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Son Mélanie,FRA,4,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Ansade Maud,FRA,5,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Danion Juliette,FRA,6,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Asher Elizabeth,USA,7,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Perlova Nataliya,UKR,8,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Verdier Emilie,FRA,9,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Theroux Corinne,FRA,10,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Ogawa Tomoko,JPN,11,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Eyer Alexandra,SUI,12,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Combaz Celine,FRA,13,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Berry Samantha,AUS,14,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Piszczek Renata,POL,15,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-De Grandi Stefania,ITA,16,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Lavarda Jenny,ITA,17,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Bibik Olga,RUS,18,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Rogeaux Fanny,FRA,19,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Bacher Barbara,AUT,20,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Hughes Lucinda,GBR,21,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Pozzoli Giovanna,ITA,22,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Hodann Anja,SWE,23,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Jarek Anna,POL,24,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Souche Marine,FRA,25,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Pieper Irene,NED,26,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
-Atkinson Lucy,GBR,27,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Levet Sandrine,FRA,1,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Giammarco Giulia,ITA,2,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Abramchuk Yulia,RUS,3,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Son Mélanie,FRA,4,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Ansade Maud,FRA,5,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Danion Juliette,FRA,6,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Asher Elizabeth,USA,7,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Perlova Nataliya,UKR,8,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Verdier Emilie,FRA,9,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Theroux Corinne,FRA,10,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Ogawa Tomoko,JPN,11,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Eyer Alexandra,SUI,12,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Combaz Celine,FRA,13,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Berry Samantha,AUS,14,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Piszczek Renata,POL,15,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+De Grandi Stefania,ITA,16,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Lavarda Jenny,ITA,17,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Bibik Olga,RUS,18,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Rogeaux Fanny,FRA,19,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Bacher Barbara,AUT,20,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Hughes Lucinda,GBR,21,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Pozzoli Giovanna,ITA,22,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Hodann Anja,SWE,23,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Jarek Anna,POL,24,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Souche Marine,FRA,25,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Pieper Irene,NED,26,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv
+Atkinson Lucy,GBR,27,,UIAA Worldcup - Bardonecchia (ITA) 2004,355,2004,Bardonecchia,Boulder,Women,2004-08-19,/api/v1/events/355/result/7,2004-08-19_Bardonecchia_Boulder_Women_no-round.csv

@@ -1,13 +1,13 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Ryepko Olena,UKR,1,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
-Piratinskaya Mayya,RUS,2,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
-Sutkina Svetlana,RUS,3,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
-Stenkovaya Anna,RUS,4,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
-Zakharova Olga,UKR,5,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
-Perlova Nataliya,UKR,6,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
-Podgorbounskikh Zosia,RUS,7,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
-Piszczek Renata,POL,8,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
-Saulevich Olesya,RUS,9,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
-Ropek Edyta,POL,10,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
-Ostapenko Olena,UKR,11,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
-Ivanova Petia Gueorguieva,BUL,12,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Ryepko Olena,UKR,1,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv
+Piratinskaya Mayya,RUS,2,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv
+Sutkina Svetlana,RUS,3,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv
+Stenkovaya Anna,RUS,4,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv
+Zakharova Olga,UKR,5,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv
+Perlova Nataliya,UKR,6,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv
+Podgorbounskikh Zosia,RUS,7,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv
+Piszczek Renata,POL,8,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv
+Saulevich Olesya,RUS,9,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv
+Ropek Edyta,POL,10,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv
+Ostapenko Olena,UKR,11,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv
+Ivanova Petia Gueorguieva,BUL,12,,UIAA World Championship - Winterthur (SUI) 2001,244,2001,Winterthur,Speed,Women,2001-09-05,/api/v1/events/244/result/6,2001-09-05_Winterthur_Speed_Women_no-round.csv

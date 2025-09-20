@@ -1,10 +1,10 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Ondra Adam,CZE,1,Top,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,Top
-Schubert Jakob,AUT,2,42+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,42+
-Supper Gautier,FRA,3,41,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,41
-Skofic Domen,SLO,4,38+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,38+
-Desgranges Romain,FRA,5,38+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,38+
-McColl Sean,CAN,6,37+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,37+
-Ghisolfi Stefano,ITA,7,37,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,37
-Korenaga Keiichiro,JPN,8,28,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,28
-Julian  Puigblanque Ramón ,ESP,9,9+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,9+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Ondra Adam,CZE,1,Top,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,Top,2016-09-14_Paris_Lead_Men_Final.csv
+Schubert Jakob,AUT,2,42+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,42+,2016-09-14_Paris_Lead_Men_Final.csv
+Supper Gautier,FRA,3,41,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,41,2016-09-14_Paris_Lead_Men_Final.csv
+Skofic Domen,SLO,4,38+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,38+,2016-09-14_Paris_Lead_Men_Final.csv
+Desgranges Romain,FRA,5,38+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,38+,2016-09-14_Paris_Lead_Men_Final.csv
+McColl Sean,CAN,6,37+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,37+,2016-09-14_Paris_Lead_Men_Final.csv
+Ghisolfi Stefano,ITA,7,37,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,37,2016-09-14_Paris_Lead_Men_Final.csv
+Korenaga Keiichiro,JPN,8,28,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,28,2016-09-14_Paris_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,9,9+,IFSC Climbing World Championships - Paris (FRA) 2016,950,2016,Paris,Lead,Men,Final,2016-09-14,/api/v1/category_rounds/3904/results,/api/v1/events/950/result/1,9+,2016-09-14_Paris_Lead_Men_Final.csv

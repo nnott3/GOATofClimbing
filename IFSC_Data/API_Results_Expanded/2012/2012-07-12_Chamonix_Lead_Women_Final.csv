@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Markovic Mina,SLO,1,42+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,42+
-Kim Jain,KOR,2,42+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,42+
-Oda Momoka,JPN,3,41,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,41
-Janicot Hélène,FRA,4,37+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,37+
-Röck Magdalena,AUT,5,37,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,37
-DiGiulian Sasha,USA,6,36+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,36+
-Malamid Evgeniia,RUS,7,33+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,33+
-Söderlund Matilda,SWE,8,32+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,32+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Markovic Mina,SLO,1,42+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,42+,2012-07-12_Chamonix_Lead_Women_Final.csv
+Kim Jain,KOR,2,42+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,42+,2012-07-12_Chamonix_Lead_Women_Final.csv
+Oda Momoka,JPN,3,41,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,41,2012-07-12_Chamonix_Lead_Women_Final.csv
+Janicot Hélène,FRA,4,37+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,37+,2012-07-12_Chamonix_Lead_Women_Final.csv
+Röck Magdalena,AUT,5,37,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,37,2012-07-12_Chamonix_Lead_Women_Final.csv
+DiGiulian Sasha,USA,6,36+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,36+,2012-07-12_Chamonix_Lead_Women_Final.csv
+Malamid Evgeniia,RUS,7,33+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,33+,2012-07-12_Chamonix_Lead_Women_Final.csv
+Söderlund Matilda,SWE,8,32+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5,32+,2012-07-12_Chamonix_Lead_Women_Final.csv

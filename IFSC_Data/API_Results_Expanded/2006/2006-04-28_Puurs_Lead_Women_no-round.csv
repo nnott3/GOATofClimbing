@@ -1,42 +1,42 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Eiter Angela,AUT,1,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Ciavaldini Caroline,FRA,2,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Levet Sandrine,FRA,2,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Graftiaux Chloé,BEL,4,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Durif Charlotte,FRA,5,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Vidmar Maja,SLO,6,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Pinet Florence,FRA,7,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Gros Natalija,SLO,8,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Markovic Mina,SLO,9,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-schöpf Bettina,AUT,10,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Minoret Chloé,FRA,11,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Cufar Martina,SLO,12,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Graftiaux Alix,BEL,13,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Caprez Nina,SUI,14,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Bacher Barbara,AUT,15,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Saurwein Katharina,AUT,16,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Zijlstra Vera,NED,17,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Chereshneva Yana,RUS,18,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Sarkany Muriel,BEL,19,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Lavarda Jenny,ITA,20,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Ociepka Kinga,POL,21,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Schmid Christina,SUI,22,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Cardoso Janine,BRA,23,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Modrzejewska Agata,POL,24,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Brumagne Mathilde,BEL,25,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Mittelman Irina,GER,26,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Stendal Linn Karin,NOR,27,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Van Winckel Valentine,BEL,27,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Piola Anouk,SUI,29,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Benetti Lisa,ITA,30,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Neumärker Luisa,GER,31,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Steenackers Katie,BEL,32,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Mathieu Laure,FRA,33,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Smith-Gobat Mayan,NZL,33,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Van der Sluis Suzanne,NED,35,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Giroux Elodie,FRA,36,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Wurm Juliane,GER,36,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Teso Emeline,FRA,38,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Matthews Sarah,AUS,39,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Raffetseder Gerda,AUT,39,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
-Winter Julia,GER,41,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Eiter Angela,AUT,1,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Ciavaldini Caroline,FRA,2,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Levet Sandrine,FRA,2,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Graftiaux Chloé,BEL,4,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Durif Charlotte,FRA,5,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Vidmar Maja,SLO,6,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Pinet Florence,FRA,7,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Gros Natalija,SLO,8,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Markovic Mina,SLO,9,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+schöpf Bettina,AUT,10,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Minoret Chloé,FRA,11,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Cufar Martina,SLO,12,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Graftiaux Alix,BEL,13,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Caprez Nina,SUI,14,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Bacher Barbara,AUT,15,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Saurwein Katharina,AUT,16,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Zijlstra Vera,NED,17,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Chereshneva Yana,RUS,18,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Sarkany Muriel,BEL,19,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Lavarda Jenny,ITA,20,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Ociepka Kinga,POL,21,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Schmid Christina,SUI,22,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Cardoso Janine,BRA,23,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Modrzejewska Agata,POL,24,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Brumagne Mathilde,BEL,25,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Mittelman Irina,GER,26,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Stendal Linn Karin,NOR,27,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Van Winckel Valentine,BEL,27,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Piola Anouk,SUI,29,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Benetti Lisa,ITA,30,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Neumärker Luisa,GER,31,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Steenackers Katie,BEL,32,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Mathieu Laure,FRA,33,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Smith-Gobat Mayan,NZL,33,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Van der Sluis Suzanne,NED,35,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Giroux Elodie,FRA,36,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Wurm Juliane,GER,36,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Teso Emeline,FRA,38,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Matthews Sarah,AUS,39,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Raffetseder Gerda,AUT,39,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv
+Winter Julia,GER,41,,UIAA Climbing Worldcup (L) - Puurs (BEL) 2006,427,2006,Puurs,Lead,Women,2006-04-28,/api/v1/events/427/result/5,2006-04-28_Puurs_Lead_Women_no-round.csv

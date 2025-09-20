@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Desgranges Romain,FRA,1,47+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,47+
-Ghisolfi Stefano,ITA,2,42+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,42+
-Schubert Jakob,AUT,3,42+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,42+
-Skofic Domen,SLO,4,42+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,42+
-Joannes Thomas,FRA,5,42,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,42
-Bailey Sean,USA,6,39+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,39+
-Rudigier Max,AUT,7,38,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,38
-Julian  Puigblanque Ramón ,ESP,8,24+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,24+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Desgranges Romain,FRA,1,47+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,47+,2017-09-23_Edinburgh_Lead_Men_Final.csv
+Ghisolfi Stefano,ITA,2,42+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,42+,2017-09-23_Edinburgh_Lead_Men_Final.csv
+Schubert Jakob,AUT,3,42+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,42+,2017-09-23_Edinburgh_Lead_Men_Final.csv
+Skofic Domen,SLO,4,42+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,42+,2017-09-23_Edinburgh_Lead_Men_Final.csv
+Joannes Thomas,FRA,5,42,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,42,2017-09-23_Edinburgh_Lead_Men_Final.csv
+Bailey Sean,USA,6,39+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,39+,2017-09-23_Edinburgh_Lead_Men_Final.csv
+Rudigier Max,AUT,7,38,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,38,2017-09-23_Edinburgh_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,8,24+,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",994,2017,Edinburgh,Lead,Men,Final,2017-09-23,/api/v1/category_rounds/4332/results,/api/v1/events/994/result/1,24+,2017-09-23_Edinburgh_Lead_Men_Final.csv

@@ -1,48 +1,48 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Danion Juliette,FRA,1,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Stöhr Anna,AUT,2,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Abramchuk Yulia,RUS,3,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Abgrall Emilie,FRA,4,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Graftiaux Chloé,BEL,5,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Seguy Audrey,GBR,6,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Son Mélanie,FRA,7,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Gros Natalija,SLO,8,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Bibik Olga,RUS,9,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Lipenska Helena,CZE,10,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Bacher Sabine,AUT,11,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Cufar Martina,SLO,11,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Vidmar Maja,SLO,13,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Combaz Celine,FRA,14,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Bacher Barbara,AUT,15,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Vidmar Katja,SLO,16,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Kim Jain,KOR,17,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Rajfova Silvie,CZE,18,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Hodann Anja,SWE,19,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Alekseeva Kseniia,RUS,20,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Berry Samantha,AUS,21,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Lind Angelica,SWE,22,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-De Grandi Stefania,ITA,23,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Eiter Angela,AUT,24,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Winter Julia,GER,25,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Harmand Ludivine,FRA,26,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Morandi Sara,ITA,27,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Smith-Gobat Mayan,NZL,28,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Seymour Rachel,GBR,29,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Longo Roberta,ITA,30,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Twyford Emma,GBR,31,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Dzhambazova Ina,BUL,32,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Aguirre Leire,ESP,33,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Bariani Irene,ITA,34,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Battaglia Claudia,ITA,35,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Deslandes Lea,FRA,36,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Zulim Tamara,CRO,36,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Crane Leah,GBR,38,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Hawke Emma,NZL,38,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Buys Naomi,GBR,40,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Whittaker Katy,GBR,40,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Mills Katherine,GBR,42,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Griffiths Lucy,GBR,44,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Knabl Sabine,AUT,45,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Lozic Maja,CRO,45,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Bakulic Sandra,CRO,47,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
-Kean Helen,GBR,48,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Danion Juliette,FRA,1,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Stöhr Anna,AUT,2,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Abramchuk Yulia,RUS,3,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Abgrall Emilie,FRA,4,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Graftiaux Chloé,BEL,5,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Seguy Audrey,GBR,6,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Son Mélanie,FRA,7,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Gros Natalija,SLO,8,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Bibik Olga,RUS,9,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Lipenska Helena,CZE,10,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Bacher Sabine,AUT,11,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Cufar Martina,SLO,11,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Vidmar Maja,SLO,13,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Combaz Celine,FRA,14,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Bacher Barbara,AUT,15,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Vidmar Katja,SLO,16,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Kim Jain,KOR,17,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Rajfova Silvie,CZE,18,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Hodann Anja,SWE,19,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Alekseeva Kseniia,RUS,20,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Berry Samantha,AUS,21,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Lind Angelica,SWE,22,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+De Grandi Stefania,ITA,23,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Eiter Angela,AUT,24,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Winter Julia,GER,25,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Harmand Ludivine,FRA,26,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Morandi Sara,ITA,27,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Smith-Gobat Mayan,NZL,28,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Seymour Rachel,GBR,29,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Longo Roberta,ITA,30,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Twyford Emma,GBR,31,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Dzhambazova Ina,BUL,32,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Aguirre Leire,ESP,33,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Bariani Irene,ITA,34,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Battaglia Claudia,ITA,35,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Deslandes Lea,FRA,36,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Zulim Tamara,CRO,36,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Crane Leah,GBR,38,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Hawke Emma,NZL,38,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Buys Naomi,GBR,40,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Whittaker Katy,GBR,40,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Mills Katherine,GBR,42,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Griffiths Lucy,GBR,44,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Knabl Sabine,AUT,45,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Lozic Maja,CRO,45,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Bakulic Sandra,CRO,47,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv
+Kean Helen,GBR,48,,UIAA Climbing Worldcup (B) - Fiera di Primiero (ITA) 2006,431,2006,Fiera di Primiero,Boulder,Women,2006-06-16,/api/v1/events/431/result/7,2006-06-16_Fiera di Primiero_Boulder_Women_no-round.csv

@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-ANRAKU Sorato,JPN,1,TOP,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,TOP
-HOMMA Taisei,JPN,2,49+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,49+
-YOSHIDA Satone,JPN,3,49+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,49+
-Ogata Yoshiyuki,JPN,4,49,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,49
-OMATA Shion,JPN,5,44+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,44+
-HIGUCHI Masahiro,JPN,6,40+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,40+
-Puman Hannes,SWE,7,39,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,39
-UEMURA Haruki,JPN,8,37+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,37+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+ANRAKU Sorato,JPN,1,TOP,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,TOP,2023-07-14_Briançon_Lead_Men_Final.csv
+HOMMA Taisei,JPN,2,49+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,49+,2023-07-14_Briançon_Lead_Men_Final.csv
+YOSHIDA Satone,JPN,3,49+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,49+,2023-07-14_Briançon_Lead_Men_Final.csv
+Ogata Yoshiyuki,JPN,4,49,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,49,2023-07-14_Briançon_Lead_Men_Final.csv
+OMATA Shion,JPN,5,44+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,44+,2023-07-14_Briançon_Lead_Men_Final.csv
+HIGUCHI Masahiro,JPN,6,40+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,40+,2023-07-14_Briançon_Lead_Men_Final.csv
+Puman Hannes,SWE,7,39,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,39,2023-07-14_Briançon_Lead_Men_Final.csv
+UEMURA Haruki,JPN,8,37+,IFSC World Cup Briançon 2023,1300,2023,Briançon,Lead,Men,Final,2023-07-14,/api/v1/category_rounds/8328/results,/api/v1/events/1300/result/1,37+,2023-07-14_Briançon_Lead_Men_Final.csv

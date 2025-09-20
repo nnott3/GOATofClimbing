@@ -1,23 +1,23 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Vedenmeer Andrey,UKR,1,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Netsvetaev-Dolgalev Vladimir,RUS,2,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Chaoulsky Alexandre,RUS,3,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Müller Lukasz,POL,4,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Paukaev Alexandr,UKR,5,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Oleksy Tomasz,POL,6,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Soubbotine Iakov,RUS,7,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Zakharov Vladimir,UKR,8,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Baranov Vladislav,RUS,9,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Gadeev Alexei,RUS,10,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Kryvosheytsev Yevgen,UKR,11,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Piliougine Igor,RUS,12,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Sergeyev (Liachenko) Alexandre,RUS,13,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Komondi Csaba,HUN,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Krivonos Andrei,UKR,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Nourmamatov Serguei,RUS,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Umnitsyn Mikhail,RUS,17,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Belhaj Said,SWE,18,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Pfanner Andreas,AUT,19,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Gusak Igor,UKR,20,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Lanz Anders,SWE,21,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
-Boholm Max,SWE,22,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Vedenmeer Andrey,UKR,1,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Netsvetaev-Dolgalev Vladimir,RUS,2,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Chaoulsky Alexandre,RUS,3,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Müller Lukasz,POL,4,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Paukaev Alexandr,UKR,5,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Oleksy Tomasz,POL,6,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Soubbotine Iakov,RUS,7,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Zakharov Vladimir,UKR,8,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Baranov Vladislav,RUS,9,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Gadeev Alexei,RUS,10,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Kryvosheytsev Yevgen,UKR,11,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Piliougine Igor,RUS,12,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Sergeyev (Liachenko) Alexandre,RUS,13,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Komondi Csaba,HUN,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Krivonos Andrei,UKR,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Nourmamatov Serguei,RUS,14,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Umnitsyn Mikhail,RUS,17,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Belhaj Said,SWE,18,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Pfanner Andreas,AUT,19,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Gusak Igor,UKR,20,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Lanz Anders,SWE,21,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv
+Boholm Max,SWE,22,,UIAA Worldcup - Chamonix (FRA) 2000,218,2000,Chamonix,Speed,Men,2000-07-11,/api/v1/events/218/result/2,2000-07-11_Chamonix_Speed_Men_no-round.csv

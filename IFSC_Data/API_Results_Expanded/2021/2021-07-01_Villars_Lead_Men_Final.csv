@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Bailey Sean,USA,1,38,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,38
-Megos Alexander,GER,2,35+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,35+
-Duffy Colin,USA,3,31+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,31+
-Halenke Sebastian,GER,4,26.5+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,26.5+
-Ginés López Alberto,ESP,5,26.5,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,26.5
-Jenft Paul,FRA,6,26,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,26
-Higuchi Masahiro,JPN,7,12,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,12
-MURASHITA Zento,JPN,8,11+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,11+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Bailey Sean,USA,1,38,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,38,2021-07-01_Villars_Lead_Men_Final.csv
+Megos Alexander,GER,2,35+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,35+,2021-07-01_Villars_Lead_Men_Final.csv
+Duffy Colin,USA,3,31+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,31+,2021-07-01_Villars_Lead_Men_Final.csv
+Halenke Sebastian,GER,4,26.5+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,26.5+,2021-07-01_Villars_Lead_Men_Final.csv
+Ginés López Alberto,ESP,5,26.5,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,26.5,2021-07-01_Villars_Lead_Men_Final.csv
+Jenft Paul,FRA,6,26,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,26,2021-07-01_Villars_Lead_Men_Final.csv
+Higuchi Masahiro,JPN,7,12,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,12,2021-07-01_Villars_Lead_Men_Final.csv
+MURASHITA Zento,JPN,8,11+,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",1194,2021,Villars,Lead,Men,Final,2021-07-01,/api/v1/category_rounds/6617/results,/api/v1/events/1194/result/1,11+,2021-07-01_Villars_Lead_Men_Final.csv

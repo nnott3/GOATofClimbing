@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Usobiaga Lakunza Patxi,ESP,1,48-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,48-
-Amma Sachi,JPN,2,42+,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,42+
-Lama David,AUT,3,41,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,41
-Desgranges Romain,FRA,4,40-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,40-
-Ondra Adam,CZE,5,38-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,38-
-Julian  Puigblanque Ramón ,ESP,6,28,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,28
-Romain Manuel,FRA,7,21,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,21
-Tauporn Thomas,GER,8,19-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,19-
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Usobiaga Lakunza Patxi,ESP,1,48-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,48-,2009-07-12_Chamonix_Lead_Men_Final.csv
+Amma Sachi,JPN,2,42+,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,42+,2009-07-12_Chamonix_Lead_Men_Final.csv
+Lama David,AUT,3,41,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,41,2009-07-12_Chamonix_Lead_Men_Final.csv
+Desgranges Romain,FRA,4,40-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,40-,2009-07-12_Chamonix_Lead_Men_Final.csv
+Ondra Adam,CZE,5,38-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,38-,2009-07-12_Chamonix_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,6,28,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,28,2009-07-12_Chamonix_Lead_Men_Final.csv
+Romain Manuel,FRA,7,21,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,21,2009-07-12_Chamonix_Lead_Men_Final.csv
+Tauporn Thomas,GER,8,19-,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA) 2009",569,2009,Chamonix,Lead,Men,Final,2009-07-12,/api/v1/category_rounds/1184/results,/api/v1/events/569/result/1,19-,2009-07-12_Chamonix_Lead_Men_Final.csv

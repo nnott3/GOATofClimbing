@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Schubert Jakob,AUT,1,44+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,44+
-Ghisolfi Stefano,ITA,2,41+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,41+
-Skofic Domen,SLO,3,41,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,41
-Ondra Adam,CZE,4,41,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,41
-Tanaka Shuta,JPN,5,40+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,40+
-Lehmann Sascha,SUI,6,38+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,38+
-Ginés López Alberto,ESP,7,32+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,32+
-Min Hyunbin,KOR,8,23+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,23+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Schubert Jakob,AUT,1,44+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,44+,2018-07-27_Arco_Lead_Men_Final.csv
+Ghisolfi Stefano,ITA,2,41+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,41+,2018-07-27_Arco_Lead_Men_Final.csv
+Skofic Domen,SLO,3,41,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,41,2018-07-27_Arco_Lead_Men_Final.csv
+Ondra Adam,CZE,4,41,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,41,2018-07-27_Arco_Lead_Men_Final.csv
+Tanaka Shuta,JPN,5,40+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,40+,2018-07-27_Arco_Lead_Men_Final.csv
+Lehmann Sascha,SUI,6,38+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,38+,2018-07-27_Arco_Lead_Men_Final.csv
+Ginés López Alberto,ESP,7,32+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,32+,2018-07-27_Arco_Lead_Men_Final.csv
+Min Hyunbin,KOR,8,23+,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",1056,2018,Arco,Lead,Men,Final,2018-07-27,/api/v1/category_rounds/4997/results,/api/v1/events/1056/result/1,23+,2018-07-27_Arco_Lead_Men_Final.csv

@@ -1,20 +1,20 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Minoret Chloé,FRA,1,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Pouget Emilie,FRA,2,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Bibik Olga,RUS,3,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Sarkany Muriel,BEL,4,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Iakovleva Olga,RUS,5,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Chereshneva Venera,RUS,6,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Raffetseder Gerda,AUT,7,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Ostapenko Olena,UKR,8,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Lavarda Jenny,ITA,9,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Vidmar Maja,SLO,10,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Nilsson Ingela,SWE,11,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Rymcha Natalia,RUS,12,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Balakireva Alexandra,RUS,13,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Malamid Evgeniia,RUS,14,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Ruyga Tatiana,RUS,15,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Podgorbounskikh Zosia,RUS,16,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Korolkova Ekaterina,RUS,17,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Stendal Linn Karin,NOR,18,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
-Ryzhkova Margarita,RUS,19,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Minoret Chloé,FRA,1,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Pouget Emilie,FRA,2,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Bibik Olga,RUS,3,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Sarkany Muriel,BEL,4,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Iakovleva Olga,RUS,5,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Chereshneva Venera,RUS,6,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Raffetseder Gerda,AUT,7,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Ostapenko Olena,UKR,8,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Lavarda Jenny,ITA,9,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Vidmar Maja,SLO,10,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Nilsson Ingela,SWE,11,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Rymcha Natalia,RUS,12,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Balakireva Alexandra,RUS,13,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Malamid Evgeniia,RUS,14,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Ruyga Tatiana,RUS,15,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Podgorbounskikh Zosia,RUS,16,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Korolkova Ekaterina,RUS,17,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Stendal Linn Karin,NOR,18,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv
+Ryzhkova Margarita,RUS,19,,UIAA Worldcup - Yekaterinburg (RUS) 2003 (D+S),310,2003,Yekaterinburg,Lead,Women,2003-06-06,/api/v1/events/310/result/5,2003-06-06_Yekaterinburg_Lead_Women_no-round.csv

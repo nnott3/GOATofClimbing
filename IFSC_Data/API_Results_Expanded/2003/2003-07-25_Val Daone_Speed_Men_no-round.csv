@@ -1,11 +1,11 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Styenkovyy Maksym,UKR,1,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2
-Oleksy Tomasz,POL,2,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2
-Chaoulsky Alexandre,RUS,3,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2
-Sinitcyn Sergei,RUS,4,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2
-Soubbotine Iakov,RUS,5,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2
-Peshekhonov Alexander,RUS,6,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2
-Gadeev Alexei,RUS,7,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2
-Konovalov Dmytro,UKR,8,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2
-Sadyrov Marat,RUS,9,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2
-Shyshkovskyy Ivan,UKR,10,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Styenkovyy Maksym,UKR,1,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2,2003-07-25_Val Daone_Speed_Men_no-round.csv
+Oleksy Tomasz,POL,2,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2,2003-07-25_Val Daone_Speed_Men_no-round.csv
+Chaoulsky Alexandre,RUS,3,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2,2003-07-25_Val Daone_Speed_Men_no-round.csv
+Sinitcyn Sergei,RUS,4,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2,2003-07-25_Val Daone_Speed_Men_no-round.csv
+Soubbotine Iakov,RUS,5,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2,2003-07-25_Val Daone_Speed_Men_no-round.csv
+Peshekhonov Alexander,RUS,6,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2,2003-07-25_Val Daone_Speed_Men_no-round.csv
+Gadeev Alexei,RUS,7,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2,2003-07-25_Val Daone_Speed_Men_no-round.csv
+Konovalov Dmytro,UKR,8,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2,2003-07-25_Val Daone_Speed_Men_no-round.csv
+Sadyrov Marat,RUS,9,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2,2003-07-25_Val Daone_Speed_Men_no-round.csv
+Shyshkovskyy Ivan,UKR,10,,UIAA Worldcup - Val Daone (ITA) 2003,317,2003,Val Daone,Speed,Men,2003-07-25,/api/v1/events/317/result/2,2003-07-25_Val Daone_Speed_Men_no-round.csv

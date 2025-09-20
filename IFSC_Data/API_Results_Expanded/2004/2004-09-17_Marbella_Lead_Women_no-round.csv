@@ -1,29 +1,29 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Sarkany Muriel,BEL,1,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Cufar Martina,SLO,2,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Bacher Barbara,AUT,3,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Ciavaldini Caroline,FRA,4,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Eyer Alexandra,SUI,5,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Lavarda Jenny,ITA,5,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Eiter Angela,AUT,7,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-schöpf Bettina,AUT,8,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Vidmar Maja,SLO,9,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Martin Delphine,FRA,10,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Franko Lucka,SLO,11,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Graftiaux Chloé,BEL,12,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Gros Natalija,SLO,13,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Nilsson Ingela,SWE,14,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Stendal Linn Karin,NOR,14,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Graftiaux Alix,BEL,16,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-CRUZ MONTALBAN Esther,ESP,17,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Hernandez Raquel,ESP,17,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Knorr Damaris,GER,17,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Saurwein Katharina,AUT,17,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Kysilkova Tereza,CZE,21,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Martin Sancho Berta,ESP,21,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Rodriguez Francis,VEN,21,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Outland Stephanie,USA,24,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Oliveira Kimie,POR,25,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Livaniu Athena,GRE,26,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Giouri Paraskevi,GRE,27,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
-Boavida Isabel,POR,28,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Sarkany Muriel,BEL,1,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Cufar Martina,SLO,2,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Bacher Barbara,AUT,3,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Ciavaldini Caroline,FRA,4,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Eyer Alexandra,SUI,5,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Lavarda Jenny,ITA,5,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Eiter Angela,AUT,7,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+schöpf Bettina,AUT,8,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Vidmar Maja,SLO,9,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Martin Delphine,FRA,10,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Franko Lucka,SLO,11,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Graftiaux Chloé,BEL,12,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Gros Natalija,SLO,13,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Nilsson Ingela,SWE,14,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Stendal Linn Karin,NOR,14,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Graftiaux Alix,BEL,16,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+CRUZ MONTALBAN Esther,ESP,17,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Hernandez Raquel,ESP,17,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Knorr Damaris,GER,17,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Saurwein Katharina,AUT,17,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Kysilkova Tereza,CZE,21,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Martin Sancho Berta,ESP,21,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Rodriguez Francis,VEN,21,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Outland Stephanie,USA,24,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Oliveira Kimie,POR,25,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Livaniu Athena,GRE,26,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Giouri Paraskevi,GRE,27,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv
+Boavida Isabel,POR,28,,UIAA Worldcup - Marbella (ESP) 2004,356,2004,Marbella,Lead,Women,2004-09-17,/api/v1/events/356/result/5,2004-09-17_Marbella_Lead_Women_no-round.csv

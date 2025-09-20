@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Amma Sachi,JPN,1,28+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,28+
-Schubert Jakob,AUT,2,24+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,24+
-Skofic Domen,SLO,3,23+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,23+
-Ballet Thomas,FRA,4,19+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,19+
-Desgranges Romain,FRA,5,16+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,16+
-Julian  Puigblanque Ramón ,ESP,6,16+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,16+
-Midtboe Magnus,NOR,7,16+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,16+
-Primozic Urban,SLO,8,13+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,13+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Amma Sachi,JPN,1,28+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,28+,2014-07-10_Chamonix_Lead_Men_Final.csv
+Schubert Jakob,AUT,2,24+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,24+,2014-07-10_Chamonix_Lead_Men_Final.csv
+Skofic Domen,SLO,3,23+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,23+,2014-07-10_Chamonix_Lead_Men_Final.csv
+Ballet Thomas,FRA,4,19+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,19+,2014-07-10_Chamonix_Lead_Men_Final.csv
+Desgranges Romain,FRA,5,16+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,16+,2014-07-10_Chamonix_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,6,16+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,16+,2014-07-10_Chamonix_Lead_Men_Final.csv
+Midtboe Magnus,NOR,7,16+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,16+,2014-07-10_Chamonix_Lead_Men_Final.csv
+Primozic Urban,SLO,8,13+,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",857,2014,Chamonix,Lead,Men,Final,2014-07-10,/api/v1/category_rounds/3057/results,/api/v1/events/857/result/1,13+,2014-07-10_Chamonix_Lead_Men_Final.csv

@@ -1,13 +1,13 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Stenkovaya Anna,RUS,1,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
-Ruyga Tatiana,RUS,2,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
-Ryepko Olena,UKR,3,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
-Tuzhylina Svitlana,UKR,4,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
-Yurina Valentina,RUS,5,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
-Ropek Edyta,POL,6,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
-Bakalova Plamena,BUL,7,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
-Shemulinkina  Tatiana,RUS,8,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
-Saulevich Olesya,RUS,9,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
-Georgieva Maria,BUL,10,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
-Bezhko Olga,UKR,11,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
-Nedyalkova Spasina,BUL,12,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Stenkovaya Anna,RUS,1,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv
+Ruyga Tatiana,RUS,2,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv
+Ryepko Olena,UKR,3,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv
+Tuzhylina Svitlana,UKR,4,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv
+Yurina Valentina,RUS,5,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv
+Ropek Edyta,POL,6,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv
+Bakalova Plamena,BUL,7,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv
+Shemulinkina  Tatiana,RUS,8,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv
+Saulevich Olesya,RUS,9,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv
+Georgieva Maria,BUL,10,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv
+Bezhko Olga,UKR,11,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv
+Nedyalkova Spasina,BUL,12,,UIAA Climbing Worldcup (B+S) - Veliko Tarnovo (BUL) 2006,426,2006,Veliko Tarnovo,Speed,Women,2006-04-21,/api/v1/events/426/result/6,2006-04-21_Veliko Tarnovo_Speed_Women_no-round.csv

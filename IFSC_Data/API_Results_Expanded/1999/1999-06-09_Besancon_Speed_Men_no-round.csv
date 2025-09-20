@@ -1,26 +1,26 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Oleksy Tomasz,POL,1,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Soubbotine Iakov,RUS,2,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Netsvetaev-Dolgalev Vladimir,RUS,3,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Zakharov Vladimir,UKR,4,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Baranov Vladislav,RUS,5,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Müller Lukasz,POL,6,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Kryvosheytsev Yevgen,UKR,7,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-ANDRADA JIMENEZ Daniel,ESP,8,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Kim Myong-Hak,KOR,9,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Komondi Csaba,HUN,10,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Gusak Igor,UKR,11,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Vedenmeer Andrey,UKR,12,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Carson Neil,GBR,13,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Girard Antoine,FRA,14,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Aunet Jimmy,FRA,15,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Krivonos Andrei,UKR,16,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Dutray Mathieu,FRA,17,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Cho Kyu-Bog,KOR,18,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Kolov Orlin,BUL,19,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Parry Gareth,GBR,20,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Smith Paul,GBR,21,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Wrobel Marcin,POL,22,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Cubitt Christopher,GBR,23,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Kozlov Alexei,RUS,24,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
-Paukaev Alexandr,UKR,24,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Oleksy Tomasz,POL,1,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Soubbotine Iakov,RUS,2,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Netsvetaev-Dolgalev Vladimir,RUS,3,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Zakharov Vladimir,UKR,4,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Baranov Vladislav,RUS,5,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Müller Lukasz,POL,6,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Kryvosheytsev Yevgen,UKR,7,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+ANDRADA JIMENEZ Daniel,ESP,8,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Kim Myong-Hak,KOR,9,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Komondi Csaba,HUN,10,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Gusak Igor,UKR,11,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Vedenmeer Andrey,UKR,12,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Carson Neil,GBR,13,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Girard Antoine,FRA,14,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Aunet Jimmy,FRA,15,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Krivonos Andrei,UKR,16,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Dutray Mathieu,FRA,17,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Cho Kyu-Bog,KOR,18,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Kolov Orlin,BUL,19,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Parry Gareth,GBR,20,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Smith Paul,GBR,21,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Wrobel Marcin,POL,22,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Cubitt Christopher,GBR,23,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Kozlov Alexei,RUS,24,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv
+Paukaev Alexandr,UKR,24,,UIAA Worldcup - Besancon (FRA) 1999,198,1999,Besancon,Speed,Men,1999-06-09,/api/v1/events/198/result/2,1999-06-09_Besancon_Speed_Men_no-round.csv

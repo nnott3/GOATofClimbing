@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Ondra Adam,CZE,1,34+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,34+
-Megos Alexander,GER,2,33+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,33+
-Schubert Jakob,AUT,3,33+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,33+
-Narasaki Tomoa,JPN,4,30,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,30
-McColl Sean,CAN,5,30,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,30
-Ghisolfi Stefano,ITA,6,29+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,29+
-Harada Kai,JPN,7,28+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,28+
-Puman Hannes,SWE,8,27+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,27+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Ondra Adam,CZE,1,34+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,34+,2019-08-11_Hachioji_Lead_Men_Final.csv
+Megos Alexander,GER,2,33+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,33+,2019-08-11_Hachioji_Lead_Men_Final.csv
+Schubert Jakob,AUT,3,33+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,33+,2019-08-11_Hachioji_Lead_Men_Final.csv
+Narasaki Tomoa,JPN,4,30,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,30,2019-08-11_Hachioji_Lead_Men_Final.csv
+McColl Sean,CAN,5,30,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,30,2019-08-11_Hachioji_Lead_Men_Final.csv
+Ghisolfi Stefano,ITA,6,29+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,29+,2019-08-11_Hachioji_Lead_Men_Final.csv
+Harada Kai,JPN,7,28+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,28+,2019-08-11_Hachioji_Lead_Men_Final.csv
+Puman Hannes,SWE,8,27+,IFSC Climbing World Championships - Hachioji (JPN) 2019,1121,2019,Hachioji,Lead,Men,Final,2019-08-11,/api/v1/category_rounds/5537/results,/api/v1/events/1121/result/1,27+,2019-08-11_Hachioji_Lead_Men_Final.csv

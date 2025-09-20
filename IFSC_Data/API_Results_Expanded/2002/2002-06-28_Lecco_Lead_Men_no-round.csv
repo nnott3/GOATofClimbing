@@ -1,71 +1,71 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Chabot Alexandre,FRA,1,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Petit François,FRA,2,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Crespi Flavio,ITA,3,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Pouvreau Gérome,FRA,4,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Brenna Cristian,ITA,5,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Lachat Cédric,SUI,6,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Mrázek Tomás,CZE,7,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Auclair François,FRA,8,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Felix Roman,SUI,9,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Kazbekov Serik,UKR,10,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Caude David,FRA,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Gusak Igor,UKR,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Julian  Puigblanque Ramón ,ESP,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Ovchinnikov Evgeny,RUS,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Petrenko Maksym,UKR,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Ten Sijthoff Casper,NED,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Manzanedo César Ciudad,ESP,17,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Vinokur Vadim,USA,17,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Kryvosheytsev Yevgen,UKR,19,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Millet Sylvain,FRA,19,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Dugit Stephane,FRA,21,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Hoppe Markus,GER,22,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Bosma Peter,SWE,23,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Loste Julien,FRA,23,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Zardini Luca,ITA,25,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Gnerro Alberto,ITA,26,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Bindhammer Christian,GER,27,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Pagnoux Romain,FRA,28,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Droguet Xavier,FRA,29,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Sova Matej,SLO,29,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Barbero Alfonso Pablo ,ESP,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Bindhammer Andreas,GER,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Douloub Iouri,RUS,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Wandeler Simon,SUI,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Golob Jurij,SLO,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Shaferov Sergei,BLR,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Son Sangwon,KOR,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Nourmamatov Serguei,RUS,38,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Sordo Christian,ITA,39,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Zemski Alexei,RUS,39,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Fuselier Michaël,FRA,41,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Rakhmetov Salavat,RUS,42,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Shalagin Mykhaylo,UKR,42,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Ben Tan,SGP,44,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Giupponi Luca,ITA,45,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Jaggi Martin,SUI,45,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Kim Dong-Sik,KOR,45,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Achermann Thomas,SUI,48,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Brouard Paul,RSA,48,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Felix Martin,SUI,50,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Belhaj Said,SWE,51,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Lo Piccolo Cédric,FRA,51,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Lampugnani Diego,SUI,53,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Roth Cody,USA,53,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Valjavec Tomaz,SLO,53,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Nosek Radim,CZE,56,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Schmidl Matthias,ITA,56,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Colonetti Roberto,ITA,58,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Cominotti Giacomo,ITA,58,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Mobråten Martin,NOR,60,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Crijns Zeb,NED,61,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Prytz Jan Fredrick,NOR,61,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Berezoski André,BRA,63,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Kwen Young-se,KOR,63,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Mohammad Hafiz Mohamad Kasim,SGP,63,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Segal Matthew,USA,63,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Christophersen Stian,NOR,67,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Gouveia Anderson,BRA,68,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Hyman Joffrey,RSA,69,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
-Sirtori Diego,ITA,69,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Chabot Alexandre,FRA,1,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Petit François,FRA,2,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Crespi Flavio,ITA,3,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Pouvreau Gérome,FRA,4,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Brenna Cristian,ITA,5,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Lachat Cédric,SUI,6,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Mrázek Tomás,CZE,7,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Auclair François,FRA,8,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Felix Roman,SUI,9,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Kazbekov Serik,UKR,10,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Caude David,FRA,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Gusak Igor,UKR,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Ovchinnikov Evgeny,RUS,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Petrenko Maksym,UKR,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Ten Sijthoff Casper,NED,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Manzanedo César Ciudad,ESP,17,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Vinokur Vadim,USA,17,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Kryvosheytsev Yevgen,UKR,19,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Millet Sylvain,FRA,19,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Dugit Stephane,FRA,21,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Hoppe Markus,GER,22,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Bosma Peter,SWE,23,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Loste Julien,FRA,23,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Zardini Luca,ITA,25,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Gnerro Alberto,ITA,26,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Bindhammer Christian,GER,27,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Pagnoux Romain,FRA,28,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Droguet Xavier,FRA,29,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Sova Matej,SLO,29,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Barbero Alfonso Pablo ,ESP,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Douloub Iouri,RUS,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Wandeler Simon,SUI,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Golob Jurij,SLO,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Shaferov Sergei,BLR,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Son Sangwon,KOR,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Nourmamatov Serguei,RUS,38,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Sordo Christian,ITA,39,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Zemski Alexei,RUS,39,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Fuselier Michaël,FRA,41,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Rakhmetov Salavat,RUS,42,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Shalagin Mykhaylo,UKR,42,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Ben Tan,SGP,44,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Giupponi Luca,ITA,45,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Jaggi Martin,SUI,45,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Kim Dong-Sik,KOR,45,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Achermann Thomas,SUI,48,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Brouard Paul,RSA,48,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Felix Martin,SUI,50,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Belhaj Said,SWE,51,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Lo Piccolo Cédric,FRA,51,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Lampugnani Diego,SUI,53,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Roth Cody,USA,53,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Valjavec Tomaz,SLO,53,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Nosek Radim,CZE,56,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Schmidl Matthias,ITA,56,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Colonetti Roberto,ITA,58,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Cominotti Giacomo,ITA,58,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Mobråten Martin,NOR,60,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Crijns Zeb,NED,61,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Prytz Jan Fredrick,NOR,61,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Berezoski André,BRA,63,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Kwen Young-se,KOR,63,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Mohammad Hafiz Mohamad Kasim,SGP,63,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Segal Matthew,USA,63,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Christophersen Stian,NOR,67,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Gouveia Anderson,BRA,68,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Hyman Joffrey,RSA,69,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv
+Sirtori Diego,ITA,69,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Men,2002-06-28,/api/v1/events/283/result/1,2002-06-28_Lecco_Lead_Men_no-round.csv

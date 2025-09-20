@@ -1,41 +1,41 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Chabot Alexandre,FRA,1,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Usobiaga Lakunza Patxi,ESP,2,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Julian  Puigblanque Ramón ,ESP,3,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Lachat Cédric,SUI,4,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Preußler Timo,GER,5,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Marin Garcia Eduard,ESP,6,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Mrázek Tomás,CZE,6,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Zardini Luca,ITA,8,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Millet Sylvain,FRA,9,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Auclair François,FRA,10,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Ten Sijthoff Casper,NED,11,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Caude David,FRA,12,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Crespi Flavio,ITA,13,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Pouvreau Gérome,FRA,14,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Legrand François,FRA,15,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Manzanedo César Ciudad,ESP,15,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Bindhammer Christian,GER,17,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Sova Matej,SLO,18,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Bindhammer Andreas,GER,19,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Fischhuber Kilian,AUT,19,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Gusak Igor,UKR,19,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Reis Jürgen,AUT,19,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Verhoeven Jorg,NED,23,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Fichtinger Reinhard,AUT,24,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Valjavec Tomaz,SLO,24,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Borowka Andre,GER,26,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Abad Del Campo Sebastian,ESP,27,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Mogaki Keita,JPN,27,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-KARAPETO ARRUE Gorka,ESP,29,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Mobråten Martin,NOR,29,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Roth Cody,USA,29,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Tsuiki Takaaki,JPN,32,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Christophersen Stian,NOR,33,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Escobar Manuel,VEN,33,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Gartmann Tobias,GER,33,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Talon Oliver,FRA,33,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Perez Luis Felix,ESP,37,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Hartung Sebastian,GER,38,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Katsitadze Soso,GEO,39,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
-Olivares Rafael,VEN,39,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Chabot Alexandre,FRA,1,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,2,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,3,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Lachat Cédric,SUI,4,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Preußler Timo,GER,5,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Marin Garcia Eduard,ESP,6,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Mrázek Tomás,CZE,6,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Zardini Luca,ITA,8,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Millet Sylvain,FRA,9,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Auclair François,FRA,10,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Ten Sijthoff Casper,NED,11,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Caude David,FRA,12,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Crespi Flavio,ITA,13,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Pouvreau Gérome,FRA,14,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Legrand François,FRA,15,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Manzanedo César Ciudad,ESP,15,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Bindhammer Christian,GER,17,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Sova Matej,SLO,18,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,19,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Fischhuber Kilian,AUT,19,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Gusak Igor,UKR,19,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Reis Jürgen,AUT,19,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,23,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Fichtinger Reinhard,AUT,24,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Valjavec Tomaz,SLO,24,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Borowka Andre,GER,26,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Abad Del Campo Sebastian,ESP,27,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Mogaki Keita,JPN,27,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+KARAPETO ARRUE Gorka,ESP,29,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Mobråten Martin,NOR,29,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Roth Cody,USA,29,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Tsuiki Takaaki,JPN,32,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Christophersen Stian,NOR,33,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Escobar Manuel,VEN,33,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Gartmann Tobias,GER,33,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Talon Oliver,FRA,33,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Perez Luis Felix,ESP,37,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Hartung Sebastian,GER,38,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Katsitadze Soso,GEO,39,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv
+Olivares Rafael,VEN,39,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Men,2003-08-21,/api/v1/events/318/result/1,2003-08-21_Aviles_Lead_Men_no-round.csv

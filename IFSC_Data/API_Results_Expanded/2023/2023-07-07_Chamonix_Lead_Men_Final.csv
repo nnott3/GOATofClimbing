@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Roberts Toby,GBR,1,TOP,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,TOP
-Avezou Sam,FRA,2,50,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,50
-ANRAKU Sorato,JPN,3,48,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,48
-Megos Alexander,GER,4,46+,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,46+
-Scherz Stefan,AUT,5,41,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,41
-Duffy Colin,USA,6,39+,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,39+
-Potocar Luka,SLO,7,39+,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,39+
-LEE Dohyun,KOR,8,39,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,39
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Roberts Toby,GBR,1,TOP,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,TOP,2023-07-07_Chamonix_Lead_Men_Final.csv
+Avezou Sam,FRA,2,50,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,50,2023-07-07_Chamonix_Lead_Men_Final.csv
+ANRAKU Sorato,JPN,3,48,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,48,2023-07-07_Chamonix_Lead_Men_Final.csv
+Megos Alexander,GER,4,46+,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,46+,2023-07-07_Chamonix_Lead_Men_Final.csv
+Scherz Stefan,AUT,5,41,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,41,2023-07-07_Chamonix_Lead_Men_Final.csv
+Duffy Colin,USA,6,39+,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,39+,2023-07-07_Chamonix_Lead_Men_Final.csv
+Potocar Luka,SLO,7,39+,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,39+,2023-07-07_Chamonix_Lead_Men_Final.csv
+LEE Dohyun,KOR,8,39,IFSC World Cup Chamonix 2023,1299,2023,Chamonix,Lead,Men,Final,2023-07-07,/api/v1/category_rounds/8332/results,/api/v1/events/1299/result/1,39,2023-07-07_Chamonix_Lead_Men_Final.csv

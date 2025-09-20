@@ -1,39 +1,39 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Julian  Puigblanque Ramón ,ESP,1,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Auclair François,FRA,2,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Ovchinnikov Evgeny,RUS,3,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Crespi Flavio,ITA,4,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Millet Sylvain,FRA,5,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Mrázek Tomás,CZE,6,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Fuselier Michaël,FRA,7,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Bindhammer Christian,GER,8,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Preußler Timo,GER,9,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Usobiaga Lakunza Patxi,ESP,10,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Zardini Luca,ITA,11,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Bindhammer Andreas,GER,12,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Petrenko Maksym,UKR,13,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Roth Cody,USA,14,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Chabot Alexandre,FRA,15,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Verhoeven Jorg,NED,16,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Vinokur Vadim,USA,17,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Pouvreau Gérome,FRA,18,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Lagni Bernardino,ITA,19,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Valjavec Tomaz,SLO,20,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Hoppe Markus,GER,21,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Fichtinger Reinhard,AUT,22,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Douloub Iouri,RUS,23,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Caude David,FRA,24,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Repcik Juraj,SVK,25,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Becan Klemen,SLO,26,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Leitman Marek,SVK,27,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Marin Garcia Eduard,ESP,27,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Ten Sijthoff Casper,NED,29,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Fojtik Martin,CZE,30,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Legrand François,FRA,30,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Gartmann Tobias,GER,32,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Nosek Radim,CZE,32,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Rant Blaz,SLO,34,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Zazvonil Luka,SLO,34,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Borowka Andre,GER,36,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Sova Matej,SLO,37,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
-Gusak Igor,UKR,38,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Julian  Puigblanque Ramón ,ESP,1,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Auclair François,FRA,2,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Ovchinnikov Evgeny,RUS,3,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Crespi Flavio,ITA,4,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Millet Sylvain,FRA,5,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Mrázek Tomás,CZE,6,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Fuselier Michaël,FRA,7,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Bindhammer Christian,GER,8,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Preußler Timo,GER,9,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,10,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Zardini Luca,ITA,11,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,12,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Petrenko Maksym,UKR,13,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Roth Cody,USA,14,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Chabot Alexandre,FRA,15,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,16,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Vinokur Vadim,USA,17,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Pouvreau Gérome,FRA,18,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Lagni Bernardino,ITA,19,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Valjavec Tomaz,SLO,20,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Hoppe Markus,GER,21,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Fichtinger Reinhard,AUT,22,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Douloub Iouri,RUS,23,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Caude David,FRA,24,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Repcik Juraj,SVK,25,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Becan Klemen,SLO,26,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Leitman Marek,SVK,27,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Marin Garcia Eduard,ESP,27,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Ten Sijthoff Casper,NED,29,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Fojtik Martin,CZE,30,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Legrand François,FRA,30,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Gartmann Tobias,GER,32,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Nosek Radim,CZE,32,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Rant Blaz,SLO,34,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Zazvonil Luka,SLO,34,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Borowka Andre,GER,36,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Sova Matej,SLO,37,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv
+Gusak Igor,UKR,38,,UIAA Worldcup - Prague (CZE) 2003,321,2003,Prague,Lead,Men,2003-10-10,/api/v1/events/321/result/1,2003-10-10_Prague_Lead_Men_no-round.csv

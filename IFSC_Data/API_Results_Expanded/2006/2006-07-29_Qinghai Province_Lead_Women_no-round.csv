@@ -1,22 +1,22 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Eiter Angela,AUT,1,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Markovic Mina,SLO,2,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Gros Natalija,SLO,3,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Levet Sandrine,FRA,3,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Vidmar Maja,SLO,3,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Durif Charlotte,FRA,6,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Ciavaldini Caroline,FRA,7,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Bacher Barbara,AUT,8,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Lavarda Jenny,ITA,9,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Franko Lucka,SLO,10,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Huang Li-Ping,CHN,11,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Saurwein Katharina,AUT,12,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Raffetseder Gerda,AUT,13,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Li Chunhua,CHN,14,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Forestier Monique,AUS,15,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-He Cuifang,CHN,16,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-"Tan Li Ying, Suzanna",SGP,17,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Ouyang Hui,CHN,18,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Zhang Dan,CHN,19,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-KIM IN KYOUNG,CYP,20,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
-Liang Liuying,CHN,21,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Eiter Angela,AUT,1,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Markovic Mina,SLO,2,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Gros Natalija,SLO,3,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Levet Sandrine,FRA,3,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Vidmar Maja,SLO,3,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Durif Charlotte,FRA,6,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Ciavaldini Caroline,FRA,7,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Bacher Barbara,AUT,8,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Lavarda Jenny,ITA,9,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Franko Lucka,SLO,10,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Huang Li-Ping,CHN,11,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Saurwein Katharina,AUT,12,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Raffetseder Gerda,AUT,13,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Li Chunhua,CHN,14,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Forestier Monique,AUS,15,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+He Cuifang,CHN,16,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+"Tan Li Ying, Suzanna",SGP,17,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Ouyang Hui,CHN,18,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Zhang Dan,CHN,19,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+KIM IN KYOUNG,CYP,20,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv
+Liang Liuying,CHN,21,,UIAA Climbing Worldcup (L) - Qinghai Province (CHN) 2006,434,2006,Qinghai Province,Lead,Women,2006-07-29,/api/v1/events/434/result/5,2006-07-29_Qinghai Province_Lead_Women_no-round.csv

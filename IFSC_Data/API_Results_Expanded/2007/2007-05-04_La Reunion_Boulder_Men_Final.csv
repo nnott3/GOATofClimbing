@@ -1,7 +1,7 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
-Earl Andrew,GBR,1,4t8 4b8,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3
-Meyer Jérôme,FRA,2,3t3 3b3,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3
-DU LAC Daniel,FRA,3,3t4 4b4,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3
-Fischhuber Kilian,AUT,4,3t5 3b4,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3
-Preti Lucas,ITA,5,1t4 3b14,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3
-Core Christian,ITA,6,1t6 3b10,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,source_file
+Earl Andrew,GBR,1,4t8 4b8,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3,2007-05-04_La Reunion_Boulder_Men_Final.csv
+Meyer Jérôme,FRA,2,3t3 3b3,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3,2007-05-04_La Reunion_Boulder_Men_Final.csv
+DU LAC Daniel,FRA,3,3t4 4b4,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3,2007-05-04_La Reunion_Boulder_Men_Final.csv
+Fischhuber Kilian,AUT,4,3t5 3b4,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3,2007-05-04_La Reunion_Boulder_Men_Final.csv
+Preti Lucas,ITA,5,1t4 3b14,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3,2007-05-04_La Reunion_Boulder_Men_Final.csv
+Core Christian,ITA,6,1t6 3b10,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Men,Final,2007-05-04,/api/v1/category_rounds/622/results,/api/v1/events/473/result/3,2007-05-04_La Reunion_Boulder_Men_Final.csv

@@ -1,46 +1,46 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Vaitsekhovskii Evgenii,RUS,1,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Styenkovyy Maksym,UKR,2,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Sinitcyn Sergei,RUS,3,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Oleksy Tomasz,POL,4,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Escobar Manuel,VEN,5,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Minatchev Evgueni,RUS,6,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Soubbotine Iakov,RUS,7,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Peshekhonov Alexander,RUS,8,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Shevchenko Kyrylo,UKR,9,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Titov Vyacheslav,UKR,10,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Lakhin Oleksandr,UKR,11,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Hroza Libor,CZE,12,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Komondi Csaba,HUN,13,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Lai Chi-Wai,HKG,14,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Amann Mark,AUT,15,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Mecherzynski-Wiktor Andrzej,POL,16,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Jubes Angarita Marco Antonio,ESP,17,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Chaoulsky Alexandre,RUS,18,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Lau Johannes,GER,19,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Chen Xiaojie,CHN,20,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Shyshkovskyy Ivan,UKR,21,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Kucsera Bálint,HUN,22,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Ashton Brett,USA,23,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Pfanner Andreas,AUT,24,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Swirk Lukasz,POL,25,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Olivares Rafael,VEN,26,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Devyaterikov Artyom,KAZ,27,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Katsitadze Soso,GEO,28,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Boulbahaiem Salah,BEL,29,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Ulloa David,CRC,30,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Nigmatulin Alexandr,KAZ,31,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Huertas Gerardo,CRC,32,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Kolokas Ioannis,GRE,33,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Juárez Lester,GUA,34,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Htenas Athanasios,GRE,35,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Guardado Villanueva Jose Napoleon,ESA,36,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Zhendinskiy Denis,KAZ,37,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Carvajal Nestor,VEN,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Cassiday Patrick,USA,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Chapelle Sylvain,FRA,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-De Las Salas Leonel,VEN,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Doliachvili Aleko,GEO,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Hartung Sebastian,GER,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Kryvonos Sergiy,UKR,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
-Lappas Petros,GRE,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Vaitsekhovskii Evgenii,RUS,1,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Styenkovyy Maksym,UKR,2,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Sinitcyn Sergei,RUS,3,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Oleksy Tomasz,POL,4,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Escobar Manuel,VEN,5,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Minatchev Evgueni,RUS,6,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Soubbotine Iakov,RUS,7,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Peshekhonov Alexander,RUS,8,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Shevchenko Kyrylo,UKR,9,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Titov Vyacheslav,UKR,10,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Lakhin Oleksandr,UKR,11,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Hroza Libor,CZE,12,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Komondi Csaba,HUN,13,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Lai Chi-Wai,HKG,14,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Amann Mark,AUT,15,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Mecherzynski-Wiktor Andrzej,POL,16,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Jubes Angarita Marco Antonio,ESP,17,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Chaoulsky Alexandre,RUS,18,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Lau Johannes,GER,19,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Chen Xiaojie,CHN,20,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Shyshkovskyy Ivan,UKR,21,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Kucsera Bálint,HUN,22,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Ashton Brett,USA,23,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Pfanner Andreas,AUT,24,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Swirk Lukasz,POL,25,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Olivares Rafael,VEN,26,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Devyaterikov Artyom,KAZ,27,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Katsitadze Soso,GEO,28,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Boulbahaiem Salah,BEL,29,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Ulloa David,CRC,30,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Nigmatulin Alexandr,KAZ,31,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Huertas Gerardo,CRC,32,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Kolokas Ioannis,GRE,33,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Juárez Lester,GUA,34,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Htenas Athanasios,GRE,35,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Guardado Villanueva Jose Napoleon,ESA,36,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Zhendinskiy Denis,KAZ,37,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Carvajal Nestor,VEN,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Cassiday Patrick,USA,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Chapelle Sylvain,FRA,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+De Las Salas Leonel,VEN,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Doliachvili Aleko,GEO,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Hartung Sebastian,GER,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Kryvonos Sergiy,UKR,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv
+Lappas Petros,GRE,38,,UIAA World Championship - Munich (GER) 2005,396,2005,Munich,Speed,Men,2005-07-01,/api/v1/events/396/result/2,2005-07-01_Munich_Speed_Men_no-round.csv

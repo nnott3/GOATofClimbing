@@ -1,50 +1,50 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Meyer Jérôme,FRA,1,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Calibani Mauro,ITA,2,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Sharma Chris,USA,3,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Oleksy Tomasz,POL,4,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Rakhmetov Salavat,RUS,5,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Tuscan Frédéric,FRA,6,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Macias Matutano Bruno,ESP,7,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Bychkov Dmitrii,RUS,8,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Meral Julien,FRA,9,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Fischhuber Kilian,AUT,10,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Okano Hiroshi,JPN,11,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-ANDRADA JIMENEZ Daniel,ESP,12,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Son Sangwon,KOR,13,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Stack John,USA,14,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Kazbekov Serik,UKR,15,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Julien Stephane,FRA,16,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Dutray Mathieu,FRA,17,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Parry Gareth,GBR,18,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Lee Jae-Yong,KOR,19,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Vinokur Vadim,USA,20,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Miyabo Yuji,JPN,21,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Golob Jurij,SLO,22,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Core Christian,ITA,23,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Pons Pedro,ESP,24,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Scarian Riccardo,ITA,25,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Jourjon Jean Baptiste,FRA,26,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Müller Matthias,SUI,27,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Dard Yohann,FRA,28,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Carrion Obel,USA,29,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Lo Piccolo Cédric,FRA,30,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Kim Dong-Hyun,KOR,31,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Gaidioz Loïc,FRA,32,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Pons Aleman Juan,ESP,33,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Jeffrey Steven,USA,34,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Haager Benedikt,GER,35,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Futoshi Maruki,JPN,36,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Archambault Dan,CAN,37,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Cehovin Urh,SLO,38,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Vicery Robin,DEN,39,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Gisler David,SUI,40,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Poplavskiy Stanislav,RUS,41,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Kim Hee-Jo,KOR,42,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Berger Yannick,FRA,43,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Park Joung-Yong,KOR,44,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Kozmine Daniil,RUS,45,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Andersen Sören,DEN,46,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Illum Christian,DEN,47,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Vilstrup Thøger,DEN,47,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
-Moser Philip,GER,49,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Meyer Jérôme,FRA,1,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Calibani Mauro,ITA,2,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Sharma Chris,USA,3,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Oleksy Tomasz,POL,4,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Rakhmetov Salavat,RUS,5,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Tuscan Frédéric,FRA,6,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Macias Matutano Bruno,ESP,7,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Bychkov Dmitrii,RUS,8,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Meral Julien,FRA,9,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Fischhuber Kilian,AUT,10,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Okano Hiroshi,JPN,11,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+ANDRADA JIMENEZ Daniel,ESP,12,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Son Sangwon,KOR,13,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Stack John,USA,14,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Kazbekov Serik,UKR,15,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Julien Stephane,FRA,16,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Dutray Mathieu,FRA,17,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Parry Gareth,GBR,18,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Lee Jae-Yong,KOR,19,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Vinokur Vadim,USA,20,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Miyabo Yuji,JPN,21,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Golob Jurij,SLO,22,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Core Christian,ITA,23,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Pons Pedro,ESP,24,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Scarian Riccardo,ITA,25,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Jourjon Jean Baptiste,FRA,26,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Müller Matthias,SUI,27,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Dard Yohann,FRA,28,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Carrion Obel,USA,29,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Lo Piccolo Cédric,FRA,30,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Kim Dong-Hyun,KOR,31,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Gaidioz Loïc,FRA,32,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Pons Aleman Juan,ESP,33,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Jeffrey Steven,USA,34,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Haager Benedikt,GER,35,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Futoshi Maruki,JPN,36,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Archambault Dan,CAN,37,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Cehovin Urh,SLO,38,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Vicery Robin,DEN,39,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Gisler David,SUI,40,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Poplavskiy Stanislav,RUS,41,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Kim Hee-Jo,KOR,42,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Berger Yannick,FRA,43,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Park Joung-Yong,KOR,44,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Kozmine Daniil,RUS,45,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Andersen Sören,DEN,46,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Illum Christian,DEN,47,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Vilstrup Thøger,DEN,47,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv
+Moser Philip,GER,49,,UIAA Worldcup - GAP (FRA) 2001,240,2001,GAP,Boulder,Men,2001-06-29,/api/v1/events/240/result/3,2001-06-29_GAP_Boulder_Men_no-round.csv

@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
-Yurina Valentina,RUS,1,55.610,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6
-Ruyga Tatiana,RUS,2,59.180,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6
-Ropek Edyta,POL,3,83.950,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6
-Ryepko Olena,UKR,4,fall,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6
-Tuzhylina Svitlana,UKR,5,70.000,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6
-Piratinskaya Mayya,RUS,6,71.650,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6
-Rodriguez Francis,VEN,7,80.860,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6
-Stenkovaya Anna,RUS,8,fall,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,source_file
+Yurina Valentina,RUS,1,55.610,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6,2007-07-21_Val Daone_Speed_Women_Final.csv
+Ruyga Tatiana,RUS,2,59.180,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6,2007-07-21_Val Daone_Speed_Women_Final.csv
+Ropek Edyta,POL,3,83.950,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6,2007-07-21_Val Daone_Speed_Women_Final.csv
+Ryepko Olena,UKR,4,fall,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6,2007-07-21_Val Daone_Speed_Women_Final.csv
+Tuzhylina Svitlana,UKR,5,70.000,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6,2007-07-21_Val Daone_Speed_Women_Final.csv
+Piratinskaya Mayya,RUS,6,71.650,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6,2007-07-21_Val Daone_Speed_Women_Final.csv
+Rodriguez Francis,VEN,7,80.860,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6,2007-07-21_Val Daone_Speed_Women_Final.csv
+Stenkovaya Anna,RUS,8,fall,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,479,2007,Val Daone,Speed,Women,Final,2007-07-21,/api/v1/category_rounds/658/results,/api/v1/events/479/result/6,2007-07-21_Val Daone_Speed_Women_Final.csv

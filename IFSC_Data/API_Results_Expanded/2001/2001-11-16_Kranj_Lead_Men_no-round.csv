@@ -1,45 +1,45 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Mrázek Tomás,CZE,1,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Legrand François,FRA,2,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Petrenko Maksym,UKR,3,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Chabot Alexandre,FRA,4,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Pouvreau Gérome,FRA,5,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Bosma Peter,SWE,6,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Bindhammer Christian,GER,7,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Douloub Iouri,RUS,8,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Lagni Bernardino,ITA,9,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Zardini Luca,ITA,9,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Gnerro Alberto,ITA,11,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Kazbekov Serik,UKR,11,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Sova Matej,SLO,11,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Brenna Cristian,ITA,14,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Julian  Puigblanque Ramón ,ESP,14,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Fichtinger Reinhard,AUT,16,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Fischhuber Kilian,AUT,16,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Kryvosheytsev Yevgen,UKR,16,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Millet Sylvain,FRA,19,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Ten Sijthoff Casper,NED,19,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Bindhammer Andreas,GER,21,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Lachat Cédric,SUI,21,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Auclair François,FRA,23,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Becan Klemen,SLO,24,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Crespi Flavio,ITA,24,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Fuselier Michaël,FRA,24,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Barbero Alfonso Pablo ,ESP,27,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Golob Jurij,SLO,28,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Dugit Fabien,FRA,29,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Petit François,FRA,29,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Gusak Igor,UKR,31,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Valjavec Tomaz,SLO,31,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Dugit Stephane,FRA,33,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Felix Roman,SUI,33,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Cubitt Christopher,GBR,35,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Giupponi Luca,ITA,35,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Jensterle Franci,SLO,35,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Reis Jürgen,AUT,38,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Baxter Adrian,GBR,39,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Tsuiki Takaaki,JPN,39,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Decker Martin,GER,41,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Zazvonil Luka,SLO,41,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Achermann Thomas,SUI,43,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
-Wandeler Simon,SUI,43,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Mrázek Tomás,CZE,1,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Legrand François,FRA,2,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Petrenko Maksym,UKR,3,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Chabot Alexandre,FRA,4,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Pouvreau Gérome,FRA,5,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Bosma Peter,SWE,6,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Bindhammer Christian,GER,7,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Douloub Iouri,RUS,8,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Lagni Bernardino,ITA,9,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Zardini Luca,ITA,9,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Gnerro Alberto,ITA,11,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Kazbekov Serik,UKR,11,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Sova Matej,SLO,11,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Brenna Cristian,ITA,14,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,14,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Fichtinger Reinhard,AUT,16,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Fischhuber Kilian,AUT,16,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Kryvosheytsev Yevgen,UKR,16,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Millet Sylvain,FRA,19,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Ten Sijthoff Casper,NED,19,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,21,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Lachat Cédric,SUI,21,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Auclair François,FRA,23,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Becan Klemen,SLO,24,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Crespi Flavio,ITA,24,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Fuselier Michaël,FRA,24,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Barbero Alfonso Pablo ,ESP,27,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Golob Jurij,SLO,28,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Dugit Fabien,FRA,29,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Petit François,FRA,29,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Gusak Igor,UKR,31,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Valjavec Tomaz,SLO,31,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Dugit Stephane,FRA,33,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Felix Roman,SUI,33,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Cubitt Christopher,GBR,35,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Giupponi Luca,ITA,35,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Jensterle Franci,SLO,35,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Reis Jürgen,AUT,38,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Baxter Adrian,GBR,39,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Tsuiki Takaaki,JPN,39,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Decker Martin,GER,41,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Zazvonil Luka,SLO,41,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Achermann Thomas,SUI,43,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv
+Wandeler Simon,SUI,43,,UIAA Worldcup - Kranj (SLO) 2001,248,2001,Kranj,Lead,Men,2001-11-16,/api/v1/events/248/result/1,2001-11-16_Kranj_Lead_Men_no-round.csv

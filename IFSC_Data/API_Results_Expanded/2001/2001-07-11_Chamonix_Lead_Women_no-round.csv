@@ -1,52 +1,52 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Cufar Martina,SLO,1,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Sarkany Muriel,BEL,2,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Ovtchinnikova Elena,USA,3,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Uhden Marietta,GER,4,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Gros Natalija,SLO,5,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Kryvonis Olena,UKR,6,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-schöpf Bettina,AUT,7,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Go Mi-Sun,KOR,8,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Eyer Alexandra,SUI,9,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Bacher Barbara,AUT,10,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Lavarda Jenny,ITA,11,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Knorr Damaris,GER,12,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Sedlmayer Katrin,GER,13,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Schultz Annatina,SUI,14,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Perlova Nataliya,UKR,15,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Kim Hyun-Jung,KOR,16,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Bibik Olga,RUS,17,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Tusar Eva,SLO,18,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Choumilova Elena,RUS,19,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Nilsson Ingela,SWE,20,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Benetti Lisa,ITA,21,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Kimura Rie,JPN,22,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Raffetseder Gerda,AUT,23,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Louis Stéphanie,SUI,24,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Novikova Natalia,RUS,25,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Crouvisier Stéphanie,FRA,26,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Bihr Isabelle,FRA,27,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Gronkiewicz-Marcisz Iwona,POL,28,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Endo Yuka,JPN,29,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Petrignet Carole,FRA,29,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Etter Susanne,SUI,31,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Lage Lisa,USA,31,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Taylor Vanessa,FRA,31,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Bergklint Julia,SWE,34,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Cardoso Janine,BRA,34,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Stendal Linn Karin,NOR,34,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Zeilemaker Monica,NED,34,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Trnkova Lenka,CZE,38,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Guzzi Nastja,SLO,39,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Griffith Melissa,USA,40,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Minoret Chloé,FRA,40,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Martindale Alison,GBR,42,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Tcharkviani Nino,GEO,43,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Marr April,GBR,44,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Van Der Putten Eleonora,NED,45,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Verdier Emilie,FRA,45,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Kim Younghee,KOR,47,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Swart Nienke,NED,48,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Martin Sancho Berta,ESP,49,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Wallin Lou,SWE,50,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
-Landeghem Sandr Van,FRA,51,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Cufar Martina,SLO,1,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Sarkany Muriel,BEL,2,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Ovtchinnikova Elena,USA,3,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Uhden Marietta,GER,4,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Gros Natalija,SLO,5,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Kryvonis Olena,UKR,6,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+schöpf Bettina,AUT,7,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Go Mi-Sun,KOR,8,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Eyer Alexandra,SUI,9,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Bacher Barbara,AUT,10,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Lavarda Jenny,ITA,11,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Knorr Damaris,GER,12,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Sedlmayer Katrin,GER,13,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Schultz Annatina,SUI,14,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Perlova Nataliya,UKR,15,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Kim Hyun-Jung,KOR,16,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Bibik Olga,RUS,17,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Tusar Eva,SLO,18,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Choumilova Elena,RUS,19,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Nilsson Ingela,SWE,20,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Benetti Lisa,ITA,21,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Kimura Rie,JPN,22,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Raffetseder Gerda,AUT,23,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Louis Stéphanie,SUI,24,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Novikova Natalia,RUS,25,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Crouvisier Stéphanie,FRA,26,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Bihr Isabelle,FRA,27,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Gronkiewicz-Marcisz Iwona,POL,28,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Endo Yuka,JPN,29,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Petrignet Carole,FRA,29,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Etter Susanne,SUI,31,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Lage Lisa,USA,31,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Taylor Vanessa,FRA,31,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Bergklint Julia,SWE,34,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Cardoso Janine,BRA,34,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Stendal Linn Karin,NOR,34,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Zeilemaker Monica,NED,34,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Trnkova Lenka,CZE,38,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Guzzi Nastja,SLO,39,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Griffith Melissa,USA,40,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Minoret Chloé,FRA,40,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Martindale Alison,GBR,42,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Tcharkviani Nino,GEO,43,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Marr April,GBR,44,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Van Der Putten Eleonora,NED,45,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Verdier Emilie,FRA,45,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Kim Younghee,KOR,47,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Swart Nienke,NED,48,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Martin Sancho Berta,ESP,49,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Wallin Lou,SWE,50,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv
+Landeghem Sandr Van,FRA,51,,UIAA Worldcup - Chamonix (FRA) 2001,241,2001,Chamonix,Lead,Women,2001-07-11,/api/v1/events/241/result/5,2001-07-11_Chamonix_Lead_Women_no-round.csv

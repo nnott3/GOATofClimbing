@@ -1,7 +1,7 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
-ANRAKU Sorato,JPN,1,3T3z 11 9,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,1,1,3,1,X,X,7,7
-NARASAKI Meichi,JPN,2,3T3z 15 11,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,1,1,X,X,7,3,7,7
-Avezou Sam,FRA,3,2T2z 4 3,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,2,1,X,X,2,2,X,X
-CHON Jongwon,KOR,4,2T2z 6 6,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,1,1,X,X,X,X,5,5
-Collin Nicolas,BEL,5,2T2z 7 7,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,2,2,X,X,X,X,5,5
-Lorenzi Simon,BEL,6,0T0z 0 0,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,X,X,X,X,X,X,X,X
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone,source_file
+ANRAKU Sorato,JPN,1,3T3z 11 9,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,1,1,3,1,X,X,7,7,2023-06-14_Innsbruck_Boulder_Men_Final.csv
+NARASAKI Meichi,JPN,2,3T3z 15 11,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,1,1,X,X,7,3,7,7,2023-06-14_Innsbruck_Boulder_Men_Final.csv
+Avezou Sam,FRA,3,2T2z 4 3,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,2,1,X,X,2,2,X,X,2023-06-14_Innsbruck_Boulder_Men_Final.csv
+CHON Jongwon,KOR,4,2T2z 6 6,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,1,1,X,X,X,X,5,5,2023-06-14_Innsbruck_Boulder_Men_Final.csv
+Collin Nicolas,BEL,5,2T2z 7 7,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,2,2,X,X,X,X,5,5,2023-06-14_Innsbruck_Boulder_Men_Final.csv
+Lorenzi Simon,BEL,6,0T0z 0 0,IFSC World Cup Innsbruck 2023,1297,2023,Innsbruck,Boulder,Men,Final,2023-06-14,/api/v1/category_rounds/8252/results,/api/v1/events/1297/result/3,X,X,X,X,X,X,X,X,2023-06-14_Innsbruck_Boulder_Men_Final.csv

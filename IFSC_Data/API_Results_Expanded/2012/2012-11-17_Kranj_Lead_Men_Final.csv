@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Schubert Jakob,AUT,1,43+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,43+
-Amma Sachi,JPN,2,34,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,34
-Midtboe Magnus,NOR,3,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,33+
-Verhoeven Jorg,NED,4,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,33+
-Ballet Thomas,FRA,5,27+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,27+
-Desgranges Romain,FRA,6,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,26+
-Julian  Puigblanque Ramón ,ESP,7,22+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,22+
-Min Hyunbin,KOR,8,16+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,16+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Schubert Jakob,AUT,1,43+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,43+,2012-11-17_Kranj_Lead_Men_Final.csv
+Amma Sachi,JPN,2,34,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,34,2012-11-17_Kranj_Lead_Men_Final.csv
+Midtboe Magnus,NOR,3,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,33+,2012-11-17_Kranj_Lead_Men_Final.csv
+Verhoeven Jorg,NED,4,33+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,33+,2012-11-17_Kranj_Lead_Men_Final.csv
+Ballet Thomas,FRA,5,27+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,27+,2012-11-17_Kranj_Lead_Men_Final.csv
+Desgranges Romain,FRA,6,26+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,26+,2012-11-17_Kranj_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,7,22+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,22+,2012-11-17_Kranj_Lead_Men_Final.csv
+Min Hyunbin,KOR,8,16+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1,16+,2012-11-17_Kranj_Lead_Men_Final.csv

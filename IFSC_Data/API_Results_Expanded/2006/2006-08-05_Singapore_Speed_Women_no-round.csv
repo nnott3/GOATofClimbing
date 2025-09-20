@@ -1,13 +1,13 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Neliwati Evi,INA,1,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
-Rodriguez Francis,VEN,2,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
-Yurina Valentina,RUS,3,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
-Adianti Tri,INA,4,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
-Blanco Lucelia,VEN,5,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
-"Chong Leong Hong, Beatrix",SGP,6,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
-Li Chunhua,CHN,7,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
-Ruyga Tatiana,RUS,8,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
-Chung Sue Ann,SGP,9,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
-Low Shuang'E,SGP,10,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
-Twang Xiao Hui,SGP,11,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
-Cheng Lai-Sho,HKG,12,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Neliwati Evi,INA,1,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv
+Rodriguez Francis,VEN,2,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv
+Yurina Valentina,RUS,3,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv
+Adianti Tri,INA,4,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv
+Blanco Lucelia,VEN,5,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv
+"Chong Leong Hong, Beatrix",SGP,6,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv
+Li Chunhua,CHN,7,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv
+Ruyga Tatiana,RUS,8,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv
+Chung Sue Ann,SGP,9,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv
+Low Shuang'E,SGP,10,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv
+Twang Xiao Hui,SGP,11,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv
+Cheng Lai-Sho,HKG,12,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Speed,Women,2006-08-05,/api/v1/events/436/result/6,2006-08-05_Singapore_Speed_Women_no-round.csv

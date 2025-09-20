@@ -1,26 +1,26 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Chaoulsky Alexandre,RUS,1,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Peshekhonov Alexander,RUS,2,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Sinitcyn Sergei,RUS,3,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Vaitsekhovskii Evgenii,RUS,4,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Sharafutdinov Dmitrii,RUS,5,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Minatchev Evgueni,RUS,6,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Oleksy Tomasz,POL,7,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Escobar Manuel,VEN,8,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Hroza Libor,CZE,9,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Carvajal Nestor,VEN,10,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Soubbotine Iakov,RUS,11,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Chapelle Sylvain,FRA,12,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Januel Nicolas,FRA,13,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Lakhin Oleksandr,UKR,14,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Komondi Csaba,HUN,15,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Couchot Thomas,FRA,16,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Chernikov Mikhail,RUS,17,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Kaurov Ivan,RUS,18,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Svacha Jiri,CZE,19,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Lai Chi-Wai,HKG,20,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-De Las Salas Leonel,VEN,21,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Cassiday Patrick,USA,22,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Praveen C. M.,IND,23,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Darmawahyu Dharma,INA,24,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
-Ashton William,USA,25,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Chaoulsky Alexandre,RUS,1,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Peshekhonov Alexander,RUS,2,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Sinitcyn Sergei,RUS,3,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Vaitsekhovskii Evgenii,RUS,4,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Sharafutdinov Dmitrii,RUS,5,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Minatchev Evgueni,RUS,6,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Oleksy Tomasz,POL,7,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Escobar Manuel,VEN,8,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Hroza Libor,CZE,9,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Carvajal Nestor,VEN,10,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Soubbotine Iakov,RUS,11,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Chapelle Sylvain,FRA,12,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Januel Nicolas,FRA,13,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Lakhin Oleksandr,UKR,14,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Komondi Csaba,HUN,15,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Couchot Thomas,FRA,16,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Chernikov Mikhail,RUS,17,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Kaurov Ivan,RUS,18,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Svacha Jiri,CZE,19,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Lai Chi-Wai,HKG,20,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+De Las Salas Leonel,VEN,21,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Cassiday Patrick,USA,22,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Praveen C. M.,IND,23,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Darmawahyu Dharma,INA,24,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv
+Ashton William,USA,25,,UIAA Worldcup (L+S) - Chamonix (FRA) 2005,397,2005,Chamonix,Speed,Men,2005-07-12,/api/v1/events/397/result/2,2005-07-12_Chamonix_Speed_Men_no-round.csv

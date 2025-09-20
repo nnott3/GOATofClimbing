@@ -1,56 +1,56 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Chabot Alexandre,FRA,1,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Julian  Puigblanque Ramón ,ESP,2,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Lagni Bernardino,ITA,3,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Ovchinnikov Evgeny,RUS,3,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Auclair François,FRA,5,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Lachat Cédric,SUI,6,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Mrázek Tomás,CZE,7,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Gnerro Alberto,ITA,8,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Bindhammer Christian,GER,9,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Brenna Cristian,ITA,9,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Crespi Flavio,ITA,9,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Usobiaga Lakunza Patxi,ESP,12,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Zardini Luca,ITA,12,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Petit François,FRA,14,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Desgranges Romain,FRA,15,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Kazbekov Serik,UKR,15,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Kryvosheytsev Yevgen,UKR,15,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Millet Sylvain,FRA,15,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Vinokur Vadim,USA,15,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Pouvreau Gérome,FRA,20,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Petrenko Maksym,UKR,21,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Caude David,FRA,22,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Bindhammer Andreas,GER,23,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Takeda Takuya,JPN,23,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Sova Matej,SLO,25,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Verhoeven Jorg,NED,26,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Fojtik Martin,CZE,27,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Reis Jürgen,AUT,28,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Felix Martin,SUI,29,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Roth Cody,USA,29,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Borowka Andre,GER,31,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Saga Atsushi,JPN,31,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Ten Sijthoff Casper,NED,31,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Caleyron Thomas,FRA,34,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Fichtinger Reinhard,AUT,34,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Marin Garcia Eduard,ESP,36,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Dugit Fabien,FRA,37,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Fuselier Michaël,FRA,37,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Preußler Timo,GER,37,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Jaggi Martin,SUI,40,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Billoro Luigi,ITA,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Dugit Stephane,FRA,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Fischhuber Kilian,AUT,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Gambaro Matteo,ITA,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Konovalov Dmytro,UKR,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Zazvonil Luka,SLO,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Babicz Filip,POL,47,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Giupponi Luca,ITA,47,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Hoppe Markus,GER,47,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Segal Matthew,USA,50,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Bancroft Nathan,USA,51,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Legrand François,FRA,51,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Sirtori Diego,ITA,53,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Svub Ondrej,SVK,53,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
-Ito Hidekazu,JPN,55,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Chabot Alexandre,FRA,1,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,2,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Lagni Bernardino,ITA,3,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Ovchinnikov Evgeny,RUS,3,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Auclair François,FRA,5,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Lachat Cédric,SUI,6,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Mrázek Tomás,CZE,7,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Gnerro Alberto,ITA,8,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Bindhammer Christian,GER,9,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Brenna Cristian,ITA,9,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Crespi Flavio,ITA,9,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,12,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Zardini Luca,ITA,12,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Petit François,FRA,14,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Desgranges Romain,FRA,15,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Kazbekov Serik,UKR,15,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Kryvosheytsev Yevgen,UKR,15,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Millet Sylvain,FRA,15,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Vinokur Vadim,USA,15,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Pouvreau Gérome,FRA,20,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Petrenko Maksym,UKR,21,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Caude David,FRA,22,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,23,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Takeda Takuya,JPN,23,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Sova Matej,SLO,25,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,26,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Fojtik Martin,CZE,27,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Reis Jürgen,AUT,28,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Felix Martin,SUI,29,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Roth Cody,USA,29,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Borowka Andre,GER,31,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Saga Atsushi,JPN,31,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Ten Sijthoff Casper,NED,31,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Caleyron Thomas,FRA,34,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Fichtinger Reinhard,AUT,34,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Marin Garcia Eduard,ESP,36,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Dugit Fabien,FRA,37,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Fuselier Michaël,FRA,37,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Preußler Timo,GER,37,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Jaggi Martin,SUI,40,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Billoro Luigi,ITA,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Dugit Stephane,FRA,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Fischhuber Kilian,AUT,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Gambaro Matteo,ITA,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Konovalov Dmytro,UKR,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Zazvonil Luka,SLO,41,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Babicz Filip,POL,47,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Giupponi Luca,ITA,47,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Hoppe Markus,GER,47,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Segal Matthew,USA,50,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Bancroft Nathan,USA,51,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Legrand François,FRA,51,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Sirtori Diego,ITA,53,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Svub Ondrej,SVK,53,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv
+Ito Hidekazu,JPN,55,,UIAA Worldcup - Lecco (ITA) 2003 (difficulty),314,2003,Lecco,Lead,Men,2003-06-27,/api/v1/events/314/result/1,2003-06-27_Lecco_Lead_Men_no-round.csv

@@ -1,27 +1,27 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Crespi Flavio,ITA,1,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Mrázek Tomás,CZE,2,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Chabot Alexandre,FRA,3,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Petrenko Maksym,UKR,4,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Lagni Bernardino,ITA,5,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Verhoeven Jorg,NED,6,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Millet Sylvain,FRA,7,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Son Sangwon,KOR,8,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Zardini Luca,ITA,9,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Fuselier Michaël,FRA,10,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Kim Jaha,KOR,11,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Droetto Fabrizio,ITA,12,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Ovchinnikov Evgeny,RUS,13,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Repcik Juraj,SVK,13,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Vinokur Vadim,USA,15,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Bindhammer Christian,GER,16,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Kaurov Ivan,RUS,17,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Pouvreau Gérome,FRA,17,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Sova Matej,SLO,17,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Usobiaga Lakunza Patxi,ESP,17,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Brenna Cristian,ITA,21,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Bindhammer Andreas,GER,22,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Fichtinger Reinhard,AUT,22,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Julian  Puigblanque Ramón ,ESP,22,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Reis Jürgen,AUT,22,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
-Valjavec Tomaz,SLO,26,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Crespi Flavio,ITA,1,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Mrázek Tomás,CZE,2,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Chabot Alexandre,FRA,3,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Petrenko Maksym,UKR,4,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Lagni Bernardino,ITA,5,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,6,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Millet Sylvain,FRA,7,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Son Sangwon,KOR,8,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Zardini Luca,ITA,9,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Fuselier Michaël,FRA,10,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Kim Jaha,KOR,11,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Droetto Fabrizio,ITA,12,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Ovchinnikov Evgeny,RUS,13,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Repcik Juraj,SVK,13,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Vinokur Vadim,USA,15,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Bindhammer Christian,GER,16,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Kaurov Ivan,RUS,17,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Pouvreau Gérome,FRA,17,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Sova Matej,SLO,17,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,17,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Brenna Cristian,ITA,21,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,22,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Fichtinger Reinhard,AUT,22,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,22,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Reis Jürgen,AUT,22,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv
+Valjavec Tomaz,SLO,26,,UIAA Worldcup - Brno (CZE) 2004,361,2004,Brno,Lead,Men,2004-11-11,/api/v1/events/361/result/393,2004-11-11_Brno_Lead_Men_no-round.csv

@@ -103,7 +103,7 @@ class IFSCDataAggregator:
         
         # Clean name column
         if 'name' in self.results_df.columns:
-            self.results_df['name'] = self.results_df['name'].astype(str).str.strip()
+            self.results_df['name'] = self.results_df['name'].astype(str).str.strip().str.title()
             self.results_df = self.results_df[~self.results_df['name'].isin(['', 'nan', 'None'])]
         
         self.results_df['processed_at'] = datetime.now()

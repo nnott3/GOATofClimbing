@@ -1,0 +1,86 @@
+event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3
+IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Semi-final,2024-04-08,/api/v1/category_rounds/8924/results,/api/v1/events/1353/result/3
+IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7
+IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Semi-final,2024-04-08,/api/v1/category_rounds/8925/results,/api/v1/events/1353/result/7
+IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Final,2024-04-08,/api/v1/category_rounds/8927/results,/api/v1/events/1353/result/7
+IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Qualification,2024-04-12,/api/v1/category_rounds/8504/results,/api/v1/events/1354/result/1
+IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1
+IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Final,2024-04-12,/api/v1/category_rounds/8931/results,/api/v1/events/1354/result/1
+IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Women,Qualification,2024-04-12,/api/v1/category_rounds/8505/results,/api/v1/events/1354/result/5
+IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Women,Semi-final,2024-04-12,/api/v1/category_rounds/8930/results,/api/v1/events/1354/result/5
+IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Women,Final,2024-04-12,/api/v1/category_rounds/8932/results,/api/v1/events/1354/result/5
+IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Men,Qualification,2024-04-12,/api/v1/category_rounds/8506/results,/api/v1/events/1354/result/2
+IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Men,Final,2024-04-12,/api/v1/category_rounds/8933/results,/api/v1/events/1354/result/2
+IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6
+IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Final,2024-04-12,/api/v1/category_rounds/8934/results,/api/v1/events/1354/result/6
+IFSC World Cup Salt Lake City 2024,1355,2024,Salt Lake CIty,Speed,Men,Qualification,2024-05-03,/api/v1/category_rounds/8510/results,/api/v1/events/1355/result/2
+IFSC World Cup Salt Lake City 2024,1355,2024,Salt Lake CIty,Speed,Men,Final,2024-05-03,/api/v1/category_rounds/8963/results,/api/v1/events/1355/result/2
+IFSC World Cup Salt Lake City 2024,1355,2024,Salt Lake CIty,Speed,Women,Qualification,2024-05-03,/api/v1/category_rounds/8511/results,/api/v1/events/1355/result/6
+IFSC World Cup Salt Lake City 2024,1355,2024,Salt Lake CIty,Speed,Women,Final,2024-05-03,/api/v1/category_rounds/8964/results,/api/v1/events/1355/result/6
+IFSC World Cup Salt Lake City 2024,1355,2024,Salt Lake CIty,Boulder,Men,Qualification,2024-05-03,/api/v1/category_rounds/8967/results,/api/v1/events/1355/result/3
+IFSC World Cup Salt Lake City 2024,1355,2024,Salt Lake CIty,Boulder,Men,Semi-final,2024-05-03,/api/v1/category_rounds/8969/results,/api/v1/events/1355/result/3
+IFSC World Cup Salt Lake City 2024,1355,2024,Salt Lake CIty,Boulder,Men,Final,2024-05-03,/api/v1/category_rounds/8971/results,/api/v1/events/1355/result/3
+IFSC World Cup Salt Lake City 2024,1355,2024,Salt Lake CIty,Boulder,Women,Qualification,2024-05-03,/api/v1/category_rounds/8968/results,/api/v1/events/1355/result/7
+IFSC World Cup Salt Lake City 2024,1355,2024,Salt Lake CIty,Boulder,Women,Semi-final,2024-05-03,/api/v1/category_rounds/8970/results,/api/v1/events/1355/result/7
+IFSC World Cup Salt Lake City 2024,1355,2024,Salt Lake CIty,Boulder,Women,Final,2024-05-03,/api/v1/category_rounds/8972/results,/api/v1/events/1355/result/7
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Qualification,2024-06-26,/api/v1/category_rounds/8514/results,/api/v1/events/1356/result/1
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Final,2024-06-26,/api/v1/category_rounds/9089/results,/api/v1/events/1356/result/1
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Qualification,2024-06-26,/api/v1/category_rounds/8515/results,/api/v1/events/1356/result/5
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Final,2024-06-26,/api/v1/category_rounds/9090/results,/api/v1/events/1356/result/5
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Boulder,Men,Qualification,2024-06-26,/api/v1/category_rounds/8516/results,/api/v1/events/1356/result/3
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Boulder,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9091/results,/api/v1/events/1356/result/3
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Boulder,Men,Final,2024-06-26,/api/v1/category_rounds/9093/results,/api/v1/events/1356/result/3
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Boulder,Women,Qualification,2024-06-26,/api/v1/category_rounds/8517/results,/api/v1/events/1356/result/7
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Boulder,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9092/results,/api/v1/events/1356/result/7
+IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Boulder,Women,Final,2024-06-26,/api/v1/category_rounds/9094/results,/api/v1/events/1356/result/7
+IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Qualification,2024-07-12,/api/v1/category_rounds/8518/results,/api/v1/events/1357/result/1
+IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1
+IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Final,2024-07-12,/api/v1/category_rounds/9143/results,/api/v1/events/1357/result/1
+IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Qualification,2024-07-12,/api/v1/category_rounds/8519/results,/api/v1/events/1357/result/5
+IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5
+IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Final,2024-07-12,/api/v1/category_rounds/9144/results,/api/v1/events/1357/result/5
+IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Men,Qualification,2024-07-12,/api/v1/category_rounds/8520/results,/api/v1/events/1357/result/2
+IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Men,Final,2024-07-12,/api/v1/category_rounds/9145/results,/api/v1/events/1357/result/2
+IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6
+IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Final,2024-07-12,/api/v1/category_rounds/9146/results,/api/v1/events/1357/result/6
+IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1
+IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Semi-final,2024-07-17,/api/v1/category_rounds/9137/results,/api/v1/events/1358/result/1
+IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Final,2024-07-17,/api/v1/category_rounds/9139/results,/api/v1/events/1358/result/1
+IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Women,Qualification,2024-07-17,/api/v1/category_rounds/8523/results,/api/v1/events/1358/result/5
+IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Women,Semi-final,2024-07-17,/api/v1/category_rounds/9138/results,/api/v1/events/1358/result/5
+IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Women,Final,2024-07-17,/api/v1/category_rounds/9140/results,/api/v1/events/1358/result/5
+IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2
+IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Final,2024-07-17,/api/v1/category_rounds/9135/results,/api/v1/events/1358/result/2
+IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6
+IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Final,2024-07-17,/api/v1/category_rounds/9136/results,/api/v1/events/1358/result/6
+IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Men,Qualification,2024-09-06,/api/v1/category_rounds/8526/results,/api/v1/events/1359/result/1
+IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Men,Semi-final,2024-09-06,/api/v1/category_rounds/9283/results,/api/v1/events/1359/result/1
+IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Men,Final,2024-09-06,/api/v1/category_rounds/9285/results,/api/v1/events/1359/result/1
+IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Qualification,2024-09-06,/api/v1/category_rounds/8527/results,/api/v1/events/1359/result/5
+IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5
+IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Final,2024-09-06,/api/v1/category_rounds/9286/results,/api/v1/events/1359/result/5
+IFSC World Cup Prague 2024,1360,2024,Prague,Boulder,Men,Qualification,2024-09-20,/api/v1/category_rounds/8528/results,/api/v1/events/1360/result/3
+IFSC World Cup Prague 2024,1360,2024,Prague,Boulder,Men,Semi-final,2024-09-20,/api/v1/category_rounds/9299/results,/api/v1/events/1360/result/3
+IFSC World Cup Prague 2024,1360,2024,Prague,Boulder,Men,Final,2024-09-20,/api/v1/category_rounds/9301/results,/api/v1/events/1360/result/3
+IFSC World Cup Prague 2024,1360,2024,Prague,Boulder,Women,Qualification,2024-09-20,/api/v1/category_rounds/8529/results,/api/v1/events/1360/result/7
+IFSC World Cup Prague 2024,1360,2024,Prague,Boulder,Women,Semi-final,2024-09-20,/api/v1/category_rounds/9300/results,/api/v1/events/1360/result/7
+IFSC World Cup Prague 2024,1360,2024,Prague,Boulder,Women,Final,2024-09-20,/api/v1/category_rounds/9302/results,/api/v1/events/1360/result/7
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Qualification,2024-10-02,/api/v1/category_rounds/8530/results,/api/v1/events/1361/result/1
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Final,2024-10-02,/api/v1/category_rounds/9379/results,/api/v1/events/1361/result/1
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Semi-final,2024-10-02,/api/v1/category_rounds/9378/results,/api/v1/events/1361/result/5
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Final,2024-10-02,/api/v1/category_rounds/9380/results,/api/v1/events/1361/result/5
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Final,2024-10-02,/api/v1/category_rounds/9375/results,/api/v1/events/1361/result/2
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Women,Qualification,2024-10-02,/api/v1/category_rounds/8533/results,/api/v1/events/1361/result/6
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Women,Final,2024-10-02,/api/v1/category_rounds/9376/results,/api/v1/events/1361/result/6
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Boulder,Men,Qualification,2024-10-02,/api/v1/category_rounds/8534/results,/api/v1/events/1361/result/3
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Boulder,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9371/results,/api/v1/events/1361/result/3
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Boulder,Men,Final,2024-10-02,/api/v1/category_rounds/9373/results,/api/v1/events/1361/result/3
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Boulder,Women,Qualification,2024-10-02,/api/v1/category_rounds/8535/results,/api/v1/events/1361/result/7
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Boulder,Women,Semi-final,2024-10-02,/api/v1/category_rounds/9372/results,/api/v1/events/1361/result/7
+IFSC World Cup Seoul 2024,1361,2024,Seoul,Boulder,Women,Final,2024-10-02,/api/v1/category_rounds/9374/results,/api/v1/events/1361/result/7

@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Garnbret Janja,SLO,1,TOP,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,TOP
-Pilz Jessica,AUT,2,43+,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,43+
-Raboutou Brooke,USA,3,43,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,43
-SEO Chaehyun,KOR,4,43,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,43
-Krampl Mia,SLO,5,40+,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,40+
-TANII Natsuki,JPN,6,36,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,36
-KIM Jain,KOR,7,22+,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,22+
-Pötzi Mattea,AUT,8,17+,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,17+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Garnbret Janja,SLO,1,TOP,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,TOP,2023-06-30_Villars-sur-Ollon_Lead_Women_Final.csv
+Pilz Jessica,AUT,2,43+,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,43+,2023-06-30_Villars-sur-Ollon_Lead_Women_Final.csv
+Raboutou Brooke,USA,3,43,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,43,2023-06-30_Villars-sur-Ollon_Lead_Women_Final.csv
+SEO Chaehyun,KOR,4,43,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,43,2023-06-30_Villars-sur-Ollon_Lead_Women_Final.csv
+Krampl Mia,SLO,5,40+,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,40+,2023-06-30_Villars-sur-Ollon_Lead_Women_Final.csv
+TANII Natsuki,JPN,6,36,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,36,2023-06-30_Villars-sur-Ollon_Lead_Women_Final.csv
+KIM Jain,KOR,7,22+,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,22+,2023-06-30_Villars-sur-Ollon_Lead_Women_Final.csv
+Pötzi Mattea,AUT,8,17+,IFSC World Cup Villars 2023,1298,2023,Villars-sur-Ollon,Lead,Women,Final,2023-06-30,/api/v1/category_rounds/8263/results,/api/v1/events/1298/result/5,17+,2023-06-30_Villars-sur-Ollon_Lead_Women_Final.csv

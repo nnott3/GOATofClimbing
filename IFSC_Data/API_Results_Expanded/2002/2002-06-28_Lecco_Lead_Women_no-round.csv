@@ -1,43 +1,43 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Sedlmayer Katrin,GER,1,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Cufar Martina,SLO,2,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Sarkany Muriel,BEL,2,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-schöpf Bettina,AUT,4,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Levet Sandrine,FRA,5,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Minoret Chloé,FRA,6,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Pouget Emilie,FRA,7,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Vidmar Maja,SLO,8,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Lavarda Jenny,ITA,9,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Iakovleva Olga,RUS,10,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Kimura Rie,JPN,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Kryvonis Olena,UKR,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Aguirre Leire,ESP,13,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Knorr Damaris,GER,14,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Petrignet Carole,FRA,15,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Vidmar Katja,SLO,15,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Nilsson Ingela,SWE,17,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Bacher Barbara,AUT,18,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Lage Lisa,USA,19,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Theroux Corinne,FRA,20,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Abramchuk Yulia,RUS,21,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Go Mi-Sun,KOR,22,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Benetti Lisa,ITA,23,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Iovane Luisa,ITA,24,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Eyer Alexandra,SUI,25,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Mathieu Claire,FRA,26,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Ostapenko Olena,UKR,27,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Franko Lucka,SLO,28,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Kotasova-Kostruhova Vera,CZE,29,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Stendal Linn Karin,NOR,30,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Nagakai Hoshiko,JPN,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Nagyova Sylvie,CZE,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Raffetseder Gerda,AUT,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Takezawa Hiroe,JPN,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Choumilova Elena,RUS,35,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Liu Hiu Ying,HKG,35,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Zeilemaker Monica,NED,37,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Yun Gyong-Im,KOR,38,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Bergklint Julia,SWE,39,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Choi Shun-Yuk,HKG,40,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Shirawa Ana Luisa,BRA,41,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
-Valentim Vanessa,BRA,42,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Sedlmayer Katrin,GER,1,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Cufar Martina,SLO,2,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Sarkany Muriel,BEL,2,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+schöpf Bettina,AUT,4,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Levet Sandrine,FRA,5,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Minoret Chloé,FRA,6,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Pouget Emilie,FRA,7,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Vidmar Maja,SLO,8,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Lavarda Jenny,ITA,9,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Iakovleva Olga,RUS,10,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Kimura Rie,JPN,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Kryvonis Olena,UKR,11,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Aguirre Leire,ESP,13,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Knorr Damaris,GER,14,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Petrignet Carole,FRA,15,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Vidmar Katja,SLO,15,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Nilsson Ingela,SWE,17,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Bacher Barbara,AUT,18,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Lage Lisa,USA,19,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Theroux Corinne,FRA,20,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Abramchuk Yulia,RUS,21,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Go Mi-Sun,KOR,22,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Benetti Lisa,ITA,23,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Iovane Luisa,ITA,24,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Eyer Alexandra,SUI,25,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Mathieu Claire,FRA,26,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Ostapenko Olena,UKR,27,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Franko Lucka,SLO,28,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Kotasova-Kostruhova Vera,CZE,29,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Stendal Linn Karin,NOR,30,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Nagakai Hoshiko,JPN,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Nagyova Sylvie,CZE,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Raffetseder Gerda,AUT,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Takezawa Hiroe,JPN,31,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Choumilova Elena,RUS,35,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Liu Hiu Ying,HKG,35,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Zeilemaker Monica,NED,37,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Yun Gyong-Im,KOR,38,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Bergklint Julia,SWE,39,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Choi Shun-Yuk,HKG,40,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Shirawa Ana Luisa,BRA,41,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv
+Valentim Vanessa,BRA,42,,UIAA Worldcup - Lecco (ITA) 2002 - difficulty,283,2002,Lecco,Lead,Women,2002-06-28,/api/v1/events/283/result/5,2002-06-28_Lecco_Lead_Women_no-round.csv

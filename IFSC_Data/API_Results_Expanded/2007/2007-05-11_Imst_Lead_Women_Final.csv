@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Eiter Angela,AUT,1,56+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,56+
-Sarkany Muriel,BEL,2,43-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,43-
-Saurwein Katharina,AUT,3,42-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,42-
-Eyer Alexandra,SUI,4,39,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,39
-Lavarda Jenny,ITA,5,26-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,26-
-Levet Sandrine,FRA,6,26-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,26-
-Markovic Mina,SLO,7,23-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,23-
-Durif Charlotte,FRA,8,23-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,23-
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Eiter Angela,AUT,1,56+,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,56+,2007-05-11_Imst_Lead_Women_Final.csv
+Sarkany Muriel,BEL,2,43-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,43-,2007-05-11_Imst_Lead_Women_Final.csv
+Saurwein Katharina,AUT,3,42-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,42-,2007-05-11_Imst_Lead_Women_Final.csv
+Eyer Alexandra,SUI,4,39,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,39,2007-05-11_Imst_Lead_Women_Final.csv
+Lavarda Jenny,ITA,5,26-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,26-,2007-05-11_Imst_Lead_Women_Final.csv
+Levet Sandrine,FRA,6,26-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,26-,2007-05-11_Imst_Lead_Women_Final.csv
+Markovic Mina,SLO,7,23-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,23-,2007-05-11_Imst_Lead_Women_Final.csv
+Durif Charlotte,FRA,8,23-,IFSC Climbing Worldcup (L) - Imst (AUT) 2007,474,2007,Imst,Lead,Women,Final,2007-05-11,/api/v1/category_rounds/625/results,/api/v1/events/474/result/5,23-,2007-05-11_Imst_Lead_Women_Final.csv

@@ -1,17 +1,17 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
-Vaitsekhovskii Evgenii,RUS,1,17.890,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Sinitcyn Sergei,RUS,2,fall,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Kosterin Alexander,RUS,3,18.630,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Lai Chi-Wai,HKG,4,24.450,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Zhong QiXin,CHN,5,20.530,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Chen Xiaojie,CHN,6,20.650,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Ma Hetai,CHN,7,25.070,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Skripov Anatoly,RUS,8,fall,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Ye Xiangyang,CHN,9,25.250,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Chernikov Mikhail,RUS,10,28.640,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Kaurov Ivan,RUS,11,29.230,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Chang Yeu-Shiang,TPE,12,29.800,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Pilpa Reza,IRI,13,32.810,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-PAN JinYu,CHN,14,37.250,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Toozandehjani Hamidreza,IRI,15,fall,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
-Cai LuYuan,CHN,16,fall,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,source_file
+Vaitsekhovskii Evgenii,RUS,1,17.890,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Sinitcyn Sergei,RUS,2,fall,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Kosterin Alexander,RUS,3,18.630,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Lai Chi-Wai,HKG,4,24.450,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Zhong QiXin,CHN,5,20.530,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Chen Xiaojie,CHN,6,20.650,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Ma Hetai,CHN,7,25.070,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Skripov Anatoly,RUS,8,fall,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Ye Xiangyang,CHN,9,25.250,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Chernikov Mikhail,RUS,10,28.640,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Kaurov Ivan,RUS,11,29.230,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Chang Yeu-Shiang,TPE,12,29.800,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Pilpa Reza,IRI,13,32.810,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+PAN JinYu,CHN,14,37.250,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Toozandehjani Hamidreza,IRI,15,fall,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv
+Cai LuYuan,CHN,16,fall,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,480,2007,Qinghai,Speed,Men,Final,2007-08-11,/api/v1/category_rounds/670/results,/api/v1/events/480/result/2,2007-08-11_Qinghai_Speed_Men_Final.csv

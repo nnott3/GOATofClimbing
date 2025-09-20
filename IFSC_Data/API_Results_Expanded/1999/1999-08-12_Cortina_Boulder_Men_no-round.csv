@@ -1,40 +1,40 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Kazbekov Serik,UKR,1,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Meyer Jérôme,FRA,2,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-ANDRADA JIMENEZ Daniel,ESP,3,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Core Christian,ITA,4,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Golob Jurij,SLO,5,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Giudici Lucio,ITA,6,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Julien Stephane,FRA,7,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Petit Arnaud,FRA,8,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Rakhmetov Salavat,RUS,9,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Lamiche Anthony,FRA,10,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-DU LAC Daniel,FRA,11,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Jeandenand Damien,FRA,12,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Chemoulinkine Serguei,RUS,13,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Petit François,FRA,14,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Scully Eric,USA,15,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Scarian Riccardo,ITA,16,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Brenna Cristian,ITA,17,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Chabot Alexandre,FRA,18,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Giupponi Luca,ITA,19,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Lopez David,ESP,20,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Fairfield Timmy,CAN,21,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Cervo Filippo,ITA,22,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Zangerl Bernd,AUT,23,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Zardini Luca,ITA,24,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Danis Jean Luc,FRA,25,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Dutray Mathieu,FRA,26,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Rozman Marko,CRO,27,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Bindhammer Christian,GER,28,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Schiestl Bernhard,AUT,29,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Gusak Igor,UKR,30,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Bloch Elliot,USA,31,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Gadenz Yuri,ITA,32,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Soucek Radovah,CZE,33,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Fioravanti Roberto,ITA,34,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Martinez Oscar,ESP,35,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Cseko Arpad,HUN,36,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Ben Tan,SGP,37,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Morozkine Oleg,RUS,38,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
-Sadovski Eugeni,UKR,39,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Kazbekov Serik,UKR,1,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Meyer Jérôme,FRA,2,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+ANDRADA JIMENEZ Daniel,ESP,3,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Core Christian,ITA,4,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Golob Jurij,SLO,5,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Giudici Lucio,ITA,6,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Julien Stephane,FRA,7,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Petit Arnaud,FRA,8,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Rakhmetov Salavat,RUS,9,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Lamiche Anthony,FRA,10,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+DU LAC Daniel,FRA,11,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Jeandenand Damien,FRA,12,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Chemoulinkine Serguei,RUS,13,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Petit François,FRA,14,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Scully Eric,USA,15,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Scarian Riccardo,ITA,16,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Brenna Cristian,ITA,17,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Chabot Alexandre,FRA,18,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Giupponi Luca,ITA,19,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Lopez David,ESP,20,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Fairfield Timmy,CAN,21,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Cervo Filippo,ITA,22,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Zangerl Bernd,AUT,23,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Zardini Luca,ITA,24,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Danis Jean Luc,FRA,25,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Dutray Mathieu,FRA,26,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Rozman Marko,CRO,27,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Bindhammer Christian,GER,28,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Schiestl Bernhard,AUT,29,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Gusak Igor,UKR,30,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Bloch Elliot,USA,31,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Gadenz Yuri,ITA,32,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Soucek Radovah,CZE,33,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Fioravanti Roberto,ITA,34,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Martinez Oscar,ESP,35,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Cseko Arpad,HUN,36,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Ben Tan,SGP,37,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Morozkine Oleg,RUS,38,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv
+Sadovski Eugeni,UKR,39,,UIAA Worldcup - Cortina (ITA) 1999,204,1999,Cortina,Boulder,Men,1999-08-12,/api/v1/events/204/result/3,1999-08-12_Cortina_Boulder_Men_no-round.csv

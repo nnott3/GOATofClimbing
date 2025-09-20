@@ -1,7 +1,7 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
-Danion Juliette,FRA,1,4t4 4b4,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7
-Graftiaux Chloé,BEL,2,2t2 3b3,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7
-Rajfova Silvie,CZE,3,1t1 3b6,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7
-Chevrier Anne-Laure,FRA,4,1t2 4b12,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7
-Ansade Maud,FRA,5,1t3 3b10,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7
-Hoarau Anne,FRA,6,1t8 3b14,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,source_file
+Danion Juliette,FRA,1,4t4 4b4,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7,2007-05-04_La Reunion_Boulder_Women_Final.csv
+Graftiaux Chloé,BEL,2,2t2 3b3,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7,2007-05-04_La Reunion_Boulder_Women_Final.csv
+Rajfova Silvie,CZE,3,1t1 3b6,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7,2007-05-04_La Reunion_Boulder_Women_Final.csv
+Chevrier Anne-Laure,FRA,4,1t2 4b12,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7,2007-05-04_La Reunion_Boulder_Women_Final.csv
+Ansade Maud,FRA,5,1t3 3b10,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7,2007-05-04_La Reunion_Boulder_Women_Final.csv
+Hoarau Anne,FRA,6,1t8 3b14,IFSC Climbing Worldcup (B) - La Reunion (FRA) 2007,473,2007,La Reunion,Boulder,Women,Final,2007-05-04,/api/v1/category_rounds/619/results,/api/v1/events/473/result/7,2007-05-04_La Reunion_Boulder_Women_Final.csv

@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-McColl Sean,CAN,1,38+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,38+
-Verhoeven Jorg,NED,2,33,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,33
-Ghisolfi Stefano,ITA,3,32,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,32
-Schubert Jakob,AUT,4,30+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,30+
-Desgranges Romain,FRA,5,29,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,29
-Min Hyunbin,KOR,6,26+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,26+
-Lechner Mario,AUT,7,24,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,24
-Romain Manuel,FRA,8,19+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,19+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+McColl Sean,CAN,1,38+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,38+,2012-10-12_Xining_Lead_Men_Final.csv
+Verhoeven Jorg,NED,2,33,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,33,2012-10-12_Xining_Lead_Men_Final.csv
+Ghisolfi Stefano,ITA,3,32,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,32,2012-10-12_Xining_Lead_Men_Final.csv
+Schubert Jakob,AUT,4,30+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,30+,2012-10-12_Xining_Lead_Men_Final.csv
+Desgranges Romain,FRA,5,29,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,29,2012-10-12_Xining_Lead_Men_Final.csv
+Min Hyunbin,KOR,6,26+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,26+,2012-10-12_Xining_Lead_Men_Final.csv
+Lechner Mario,AUT,7,24,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,24,2012-10-12_Xining_Lead_Men_Final.csv
+Romain Manuel,FRA,8,19+,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1,19+,2012-10-12_Xining_Lead_Men_Final.csv

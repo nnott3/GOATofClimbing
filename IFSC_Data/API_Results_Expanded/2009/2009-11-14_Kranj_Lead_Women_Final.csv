@@ -1,10 +1,10 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Markovic Mina,SLO,1,38+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,38+
-Noguchi Akiyo,JPN,2,37,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,37
-Ernst Johanna,AUT,3,35-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,35-
-Kobayashi Yuka,JPN,4,35-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,35-
-Ciavaldini Caroline,FRA,5,35-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,35-
-Kim Jain,KOR,6,33-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,33-
-Durif Charlotte,FRA,7,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,31+
-Vidmar Maja,SLO,8,30,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,30
-Eiter Angela,AUT,9,26-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,26-
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Markovic Mina,SLO,1,38+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,38+,2009-11-14_Kranj_Lead_Women_Final.csv
+Noguchi Akiyo,JPN,2,37,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,37,2009-11-14_Kranj_Lead_Women_Final.csv
+Ernst Johanna,AUT,3,35-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,35-,2009-11-14_Kranj_Lead_Women_Final.csv
+Kobayashi Yuka,JPN,4,35-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,35-,2009-11-14_Kranj_Lead_Women_Final.csv
+Ciavaldini Caroline,FRA,5,35-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,35-,2009-11-14_Kranj_Lead_Women_Final.csv
+Kim Jain,KOR,6,33-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,33-,2009-11-14_Kranj_Lead_Women_Final.csv
+Durif Charlotte,FRA,7,31+,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,31+,2009-11-14_Kranj_Lead_Women_Final.csv
+Vidmar Maja,SLO,8,30,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,30,2009-11-14_Kranj_Lead_Women_Final.csv
+Eiter Angela,AUT,9,26-,IFSC Climbing Worldcup (L) - Kranj (SLO) 2009,575,2009,Kranj,Lead,Women,Final,2009-11-14,/api/v1/category_rounds/1217/results,/api/v1/events/575/result/5,26-,2009-11-14_Kranj_Lead_Women_Final.csv

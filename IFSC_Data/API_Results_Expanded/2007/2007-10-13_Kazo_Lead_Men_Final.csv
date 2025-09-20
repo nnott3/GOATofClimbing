@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Mrázek Tomás,CZE,1,53,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,53
-Julian  Puigblanque Ramón ,ESP,2,40,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,40
-Usobiaga Lakunza Patxi,ESP,2,40,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,40
-Lama David,AUT,4,39,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,39
-Amma Sachi,JPN,5,39,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,39
-Millet Sylvain,FRA,6,38+,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,38+
-Crespi Flavio,ITA,7,38,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,38
-Son Sangwon,KOR,7,38,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,38
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Mrázek Tomás,CZE,1,53,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,53,2007-10-13_Kazo_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,2,40,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,40,2007-10-13_Kazo_Lead_Men_Final.csv
+Usobiaga Lakunza Patxi,ESP,2,40,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,40,2007-10-13_Kazo_Lead_Men_Final.csv
+Lama David,AUT,4,39,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,39,2007-10-13_Kazo_Lead_Men_Final.csv
+Amma Sachi,JPN,5,39,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,39,2007-10-13_Kazo_Lead_Men_Final.csv
+Millet Sylvain,FRA,6,38+,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,38+,2007-10-13_Kazo_Lead_Men_Final.csv
+Crespi Flavio,ITA,7,38,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,38,2007-10-13_Kazo_Lead_Men_Final.csv
+Son Sangwon,KOR,7,38,IFSC Climbing Worldcup (L) - Kazo (JPN) 2007,483,2007,Kazo,Lead,Men,Final,2007-10-13,/api/v1/category_rounds/699/results,/api/v1/events/483/result/1,38,2007-10-13_Kazo_Lead_Men_Final.csv

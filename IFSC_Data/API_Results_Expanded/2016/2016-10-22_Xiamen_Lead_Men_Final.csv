@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Ghisolfi Stefano,ITA,1,39,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,39
-Fakirianov Dmitrii,RUS,2,37+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,37+
-Schubert Jakob,AUT,3,37+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,37+
-Supper Gautier,FRA,4,33+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,33+
-Desgranges Romain,FRA,5,32+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,32+
-Joannes Thomas,FRA,6,32,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,32
-Higuchi Masahiro,JPN,7,25+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,25+
-KIM Hanwool,KOR,8,11+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,11+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Ghisolfi Stefano,ITA,1,39,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,39,2016-10-22_Xiamen_Lead_Men_Final.csv
+Fakirianov Dmitrii,RUS,2,37+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,37+,2016-10-22_Xiamen_Lead_Men_Final.csv
+Schubert Jakob,AUT,3,37+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,37+,2016-10-22_Xiamen_Lead_Men_Final.csv
+Supper Gautier,FRA,4,33+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,33+,2016-10-22_Xiamen_Lead_Men_Final.csv
+Desgranges Romain,FRA,5,32+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,32+,2016-10-22_Xiamen_Lead_Men_Final.csv
+Joannes Thomas,FRA,6,32,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,32,2016-10-22_Xiamen_Lead_Men_Final.csv
+Higuchi Masahiro,JPN,7,25+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,25+,2016-10-22_Xiamen_Lead_Men_Final.csv
+KIM Hanwool,KOR,8,11+,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",1163,2016,Xiamen,Lead,Men,Final,2016-10-22,/api/v1/category_rounds/5995/results,/api/v1/events/1163/result/1,11+,2016-10-22_Xiamen_Lead_Men_Final.csv

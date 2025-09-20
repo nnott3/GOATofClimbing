@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Ondra Adam,CZE,1,45+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,45+
-Julian  Puigblanque Ramón ,ESP,2,45,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,45
-Amma Sachi,JPN,3,42+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,42+
-Skofic Domen,SLO,4,42+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,42+
-Schubert Jakob,AUT,5,40+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,40+
-McColl Sean,CAN,6,40+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,40+
-Desgranges Romain,FRA,7,29,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,29
-Supper Gautier,FRA,8,24+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,24+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Ondra Adam,CZE,1,45+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,45+,2014-09-08_Gijon_Lead_Men_Final.csv
+Julian  Puigblanque Ramón ,ESP,2,45,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,45,2014-09-08_Gijon_Lead_Men_Final.csv
+Amma Sachi,JPN,3,42+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,42+,2014-09-08_Gijon_Lead_Men_Final.csv
+Skofic Domen,SLO,4,42+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,42+,2014-09-08_Gijon_Lead_Men_Final.csv
+Schubert Jakob,AUT,5,40+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,40+,2014-09-08_Gijon_Lead_Men_Final.csv
+McColl Sean,CAN,6,40+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,40+,2014-09-08_Gijon_Lead_Men_Final.csv
+Desgranges Romain,FRA,7,29,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,29,2014-09-08_Gijon_Lead_Men_Final.csv
+Supper Gautier,FRA,8,24+,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",862,2014,Gijon,Lead,Men,Final,2014-09-08,/api/v1/category_rounds/3087/results,/api/v1/events/862/result/1,24+,2014-09-08_Gijon_Lead_Men_Final.csv

@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Julian  Puigblanque Ramón ,ESP,1,Top,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,Top
-Schubert Jakob,AUT,2,50-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,50-
-Ondra Adam,CZE,3,50-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,50-
-Midtboe Magnus,NOR,4,45-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,45-
-Romain Manuel,FRA,5,41-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,41-
-Min Hyunbin,KOR,6,39-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,39-
-Ovchinnikov Evgeny,RUS,7,25-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,25-
-Zazulin Evgenii,RUS,8,23-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,23-
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Julian  Puigblanque Ramón ,ESP,1,Top,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,Top,2011-07-15_Arco_Lead_Men_Final.csv
+Schubert Jakob,AUT,2,50-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,50-,2011-07-15_Arco_Lead_Men_Final.csv
+Ondra Adam,CZE,3,50-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,50-,2011-07-15_Arco_Lead_Men_Final.csv
+Midtboe Magnus,NOR,4,45-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,45-,2011-07-15_Arco_Lead_Men_Final.csv
+Romain Manuel,FRA,5,41-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,41-,2011-07-15_Arco_Lead_Men_Final.csv
+Min Hyunbin,KOR,6,39-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,39-,2011-07-15_Arco_Lead_Men_Final.csv
+Ovchinnikov Evgeny,RUS,7,25-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,25-,2011-07-15_Arco_Lead_Men_Final.csv
+Zazulin Evgenii,RUS,8,23-,IFSC Climbing World Championships  - Arco (ITA) 2011,675,2011,Arco,Lead,Men,Final,2011-07-15,/api/v1/category_rounds/1705/results,/api/v1/events/675/result/1,23-,2011-07-15_Arco_Lead_Men_Final.csv

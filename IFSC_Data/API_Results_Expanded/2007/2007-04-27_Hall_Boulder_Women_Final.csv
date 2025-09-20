@@ -1,7 +1,7 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
-Shalagina Olga,UKR,1,3t4 3b3,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7
-Gros Natalija,SLO,2,3t4 3b3,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7
-Eyer Alexandra,SUI,3,3t6 4b8,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7
-Noguchi Akiyo,JPN,4,3t15 3b14,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7
-Abramchuk Yulia,RUS,5,2t3 3b4,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7
-Berry Samantha,AUS,6,2t11 3b8,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,source_file
+Shalagina Olga,UKR,1,3t4 3b3,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7,2007-04-27_Hall_Boulder_Women_Final.csv
+Gros Natalija,SLO,2,3t4 3b3,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7,2007-04-27_Hall_Boulder_Women_Final.csv
+Eyer Alexandra,SUI,3,3t6 4b8,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7,2007-04-27_Hall_Boulder_Women_Final.csv
+Noguchi Akiyo,JPN,4,3t15 3b14,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7,2007-04-27_Hall_Boulder_Women_Final.csv
+Abramchuk Yulia,RUS,5,2t3 3b4,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7,2007-04-27_Hall_Boulder_Women_Final.csv
+Berry Samantha,AUS,6,2t11 3b8,IFSC Climbing Worldcup (B) - Hall (AUT) 2007,471,2007,Hall,Boulder,Women,Final,2007-04-27,/api/v1/category_rounds/609/results,/api/v1/events/471/result/7,2007-04-27_Hall_Boulder_Women_Final.csv

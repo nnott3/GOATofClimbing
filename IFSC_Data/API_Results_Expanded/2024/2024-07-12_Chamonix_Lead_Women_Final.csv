@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+MORI Ai,JPN,1,TOP,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Final,2024-07-12,/api/v1/category_rounds/9144/results,/api/v1/events/1357/result/5,TOP,2024-07-12_Chamonix_Lead_Women_Final.csv
+PILZ Jessica,AUT,2,TOP,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Final,2024-07-12,/api/v1/category_rounds/9144/results,/api/v1/events/1357/result/5,TOP,2024-07-12_Chamonix_Lead_Women_Final.csv
+KOTAKE Mei,JPN,3,44+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Final,2024-07-12,/api/v1/category_rounds/9144/results,/api/v1/events/1357/result/5,44+,2024-07-12_Chamonix_Lead_Women_Final.csv
+AVEZOU Zélia,FRA,4,44+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Final,2024-07-12,/api/v1/category_rounds/9144/results,/api/v1/events/1357/result/5,44+,2024-07-12_Chamonix_Lead_Women_Final.csv
+OBLASSER Flora,AUT,5,42+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Final,2024-07-12,/api/v1/category_rounds/9144/results,/api/v1/events/1357/result/5,42+,2024-07-12_Chamonix_Lead_Women_Final.csv
+PÖTZI Mattea,AUT,6,42+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Final,2024-07-12,/api/v1/category_rounds/9144/results,/api/v1/events/1357/result/5,42+,2024-07-12_Chamonix_Lead_Women_Final.csv
+Sanders Anastasia,USA,7,41+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Final,2024-07-12,/api/v1/category_rounds/9144/results,/api/v1/events/1357/result/5,41+,2024-07-12_Chamonix_Lead_Women_Final.csv
+KRAMPL Mia,SLO,8,41+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Final,2024-07-12,/api/v1/category_rounds/9144/results,/api/v1/events/1357/result/5,41+,2024-07-12_Chamonix_Lead_Women_Final.csv

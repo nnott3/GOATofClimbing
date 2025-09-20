@@ -1,31 +1,31 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Eiter Angela,AUT,1,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Vidmar Maja,SLO,2,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Ciavaldini Caroline,FRA,3,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Levet Sandrine,FRA,4,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Kim Jain,KOR,5,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Gros Natalija,SLO,6,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Markovic Mina,SLO,7,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Bacher Barbara,AUT,8,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Franko Lucka,SLO,9,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Noguchi Akiyo,JPN,9,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Kobayashi Yuka,JPN,11,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Durif Charlotte,FRA,12,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Raffetseder Gerda,AUT,13,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Labanu Ilmawaty,INA,14,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Li Chunhua,CHN,15,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Liu Hiu Ying,HKG,16,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Forestier Monique,AUS,17,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Ariesandhi Triana,INA,18,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Shin Woon-Seon,KOR,19,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-"Tan Li Ying, Suzanna",SGP,20,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Wilda Baco Achmad,INA,21,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-"Chong Leong Hong, Beatrix",SGP,22,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Robles Kristine Marie,PHI,23,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Goh Tan Leng,SGP,24,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Siti Robiah Adawiyan,INA,25,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Mohd Drus Salfarina,MAS,26,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Uji Ayu Sukmandiri,INA,27,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Shen Nee Ooi,MAS,28,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Lum Yuet Mei,MAS,29,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
-Xiang Lin Soh,SGP,30,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Eiter Angela,AUT,1,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Vidmar Maja,SLO,2,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Ciavaldini Caroline,FRA,3,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Levet Sandrine,FRA,4,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Kim Jain,KOR,5,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Gros Natalija,SLO,6,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Markovic Mina,SLO,7,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Bacher Barbara,AUT,8,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Franko Lucka,SLO,9,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Noguchi Akiyo,JPN,9,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Kobayashi Yuka,JPN,11,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Durif Charlotte,FRA,12,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Raffetseder Gerda,AUT,13,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Labanu Ilmawaty,INA,14,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Li Chunhua,CHN,15,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Liu Hiu Ying,HKG,16,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Forestier Monique,AUS,17,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Ariesandhi Triana,INA,18,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Shin Woon-Seon,KOR,19,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+"Tan Li Ying, Suzanna",SGP,20,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Wilda Baco Achmad,INA,21,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+"Chong Leong Hong, Beatrix",SGP,22,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Robles Kristine Marie,PHI,23,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Goh Tan Leng,SGP,24,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Siti Robiah Adawiyan,INA,25,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Mohd Drus Salfarina,MAS,26,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Uji Ayu Sukmandiri,INA,27,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Shen Nee Ooi,MAS,28,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Lum Yuet Mei,MAS,29,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv
+Xiang Lin Soh,SGP,30,,UIAA Climbing Worldcup (L+S) - Singapore (SIN) 2006,436,2006,Singapore,Lead,Women,2006-08-05,/api/v1/events/436/result/5,2006-08-05_Singapore_Lead_Women_no-round.csv

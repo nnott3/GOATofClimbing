@@ -53,10 +53,9 @@ def render():
         df['round_rank'] = pd.to_numeric(df['round_rank'], errors='coerce')
     
     # Create tabs for different analyses
-    tab1, tab2, tab3, tab4 = st.tabs([
+    tab1, tab2, tab3 = st.tabs([
         "Individual Analysis",
         "Head-to-Head", 
-        "Career Progression",
         "Location Performance"
     ])
     
@@ -67,9 +66,6 @@ def render():
         render_head_to_head(df, elo_df)
     
     with tab3:
-        render_career_progression(df, elo_df)
-    
-    with tab4:
         render_location_performance(df)
 
 def render_individual_analysis(df, elo_df):
@@ -93,21 +89,16 @@ def render_individual_analysis(df, elo_df):
         return
     
     # Basic athlete info
-    col1, col2, col3, col4 = st.columns(4)
-    
+    col0, col1, col2, col3, col4, col5 = st.columns(6)
+    with col0:
+        st.metric("Current ELO", 
+                  f"{elo_df[elo_df['name'] == selected_athlete]['elo_after'].iloc[-1]:.0f}" if elo_df is not None and not elo_df[elo_df['name'] == selected_athlete].empty else "N/A")
+
     with col1:
         total_comps = len(athlete_df)
         st.metric("Total Competitions", total_comps)
-    
+  
     with col2:
-        disciplines = athlete_df['discipline'].nunique()
-        st.metric("Disciplines", disciplines)
-    
-    with col3:
-        countries = athlete_df['country'].nunique() if 'country' in athlete_df.columns else 1
-        st.metric("Countries Competed", countries)
-    
-    with col4:
         years_active = athlete_df['year'].max() - athlete_df['year'].min() + 1
         st.metric("Years Active", years_active)
     
@@ -116,17 +107,16 @@ def render_individual_analysis(df, elo_df):
         rank_data = athlete_df.dropna(subset=['round_rank'])
         
         if not rank_data.empty:
-            col_perf1, col_perf2, col_perf3 = st.columns(3)
-            
-            with col_perf1:
+           
+            with col3:
                 avg_rank = rank_data['round_rank'].mean()
                 st.metric("Average Rank", f"{avg_rank:.1f}")
             
-            with col_perf2:
+            with col4:
                 podiums = (rank_data['round_rank'] <= 3).sum()
                 st.metric("Podium Finishes", podiums)
             
-            with col_perf3:
+            with col5:
                 wins = (rank_data['round_rank'] == 1).sum()
                 st.metric("Wins", wins)
     
@@ -190,9 +180,9 @@ def render_head_to_head(df, elo_df):
     """Render head-to-head athlete comparison."""
     
     st.subheader("Head-to-Head Comparison")
-    
-    athletes = sorted(df['name'].unique())
-    
+
+    athletes = sorted([name.title() for name in df['name'].unique()])
+
     col1, col2 = st.columns(2)
     with col1:
         default_athlete1 = "Ondra Adam" if "Ondra Adam" in athletes else athletes[0]
@@ -274,89 +264,6 @@ def render_head_to_head(df, elo_df):
         else:
             st.info("These athletes haven't competed in the same events")
 
-def render_career_progression(df, elo_df):
-    """Render career progression analysis."""
-    
-    st.subheader("Career Progression Analysis")
-    
-    # Select athlete
-    athletes = sorted(df['name'].unique())
-    default_athlete1 = "Ondra Adam" if "Ondra Adam" in athletes else athletes[0]
-    selected_athlete = st.selectbox("Select Athlete for Career Analysis", athletes, index=athletes.index(default_athlete1) if default_athlete1 in athletes else 0, key="career_athlete")
-    
-    if not selected_athlete:
-        return
-    
-    athlete_df = df[df['name'] == selected_athlete].copy()
-    
-    if athlete_df.empty:
-        st.warning(f"No data found for {selected_athlete}")
-        return
-    
-    # Career phases analysis
-    if 'round_rank' in athlete_df.columns and 'year' in athlete_df.columns:
-        rank_data = athlete_df.dropna(subset=['round_rank', 'year']).copy()
-        
-        if not rank_data.empty:
-            # Calculate rolling averages
-            yearly_performance = rank_data.groupby('year').agg({
-                'round_rank': ['mean', 'count', 'min'],
-                'name': 'count'
-            }).round(2)
-            
-            yearly_performance.columns = ['avg_rank', 'competitions', 'best_rank', 'total_entries']
-            yearly_performance = yearly_performance.reset_index()
-            
-            # Career progression chart
-            fig_career = go.Figure()
-            
-            fig_career.add_trace(go.Scatter(
-                x=yearly_performance['year'],
-                y=yearly_performance['avg_rank'],
-                mode='lines+markers',
-                name='Average Rank',
-                line=dict(width=3)
-            ))
-            
-            fig_career.add_trace(go.Scatter(
-                x=yearly_performance['year'],
-                y=yearly_performance['best_rank'],
-                mode='markers',
-                name='Best Rank',
-                marker=dict(size=8, symbol='star')
-            ))
-            
-            fig_career.update_layout(
-                title=f"{selected_athlete} - Career Progression",
-                xaxis_title="Year",
-                yaxis_title="Rank (Lower is Better)",
-                yaxis=dict(autorange="reversed"),
-                height=500
-            )
-            
-            st.plotly_chart(fig_career, width='stretch')
-            
-            # Peak performance identification
-            st.subheader("Peak Performance Analysis")
-            
-            best_year = yearly_performance.loc[yearly_performance['avg_rank'].idxmin()]
-            most_active_year = yearly_performance.loc[yearly_performance['competitions'].idxmax()]
-            
-            col1, col2 = st.columns(2)
-            
-            with col1:
-                st.write("**Best Performance Year**")
-                st.write(f"Year: {int(best_year['year'])}")
-                st.write(f"Average Rank: {best_year['avg_rank']:.1f}")
-                st.write(f"Competitions: {int(best_year['competitions'])}")
-            
-            with col2:
-                st.write("**Most Active Year**")
-                st.write(f"Year: {int(most_active_year['year'])}")
-                st.write(f"Competitions: {int(most_active_year['competitions'])}")
-                st.write(f"Average Rank: {most_active_year['avg_rank']:.1f}")
-
-
 def render_location_performance(df):
     """Render location-based performance analysis."""
     
@@ -373,7 +280,7 @@ def render_location_performance(df):
         return
     
     # Athlete selection
-    athletes = sorted(location_df['name'].unique())
+    athletes = sorted([name.titile() for name in location_df['name'].unique()])
     default_athlete = "Ondra Adam" if "Ondra Adam" in athletes else athletes[0]
     selected_athlete = st.selectbox("Select Athlete for Location Analysis", athletes, index=athletes.index(default_athlete) if default_athlete in athletes else 0,  key="location_athlete")
     

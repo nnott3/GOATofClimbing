@@ -1,7 +1,7 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
-Gros Natalija,SLO,1,2t2 4b5,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7
-Noguchi Akiyo,JPN,2,2t5 4b5,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7
-Saurwein Katharina,AUT,3,2t8 4b9,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7
-Danion Juliette,FRA,4,1t1 4b9,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7
-Rajfova Silvie,CZE,5,1t2 4b10,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7
-Shalagina Olga,UKR,6,1t3 4b7,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,source_file
+Gros Natalija,SLO,1,2t2 4b5,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7,2007-06-08_Grindelwald_Boulder_Women_Final.csv
+Noguchi Akiyo,JPN,2,2t5 4b5,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7,2007-06-08_Grindelwald_Boulder_Women_Final.csv
+Saurwein Katharina,AUT,3,2t8 4b9,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7,2007-06-08_Grindelwald_Boulder_Women_Final.csv
+Danion Juliette,FRA,4,1t1 4b9,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7,2007-06-08_Grindelwald_Boulder_Women_Final.csv
+Rajfova Silvie,CZE,5,1t2 4b10,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7,2007-06-08_Grindelwald_Boulder_Women_Final.csv
+Shalagina Olga,UKR,6,1t3 4b7,IFSC Climbing Worldcup (B) - Grindelwald (SUI) 2007,475,2007,Grindelwald,Boulder,Women,Final,2007-06-08,/api/v1/category_rounds/631/results,/api/v1/events/475/result/7,2007-06-08_Grindelwald_Boulder_Women_Final.csv

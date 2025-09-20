@@ -1,32 +1,32 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Sarkany Muriel,BEL,1,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Levet Sandrine,FRA,2,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Cufar Martina,SLO,3,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Eyer Alexandra,SUI,4,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Knorr Damaris,GER,4,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Lavarda Jenny,ITA,4,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-schöpf Bettina,AUT,4,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Pouget Emilie,FRA,8,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Ciavaldini Caroline,FRA,9,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Bacher Barbara,AUT,10,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Kysilkova Tereza,CZE,11,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Minoret Chloé,FRA,12,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-CRUZ MONTALBAN Esther,ESP,13,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Vidmar Katja,SLO,14,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Ruh Nadine,GER,15,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Martin Delphine,FRA,16,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Martin Sancho Berta,ESP,16,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Mathieu Laure,FRA,16,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Hnizdilova Sona,CZE,19,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Muñoz Eva Elez,ESP,20,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Nilsson Ingela,SWE,21,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Lopez Rivera Eva,ESP,22,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Knabl Sabine,AUT,23,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Raveyre Emmanuelle,FRA,24,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Aguirre Leire,ESP,25,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Raffetseder Gerda,AUT,26,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Sakakibara Yuko,JPN,27,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Hernandez Raquel,ESP,28,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Zeilemaker Monica,NED,28,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Rodriguez Francis,VEN,30,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
-Huang Bai-Le,TPE,31,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Sarkany Muriel,BEL,1,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Levet Sandrine,FRA,2,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Cufar Martina,SLO,3,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Eyer Alexandra,SUI,4,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Knorr Damaris,GER,4,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Lavarda Jenny,ITA,4,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+schöpf Bettina,AUT,4,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Pouget Emilie,FRA,8,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Ciavaldini Caroline,FRA,9,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Bacher Barbara,AUT,10,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Kysilkova Tereza,CZE,11,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Minoret Chloé,FRA,12,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+CRUZ MONTALBAN Esther,ESP,13,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Vidmar Katja,SLO,14,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Ruh Nadine,GER,15,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Martin Delphine,FRA,16,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Martin Sancho Berta,ESP,16,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Mathieu Laure,FRA,16,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Hnizdilova Sona,CZE,19,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Muñoz Eva Elez,ESP,20,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Nilsson Ingela,SWE,21,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Lopez Rivera Eva,ESP,22,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Knabl Sabine,AUT,23,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Raveyre Emmanuelle,FRA,24,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Aguirre Leire,ESP,25,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Raffetseder Gerda,AUT,26,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Sakakibara Yuko,JPN,27,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Hernandez Raquel,ESP,28,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Zeilemaker Monica,NED,28,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Rodriguez Francis,VEN,30,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv
+Huang Bai-Le,TPE,31,,UIAA Worldcup - Aviles (ESP) 2003,318,2003,Aviles,Lead,Women,2003-08-21,/api/v1/events/318/result/5,2003-08-21_Aviles_Lead_Women_no-round.csv

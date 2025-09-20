@@ -1,62 +1,62 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Crespi Flavio,ITA,1,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Julian  Puigblanque Ramón ,ESP,2,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Usobiaga Lakunza Patxi,ESP,3,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Lachat Cédric,SUI,4,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Chabot Alexandre,FRA,5,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Fischhuber Kilian,AUT,6,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Millet Sylvain,FRA,7,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Mrázek Tomás,CZE,8,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Zardini Luca,ITA,9,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Pouvreau Gérome,FRA,10,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Petrenko Maksym,UKR,11,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Bindhammer Christian,GER,12,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Sapey Anthony,SUI,13,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Hoppe Markus,GER,14,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Midtboe Magnus,NOR,15,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Dugit Fabien,FRA,16,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Valjavec Tomaz,SLO,17,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Repcik Juraj,SVK,18,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Krastev Ivaylo,BUL,19,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Verhoeven Jorg,NED,20,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Fichtinger Reinhard,AUT,21,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Droetto Fabrizio,ITA,22,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Fuselier Michaël,FRA,22,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Bindhammer Andreas,GER,24,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Wszolek Marcin,POL,25,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Desgranges Romain,FRA,26,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Marin Garcia Eduard,ESP,27,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Becan Klemen,SLO,28,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Dugit Stephane,FRA,29,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Caude David,FRA,30,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Lo Piccolo Cédric,FRA,30,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Oleksy Tomasz,POL,30,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Preußler Timo,GER,30,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Sova Matej,SLO,34,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Pfanner Andreas,AUT,35,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Bosma Peter,SWE,36,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-De Girolamo Vincent,FRA,36,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Manzanedo César Ciudad,ESP,38,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Titov Vyacheslav,UKR,39,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Kuess Mario,AUT,40,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Leitman Marek,SVK,40,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Malina Václav,CZE,40,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Neyer Thomas,AUT,40,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Svub Ondrej,SVK,40,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Winkler Daniel,SUI,45,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Gambaro Matteo,ITA,46,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Jung Daniel,GER,47,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Amann Mark,AUT,48,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Wagner Roland,AUT,48,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Hemund Kevin,SUI,50,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Jaggi Martin,SUI,50,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Reis Jürgen,AUT,50,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Hiramatsu Kosuke,JPN,53,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Schmid Thomas,SUI,53,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Tsuiki Takaaki,JPN,55,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Unterrainer Günther,AUT,55,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Breitenlechner Maximilian,AUT,57,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Buchauer Konrad,AUT,58,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Gouveia Anderson,BRA,59,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Thorbjoernsen Kristoffer Kvamme,NOR,60,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
-Gartmann Tobias,GER,61,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Crespi Flavio,ITA,1,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,2,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,3,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Lachat Cédric,SUI,4,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Chabot Alexandre,FRA,5,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Fischhuber Kilian,AUT,6,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Millet Sylvain,FRA,7,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Mrázek Tomás,CZE,8,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Zardini Luca,ITA,9,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Pouvreau Gérome,FRA,10,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Petrenko Maksym,UKR,11,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Bindhammer Christian,GER,12,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Sapey Anthony,SUI,13,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Hoppe Markus,GER,14,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Midtboe Magnus,NOR,15,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Dugit Fabien,FRA,16,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Valjavec Tomaz,SLO,17,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Repcik Juraj,SVK,18,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Krastev Ivaylo,BUL,19,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,20,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Fichtinger Reinhard,AUT,21,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Droetto Fabrizio,ITA,22,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Fuselier Michaël,FRA,22,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,24,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Wszolek Marcin,POL,25,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Desgranges Romain,FRA,26,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Marin Garcia Eduard,ESP,27,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Becan Klemen,SLO,28,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Dugit Stephane,FRA,29,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Caude David,FRA,30,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Lo Piccolo Cédric,FRA,30,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Oleksy Tomasz,POL,30,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Preußler Timo,GER,30,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Sova Matej,SLO,34,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Pfanner Andreas,AUT,35,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Bosma Peter,SWE,36,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+De Girolamo Vincent,FRA,36,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Manzanedo César Ciudad,ESP,38,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Titov Vyacheslav,UKR,39,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Kuess Mario,AUT,40,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Leitman Marek,SVK,40,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Malina Václav,CZE,40,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Neyer Thomas,AUT,40,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Svub Ondrej,SVK,40,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Winkler Daniel,SUI,45,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Gambaro Matteo,ITA,46,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Jung Daniel,GER,47,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Amann Mark,AUT,48,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Wagner Roland,AUT,48,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Hemund Kevin,SUI,50,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Jaggi Martin,SUI,50,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Reis Jürgen,AUT,50,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Hiramatsu Kosuke,JPN,53,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Schmid Thomas,SUI,53,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Tsuiki Takaaki,JPN,55,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Unterrainer Günther,AUT,55,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Breitenlechner Maximilian,AUT,57,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Buchauer Konrad,AUT,58,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Gouveia Anderson,BRA,59,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Thorbjoernsen Kristoffer Kvamme,NOR,60,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv
+Gartmann Tobias,GER,61,,UIAA Worldcup (L) - Imst (AUT) 2005,393,2005,Imst,Lead,Men,2005-05-26,/api/v1/events/393/result/1,2005-05-26_Imst_Lead_Men_no-round.csv

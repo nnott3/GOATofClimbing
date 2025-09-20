@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Supper Gautier,FRA,1,43+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,43+
-Ondra Adam,CZE,2,40+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,40+
-Desgranges Romain,FRA,3,39+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,39+
-Schubert Jakob,AUT,4,36+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,36+
-Ghisolfi Stefano,ITA,5,35+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,35+
-Vettorata Francesco,ITA,6,34+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,34+
-Skofic Domen,SLO,7,29+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,29+
-Halenke Sebastian,GER,8,23,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,23
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Supper Gautier,FRA,1,43+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,43+,2015-08-21_Stavanger_Lead_Men_Final.csv
+Ondra Adam,CZE,2,40+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,40+,2015-08-21_Stavanger_Lead_Men_Final.csv
+Desgranges Romain,FRA,3,39+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,39+,2015-08-21_Stavanger_Lead_Men_Final.csv
+Schubert Jakob,AUT,4,36+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,36+,2015-08-21_Stavanger_Lead_Men_Final.csv
+Ghisolfi Stefano,ITA,5,35+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,35+,2015-08-21_Stavanger_Lead_Men_Final.csv
+Vettorata Francesco,ITA,6,34+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,34+,2015-08-21_Stavanger_Lead_Men_Final.csv
+Skofic Domen,SLO,7,29+,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,29+,2015-08-21_Stavanger_Lead_Men_Final.csv
+Halenke Sebastian,GER,8,23,IFSC Climbing Worldcup (L) - Stavanger (NOR) 2015,906,2015,Stavanger,Lead,Men,Final,2015-08-21,/api/v1/category_rounds/3479/results,/api/v1/events/906/result/1,23,2015-08-21_Stavanger_Lead_Men_Final.csv

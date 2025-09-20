@@ -1,23 +1,23 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Mrázek Tomás,CZE,1,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Usobiaga Lakunza Patxi,ESP,2,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Marin Garcia Eduard,ESP,3,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Julian  Puigblanque Ramón ,ESP,4,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Verhoeven Jorg,NED,4,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Lama David,AUT,6,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Hirayama Yuji,JPN,7,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Crespi Flavio,ITA,8,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Preußler Timo,GER,9,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Millet Sylvain,FRA,10,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Midtboe Magnus,NOR,11,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Mogaki Keita,JPN,12,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Hori Tsukuru,JPN,13,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Kaurov Ivan,RUS,13,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Cao Rongwu,CHN,15,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Desgranges Romain,FRA,15,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Becan Klemen,SLO,17,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Chu Ka-Wai,HKG,17,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Liu Changzhong,CHN,17,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Ye Xiangyang,CHN,20,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Cai LuYuan,CHN,21,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
-Lu Xiaolong,CHN,22,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Mrázek Tomás,CZE,1,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,2,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Marin Garcia Eduard,ESP,3,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,4,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,4,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Lama David,AUT,6,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Hirayama Yuji,JPN,7,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Crespi Flavio,ITA,8,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Preußler Timo,GER,9,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Millet Sylvain,FRA,10,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Midtboe Magnus,NOR,11,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Mogaki Keita,JPN,12,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Hori Tsukuru,JPN,13,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Kaurov Ivan,RUS,13,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Cao Rongwu,CHN,15,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Desgranges Romain,FRA,15,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Becan Klemen,SLO,17,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Chu Ka-Wai,HKG,17,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Liu Changzhong,CHN,17,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Ye Xiangyang,CHN,20,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Cai LuYuan,CHN,21,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv
+Lu Xiaolong,CHN,22,,UIAA Climbing Worldcup (L+S) - Shanghai (CHN) 2006,439,2006,Shanghai,Lead,Men,2006-10-02,/api/v1/events/439/result/1,2006-10-02_Shanghai_Lead_Men_no-round.csv

@@ -1,47 +1,47 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Lachat Cédric,SUI,1,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Preußler Timo,GER,2,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Crespi Flavio,ITA,3,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Verhoeven Jorg,NED,4,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Bindhammer Christian,GER,5,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Caude David,FRA,6,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Millet Sylvain,FRA,7,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Zardini Luca,ITA,8,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Dugit Fabien,FRA,9,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Julian  Puigblanque Ramón ,ESP,10,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Chabot Alexandre,FRA,11,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Ito Hidekazu,JPN,12,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Valjavec Tomaz,SLO,13,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Sommer Remo,SUI,14,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Sova Matej,SLO,15,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Krastev Ivaylo,BUL,16,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Munoz Dmitri,FRA,17,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Dugit Stephane,FRA,18,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Desgranges Romain,FRA,19,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Manzanedo César Ciudad,ESP,20,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Magin Philipp,GER,21,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Pringle Ethan,USA,21,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Winkler Daniel,SUI,23,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Sapey Anthony,SUI,24,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Legrand Yannick,FRA,25,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Becan Klemen,SLO,26,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Droetto Fabrizio,ITA,27,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Gnerro Alberto,ITA,28,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Videnovski Milen,BUL,29,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Berezoski André,BRA,30,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Amann Mark,AUT,31,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Giupponi Luca,ITA,31,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Gambaro Matteo,ITA,33,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Schmid Thomas,SUI,33,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Baumann Jonas,GER,35,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Jaggi Martin,SUI,35,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Malina Václav,CZE,37,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Usobiaga Lakunza Patxi,ESP,37,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Aranaz Igor,ESP,39,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Hemund Kevin,SUI,39,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Perez Luis Felix,ESP,39,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Pfanner Andreas,AUT,39,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Bindhammer Andreas,GER,43,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Gouveia Anderson,BRA,43,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Grosso Cesar,BRA,43,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
-Reis Jürgen,AUT,46,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Lachat Cédric,SUI,1,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Preußler Timo,GER,2,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Crespi Flavio,ITA,3,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Verhoeven Jorg,NED,4,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Bindhammer Christian,GER,5,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Caude David,FRA,6,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Millet Sylvain,FRA,7,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Zardini Luca,ITA,8,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Dugit Fabien,FRA,9,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Julian  Puigblanque Ramón ,ESP,10,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Chabot Alexandre,FRA,11,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Ito Hidekazu,JPN,12,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Valjavec Tomaz,SLO,13,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Sommer Remo,SUI,14,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Sova Matej,SLO,15,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Krastev Ivaylo,BUL,16,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Munoz Dmitri,FRA,17,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Dugit Stephane,FRA,18,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Desgranges Romain,FRA,19,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Manzanedo César Ciudad,ESP,20,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Magin Philipp,GER,21,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Pringle Ethan,USA,21,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Winkler Daniel,SUI,23,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Sapey Anthony,SUI,24,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Legrand Yannick,FRA,25,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Becan Klemen,SLO,26,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Droetto Fabrizio,ITA,27,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Gnerro Alberto,ITA,28,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Videnovski Milen,BUL,29,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Berezoski André,BRA,30,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Amann Mark,AUT,31,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Giupponi Luca,ITA,31,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Gambaro Matteo,ITA,33,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Schmid Thomas,SUI,33,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Baumann Jonas,GER,35,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Jaggi Martin,SUI,35,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Malina Václav,CZE,37,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Usobiaga Lakunza Patxi,ESP,37,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Aranaz Igor,ESP,39,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Hemund Kevin,SUI,39,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Perez Luis Felix,ESP,39,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Pfanner Andreas,AUT,39,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,43,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Gouveia Anderson,BRA,43,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Grosso Cesar,BRA,43,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv
+Reis Jürgen,AUT,46,,UIAA Worldcup (L) - Zürich (SUI) 2005,395,2005,Zürich,Lead,Men,2005-06-24,/api/v1/events/395/result/1,2005-06-24_Zürich_Lead_Men_no-round.csv

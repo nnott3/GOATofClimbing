@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+ANRAKU Sorato,JPN,1,43+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,43+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+HOMMA Taisei,JPN,2,36+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,36+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+OMATA Shion,JPN,3,36,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,36,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+LEE Dohyun,KOR,4,36,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,36,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+IMAIZUMI Yuta,JPN,5,36,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,36,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+JENFT Paul,FRA,6,36,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,36,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+OGATA Yoshiyuki,JPN,7,36,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,36,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+AVEZOU Sam,FRA,8,35+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,35+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+YURIKUSA Ao,JPN,9,35+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,35+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+YOSHIDA Satone,JPN,10,35+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,35+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+MURASHITA Zento,JPN,11,35+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,35+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+TANAKA Shuta,JPN,12,35,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,35,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+LEHMANN Sascha,SUI,13,35,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,35,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+KWON Kibeom,KOR,14,33+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,33+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+SCHENK Filip,ITA,15,33,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,33,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+YUN Shinyeong,KOR,16,32+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,32+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+BAUDRAND Oscar,CAN,17,31+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,31+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+ISHIZU Mototaka,JPN,18,29+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,29+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+SCHALCK Mejdi,FRA,19,29,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,29,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+BERTONE Max,FRA,20,28,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,28,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+HIGUCHI Masahiro,JPN,21,27+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,27+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+TOMATIS Giorgio,ITA,22,27+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,27+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+PLACCI Giovanni,ITA,23,25+,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,25+,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+MARTIN Philipp,GER,24,25,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,25,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+MIN Hyunbin,KOR,25,25,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,25,2024-10-02_Seoul_Lead_Men_Semi-final.csv
+UTELLI Jonas,SUI,26,25,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Men,Semi-final,2024-10-02,/api/v1/category_rounds/9377/results,/api/v1/events/1361/result/1,25,2024-10-02_Seoul_Lead_Men_Semi-final.csv

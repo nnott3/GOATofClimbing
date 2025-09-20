@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Garnbret Janja,SLO,1,TOP,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Women,Final,2024-04-12,/api/v1/category_rounds/8932/results,/api/v1/events/1354/result/5,TOP,2024-04-12_Wujiang_Lead_Women_Final.csv
+LUO ZHILU,CHN,2,44+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Women,Final,2024-04-12,/api/v1/category_rounds/8932/results,/api/v1/events/1354/result/5,44+,2024-04-12_Wujiang_Lead_Women_Final.csv
+SEO Chaehyun,KOR,3,43+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Women,Final,2024-04-12,/api/v1/category_rounds/8932/results,/api/v1/events/1354/result/5,43+,2024-04-12_Wujiang_Lead_Women_Final.csv
+TANII Natsuki,JPN,4,40,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Women,Final,2024-04-12,/api/v1/category_rounds/8932/results,/api/v1/events/1354/result/5,40,2024-04-12_Wujiang_Lead_Women_Final.csv
+Mcneice Erin,GBR,5,39,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Women,Final,2024-04-12,/api/v1/category_rounds/8932/results,/api/v1/events/1354/result/5,39,2024-04-12_Wujiang_Lead_Women_Final.csv
+Rogora Laura,ITA,6,34+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Women,Final,2024-04-12,/api/v1/category_rounds/8932/results,/api/v1/events/1354/result/5,34+,2024-04-12_Wujiang_Lead_Women_Final.csv
+ODA Natsumi,JPN,7,34+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Women,Final,2024-04-12,/api/v1/category_rounds/8932/results,/api/v1/events/1354/result/5,34+,2024-04-12_Wujiang_Lead_Women_Final.csv
+Krampl Mia,SLO,8,34+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Women,Final,2024-04-12,/api/v1/category_rounds/8932/results,/api/v1/events/1354/result/5,34+,2024-04-12_Wujiang_Lead_Women_Final.csv

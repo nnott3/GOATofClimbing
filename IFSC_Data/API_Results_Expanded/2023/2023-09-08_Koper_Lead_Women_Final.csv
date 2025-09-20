@@ -1,9 +1,9 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
-Garnbret Janja,SLO,1,TOP,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,TOP
-Mori Ai,JPN,2,44+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,44+
-Lukan Vita,SLO,3,40+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,40+
-SEO Chaehyun,KOR,4,38+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,38+
-TANII Natsuki,JPN,5,33+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,33+
-Rogora Laura,ITA,6,33+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,33+
-KUME Nonoha,JPN,7,31+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,31+
-Krampl Mia,SLO,8,11+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,11+
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,source_file
+Garnbret Janja,SLO,1,TOP,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,TOP,2023-09-08_Koper_Lead_Women_Final.csv
+Mori Ai,JPN,2,44+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,44+,2023-09-08_Koper_Lead_Women_Final.csv
+Lukan Vita,SLO,3,40+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,40+,2023-09-08_Koper_Lead_Women_Final.csv
+SEO Chaehyun,KOR,4,38+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,38+,2023-09-08_Koper_Lead_Women_Final.csv
+TANII Natsuki,JPN,5,33+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,33+,2023-09-08_Koper_Lead_Women_Final.csv
+Rogora Laura,ITA,6,33+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,33+,2023-09-08_Koper_Lead_Women_Final.csv
+KUME Nonoha,JPN,7,31+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,31+,2023-09-08_Koper_Lead_Women_Final.csv
+Krampl Mia,SLO,8,11+,IFSC World Cup Koper 2023,1302,2023,Koper,Lead,Women,Final,2023-09-08,/api/v1/category_rounds/8435/results,/api/v1/events/1302/result/5,11+,2023-09-08_Koper_Lead_Women_Final.csv

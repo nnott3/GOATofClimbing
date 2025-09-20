@@ -1,46 +1,46 @@
-name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results
-Chabot Alexandre,FRA,1,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Crespi Flavio,ITA,2,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Pouvreau Gérome,FRA,3,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Petit François,FRA,4,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Mrázek Tomás,CZE,5,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Vinokur Vadim,USA,6,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Lachat Cédric,SUI,7,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Bindhammer Christian,GER,8,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Tsuiki Takaaki,JPN,9,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Reis Jürgen,AUT,10,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Sova Matej,SLO,11,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Bindhammer Andreas,GER,12,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Brenna Cristian,ITA,13,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Auclair François,FRA,14,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Felix Roman,SUI,15,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Ito Hidekazu,JPN,16,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Felix Martin,SUI,17,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Lee Jae-Yong,KOR,18,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Kim Hee-Jo,KOR,19,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Christophersen Stian,NOR,20,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Saga Atsushi,JPN,21,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Ben Tan,SGP,22,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Mamarimbing Ronald,INA,23,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Cao Rongwu,CHN,24,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Liu Yi-De,TPE,25,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Chu Ka-Wai,HKG,26,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Ding Xianghua,CHN,27,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Karthik H. C.,IND,27,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Tan Sze Ping,SGP,27,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Mobråten Martin,NOR,30,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Diaz Dennis,PHI,31,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Lok Chi-Wai,HKG,32,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Wu Yen-Yi,TPE,32,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Vidal Cresencio,PHI,34,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-"Koh Zher Yeow, Jay",SGP,35,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Thinesh Vengasamy,SGP,35,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Jou Chun-Ming,TPE,37,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Lai Chi-Wai,HKG,37,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Mohammad Hafiz Mohamad Kasim,SGP,37,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Ron Ho,SGP,40,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Hubberth Kristian Guerrero,PHI,41,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-"Low Kien Seong, Francis",MAS,42,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Leong Chee Hoi,SGP,43,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Los Yegor,UKR,43,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
-Ang Swee Soon,MAS,45,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,start_date,event_results,source_file
+Chabot Alexandre,FRA,1,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Crespi Flavio,ITA,2,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Pouvreau Gérome,FRA,3,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Petit François,FRA,4,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Mrázek Tomás,CZE,5,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Vinokur Vadim,USA,6,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Lachat Cédric,SUI,7,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Bindhammer Christian,GER,8,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Tsuiki Takaaki,JPN,9,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Reis Jürgen,AUT,10,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Sova Matej,SLO,11,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Bindhammer Andreas,GER,12,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Brenna Cristian,ITA,13,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Auclair François,FRA,14,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Felix Roman,SUI,15,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Ito Hidekazu,JPN,16,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Felix Martin,SUI,17,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Lee Jae-Yong,KOR,18,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Kim Hee-Jo,KOR,19,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Christophersen Stian,NOR,20,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Saga Atsushi,JPN,21,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Ben Tan,SGP,22,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Mamarimbing Ronald,INA,23,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Cao Rongwu,CHN,24,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Liu Yi-De,TPE,25,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Chu Ka-Wai,HKG,26,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Ding Xianghua,CHN,27,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Karthik H. C.,IND,27,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Tan Sze Ping,SGP,27,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Mobråten Martin,NOR,30,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Diaz Dennis,PHI,31,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Lok Chi-Wai,HKG,32,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Wu Yen-Yi,TPE,32,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Vidal Cresencio,PHI,34,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+"Koh Zher Yeow, Jay",SGP,35,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Thinesh Vengasamy,SGP,35,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Jou Chun-Ming,TPE,37,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Lai Chi-Wai,HKG,37,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Mohammad Hafiz Mohamad Kasim,SGP,37,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Ron Ho,SGP,40,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Hubberth Kristian Guerrero,PHI,41,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+"Low Kien Seong, Francis",MAS,42,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Leong Chee Hoi,SGP,43,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Los Yegor,UKR,43,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
+Ang Swee Soon,MAS,45,,UIAA Worldcup - Singapore (SIN) 2002,284,2002,Singapore,Lead,Men,2002-08-23,/api/v1/events/284/result/1,2002-08-23_Singapore_Lead_Men_no-round.csv
