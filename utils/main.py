@@ -2,13 +2,13 @@ import pandas as pd
 import time
 from pathlib import Path
 from datetime import datetime
-# from .scraper_init import IFSCScraper
-# from .data_aggregator import IFSCDataAggregator
-# from .elo_scoring import ELOCalculator
+from .scraper_init import IFSCScraper
+from .data_aggregator import IFSCDataAggregator
+from .elo_scoring import ELOCalculator
 
-from scraper_init import IFSCScraper
-from data_aggregator import IFSCDataAggregator
-from elo_scoring import ELOCalculator
+# from scraper_init import IFSCScraper
+# from data_aggregator import IFSCDataAggregator
+# from elo_scoring import ELOCalculator
 import logging
 
 logging.basicConfig(level=logging.INFO)
@@ -187,7 +187,7 @@ def main():
     manager = IFSCDataManager()
     
     # Configuration
-    FORCE_INITIAL_FETCH = True  # Set to True to force complete re-scraping
+    FORCE_INITIAL_FETCH = False  # Set to True to force complete re-scraping
     TEST_MODE = False  # Set to True to limit processing for testing
     
     try:
