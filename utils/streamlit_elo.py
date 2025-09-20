@@ -241,7 +241,8 @@ def render(analyzer, calculator, filters):
             hover_name='country',
             hover_data={'avg_elo': ':.0f'},
             labels={'avg_elo': 'Average ELO'},
-            title=f"Average ELO by Country as of {selected_date}"
+            title=f"Average ELO by Country as of {selected_date}",
+            
         )
 
         # Dark theme with no-data countries in dark grey
@@ -257,6 +258,7 @@ def render(analyzer, calculator, filters):
             selector=dict(type='choropleth')
         )
         fig_map.update_geos(
+            projection_type="natural earth",
             bgcolor="rgba(30,30,30,1)",  # dark background
             showcoastlines=True,
             coastlinecolor="gray",

@@ -68,27 +68,29 @@ def render():
     if 'round_rank' in df.columns:
         df['round_rank'] = pd.to_numeric(df['round_rank'], errors='coerce')
     
-    # Sidebar filters
-    with st.sidebar:
-        st.subheader("Filters")
-        
-        # Discipline filter
-        disciplines = ['All'] + sorted(df['discipline'].unique().tolist())
-        selected_discipline = st.selectbox("Discipline", disciplines)
-        
-        # Gender filter
+    col1, col2, col3 = st.columns([1.2, 1, 2])
+
+    with col1:
+        disciplines = ['All'] + sorted([d for d in df['discipline'].unique() if d not in ['Combined','Boulder&lead']])
+        selected_discipline = st.segmented_control(
+            "Discipline", disciplines, default="All"
+        )
+
+    with col2:
         genders = ['All'] + sorted(df['gender'].unique().tolist())
-        selected_gender = st.selectbox("Gender", genders)
-        
-        # Year range
+        selected_gender = st.segmented_control(
+            "Gender", genders, default="All"
+        )
+
+    with col3:
         year_range = st.slider(
             "Year Range",
             min_value=int(df['year'].min()),
             max_value=int(df['year'].max()),
             value=(int(df['year'].min()), int(df['year'].max()))
         )
-    
-    # Apply filters
+   
+   # Apply filters
     filtered_df = df[
         (df['year'] >= year_range[0]) & 
         (df['year'] <= year_range[1])
@@ -103,7 +105,7 @@ def render():
     if filtered_df.empty:
         st.warning("No data matches the selected filters.")
         return
-    
+
     # Country participation overview
     st.subheader("Participation Overview")
     
@@ -201,7 +203,7 @@ def render():
         
         with col_perf1:
             # Average ranking performance
-            best_avg_rank = country_performance.nsmallest(10, 'avg_rank')
+            best_avg_rank = country_performance.nsmallest(8, 'avg_rank')
             
             fig_avg_rank = px.bar(
                 best_avg_rank,
@@ -217,7 +219,7 @@ def render():
         with col_perf2:
             # Podium counts
             if not podium_counts.empty:
-                top_podium = podium_counts.nlargest(10, 'total_podiums')
+                top_podium = podium_counts.nlargest(8, 'total_podiums')
                 top_podium['country_flag'] = top_podium['flag'] + ' ' + top_podium['country']
                 
                 fig_podiums = px.bar(
