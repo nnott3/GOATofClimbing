@@ -53,11 +53,10 @@ def render():
         df['round_rank'] = pd.to_numeric(df['round_rank'], errors='coerce')
     
     # Create tabs for different analyses
-    tab1, tab2, tab3, tab4, tab5 = st.tabs([
+    tab1, tab2, tab3, tab4 = st.tabs([
         "Individual Analysis",
         "Head-to-Head", 
         "Career Progression",
-        "Discipline Crossover",
         "Location Performance"
     ])
     
@@ -71,9 +70,6 @@ def render():
         render_career_progression(df, elo_df)
     
     with tab4:
-        render_discipline_crossover(df)
-    
-    with tab5:
         render_location_performance(df)
 
 def render_individual_analysis(df, elo_df):
@@ -83,7 +79,8 @@ def render_individual_analysis(df, elo_df):
     
     # Athlete selection
     athletes = sorted(df['name'].unique())
-    selected_athlete = st.selectbox("Select Athlete", athletes)
+    default_athlete = "Ondra Adam" if "Ondra Adam" in athletes else athletes[0]
+    selected_athlete = st.selectbox("Select Athlete", athletes, index=athletes.index(default_athlete) if default_athlete in athletes else 0)
     
     if not selected_athlete:
         return
@@ -198,9 +195,11 @@ def render_head_to_head(df, elo_df):
     
     col1, col2 = st.columns(2)
     with col1:
-        athlete1 = st.selectbox("Select First Athlete", athletes, key="h2h_athlete1")
+        default_athlete1 = "Ondra Adam" if "Ondra Adam" in athletes else athletes[0]
+        athlete1 = st.selectbox("Select First Athlete", athletes, index=athletes.index(default_athlete1) if default_athlete1 in athletes else 0, key="h2h_athlete1")
     with col2:
-        athlete2 = st.selectbox("Select Second Athlete", athletes, key="h2h_athlete2")
+        default_athlete2 = "Schubert Jakob" if "Schubert Jakob" in athletes else (athletes[1] if len(athletes) > 1 else athletes[0])
+        athlete2 = st.selectbox("Select Second Athlete", athletes, index=athletes.index(default_athlete2) if default_athlete2 in athletes else (1 if len(athletes) > 1 else 0), key="h2h_athlete2")
     
     if not athlete1 or not athlete2 or athlete1 == athlete2:
         st.info("Please select two different athletes to compare")
@@ -282,7 +281,8 @@ def render_career_progression(df, elo_df):
     
     # Select athlete
     athletes = sorted(df['name'].unique())
-    selected_athlete = st.selectbox("Select Athlete for Career Analysis", athletes, key="career_athlete")
+    default_athlete1 = "Ondra Adam" if "Ondra Adam" in athletes else athletes[0]
+    selected_athlete = st.selectbox("Select Athlete for Career Analysis", athletes, index=athletes.index(default_athlete1) if default_athlete1 in athletes else 0, key="career_athlete")
     
     if not selected_athlete:
         return
@@ -356,48 +356,6 @@ def render_career_progression(df, elo_df):
                 st.write(f"Competitions: {int(most_active_year['competitions'])}")
                 st.write(f"Average Rank: {most_active_year['avg_rank']:.1f}")
 
-def render_discipline_crossover(df):
-    """Render discipline crossover analysis."""
-    
-    st.subheader("Discipline Crossover Analysis")
-    
-    # Find athletes who compete in multiple disciplines
-    athlete_disciplines = df.groupby('name')['discipline'].nunique().reset_index()
-    multi_discipline = athlete_disciplines[athlete_disciplines['discipline'] > 1]
-    
-    if multi_discipline.empty:
-        st.info("No athletes found competing in multiple disciplines")
-        return
-    
-    st.write(f"Found {len(multi_discipline)} athletes competing in multiple disciplines")
-    
-    # Show crossover statistics
-    crossover_stats = df[df['name'].isin(multi_discipline['name'])].groupby('name').agg({
-        'discipline': lambda x: ', '.join(sorted(x.unique())),
-        'round_rank': 'mean' if 'round_rank' in df.columns else 'count',
-        'year': ['min', 'max']
-    }).round(2)
-    
-    crossover_stats.columns = ['Disciplines', 'Avg_Rank', 'First_Year', 'Last_Year']
-    crossover_stats = crossover_stats.reset_index()
-    crossover_stats = crossover_stats.sort_values('Avg_Rank' if 'round_rank' in df.columns else 'First_Year')
-    
-    st.dataframe(crossover_stats, width='stretch')
-    
-    # Discipline combination analysis
-    st.subheader("Most Common Discipline Combinations")
-    
-    discipline_combinations = crossover_stats['Disciplines'].value_counts().head(10)
-    
-    fig_combinations = px.bar(
-        x=discipline_combinations.values,
-        y=discipline_combinations.index,
-        orientation='h',
-        title='Most Common Discipline Combinations',
-        labels={'x': 'Number of Athletes', 'y': 'Discipline Combination'}
-    )
-    fig_combinations.update_layout(height=400, yaxis={'categoryorder':'total ascending'})
-    st.plotly_chart(fig_combinations, width='stretch')
 
 def render_location_performance(df):
     """Render location-based performance analysis."""
@@ -416,7 +374,8 @@ def render_location_performance(df):
     
     # Athlete selection
     athletes = sorted(location_df['name'].unique())
-    selected_athlete = st.selectbox("Select Athlete for Location Analysis", athletes, key="location_athlete")
+    default_athlete = "Ondra Adam" if "Ondra Adam" in athletes else athletes[0]
+    selected_athlete = st.selectbox("Select Athlete for Location Analysis", athletes, index=athletes.index(default_athlete) if default_athlete in athletes else 0,  key="location_athlete")
     
     if not selected_athlete:
         return
@@ -475,7 +434,7 @@ def render_location_performance(df):
             # Detailed location statistics
             st.subheader("Detailed Location Statistics")
             st.dataframe(location_performance.sort_values('avg_rank'), width='stretch')
-    
+     
     # Global performance trends
     st.subheader("Global Performance Trends")
     

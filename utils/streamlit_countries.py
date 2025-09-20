@@ -124,7 +124,8 @@ def render():
     
     with col_left:
         # Bar chart of top countries
-        top_countries = country_stats.nlargest(15, 'athletes')
+        top_n = 8
+        top_countries = country_stats.nlargest(top_n, 'athletes')
         top_countries['country_flag'] = top_countries['flag'] + ' ' + top_countries['country']
         
         fig_participation = px.bar(
@@ -132,7 +133,7 @@ def render():
             x='athletes',
             y='country_flag',
             orientation='h',
-            title='Top 15 Countries by Athlete Count',
+            title=f'Top {top_n} Countries by Athlete Count',
             labels={'athletes': 'Number of Athletes', 'country_flag': 'Country'}
         )
         fig_participation.update_layout(height=500, yaxis={'categoryorder':'total ascending'})
@@ -145,7 +146,7 @@ def render():
             x='events',
             y='country_flag',
             orientation='h',
-            title='Top 15 Countries by Event Participation',
+            title=f'Top {top_n} Countries by Event Participation',
             labels={'events': 'Number of Events', 'country_flag': 'Country'}
         )
         fig_events.update_layout(height=500, yaxis={'categoryorder':'total ascending'})
@@ -190,7 +191,7 @@ def render():
                 title='Best Average Rankings (Lower = Better)',
                 labels={'avg_rank': 'Average Rank', 'country_flag': 'Country'}
             )
-            fig_avg_rank.update_layout(height=400, yaxis={'categoryorder':'total descending'})
+            fig_avg_rank.update_layout(height=500, yaxis={'categoryorder':'total descending'})
             st.plotly_chart(fig_avg_rank, width='stretch')
         
         with col_perf2:
@@ -207,7 +208,7 @@ def render():
                     title='Most Podium Finishes',
                     labels={'total_podiums': 'Total Podiums', 'country_flag': 'Country'}
                 )
-                fig_podiums.update_layout(height=400, yaxis={'categoryorder':'total ascending'})
+                fig_podiums.update_layout(height=500, yaxis={'categoryorder':'total ascending'})
                 st.plotly_chart(fig_podiums, width='stretch')
     
     # Growth trends over time
