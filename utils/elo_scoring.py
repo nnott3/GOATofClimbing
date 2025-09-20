@@ -55,7 +55,8 @@ class ELOCalculator:
         # Essential cleaning only
         self.df = self.df.dropna(subset=['round_rank', 'name'])
         self.df = self.df[self.df['name'].str.strip() != '']
-        
+        self.df['name'] = self.df['name'].str.strip().str.title()
+
         # Optimize data types
         self.df['start_date'] = pd.to_datetime(self.df['start_date'], errors='coerce')
         self.df = self.df.dropna(subset=['start_date'])
@@ -85,7 +86,8 @@ class ELOCalculator:
         
         # Pre-calculate first appearances for efficiency
         first_appearances = self.df.groupby('name')['start_date'].min()
-        
+        athlete_countries = self.df.groupby('name')['country'].first() if 'country' in self.df.columns else {}
+
         # Process competitions chronologically
         for group_key, event_data in self.df.groupby(
             ['event_name', 'start_date', 'discipline', 'gender', 'round'], 
@@ -102,10 +104,11 @@ class ELOCalculator:
                 if athlete not in self.elo_ratings:
                     self.elo_ratings[athlete] = self.initial_rating
                     first_date = first_appearances[athlete]
-                    
+                    country = athlete_countries.get(athlete, "Unknown")
                     # Add initial rating record
                     self.elo_history.append({
                         'name': athlete,
+                        'country': country,
                         'event': 'Initial Rating',
                         'year': first_date.year,
                         'date': first_date,
@@ -120,7 +123,7 @@ class ELOCalculator:
                     })
             
             # Calculate ELO changes for this round
-            self._process_round(athletes, ranks, event_name, date, discipline, gender, round_type)
+            self._process_round(athletes, ranks, event_name, date, discipline, gender, round_type, athlete_countries)
         
         # Convert to DataFrame and sort properly
         result = pd.DataFrame(self.elo_history)
@@ -134,7 +137,8 @@ class ELOCalculator:
         return result
     
     def _process_round(self, athletes: List[str], ranks: List[int], 
-                      event: str, date, discipline: str, gender: str, round_type: str):
+                      event: str, date, discipline: str, gender: str, round_type: str,
+                      athlete_countries: Dict[str, str] = None):
         """Process a single competition round efficiently."""
         n = len(athletes)
         if n < 2:
@@ -170,10 +174,11 @@ class ELOCalculator:
             
             # Update rating
             self.elo_ratings[athlete] += total_change
-            
+            country = athlete_countries.get(athlete, "Unknown")
             # Record competition
             self.elo_history.append({
                 'name': athlete,
+                'country': country,
                 'event': event,
                 'year': date.year,
                 'date': date,
@@ -394,13 +399,6 @@ if __name__ == "__main__":
     print(f"Top {top_n} {discipline} {gender}:")
     print(current_ranking.head(top_n))
     
-    # Plot ELO history
-    calculator.plot_elo_history(
-        discipline=discipline, 
-        gender=gender,
-        era_start=era_start,
-        top_n=top_n
-    )
     
     # Save results
     calculator.save_results()

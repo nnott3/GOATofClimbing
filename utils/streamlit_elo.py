@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from pathlib import Path
+import numpy as np
 
 def render(analyzer, calculator, filters):
     """Render the ELO Rankings tab with improved error handling and performance."""
@@ -175,16 +176,15 @@ def render(analyzer, calculator, filters):
             y="elo_after",
             color="name",
             markers=True,
+            line_shape="hv",  # horizontal-vertical step style
             title=f"ELO History - {discipline} {gender} ({era_label})",
             hover_data={
-                'date': '|%B %d, %Y',
+                'date': '|%b %Y',
                 'elo_after': ':.0f',
-                'event': True,
-                'rank': True,
-                'name': False
+                'event': False,  # hide event for less clutter
+                'rank': True
             }
         )
-        
         # Improve plot appearance
         fig.update_layout(
             xaxis_title="Date",
@@ -203,6 +203,119 @@ def render(analyzer, calculator, filters):
         
         st.plotly_chart(fig, width='stretch')
         
+        # --- 2. World Map of ELO ---
+       
+        # --- Date slider ---
+        min_date = filtered_df['date'].min()
+        max_date = filtered_df['date'].max()
+        selected_date = st.slider(
+            "Select Date",
+            min_value=min_date.date(),
+            max_value=max_date.date(),
+            value=max_date.date()
+        )
+
+        # --- Latest ELO per athlete up to selected date ---
+        latest_by_date = (
+            filtered_df[filtered_df['date'] <= pd.to_datetime(selected_date)]
+            .sort_values(['name', 'date'])
+            .groupby('name')
+            .last()
+            .reset_index()
+        )
+
+        # Remove athletes with no country
+        latest_by_date = latest_by_date.dropna(subset=['country'])
+
+        # Compute average ELO per country
+        country_elo = latest_by_date.groupby('country')['elo_after'].mean().reset_index()
+        country_elo.rename(columns={'elo_after': 'avg_elo'}, inplace=True)
+
+        # --- Create choropleth map ---
+        fig_map = px.choropleth(
+            country_elo,
+            locations='country',
+            color='avg_elo',
+            color_continuous_scale='Sunset',
+            range_color=[country_elo['avg_elo'].min(), country_elo['avg_elo'].max()],
+            hover_name='country',
+            hover_data={'avg_elo': ':.0f'},
+            labels={'avg_elo': 'Average ELO'},
+            title=f"Average ELO by Country as of {selected_date}"
+        )
+
+        # Dark theme with no-data countries in dark grey
+        fig_map.update_layout(
+            height=600,
+            margin=dict(l=20, r=20, t=50, b=20),
+            paper_bgcolor="#1e1e1e",
+            plot_bgcolor="#1e1e1e",
+        )
+
+        fig_map.update_traces(
+            marker_line_color='black',  # optional: add borders to countries
+            selector=dict(type='choropleth')
+        )
+        fig_map.update_geos(
+            bgcolor="rgba(30,30,30,1)",  # dark background
+            showcoastlines=True,
+            coastlinecolor="gray",
+            showland=True,
+            landcolor="rgba(50,50,50,1)",  # countries with no data
+            showocean=True,
+            oceancolor="#111111"
+        )
+
+        st.plotly_chart(fig_map, use_container_width=True)
+
+
+
+        # --- 3. ELO Distribution Scatter (binned dots) ---
+        filtered_df_disc = elo_df[
+            (elo_df["date"] >= era_start_date) &
+            (elo_df["date"] <= era_end_date) &
+            (elo_df["gender"] == gender) &
+            (elo_df["competed"] == True)  # Only actual competitions
+        ]
+        latest_elo = (
+            filtered_df_disc.sort_values(['name', 'date'])
+            .groupby('name').last().reset_index()
+        )
+
+        # Bin ELO values
+        latest_elo['bin'] = pd.cut(latest_elo['elo_after'], bins=20).cat.codes
+        latest_elo['y'] = latest_elo.groupby(['bin', 'discipline']).cumcount()
+
+        # Define colors for disciplines
+        discipline_colors = {
+            'Boulder': "#3182bd",  # blue
+            'Lead': "#e6775f",     # green
+            'Speed': "#41ae76"     # red
+        }
+
+        fig = px.scatter(
+            latest_elo,
+            x="elo_after",
+            y="y",
+            color="discipline",  # ensure color is explicitly mapped
+            color_discrete_map=discipline_colors,
+            hover_name="name",
+            hover_data={"elo_after": True, "bin": False, "y": False},
+            title="Current ELO Ratings by Discipline"
+        )
+
+        fig.update_traces(marker=dict(size=8, opacity=0.7))
+        fig.update_layout(
+            xaxis_title="ELO Rating",
+            yaxis_title="Frequency",
+            yaxis=dict(visible=False),
+            legend_title_text='Discipline'
+        )
+
+        st.plotly_chart(fig, use_container_width=True)
+
+        
+
         # Summary statistics
         if len(selected_athletes) > 0:
             st.subheader("Summary Statistics")

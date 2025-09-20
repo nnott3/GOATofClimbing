@@ -80,7 +80,6 @@ def render():
             x='year',
             y='count',
             color='gender',
-            title='Participation by Gender Over Time'
         )
         fig_gender.update_layout(height=400)
         st.plotly_chart(fig_gender, width='stretch')
@@ -107,7 +106,6 @@ def render():
                 x=country_counts.values,
                 y=country_counts.index,
                 orientation='h',
-                title='Top 10 Countries by Athlete Participation'
             )
             fig_countries.update_layout(height=400, yaxis={'categoryorder':'total ascending'})
             st.plotly_chart(fig_countries, width='stretch')
@@ -116,7 +114,7 @@ def render():
     st.subheader("Detailed Analytics")
     
     # Athletes per competition over time
-    athletes_per_comp = df.groupby(['year', 'discipline']).agg({
+    athletes_per_comp =  df[~df['discipline'].isin(['Boulder&lead', 'Combined'])].groupby(['year', 'discipline']).agg({
         'name': 'nunique',
         'event_name': 'nunique'
     }).reset_index()
@@ -134,15 +132,29 @@ def render():
     st.plotly_chart(fig_athletes, width='stretch')
     
     # Scoring system evolution
+    era_colors = {
+        "Boulder_UIAA_Legacy_1991-2006": "#08519c", # dark blue,
+        "Boulder_IFSC_AddedPoints_2025-2025": "#3182bd", # medium blue
+        "Boulder_IFSC_ZoneTop_2007-2024": "#6baed6", # light blue
+
+        "Lead_UIAA_Legacy_1991-2006": "#cb181d", # dark red
+        "Lead_IFSC_Modern_2007-2025": "#e6775f", # medium red
+
+        "Speed_UIAA_Legacy_1991-2006": "#238b45", # dark green
+        "Speed_IFSC_Score_2007-2008": "#41ae76", # medium green
+        "Speed_IFSC_Time_2009-2025": "#74aa6e", # light green
+        
+        }
     if 'scoring_era' in df.columns:
         st.subheader("Scoring System Evolution")
-        era_timeline = df.groupby(['year', 'scoring_era']).size().reset_index(name='count')
+        era_timeline = df[~df['discipline'].isin(['Boulder&lead', 'Combined'])].groupby(['year', 'scoring_era']).size().reset_index(name='count')
         
         fig_eras = px.bar(
             era_timeline,
             x='year',
             y='count',
-            color='scoring_era',
+            color="scoring_era",
+            color_discrete_map=era_colors,
             title='Competition Count by Scoring System Over Time'
         )
         fig_eras.update_layout(height=400)

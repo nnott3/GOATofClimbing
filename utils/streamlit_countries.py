@@ -15,14 +15,28 @@ COUNTRY_FLAGS = {
     'CHN': '🇨🇳', 'UKR': '🇺🇦', 'SVK': '🇸🇰', 'FIN': '🇫🇮', 'DEN': '🇩🇰',
     'CRO': '🇭🇷', 'ISR': '🇮🇱', 'IND': '🇮🇳', 'RSA': '🇿🇦', 'BRA': '🇧🇷',
     'ARG': '🇦🇷', 'CHI': '🇨🇱', 'MEX': '🇲🇽', 'COL': '🇨🇴', 'PER': '🇵🇪',
-    'THA': '🇹🇭', 'MAS': '🇲🇾', 'SGP': '🇸🇬', 'PHI': '🇵🇭', 'INA': '🇮🇩',
+    'THA': '🇹🇭', 'MAS': '🇲🇾', 'SGP': '🇸🇬', 'PHI': '🇵🇭', 'IND': '🇮🇩',
     'NZL': '🇳🇿', 'ISL': '🇮🇸', 'IRL': '🇮🇪', 'POR': '🇵🇹', 'HUN': '🇭🇺',
-    'ROU': '🇷🇴', 'BUL': '🇧🇬', 'LTU': '🇱🇹', 'LAT': '🇱🇻', 'EST': '🇪🇪'
+    'ROU': '🇷🇴', 'BUL': '🇧🇬', 'LTU': '🇱🇹', 'LAT': '🇱🇻', 'EST': '🇪🇪',
+    'AZE': '🇦🇿', 'BIH': '🇧🇦', 'BLR': '🇧🇾', 'BOL': '🇧🇴', 'BRN': '🇧🇳',
+    'BWA': '🇧🇼', 'CAM': '🇰🇲', 'CFR': '🇨🇫', 'CRC': '🇨🇷', 'CYP': '🇨🇾',
+    'ECU': '🇪🇨', 'ESA': '🇸🇻', 'GEO': '🇬🇪', 'GRE': '🇬🇷', 'GTM': '🇬🇹',
+    'GUA': '🇬🇺', 'GUM': '🇬🇺', 'HKG': '🇭🇰', 'HND': '🇭🇳', 'HON': '🇭🇳',
+    'IRI': '🇮🇷', 'IRQ': '🇮🇶', 'JOR': '🇯🇴', 'KAZ': '🇰🇿', 'KGZ': '🇰🇬',
+    'KSA': '🇸🇦', 'KUW': '🇰🇼', 'LBN': '🇱🇧', 'LKA': '🇱🇰', 'LUX': '🇱🇺',
+    'MAC': '🇲🇴', 'MGL': '🇲🇳', 'MKD': '🇲🇰', 'MRI': '🇲🇷', 'MYS': '🇲🇾',
+    'NEP': '🇳🇵', 'PAK': '🇵🇰', 'PHL': '🇵🇭', 'PRT': '🇵🇹', 'PUR': '🇵🇷',
+    'SRB': '🇷🇸', 'SRI': '🇱🇰', 'TPE': '🇹🇼', 'TUR': '🇹🇷', 'UGA': '🇺🇬',
+    'UZB': '🇺🇿', 'VEN': '🇻🇪', 'ZAF': '🇿🇦', 'BRU': '🇧🇳', 'LVA': '🇱🇻',
+    'AND': '🇦🇩', 'MNE': '🇲🇪', 'SMR': '🇸🇲', 'VIE': '🇻🇳', 'YEM': '🇾🇪',
+    'INA': '🇮🇩', 'TUN': '🇹🇳', 'ALG': '🇩🇿', 'MAR': '🇲🇦', 'NGA': '🇳🇬',
+    'IDN': '🇮🇩',
+
 }
 
 def get_flag_emoji(country_code):
     """Get flag emoji for country code, return country code if not found."""
-    return COUNTRY_FLAGS.get(country_code, country_code)
+    return COUNTRY_FLAGS.get(country_code, "")
 
 def load_data():
     """Load aggregated competition data."""
@@ -117,6 +131,11 @@ def render():
         total_athletes = country_stats['athletes'].sum()
         st.metric("Total Athlete Participations", f"{total_athletes:,}")
     
+    all_flags = " ".join(country_stats['flag'].tolist())
+
+    # Display below the metrics
+    st.markdown(f"<p style='font-size:30px'>{all_flags}</p>", unsafe_allow_html=True)
+
     # Top participating countries
     st.subheader("Top Participating Countries")
     
@@ -136,7 +155,7 @@ def render():
             title=f'Top {top_n} Countries by Athlete Count',
             labels={'athletes': 'Number of Athletes', 'country_flag': 'Country'}
         )
-        fig_participation.update_layout(height=500, yaxis={'categoryorder':'total ascending'})
+        fig_participation.update_layout(height=500, yaxis={'categoryorder':'total ascending', 'tickfont':dict(size=22)})
         st.plotly_chart(fig_participation, width='stretch')
     
     with col_right:
@@ -149,7 +168,8 @@ def render():
             title=f'Top {top_n} Countries by Event Participation',
             labels={'events': 'Number of Events', 'country_flag': 'Country'}
         )
-        fig_events.update_layout(height=500, yaxis={'categoryorder':'total ascending'})
+        fig_events.update_layout(height=500, yaxis={'categoryorder':'total ascending', 'tickfont':dict(size=22)})
+        
         st.plotly_chart(fig_events, width='stretch')
     
     # Performance analysis (if rank data available)
@@ -188,10 +208,10 @@ def render():
                 x='avg_rank',
                 y='country_flag',
                 orientation='h',
-                title='Best Average Rankings (Lower = Better)',
+                title='Best Average Rankings',
                 labels={'avg_rank': 'Average Rank', 'country_flag': 'Country'}
             )
-            fig_avg_rank.update_layout(height=500, yaxis={'categoryorder':'total descending'})
+            fig_avg_rank.update_layout(height=500, yaxis={'categoryorder':'total descending', 'tickfont':dict(size=22)})
             st.plotly_chart(fig_avg_rank, width='stretch')
         
         with col_perf2:
@@ -208,7 +228,7 @@ def render():
                     title='Most Podium Finishes',
                     labels={'total_podiums': 'Total Podiums', 'country_flag': 'Country'}
                 )
-                fig_podiums.update_layout(height=500, yaxis={'categoryorder':'total ascending'})
+                fig_podiums.update_layout(height=500, yaxis={'categoryorder':'total ascending', 'tickfont':dict(size=22)})
                 st.plotly_chart(fig_podiums, width='stretch')
     
     # Growth trends over time
@@ -250,6 +270,8 @@ def render():
         'Flag', 'Country', 'Athletes', 'Events', 'Years Active', 
         'First Year', 'Last Year', 'Athletes/Year'
     ]
+
+    display_stats.reset_index(drop=True, inplace=True)
     
     st.dataframe(display_stats, width='stretch')
     
