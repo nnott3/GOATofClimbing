@@ -152,7 +152,7 @@ def render_individual_analysis(df, elo_df):
             )
             # fig_timeline.update_yaxis(autorange="reversed")
             fig_timeline.update_layout(height=500)
-            st.plotly_chart(fig_timeline, use_container_width=True)
+            st.plotly_chart(fig_timeline, width='stretch')
     
     # Performance by discipline
     if len(athlete_df['discipline'].unique()) > 1:
@@ -166,7 +166,7 @@ def render_individual_analysis(df, elo_df):
         discipline_stats.columns = ['_'.join(col).strip() for col in discipline_stats.columns.values]
         discipline_stats = discipline_stats.reset_index()
         
-        st.dataframe(discipline_stats, use_container_width=True)
+        st.dataframe(discipline_stats, width='stretch')
     
     # ELO progression if available
     if elo_df is not None:
@@ -187,7 +187,7 @@ def render_individual_analysis(df, elo_df):
                 markers=True
             )
             fig_elo.update_layout(height=400)
-            st.plotly_chart(fig_elo, use_container_width=True)
+            st.plotly_chart(fig_elo, width='stretch')
 
 def render_head_to_head(df, elo_df):
     """Render head-to-head athlete comparison."""
@@ -262,7 +262,7 @@ def render_head_to_head(df, elo_df):
             
             if matchups:
                 matchup_df = pd.DataFrame(matchups)
-                st.dataframe(matchup_df, use_container_width=True)
+                st.dataframe(matchup_df, width='stretch')
                 
                 # Head-to-head record
                 wins1 = (matchup_df['Winner'] == athlete1).sum()
@@ -334,7 +334,7 @@ def render_career_progression(df, elo_df):
                 height=500
             )
             
-            st.plotly_chart(fig_career, use_container_width=True)
+            st.plotly_chart(fig_career, width='stretch')
             
             # Peak performance identification
             st.subheader("Peak Performance Analysis")
@@ -382,7 +382,7 @@ def render_discipline_crossover(df):
     crossover_stats = crossover_stats.reset_index()
     crossover_stats = crossover_stats.sort_values('Avg_Rank' if 'round_rank' in df.columns else 'First_Year')
     
-    st.dataframe(crossover_stats, use_container_width=True)
+    st.dataframe(crossover_stats, width='stretch')
     
     # Discipline combination analysis
     st.subheader("Most Common Discipline Combinations")
@@ -397,7 +397,7 @@ def render_discipline_crossover(df):
         labels={'x': 'Number of Athletes', 'y': 'Discipline Combination'}
     )
     fig_combinations.update_layout(height=400, yaxis={'categoryorder':'total ascending'})
-    st.plotly_chart(fig_combinations, use_container_width=True)
+    st.plotly_chart(fig_combinations, width='stretch')
 
 def render_location_performance(df):
     """Render location-based performance analysis."""
@@ -455,7 +455,7 @@ def render_location_performance(df):
                     labels={'avg_rank': 'Average Rank', 'location': 'Location'}
                 )
                 fig_best.update_layout(height=400, yaxis={'categoryorder':'total descending'})
-                st.plotly_chart(fig_best, use_container_width=True)
+                st.plotly_chart(fig_best, width='stretch')
             
             with col2:
                 st.subheader("Most Competed Locations")
@@ -470,11 +470,11 @@ def render_location_performance(df):
                     labels={'competitions': 'Number of Competitions', 'location': 'Location'}
                 )
                 fig_most.update_layout(height=400, yaxis={'categoryorder':'total ascending'})
-                st.plotly_chart(fig_most, use_container_width=True)
+                st.plotly_chart(fig_most, width='stretch')
             
             # Detailed location statistics
             st.subheader("Detailed Location Statistics")
-            st.dataframe(location_performance.sort_values('avg_rank'), use_container_width=True)
+            st.dataframe(location_performance.sort_values('avg_rank'), width='stretch')
     
     # Global performance trends
     st.subheader("Global Performance Trends")
@@ -504,4 +504,4 @@ def render_location_performance(df):
             labels={'unique_athletes': 'Number of Athletes', 'avg_rank': 'Average Rank'}
         )
         fig_competitive.update_layout(height=500)
-        st.plotly_chart(fig_competitive, use_container_width=True)
+        st.plotly_chart(fig_competitive, width='stretch')

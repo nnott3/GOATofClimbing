@@ -136,7 +136,7 @@ def render():
             labels={'athletes': 'Number of Athletes', 'country_flag': 'Country'}
         )
         fig_participation.update_layout(height=500, yaxis={'categoryorder':'total ascending'})
-        st.plotly_chart(fig_participation, use_container_width=True)
+        st.plotly_chart(fig_participation, width='stretch')
     
     with col_right:
         # Events participation
@@ -149,7 +149,7 @@ def render():
             labels={'events': 'Number of Events', 'country_flag': 'Country'}
         )
         fig_events.update_layout(height=500, yaxis={'categoryorder':'total ascending'})
-        st.plotly_chart(fig_events, use_container_width=True)
+        st.plotly_chart(fig_events, width='stretch')
     
     # Performance analysis (if rank data available)
     if 'round_rank' in filtered_df.columns:
@@ -191,7 +191,7 @@ def render():
                 labels={'avg_rank': 'Average Rank', 'country_flag': 'Country'}
             )
             fig_avg_rank.update_layout(height=400, yaxis={'categoryorder':'total descending'})
-            st.plotly_chart(fig_avg_rank, use_container_width=True)
+            st.plotly_chart(fig_avg_rank, width='stretch')
         
         with col_perf2:
             # Podium counts
@@ -208,7 +208,7 @@ def render():
                     labels={'total_podiums': 'Total Podiums', 'country_flag': 'Country'}
                 )
                 fig_podiums.update_layout(height=400, yaxis={'categoryorder':'total ascending'})
-                st.plotly_chart(fig_podiums, use_container_width=True)
+                st.plotly_chart(fig_podiums, width='stretch')
     
     # Growth trends over time
     st.subheader("Growth Trends")
@@ -230,7 +230,7 @@ def render():
         markers=True
     )
     fig_growth.update_layout(height=500)
-    st.plotly_chart(fig_growth, use_container_width=True)
+    st.plotly_chart(fig_growth, width='stretch')
     
     # Country comparison table
     st.subheader("Detailed Country Statistics")
@@ -250,5 +250,5 @@ def render():
         'First Year', 'Last Year', 'Athletes/Year'
     ]
     
-    st.dataframe(display_stats, use_container_width=True)
+    st.dataframe(display_stats, width='stretch')
     

@@ -151,9 +151,9 @@ import pandas as pd
 import time
 from pathlib import Path
 from datetime import datetime
-from scraper_init import IFSCScraper
-from data_aggregator import IFSCDataAggregator
-from elo_scoring import ELOCalculator
+from .scraper_init import IFSCScraper
+from .data_aggregator import IFSCDataAggregator
+from .elo_scoring import ELOCalculator
 import logging
 
 logging.basicConfig(level=logging.INFO)

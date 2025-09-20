@@ -69,7 +69,7 @@ def render():
             markers=True
         )
         fig_yearly.update_layout(height=400)
-        st.plotly_chart(fig_yearly, use_container_width=True)
+        st.plotly_chart(fig_yearly, width='stretch')
         
         # Gender participation over time
         st.subheader("Gender Participation")
@@ -83,7 +83,7 @@ def render():
             title='Participation by Gender Over Time'
         )
         fig_gender.update_layout(height=400)
-        st.plotly_chart(fig_gender, use_container_width=True)
+        st.plotly_chart(fig_gender, width='stretch')
     
     with col_right:
         # Discipline distribution pie chart
@@ -96,7 +96,7 @@ def render():
             title='Competitions by Discipline'
         )
         fig_pie.update_layout(height=400)
-        st.plotly_chart(fig_pie, use_container_width=True)
+        st.plotly_chart(fig_pie, width='stretch')
         
         # Top countries by participation
         if 'country' in df.columns:
@@ -110,7 +110,7 @@ def render():
                 title='Top 10 Countries by Athlete Participation'
             )
             fig_countries.update_layout(height=400, yaxis={'categoryorder':'total ascending'})
-            st.plotly_chart(fig_countries, use_container_width=True)
+            st.plotly_chart(fig_countries, width='stretch')
     
     # Full width charts
     st.subheader("Detailed Analytics")
@@ -131,7 +131,7 @@ def render():
         markers=True
     )
     fig_athletes.update_layout(height=400)
-    st.plotly_chart(fig_athletes, use_container_width=True)
+    st.plotly_chart(fig_athletes, width='stretch')
     
     # Scoring system evolution
     if 'scoring_era' in df.columns:
@@ -146,7 +146,7 @@ def render():
             title='Competition Count by Scoring System Over Time'
         )
         fig_eras.update_layout(height=400)
-        st.plotly_chart(fig_eras, use_container_width=True)
+        st.plotly_chart(fig_eras, width='stretch')
     
     # Event frequency heatmap
     if 'start_date' in df.columns:
@@ -170,6 +170,6 @@ def render():
                 aspect="auto"
             )
             fig_heatmap.update_layout(height=500)
-            st.plotly_chart(fig_heatmap, use_container_width=True)
+            st.plotly_chart(fig_heatmap, width='stretch')
     
    
