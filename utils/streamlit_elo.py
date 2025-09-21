@@ -237,7 +237,7 @@ def render(analyzer, calculator, filters):
             locations='country',
             color='avg_elo',
             color_continuous_scale='Sunset',
-            range_color=[country_elo['avg_elo'].min(), country_elo['avg_elo'].max()],
+            range_color=[country_elo['avg_elo'].max(), country_elo['avg_elo'].min()],
             hover_name='country',
             hover_data={'avg_elo': ':.0f'},
             labels={'avg_elo': 'Average ELO'},
@@ -268,7 +268,7 @@ def render(analyzer, calculator, filters):
             oceancolor="#111111"
         )
 
-        st.plotly_chart(fig_map, use_container_width=True)
+        st.plotly_chart(fig_map, width='stretch')
 
 
 
@@ -314,7 +314,7 @@ def render(analyzer, calculator, filters):
             legend_title_text='Discipline'
         )
 
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width='stretch')
 
         
 

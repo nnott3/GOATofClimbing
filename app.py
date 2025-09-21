@@ -12,9 +12,13 @@ try:
     from utils.data_aggregator import IFSCDataAggregator
     from utils.elo_scoring import ELOCalculator
     from utils import streamlit_elo
-    from utils import streamlit_overview
+    from utils import streamlit_overview    
     from utils import streamlit_countries
     from utils import streamlit_athlete
+    from utils import streamlit_events
+    
+    
+    
 except ImportError as e:
     st.error(f"Import error eieieie: {e}")
     st.error("Please ensure all utility modules are in the 'utils/' directory")
@@ -110,11 +114,12 @@ def main():
         return
     
     # Create tabs for different analyses
-    tab1, tab2, tab3, tab4 = st.tabs([
+    tab1, tab2, tab3, tab4, tab5 = st.tabs([
         "📈 ELO Rankings", 
         "🎯 Overview", 
         "🌍 Countries",
-        "🔍 Athlete Deep Dive"
+        "🔍 Athlete Deep Dive",
+        "📅 Events"
     ])
     
     with tab1:
@@ -143,6 +148,13 @@ def main():
             streamlit_athlete.render()
         except Exception as e:
             st.error(f"Error in Athletes tab: {e}")
+            st.exception(e)
+            
+    with tab5:
+        try:
+            streamlit_events.render()
+        except Exception as e:
+            st.error(f"Error in Events tab: {e}")
             st.exception(e)
 
 if __name__ == "__main__":

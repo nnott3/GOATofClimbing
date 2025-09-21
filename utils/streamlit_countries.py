@@ -133,10 +133,70 @@ def render():
         total_athletes = country_stats['athletes'].sum()
         st.metric("Total Athlete Participations", f"{total_athletes:,}")
     
-    all_flags = " ".join(country_stats['flag'].tolist())
+    # all_flags = " ".join(country_stats['flag'].tolist())
 
-    # Display below the metrics
-    st.markdown(f"<p style='font-size:30px'>{all_flags}</p>", unsafe_allow_html=True)
+    # # Display below the metrics
+    # st.markdown(f"<p style='font-size:30px'>{all_flags}</p>", unsafe_allow_html=True)
+    # --- Create choropleth map of athlete counts ---
+    country_stats['country flag'] = country_stats['flag'] + ' ' + country_stats['country']
+    fig_map = px.choropleth(
+        country_stats,
+        locations="country",             # ISO-3 country codes
+        color="athletes",                # number of athletes
+        hover_name="country flag",       # show flag + name on hover
+        hover_data={"athletes": True},   # show athlete count
+        color_continuous_scale="Sunset", # warm colors for counts
+        labels={"athletes": "Athlete Count"},
+        title=f"Athlete Participation by Country",
+    )
+
+    # Dark theme + styling
+    fig_map.update_layout(
+        height=600,
+        margin=dict(l=20, r=20, t=50, b=20),
+        paper_bgcolor="#1e1e1e",
+        plot_bgcolor="#1e1e1e",
+        coloraxis_colorbar=dict(
+            title="Athletes",
+            ticks="outside",
+        )
+    )
+
+    fig_map.update_traces(
+        marker_line_color="black",
+        selector=dict(type="choropleth")
+    )
+
+    fig_map.update_geos(
+        projection_type="natural earth",
+        bgcolor="rgba(30,30,30,1)",
+        showcoastlines=True,
+        coastlinecolor="gray",
+        showland=True,
+        landcolor="rgba(50,50,50,1)",
+        showocean=True,
+        oceancolor="#111111"
+    )
+
+    st.plotly_chart(fig_map, use_container_width=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     # Top participating countries
     st.subheader("Top Participating Countries")

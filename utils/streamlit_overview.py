@@ -37,8 +37,8 @@ def render():
     col1, col2, col3, col4 = st.columns(4)
     
     with col1:
-        total_records = len(df)
-        st.metric("Total Competitions", f"{total_records:,}")
+        total_events = df['event_name'].nunique()
+        st.metric("Total Competitions", f"{total_events:,}")
     
     with col2:
         unique_athletes = df['name'].nunique()

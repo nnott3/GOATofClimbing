@@ -1,840 +1,3 @@
-# import streamlit as st
-# import pandas as pd
-# import plotly.express as px
-# import plotly.graph_objects as go
-# from plotly.subplots import make_subplots
-# from pathlib import Path
-# import numpy as np
-# from datetime import datetime, timedelta
-
-# def load_data():
-#     """Load aggregated competition data."""
-#     try:
-#         data_file = Path("Data/aggregate_data/aggregated_results.csv")
-#         if not data_file.exists():
-#             return None
-#         return pd.read_csv(data_file)
-#     except Exception as e:
-#         st.error(f"Error loading data: {e}")
-#         return None
-
-# def load_elo_data():
-#     """Load ELO history data if available."""
-#     try:
-#         elo_file = Path("Elo_Data/elo_history.csv")
-#         if elo_file.exists():
-#             return pd.read_csv(elo_file, parse_dates=['date'])
-#         return None
-#     except Exception as e:
-#         return None
-
-# def render():
-#     """Render the athlete analytics dashboard."""
-    
-#     st.header("Athlete Performance Analytics")
-    
-#     # Load data
-#     df = load_data()
-#     elo_df = load_elo_data()
-    
-#     if df is None or df.empty:
-#         st.error("No competition data available")
-#         return
-    
-#     # Clean and prepare data
-#     df = df.dropna(subset=['name', 'year', 'discipline', 'gender'])
-#     df['year'] = pd.to_numeric(df['year'], errors='coerce')
-#     df = df.dropna(subset=['year'])
-    
-#     if 'start_date' in df.columns:
-#         df['start_date'] = pd.to_datetime(df['start_date'], errors='coerce')
-    
-#     if 'round_rank' in df.columns:
-#         df['round_rank'] = pd.to_numeric(df['round_rank'], errors='coerce')
-    
-#     render_individual_analysis(df, elo_df)
-    
-#     render_head_to_head(df, elo_df)
-
-#     render_location_performance(df)
-
-# def render_individual_analysis(df, elo_df):
-#     """Render individual athlete analysis."""
-        
-#     # Athlete selection
-#     athletes = sorted(df['name'].unique())
-#     default_athlete = "Ondra Adam" if "Ondra Adam" in athletes else athletes[0]
-#     selected_athlete = st.selectbox("Select Athlete", athletes, index=athletes.index(default_athlete) if default_athlete in athletes else 0)
-    
-#     #### move second athlete for comparison to here ###
-
-#     if not selected_athlete:
-#         return
-    
-#     # Filter data for selected athlete
-#     athlete_df = df[df['name'] == selected_athlete].copy()
-    
-#     if athlete_df.empty:
-#         st.warning(f"No data found for {selected_athlete}")
-#         return
-    
-#     # Basic athlete info
-#     col0, col1, col2, col3, col4, col5 = st.columns(6)
-#     with col0:
-#         st.metric("Current ELO", 
-#                   f"{elo_df[elo_df['name'] == selected_athlete]['elo_after'].iloc[-1]:.0f}" if elo_df is not None and not elo_df[elo_df['name'] == selected_athlete].empty else "N/A")
-
-#     with col1:
-#         total_comps = len(athlete_df)
-#         st.metric("Total Competitions", total_comps)
-  
-#     with col2:
-#         years_active = athlete_df['year'].max() - athlete_df['year'].min() + 1
-#         st.metric("Years Active", years_active)
-    
-#     # Performance overview
-#     if 'round_rank' in athlete_df.columns:
-#         rank_data = athlete_df.dropna(subset=['round_rank'])
-        
-#         if not rank_data.empty:
-           
-#             with col3:
-#                 avg_rank = rank_data['round_rank'].mean()
-#                 st.metric("Average Rank", f"{avg_rank:.1f}")
-            
-#             with col4:
-#                 podiums = (rank_data['round_rank'] <= 3).sum()
-#                 st.metric("Podium Finishes", podiums)
-            
-#             with col5:
-#                 wins = (rank_data['round_rank'] == 1).sum()
-#                 st.metric("Wins", wins)
-    
-#     # Competition timeline
-#     st.subheader("Competition Timeline")
-    
-#     if 'start_date' in athlete_df.columns:
-#         timeline_df = athlete_df.dropna(subset=['start_date']).copy()
-#         timeline_df = timeline_df.sort_values('start_date')
-        
-#         if 'round_rank' in timeline_df.columns:
-#             fig_timeline = px.scatter(
-#                 timeline_df,
-#                 x='start_date',
-#                 y='round_rank',
-#                 color='discipline',
-#                 size_max=10,
-#                 title=f"{selected_athlete} - Competition Results Over Time",
-#                 hover_data=['event_name', 'location'] if 'event_name' in timeline_df.columns else None
-#             )
-#             # fig_timeline.update_yaxis(autorange="reversed")
-#             fig_timeline.update_layout(height=500)
-#             st.plotly_chart(fig_timeline, width='stretch')
-    
-#     # Performance by discipline
-#     if len(athlete_df['discipline'].unique()) > 1:
-#         st.subheader("Performance by Discipline")
-        
-#         discipline_stats = athlete_df.groupby('discipline').agg({
-#             'round_rank': ['count', 'mean', 'min'] if 'round_rank' in athlete_df.columns else ['count'],
-#             'year': ['min', 'max']
-#         }).round(2)
-        
-#         discipline_stats.columns = ['_'.join(col).strip() for col in discipline_stats.columns.values]
-#         discipline_stats = discipline_stats.reset_index()
-        
-#         st.dataframe(discipline_stats, width='stretch')
-    
-#     # ELO progression if available
-#     if elo_df is not None:
-#         athlete_elo = elo_df[
-#             (elo_df['name'].str.lower() == selected_athlete.lower()) &
-#             (elo_df['competed'] == True)
-#         ].copy()
-        
-#         if not athlete_elo.empty:
-#             st.subheader("ELO Rating Progression")
-            
-#             fig_elo = px.line(
-#                 athlete_elo,
-#                 x='date',
-#                 y='elo_after',
-#                 color='discipline',
-#                 title=f"{selected_athlete} - ELO Rating History",
-#                 markers=True
-#             )
-#             fig_elo.update_layout(height=400)
-#             st.plotly_chart(fig_elo, width='stretch')
-
-# def render_head_to_head(df, elo_df):
-#     """Render head-to-head athlete comparison."""
-    
-#     st.subheader("Head-to-Head Comparison")
-
-#     athletes = sorted([name.title() for name in df['name'].unique()])
-
-#     col1, col2 = st.columns(2)
-#     with col1:
-#         default_athlete1 = "Ondra Adam" if "Ondra Adam" in athletes else athletes[0]
-#         athlete1 = st.selectbox("Select First Athlete", athletes, index=athletes.index(default_athlete1) if default_athlete1 in athletes else 0, key="h2h_athlete1")
-#     with col2:
-#         default_athlete2 = "Schubert Jakob" if "Schubert Jakob" in athletes else (athletes[1] if len(athletes) > 1 else athletes[0])
-#         athlete2 = st.selectbox("Select Second Athlete", athletes, index=athletes.index(default_athlete2) if default_athlete2 in athletes else (1 if len(athletes) > 1 else 0), key="h2h_athlete2")
-    
-#     if not athlete1 or not athlete2 or athlete1 == athlete2:
-#         st.info("Please select two different athletes to compare")
-#         return
-    
-#     # Get data for both athletes
-#     athlete1_df = df[df['name'] == athlete1].copy()
-#     athlete2_df = df[df['name'] == athlete2].copy()
-    
-#     # Comparison metrics
-#     st.subheader("Comparison Overview")
-    
-#     col1, col2 = st.columns(2)
-    
-#     with col1:
-#         st.write(f"**{athlete1}**")
-#         st.metric("Total Competitions", len(athlete1_df))
-#         if 'round_rank' in athlete1_df.columns:
-#             rank_data1 = athlete1_df.dropna(subset=['round_rank'])
-#             if not rank_data1.empty:
-#                 st.metric("Average Rank", f"{rank_data1['round_rank'].mean():.1f}")
-#                 st.metric("Wins", (rank_data1['round_rank'] == 1).sum())
-#                 st.metric("Podiums", (rank_data1['round_rank'] <= 3).sum())
-    
-#     with col2:
-#         st.write(f"**{athlete2}**")
-#         st.metric("Total Competitions", len(athlete2_df))
-#         if 'round_rank' in athlete2_df.columns:
-#             rank_data2 = athlete2_df.dropna(subset=['round_rank'])
-#             if not rank_data2.empty:
-#                 st.metric("Average Rank", f"{rank_data2['round_rank'].mean():.1f}")
-#                 st.metric("Wins", (rank_data2['round_rank'] == 1).sum())
-#                 st.metric("Podiums", (rank_data2['round_rank'] <= 3).sum())
-    
-#     # Direct matchups
-#     st.subheader("Direct Matchups")
-    
-#     if 'event_name' in df.columns and 'round_rank' in df.columns:
-#         # Find events where both competed
-#         common_events = set(athlete1_df['event_name'].unique()) & set(athlete2_df['event_name'].unique())
-        
-#         if common_events:
-#             matchups = []
-#             for event in common_events:
-#                 event_data1 = athlete1_df[athlete1_df['event_name'] == event]
-#                 event_data2 = athlete2_df[athlete2_df['event_name'] == event]
-                
-#                 if not event_data1.empty and not event_data2.empty:
-#                     rank1 = event_data1['round_rank'].iloc[0] if 'round_rank' in event_data1.columns else None
-#                     rank2 = event_data2['round_rank'].iloc[0] if 'round_rank' in event_data2.columns else None
-                    
-#                     if pd.notna(rank1) and pd.notna(rank2):
-#                         matchups.append({
-#                             'Event': event,
-#                             f'{athlete1} Rank': int(rank1),
-#                             f'{athlete2} Rank': int(rank2),
-#                             'Winner': athlete1 if rank1 < rank2 else athlete2 if rank2 < rank1 else 'Tie'
-#                         })
-            
-#             if matchups:
-#                 matchup_df = pd.DataFrame(matchups)
-#                 st.dataframe(matchup_df, width='stretch')
-                
-#                 # Head-to-head record
-#                 wins1 = (matchup_df['Winner'] == athlete1).sum()
-#                 wins2 = (matchup_df['Winner'] == athlete2).sum()
-#                 ties = (matchup_df['Winner'] == 'Tie').sum()
-                
-#                 st.write(f"**Head-to-Head Record**: {athlete1} {wins1} - {wins2} {athlete2} (Ties: {ties})")
-#             else:
-#                 st.info("No direct matchups found with ranking data")
-#         else:
-#             st.info("These athletes haven't competed in the same events")
-
-# def render_location_performance(df):
-#     """Render location-based performance analysis."""
-    
-#     st.subheader("Location Performance Analysis")
-    
-#     if 'location' not in df.columns:
-#         st.warning("Location data not available")
-#         return
-    
-#     location_df = df.dropna(subset=['location']).copy()
-    
-#     if location_df.empty:
-#         st.warning("No location data found")
-#         return
-    
-#     # Athlete selection
-#     athletes = sorted(location_df['name'].unique())
-#     default_athlete = "Ondra Adam" if "Ondra Adam" in athletes else athletes[0]
-#     selected_athlete = st.selectbox("Select Athlete for Location Analysis", athletes, index=athletes.index(default_athlete) if default_athlete in athletes else 0,  key="location_athlete")
-    
-#     if not selected_athlete:
-#         return
-    
-#     athlete_location_df = location_df[location_df['name'] == selected_athlete].copy()
-    
-#     if athlete_location_df.empty:
-#         st.warning(f"No location data found for {selected_athlete}")
-#         return
-    
-#     # Performance by location
-#     if 'round_rank' in athlete_location_df.columns:
-#         location_performance = athlete_location_df.groupby('location').agg({
-#             'round_rank': ['mean', 'count', 'min'],
-#             'year': ['min', 'max']
-#         }).round(2)
-        
-#         location_performance.columns = ['avg_rank', 'competitions', 'best_rank', 'first_year', 'last_year']
-#         location_performance = location_performance.reset_index()
-#         location_performance = location_performance[location_performance['competitions'] >= 2]  # Filter for meaningful sample
-        
-#         if not location_performance.empty:
-#             # Best and worst performing locations
-#             col1, col2 = st.columns(2)
-            
-#             with col1:
-#                 st.subheader("Best Performing Locations")
-#                 best_locations = location_performance.nsmallest(5, 'avg_rank')
-                
-#                 fig_best = px.bar(
-#                     best_locations,
-#                     x='avg_rank',
-#                     y='location',
-#                     orientation='h',
-#                     title='Best Average Rankings by Location',
-#                     labels={'avg_rank': 'Average Rank', 'location': 'Location'}
-#                 )
-#                 fig_best.update_layout(height=400, yaxis={'categoryorder':'total descending'})
-#                 st.plotly_chart(fig_best, width='stretch')
-            
-#             with col2:
-#                 st.subheader("Most Competed Locations")
-#                 most_competed = location_performance.nlargest(5, 'competitions')
-                
-#                 fig_most = px.bar(
-#                     most_competed,
-#                     x='competitions',
-#                     y='location',
-#                     orientation='h',
-#                     title='Most Competitions by Location',
-#                     labels={'competitions': 'Number of Competitions', 'location': 'Location'}
-#                 )
-#                 fig_most.update_layout(height=400, yaxis={'categoryorder':'total ascending'})
-#                 st.plotly_chart(fig_most, width='stretch')
-            
-#             # Detailed location statistics
-#             st.subheader("Detailed Location Statistics")
-#             st.dataframe(location_performance.sort_values('avg_rank'), width='stretch')
-     
-#     # Global performance trends
-#     st.subheader("Global Performance Trends")
-    
-#     # Overall location statistics
-#     global_location_stats = location_df.groupby('location').agg({
-#         'name': 'nunique',
-#         'round_rank': 'mean' if 'round_rank' in location_df.columns else 'count',
-#         'year': ['min', 'max']
-#     }).round(2)
-    
-#     global_location_stats.columns = ['unique_athletes', 'avg_rank', 'first_event', 'last_event']
-#     global_location_stats = global_location_stats.reset_index()
-#     global_location_stats = global_location_stats[global_location_stats['unique_athletes'] >= 10]
-    
-#     if not global_location_stats.empty:
-#         # Most competitive locations (by average rank)
-#         competitive_locations = global_location_stats.nsmallest(10, 'avg_rank')
-        
-#         fig_competitive = px.scatter(
-#             competitive_locations,
-#             x='unique_athletes',
-#             y='avg_rank',
-#             size='unique_athletes',
-#             hover_name='location',
-#             title='Most Competitive Locations (Lower Avg Rank = More Competitive)',
-#             labels={'unique_athletes': 'Number of Athletes', 'avg_rank': 'Average Rank'}
-#         )
-#         fig_competitive.update_layout(height=500)
-#         st.plotly_chart(fig_competitive, width='stretch')
-#######################################################################################
-#######################################################################################
-
-# import streamlit as st
-# import pandas as pd
-# import plotly.express as px
-# import plotly.graph_objects as go
-# from plotly.subplots import make_subplots
-# from pathlib import Path
-# import numpy as np
-
-# def load_data():
-#     """Load aggregated competition data."""
-#     try:
-#         data_file = Path("Data/aggregate_data/aggregated_results.csv")
-#         if not data_file.exists():
-#             return None
-#         return pd.read_csv(data_file)
-#     except Exception as e:
-#         st.error(f"Error loading data: {e}")
-#         return None
-
-# def load_elo_data():
-#     """Load ELO history data if available."""
-#     try:
-#         elo_file = Path("Elo_Data/elo_history.csv")
-#         if elo_file.exists():
-#             return pd.read_csv(elo_file, parse_dates=['date'])
-#         return None
-#     except Exception as e:
-#         return None
-
-# def render():
-#     """Main render function for athlete analysis."""
-#     st.header("Deep Dive Athlete Performance Analysis")
-    
-#     # Load data
-#     df = load_data()
-#     elo_df = load_elo_data()
-    
-#     if df is None or df.empty:
-#         st.error("No competition data available")
-#         return
-    
-#     # Clean and prepare data
-#     df = prepare_data(df)
-    
-#     # Top section: Athlete selection with comparison option
-#     render_athlete_selection(df, elo_df)
-
-# def prepare_data(df):
-#     """Clean and prepare the dataframe."""
-#     df = df.dropna(subset=['name', 'year', 'discipline', 'gender'])
-#     df['year'] = pd.to_numeric(df['year'], errors='coerce')
-#     df = df.dropna(subset=['year'])
-    
-#     if 'start_date' in df.columns:
-#         df['start_date'] = pd.to_datetime(df['start_date'], errors='coerce')
-    
-#     if 'round_rank' in df.columns:
-#         df['round_rank'] = pd.to_numeric(df['round_rank'], errors='coerce')
-    
-#     return df
-
-# def render_athlete_selection(df, elo_df):
-#     """Render athlete selection and comparison setup."""
-    
-#     # Athlete selection section
-#     st.subheader("Select Athletes for Analysis")
-    
-#     athletes = sorted(df['name'].unique())
-    
-#     col1, col2 = st.columns([2, 2])
-    
-#     with col1:
-#         default_athlete1 = "Ondra Adam" if "Ondra Adam" in athletes else athletes[0]
-#         primary_athlete = st.selectbox(
-#             "Primary Athlete", 
-#             athletes, 
-#             index=athletes.index(default_athlete1) if default_athlete1 in athletes else 0,
-#             key="primary_athlete"
-#         )
-    
-#     with col2:
-#         comparison_athletes = ["None"] + athletes
-#         default_athlete2 = "None" #"Schubert Jakob" if "Schubert Jakob" in athletes else "None"
-#         comparison_athlete = st.selectbox(
-#             "Compare With (Optional)", 
-#             comparison_athletes,
-#             index=comparison_athletes.index(default_athlete2) if default_athlete2 in comparison_athletes else 0,
-#             key="comparison_athlete"
-#         )
-    
-#     comparison_mode = comparison_athlete != "None" and comparison_athlete != primary_athlete
-
-#     # Filter data for selected athletes
-#     primary_df = df[df['name'] == primary_athlete].copy()
-#     comparison_df = df[df['name'] == comparison_athlete].copy() if comparison_mode else pd.DataFrame()
-    
-#     # Render all analysis sections
-#     render_overview_metrics(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode, elo_df)
-#     render_performance_timeline(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode)
-#     render_discipline_breakdown(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode)
-#     render_round_performance(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode)
-#     render_location_analysis(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode)
-#     render_peak_performance(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode)
-
-# def render_overview_metrics(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode, elo_df):
-#     """Render overview metrics section."""
-#     st.subheader("Performance Overview")
-    
-#     if comparison_mode:
-#         col1, col2 = st.columns(2)
-        
-#         with col1:
-#             st.write(f"**{primary_athlete}**")
-#             display_athlete_metrics(primary_df, elo_df, primary_athlete)
-        
-#         with col2:
-#             st.write(f"**{comparison_athlete}**")
-#             display_athlete_metrics(comparison_df, elo_df, comparison_athlete)
-#     else:
-#         st.write(f"**{primary_athlete}**")
-#         display_athlete_metrics(primary_df, elo_df, primary_athlete)
-
-# def display_athlete_metrics(athlete_df, elo_df, athlete_name):
-#     """Display metrics for a single athlete."""
-#     if athlete_df.empty:
-#         st.warning("No data available")
-#         return
-    
-#     col1, col2, col3, col4, col5, col6 = st.columns(6)
-
-#     with col1:
-#         total_comps = len(athlete_df)
-#         st.metric("Total Competitions", total_comps)
-
-#     with col2:
-#         years_active = athlete_df['year'].max() - athlete_df['year'].min() + 1
-#         st.metric("Years Active", years_active)
-
-#     with col3:
-#         avg_rank = None
-#         if 'round_rank' in athlete_df.columns:
-#             rank_data = athlete_df.dropna(subset=['round_rank'])
-#             if not rank_data.empty:
-#                 avg_rank = rank_data['round_rank'].mean()
-#                 st.metric("Average Rank", f"{avg_rank:.1f}")
-
-#     with col4:
-#         if 'round_rank' in athlete_df.columns and not rank_data.empty:
-#             wins = (rank_data['round_rank'] == 1).sum()
-#             st.metric("Wins", wins)
-
-#     with col5:
-#         if 'round_rank' in athlete_df.columns and not rank_data.empty:
-#             podiums = (rank_data['round_rank'] <= 3).sum()
-#             st.metric("Podium Finishes", podiums)
-
-#     with col6:
-#         if elo_df is not None:
-#             athlete_elo = elo_df[elo_df['name'] == athlete_name]
-#             if not athlete_elo.empty:
-#                 current_elo = athlete_elo['elo_after'].iloc[-1]
-#                 st.metric("Current ELO", f"{current_elo:.0f}")
-
-
-# def render_performance_timeline(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode):
-#     """Render performance timeline analysis."""
-#     st.subheader("Performance Timeline")
-    
-#     if 'start_date' not in primary_df.columns or 'round_rank' not in primary_df.columns:
-#         st.warning("Timeline data not available")
-#         return
-    
-#     fig = go.Figure()
-    
-#     # Primary athlete
-#     timeline_primary = primary_df.dropna(subset=['start_date', 'round_rank']).sort_values('start_date')
-#     if not timeline_primary.empty:
-#         fig.add_trace(go.Scatter(
-#             x=timeline_primary['start_date'],
-#             y=timeline_primary['round_rank'],
-#             mode='markers',
-#             name=primary_athlete,
-#             marker=dict(size=8),
-#             line=dict(width=2)
-#         ))
-    
-#     # Comparison athlete
-#     if comparison_mode and not comparison_df.empty:
-#         timeline_comparison = comparison_df.dropna(subset=['start_date', 'round_rank']).sort_values('start_date')
-#         if not timeline_comparison.empty:
-#             fig.add_trace(go.Scatter(
-#                 x=timeline_comparison['start_date'],
-#                 y=timeline_comparison['round_rank'],
-#                 mode='markers',
-#                 name=comparison_athlete,
-#                 marker=dict(size=8),
-#                 line=dict(width=2)
-#             ))
-    
-#     fig.update_layout(
-#         title="Competition Results Over Time",
-#         xaxis_title="Date",
-#         yaxis_title="Rank (Lower is Better)",
-#         yaxis=dict(autorange="reversed"),
-#         height=500
-#     )
-    
-#     st.plotly_chart(fig, use_container_width=True)
-
-# def render_discipline_breakdown(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode):
-#     """Render discipline-specific performance breakdown."""
-#     st.subheader("Performance by Discipline")
-    
-#     def get_discipline_stats(athlete_df):
-#         if athlete_df.empty or 'round_rank' not in athlete_df.columns:
-#             return pd.DataFrame()
-        
-#         return athlete_df.groupby('discipline').agg({
-#             'round_rank': ['count', 'mean', 'min', lambda x: (x <= 3).sum(), lambda x: (x == 1).sum()],
-#             'year': ['min', 'max']
-#         }).round(2)
-    
-#     primary_stats = get_discipline_stats(primary_df)
-    
-#     if comparison_mode and not comparison_df.empty:
-#         comparison_stats = get_discipline_stats(comparison_df)
-        
-#         col1, col2 = st.columns(2)
-        
-#         with col1:
-#             st.write(f"**{primary_athlete}**")
-#             if not primary_stats.empty:
-#                 primary_stats.columns = ['Competitions', 'Avg Rank', 'Best Rank', 'Podiums', 'Wins', 'First Year', 'Last Year']
-#                 st.dataframe(primary_stats, use_container_width=True)
-        
-#         with col2:
-#             st.write(f"**{comparison_athlete}**")
-#             if not comparison_stats.empty:
-#                 comparison_stats.columns = ['Competitions', 'Avg Rank', 'Best Rank', 'Podiums', 'Wins', 'First Year', 'Last Year']
-#                 st.dataframe(comparison_stats, use_container_width=True)
-#     else:
-#         if not primary_stats.empty:
-#             primary_stats.columns = ['Competitions', 'Avg Rank', 'Best Rank', 'Podiums', 'Wins', 'First Year', 'Last Year']
-#             st.dataframe(primary_stats, use_container_width=True)
-
-# def render_round_performance(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode):
-#     """Render performance by competition round."""
-#     st.subheader("Performance by Competition Round")
-    
-#     if 'round' not in primary_df.columns or 'round_rank' not in primary_df.columns:
-#         st.warning("Round data not available")
-#         return
-    
-#     def get_round_stats(athlete_df):
-#         if athlete_df.empty:
-#             return pd.DataFrame()
-        
-#         round_data = athlete_df.dropna(subset=['round', 'round_rank'])
-#         if round_data.empty:
-#             return pd.DataFrame()
-        
-#         return round_data.groupby('round').agg({
-#             'round_rank': ['count', 'mean', 'min', lambda x: (x <= 3).sum()]
-#         }).round(2)
-    
-#     primary_round_stats = get_round_stats(primary_df)
-    
-#     if not primary_round_stats.empty:
-#         primary_round_stats.columns = ['Competitions', 'Avg Rank', 'Best Rank', 'Podiums']
-#         primary_round_stats = primary_round_stats.reset_index()
-        
-#         if comparison_mode and not comparison_df.empty:
-#             comparison_round_stats = get_round_stats(comparison_df)
-            
-#             if not comparison_round_stats.empty:
-#                 comparison_round_stats.columns = ['Competitions', 'Avg Rank', 'Best Rank', 'Podiums']
-#                 comparison_round_stats = comparison_round_stats.reset_index()
-                
-#                 # Create comparison chart
-#                 fig = make_subplots(rows=1, cols=2, subplot_titles=[primary_athlete, comparison_athlete])
-                
-#                 fig.add_trace(go.Bar(
-#                     x=primary_round_stats['round'],
-#                     y=primary_round_stats['Avg Rank'],
-#                     name=primary_athlete,
-#                     showlegend=False
-#                 ), row=1, col=1)
-                
-#                 fig.add_trace(go.Bar(
-#                     x=comparison_round_stats['round'],
-#                     y=comparison_round_stats['Avg Rank'],
-#                     name=comparison_athlete,
-#                     showlegend=False
-#                 ), row=1, col=2)
-                
-#                 fig.update_layout(title="Average Rank by Competition Round", height=400)
-#                 fig.update_yaxes(autorange="reversed")
-#                 st.plotly_chart(fig, use_container_width=True)
-#         else:
-#             # Single athlete chart
-#             fig = px.bar(
-#                 primary_round_stats,
-#                 x='round',
-#                 y='Avg Rank',
-#                 title=f"{primary_athlete} - Average Rank by Round"
-#             )
-#             fig.update_yaxis(autorange="reversed")
-#             st.plotly_chart(fig, use_container_width=True)
-        
-#         # Show detailed stats table
-#         if comparison_mode and not comparison_df.empty:
-#             col1, col2 = st.columns(2)
-            
-#             with col1:
-#                 st.write(f"**{primary_athlete} Round Statistics**")
-#                 st.dataframe(primary_round_stats, use_container_width=True)
-            
-#             with col2:
-#                 if not comparison_round_stats.empty:
-#                     st.write(f"**{comparison_athlete} Round Statistics**")
-#                     st.dataframe(comparison_round_stats, use_container_width=True)
-#         else:
-#             st.dataframe(primary_round_stats, use_container_width=True)
-
-# def render_location_analysis(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode):
-#     """Render location-based performance analysis."""
-#     st.subheader("Performance by Location")
-    
-#     if 'location' not in primary_df.columns or 'round_rank' not in primary_df.columns:
-#         st.warning("Location data not available")
-#         return
-    
-#     def get_location_performance(athlete_df, min_competitions=2):
-#         if athlete_df.empty:
-#             return pd.DataFrame()
-        
-#         location_data = athlete_df.dropna(subset=['location', 'round_rank'])
-#         if location_data.empty:
-#             return pd.DataFrame()
-        
-#         stats = location_data.groupby('location').agg({
-#             'round_rank': ['count', 'mean', 'min'],
-#             'year': ['min', 'max']
-#         }).round(2)
-        
-#         stats.columns = ['competitions', 'avg_rank', 'best_rank', 'first_year', 'last_year']
-#         stats = stats.reset_index()
-#         return stats[stats['competitions'] >= min_competitions]
-    
-#     primary_location_stats = get_location_performance(primary_df)
-    
-#     if comparison_mode and not comparison_df.empty:
-#         comparison_location_stats = get_location_performance(comparison_df)
-        
-#         col1, col2 = st.columns(2)
-        
-#         with col1:
-#             st.write(f"**{primary_athlete} - Best Locations**")
-#             if not primary_location_stats.empty:
-#                 best_primary = primary_location_stats.nsmallest(5, 'avg_rank')
-#                 fig1 = px.bar(
-#                     best_primary,
-#                     x='avg_rank',
-#                     y='location',
-#                     orientation='h',
-#                     title="Best Average Rankings"
-#                 )
-#                 fig1.update_layout(height=300, yaxis={'categoryorder':'total descending'})
-#                 st.plotly_chart(fig1, use_container_width=True)
-        
-#         with col2:
-#             st.write(f"**{comparison_athlete} - Best Locations**")
-#             if not comparison_location_stats.empty:
-#                 best_comparison = comparison_location_stats.nsmallest(5, 'avg_rank')
-#                 fig2 = px.bar(
-#                     best_comparison,
-#                     x='avg_rank',
-#                     y='location',
-#                     orientation='h',
-#                     title="Best Average Rankings"
-#                 )
-#                 fig2.update_layout(height=300, yaxis={'categoryorder':'total descending'})
-#                 st.plotly_chart(fig2, use_container_width=True)
-#     else:
-#         if not primary_location_stats.empty:
-#             best_locations = primary_location_stats.nsmallest(8, 'avg_rank')
-            
-#             fig = px.bar(
-#                 best_locations,
-#                 x='avg_rank',
-#                 y='location',
-#                 orientation='h',
-#                 title=f"{primary_athlete} - Best Performing Locations",
-#                 labels={'avg_rank': 'Average Rank', 'location': 'Location'}
-#             )
-#             fig.update_layout(height=400, yaxis={'categoryorder':'total descending'})
-#             st.plotly_chart(fig, use_container_width=True)
-
-# def render_peak_performance(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode):
-#     """Render peak performance identification."""
-#     st.subheader("Peak Performance Analysis")
-    
-#     if 'year' not in primary_df.columns or 'round_rank' not in primary_df.columns:
-#         st.warning("Year and rank data required for peak analysis")
-#         return
-    
-#     def get_yearly_performance(athlete_df):
-#         if athlete_df.empty:
-#             return pd.DataFrame()
-        
-#         yearly_data = athlete_df.dropna(subset=['year', 'round_rank'])
-#         if yearly_data.empty:
-#             return pd.DataFrame()
-        
-#         return yearly_data.groupby('year').agg({
-#             'round_rank': ['count', 'mean', 'min'],
-#             'name': 'count'
-#         }).round(2)
-    
-#     primary_yearly = get_yearly_performance(primary_df)
-    
-#     if not primary_yearly.empty:
-#         primary_yearly.columns = ['competitions', 'avg_rank', 'best_rank', 'total_entries']
-#         primary_yearly = primary_yearly.reset_index()
-        
-#         # Yearly performance chart
-#         if comparison_mode and not comparison_df.empty:
-#             comparison_yearly = get_yearly_performance(comparison_df)
-#             if not comparison_yearly.empty:
-#                 comparison_yearly.columns = ['competitions', 'avg_rank', 'best_rank', 'total_entries']
-#                 comparison_yearly = comparison_yearly.reset_index()
-                
-#                 fig = go.Figure()
-                
-#                 fig.add_trace(go.Scatter(
-#                     x=primary_yearly['year'],
-#                     y=primary_yearly['avg_rank'],
-#                     mode='lines+markers',
-#                     name=primary_athlete,
-#                     line=dict(width=3)
-#                 ))
-                
-#                 fig.add_trace(go.Scatter(
-#                     x=comparison_yearly['year'],
-#                     y=comparison_yearly['avg_rank'],
-#                     mode='lines+markers',
-#                     name=comparison_athlete,
-#                     line=dict(width=3)
-#                 ))
-                
-#                 fig.update_layout(
-#                     title="Average Performance by Year",
-#                     xaxis_title="Year",
-#                     yaxis_title="Average Rank (Lower is Better)",
-#                     yaxis=dict(autorange="reversed"),
-#                     height=400
-#                 )
-                
-#                 st.plotly_chart(fig, use_container_width=True)
-#         else:
-#             fig = px.line(
-#                 primary_yearly,
-#                 x='year',
-#                 y='avg_rank',
-#                 title=f"{primary_athlete} - Performance Evolution",
-#                 markers=True
-#             )
-#             fig.update_yaxis(autorange="reversed")
-#             fig.update_layout(height=400)
-#             st.plotly_chart(fig, use_container_width=True)
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -938,7 +101,7 @@ def render_athlete_selection(df, elo_df):
     # Render all analysis sections
     render_overview_metrics(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode, elo_df)
     render_elo_history(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode, elo_df)
-    render_performance_timeline(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode)
+    # render_performance_timeline(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode)
     render_discipline_round_analysis(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode)
     render_location_analysis(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode)
 
@@ -1036,55 +199,308 @@ def render_elo_history(primary_df, comparison_df, primary_athlete, comparison_at
         height=400
     )
     
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
-def render_performance_timeline(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode):
-    """Render performance timeline analysis."""
-    st.subheader("Performance Timeline")
+
+# def render_discipline_round_analysis(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode):
+#     """Render combined discipline and round performance analysis with funnel charts."""
+#     st.subheader("Performance by Discipline & Round")
     
-    if 'start_date' not in primary_df.columns or 'round_rank' not in primary_df.columns:
-        st.warning("Timeline data not available")
-        return
+#     # Only show Boulder and Lead disciplines
+#     disciplines_to_show = ['Boulder', 'Lead']
     
-    fig = go.Figure()
+#     # Get available disciplines for each athlete
+#     primary_disciplines = set(primary_df['discipline'].unique()) if not primary_df.empty else set()
+#     comparison_disciplines = set(comparison_df['discipline'].unique()) if comparison_mode and not comparison_df.empty else set()
     
-    # Primary athlete
-    timeline_primary = primary_df.dropna(subset=['start_date', 'round_rank']).sort_values('start_date')
-    if not timeline_primary.empty:
-        fig.add_trace(go.Scatter(
-            x=timeline_primary['start_date'],
-            y=timeline_primary['round_rank'],
-            mode='markers',
-            name=primary_athlete,
-            marker=dict(size=8, color='#1f77b4')
-        ))
+#     if comparison_mode:
+#         available_disciplines = primary_disciplines.union(comparison_disciplines)
+#     else:
+#         available_disciplines = primary_disciplines
     
-    # Comparison athlete
-    if comparison_mode and not comparison_df.empty:
-        timeline_comparison = comparison_df.dropna(subset=['start_date', 'round_rank']).sort_values('start_date')
-        if not timeline_comparison.empty:
-            fig.add_trace(go.Scatter(
-                x=timeline_comparison['start_date'],
-                y=timeline_comparison['round_rank'],
-                mode='markers',
-                name=comparison_athlete,
-                marker=dict(size=8, color='#ff7f0e')
-            ))
+#     # Filter to only Boulder and Lead
+#     disciplines_to_display = [d for d in disciplines_to_show if d in available_disciplines]
     
-    fig.update_layout(
-        title="Competition Results Over Time",
-        xaxis_title="Date",
-        yaxis_title="Rank (Lower is Better)",
-        yaxis=dict(autorange="reversed"),
-        height=500
-    )
+#     if not disciplines_to_display:
+#         st.warning("No Boulder or Lead discipline data available")
+#         return
     
-    st.plotly_chart(fig, use_container_width=True)
+#     print(primary_df.columns) => ['name', 'country', 'round_rank', 'round_score', 'event_name',
+#        'event_id', 'year', 'location', 'discipline', 'gender', 'round',
+#        'start_date', 'category_round_results', 'event_results', 'p1_top',
+#        'p1_zone', 'p2_top', 'p2_zone', 'p3_top', 'p3_zone', 'p4_top',
+#        'p4_zone', 'p5_top', 'p5_zone', 'source_file', '_file', 'file_path',
+#        'route_1', '1/8_winner', '1/8_time', '1/4_winner', '1/4_time',
+#        '1/2_winner', '1/2_time', 'final_winner', 'final_time',
+#        'small_final_winner', 'small_final_time', 'route_2', 'quali_time_a',
+#        'quali_time_b', 'boulder_score', 'boulder_rank', 'lead_score',
+#        'lead_rank', 'processed_at', 'scoring_era']
+#     # create metrics before the funnel chart
+#     # for boulder,
+#     # add total events participated, # add % progression to the semis and finals
+#     # Add number of p{num}_tops in round(qualis, semis, finals), as well as % e.g 200 tops (60%)
+#     # Add number of avg attempts in round(qualis, semis, finals)
+#     # for lead,
+#     # add total events participated, # add % progression to the semis and finals
+#     # Add number of avg_score in qualis, semis, finals.
+    
+#     # LET'S CHANGE FUNNEL CHART TO SEPARATE FUNNEL CHARTS FOR EACH ATHELETE AND EACH DISCIPLINE,
+#     # EACH CHART STILL SHOW COMPETITIONS IN QUALI, SEMI, FINAL AS PROGRESSION TOWARDS NEXT ROUNDS
+    
+#     # Create funnel chart for each discipline
+#     for discipline in disciplines_to_display:
+#         # Prepare funnel data
+#         funnel_data = []
+#         round_order = ['Qualification', 'Semi-Final', 'Final']
+        
+#         # Primary athlete data
+#         primary_disc_data = primary_df[primary_df['discipline'] == discipline]
+#         for round_name in round_order:
+#             round_data = primary_disc_data[primary_disc_data['round'] == round_name]
+#             if not round_data.empty and 'round_rank' in round_data.columns:
+#                 rank_data = round_data.dropna(subset=['round_rank'])
+#                 if not rank_data.empty:
+#                     funnel_data.append({
+#                         'competitions': len(rank_data),
+#                         'round': round_name,
+#                         'athlete': primary_athlete,
+#                         'avg_rank': rank_data['round_rank'].mean()
+#                     })
+        
+#         # Comparison athlete data
+#         if comparison_mode:
+#             comparison_disc_data = comparison_df[comparison_df['discipline'] == discipline]
+#             for round_name in round_order:
+#                 round_data = comparison_disc_data[comparison_disc_data['round'] == round_name]
+#                 if not round_data.empty and 'round_rank' in round_data.columns:
+#                     rank_data = round_data.dropna(subset=['round_rank'])
+#                     if not rank_data.empty:
+#                         funnel_data.append({
+#                             'competitions': len(rank_data),
+#                             'round': round_name,
+#                             'athlete': comparison_athlete,
+#                             'avg_rank': rank_data['round_rank'].mean()
+#                         })
+        
+#         if funnel_data:
+#             funnel_df = pd.DataFrame(funnel_data)
+            
+#             # Create funnel chart
+#             fig = px.funnel(
+#                 funnel_df, 
+#                 x='competitions', 
+#                 y='round', 
+#                 color='athlete',
+#                 title=f"{discipline} - Competition Progression",
+#                 color_discrete_map={primary_athlete: '#1f77b4', comparison_athlete: '#ff7f0e'} if comparison_mode else {primary_athlete: '#1f77b4'},
+#                 text='competitions'
+#             )
+
+#             # Remove 3D effects by updating layout
+#             fig.update_layout(height=400)
+
+#             # Make funnel bars flat (remove any 3D styling)
+#             fig.update_traces(textinfo='text', textposition='inside', textfont_size=16)
+#             st.plotly_chart(fig, width='stretch')
+#         else:
+#             st.info(f"No round data available for {discipline}")
 
 def render_discipline_round_analysis(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode):
-    """Render combined discipline and round performance analysis with funnel charts."""
+    """Render combined discipline and round performance analysis with metrics and separate funnel charts."""
     st.subheader("Performance by Discipline & Round")
+    def display_discipline_metrics(disc_data, discipline):
+        """Display discipline-specific metrics."""
+        if disc_data.empty:
+            st.metric("Status", "No data available")
+            return
+        
+        # Total events participated and progression percentages in one column
+        total_events = len(disc_data)
+        quali_count = len(disc_data[disc_data['round'] == 'Qualification'])
+        semi_count = len(disc_data[disc_data['round'] == 'Semi-Final'])
+        final_count = len(disc_data[disc_data['round'] == 'Final'])
+        
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            st.metric("Total Events", total_events)
+        with col2:
+            if quali_count > 0:
+                semi_progression = (semi_count / quali_count * 100) if quali_count > 0 else 0
+                st.metric("Progression to Semis", f"{semi_progression:.1f}%")
+        with col3:
+            if quali_count > 0:
+                final_progression = (final_count / quali_count * 100) if quali_count > 0 else 0
+                st.metric("Progression to Finals", f"{final_progression:.1f}%")
+        
+        if discipline == 'Boulder':
+            display_boulder_metrics(disc_data)
+        elif discipline == 'Lead':
+            display_lead_metrics(disc_data)
+
+    def display_boulder_metrics(disc_data):
+        """Display Boulder-specific metrics."""
+        rounds = ['Qualification', 'Semi-Final', 'Final']
+        
+        for round_name in rounds:
+            round_data = disc_data[disc_data['round'] == round_name]
+            if round_data.empty:
+                continue
+
+            # Calculate overall averages for all problems
+            all_tops_percentages = []
+            all_attempts = []
+            total_top_counts = 0
+            total_problems = 0
+
+            for i in range(1, 6):  # P1 to P5
+                top_col = f'p{i}_top'
+
+                if top_col in round_data.columns:
+                    # Count tops (not 'X')
+                    top_counts = round_data[top_col].apply(lambda x: x != 'X' if pd.notna(x) else False).sum()
+                    problem_count = round_data[top_col].notna().sum()
+
+                    total_top_counts += top_counts
+                    total_problems += problem_count
+
+                    if problem_count > 0:
+                        top_percentage = (top_counts / problem_count) * 100
+                        all_tops_percentages.append(top_percentage)
+
+                        # Calculate average attempts for successful tops
+                        successful_attempts = round_data[round_data[top_col] != 'X'][top_col]
+                        if not successful_attempts.empty:
+                            avg_attempts = pd.to_numeric(successful_attempts, errors='coerce').mean()
+                            if pd.notna(avg_attempts):
+                                all_attempts.append(avg_attempts)
+
+            # Display averages as metrics in columns
+            if all_tops_percentages:
+                avg_top_percentage = sum(all_tops_percentages) / len(all_tops_percentages)
+                avg_attempts_overall = sum(all_attempts) / len(all_attempts) if all_attempts else 0
+
+                col1, col2, col3 = st.columns(3)
+                with col1:
+                    st.subheader(round_name)
+                with col2:
+                    st.metric("Top", f"{total_top_counts} ({avg_top_percentage:.0f}%)")
+                with col3:
+                    st.metric("Avg Attempts", f"{avg_attempts_overall:.1f}")
+
+
+
+    def display_lead_metrics(disc_data):
+        """Display Lead-specific metrics."""
+        rounds = ['Qualification', 'Semi-Final', 'Final']
+        round_metrics = []
+
+        for round_name in rounds:
+            round_data = disc_data[disc_data['round'] == round_name]
+            if round_data.empty:
+                continue
+
+            # Check for route scores
+            route_cols = ['route_1', 'route_2']
+            all_scores = []
+
+            for route_col in route_cols:
+                if route_col in round_data.columns:
+                    scores = round_data[route_col].dropna()
+                    if not scores.empty:
+                        # Try to extract numeric values from scores like "45.5" or "Top"
+                        for score in scores:
+                            if str(score).lower() == 'top':
+                                all_scores.append(100)
+                            else:
+                                try:
+                                    all_scores.append(float(str(score).split()[0]))
+                                except:
+                                    continue
+
+            if all_scores:
+                avg_score = sum(all_scores) / len(all_scores)
+                round_metrics.append((round_name, avg_score))
+
+        # --- Display all collected metrics in one row ---
+        if round_metrics:
+            st.markdown("Average Scores by Round")
+            cols = st.columns(len(round_metrics))
+            for col, (round_name, avg_score) in zip(cols, round_metrics):
+                col.metric(f"{round_name}", f"{avg_score:.1f}")
+
+                    
+    def create_separate_funnels(primary_data, comparison_data, primary_athlete, comparison_athlete, discipline, comparison_mode):
+        """Create separate funnel charts for each athlete."""
+        
+        def create_funnel_data(athlete_data, athlete_name):
+            funnel_data = []
+            round_order = ['Qualification', 'Semi-Final', 'Final']
+            
+            for round_name in round_order:
+                round_data = athlete_data[athlete_data['round'] == round_name]
+                if not round_data.empty and 'round_rank' in round_data.columns:
+                    rank_data = round_data.dropna(subset=['round_rank'])
+                    if not rank_data.empty:
+                        funnel_data.append({
+                            'competitions': len(rank_data),
+                            'round': round_name,
+                            'athlete': athlete_name,
+                            'avg_rank': rank_data['round_rank'].mean()
+                        })
+            
+            return pd.DataFrame(funnel_data) if funnel_data else pd.DataFrame()
+        
+        # Create funnel data
+        primary_funnel = create_funnel_data(primary_data, primary_athlete)
+        comparison_funnel = create_funnel_data(comparison_data, comparison_athlete) if comparison_mode else pd.DataFrame()
+        
+        if comparison_mode and not comparison_funnel.empty and not primary_funnel.empty:
+            # Side by side funnels
+            col1, col2 = st.columns(2)
+            
+            with col1:
+                fig1 = px.funnel(
+                    primary_funnel, 
+                    x='competitions', 
+                    y='round',
+                    title=f"{primary_athlete} - {discipline}",
+                    color_discrete_sequence=['#1f77b4'],
+                    text='competitions'
+                )
+                fig1.update_traces(textinfo='text', textposition='inside', textfont_size=16)
+                fig1.update_layout(height=400)
+                st.plotly_chart(fig1, use_container_width=True)
+            
+            with col2:
+                fig2 = px.funnel(
+                    comparison_funnel, 
+                    x='competitions', 
+                    y='round',
+                    title=f"{comparison_athlete} - {discipline}",
+                    color_discrete_sequence=['#ff7f0e'],
+                    text='competitions'
+                )
+                fig2.update_traces(textinfo='text', textposition='inside', textfont_size=16)
+                fig2.update_layout(height=400)
+                st.plotly_chart(fig2, use_container_width=True)
+                
+        elif not primary_funnel.empty:
+            # Single funnel
+            fig = px.funnel(
+                primary_funnel, 
+                x='competitions', 
+                y='round',
+                title=f"{primary_athlete} - {discipline}",
+                color_discrete_sequence=['#1f77b4'],
+                text='competitions'
+            )
+            fig.update_traces(textinfo='text', textposition='inside', textfont_size=16)
+            fig.update_layout(height=400)
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.info(f"No round data available for {discipline}")
     
+    # Main function logic
     # Only show Boulder and Lead disciplines
     disciplines_to_show = ['Boulder', 'Lead']
     
@@ -1104,63 +520,29 @@ def render_discipline_round_analysis(primary_df, comparison_df, primary_athlete,
         st.warning("No Boulder or Lead discipline data available")
         return
     
-    # Create funnel chart for each discipline
+    # Create metrics and funnel charts for each discipline
     for discipline in disciplines_to_display:
-        # Prepare funnel data
-        funnel_data = []
-        round_order = ['Qualification', 'Semi-Final', 'Final']
+        st.write(f"### {discipline}")
         
-        # Primary athlete data
-        primary_disc_data = primary_df[primary_df['discipline'] == discipline]
-        for round_name in round_order:
-            round_data = primary_disc_data[primary_disc_data['round'] == round_name]
-            if not round_data.empty and 'round_rank' in round_data.columns:
-                rank_data = round_data.dropna(subset=['round_rank'])
-                if not rank_data.empty:
-                    funnel_data.append({
-                        'competitions': len(rank_data),
-                        'round': round_name,
-                        'athlete': primary_athlete,
-                        'avg_rank': rank_data['round_rank'].mean()
-                    })
+        # Get discipline data
+        primary_disc_data = primary_df[primary_df['discipline'] == discipline] if not primary_df.empty else pd.DataFrame()
+        comparison_disc_data = comparison_df[comparison_df['discipline'] == discipline] if comparison_mode and not comparison_df.empty else pd.DataFrame()
         
-        # Comparison athlete data
+        # Display metrics
         if comparison_mode:
-            comparison_disc_data = comparison_df[comparison_df['discipline'] == discipline]
-            for round_name in round_order:
-                round_data = comparison_disc_data[comparison_disc_data['round'] == round_name]
-                if not round_data.empty and 'round_rank' in round_data.columns:
-                    rank_data = round_data.dropna(subset=['round_rank'])
-                    if not rank_data.empty:
-                        funnel_data.append({
-                            'competitions': len(rank_data),
-                            'round': round_name,
-                            'athlete': comparison_athlete,
-                            'avg_rank': rank_data['round_rank'].mean()
-                        })
-        
-        if funnel_data:
-            funnel_df = pd.DataFrame(funnel_data)
-            
-            # Create funnel chart
-            fig = px.funnel(
-                funnel_df, 
-                x='competitions', 
-                y='round', 
-                color='athlete',
-                title=f"{discipline} - Competition Progression",
-                color_discrete_map={primary_athlete: '#1f77b4', comparison_athlete: '#ff7f0e'} if comparison_mode else {primary_athlete: '#1f77b4'},
-                text='competitions'
-            )
-
-            # Remove 3D effects by updating layout
-            fig.update_layout(height=400)
-
-            # Make funnel bars flat (remove any 3D styling)
-            fig.update_traces(textinfo='text', textposition='inside', textfont_size=16)
-            st.plotly_chart(fig, use_container_width=True)
+            col1, col2 = st.columns(2)
+            with col1:
+                st.markdown(f"<span style='color: #1f77b4;'>{primary_athlete} Metrics</span>", unsafe_allow_html=True)
+                display_discipline_metrics(primary_disc_data, discipline)
+            with col2:
+                st.markdown(f"<span style='color: #ff7f0e;'>{comparison_athlete} Metrics</span>", unsafe_allow_html=True)
+                display_discipline_metrics(comparison_disc_data, discipline)
         else:
-            st.info(f"No round data available for {discipline}")
+            display_discipline_metrics(primary_disc_data, discipline)
+        
+        # Create separate funnel charts
+        create_separate_funnels(primary_disc_data, comparison_disc_data, primary_athlete, comparison_athlete, discipline, comparison_mode)
+
 
 def render_location_analysis(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode):
     """Render location-based performance analysis with world map."""
@@ -1291,7 +673,7 @@ def render_location_analysis(primary_df, comparison_df, primary_athlete, compari
             oceancolor="#111111"
         )
 
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width='stretch')
 
     else:
         # Single athlete
@@ -1322,4 +704,4 @@ def render_location_analysis(primary_df, comparison_df, primary_athlete, compari
                 plot_bgcolor="#1e1e1e",
             )
 
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width='stretch')
