@@ -69,7 +69,7 @@ def render():
             markers=True
         )
         fig_yearly.update_layout(height=400)
-        st.plotly_chart(fig_yearly, width='stretch')
+        st.plotly_chart(fig_yearly)
         
         # Gender participation over time
         st.subheader("Gender Participation")
@@ -82,7 +82,7 @@ def render():
             color='gender',
         )
         fig_gender.update_layout(height=400)
-        st.plotly_chart(fig_gender, width='stretch')
+        st.plotly_chart(fig_gender)
     
     with col_right:
         # Discipline distribution pie chart
@@ -95,7 +95,7 @@ def render():
             title='Competitions by Discipline'
         )
         fig_pie.update_layout(height=400)
-        st.plotly_chart(fig_pie, width='stretch')
+        st.plotly_chart(fig_pie)
         
         # Top countries by participation
         if 'country' in df.columns:
@@ -108,7 +108,7 @@ def render():
                 orientation='h',
             )
             fig_countries.update_layout(height=400, yaxis={'categoryorder':'total ascending'})
-            st.plotly_chart(fig_countries, width='stretch')
+            st.plotly_chart(fig_countries)
     
     # Full width charts
     st.subheader("Detailed Analytics")
@@ -119,7 +119,6 @@ def render():
         'event_name': 'nunique'
     }).reset_index()
     athletes_per_comp['avg_athletes'] = athletes_per_comp['name'] / athletes_per_comp['event_name']
-    
     fig_athletes = px.line(
         athletes_per_comp,
         x='year',
@@ -129,7 +128,7 @@ def render():
         markers=True
     )
     fig_athletes.update_layout(height=400)
-    st.plotly_chart(fig_athletes, width='stretch')
+    st.plotly_chart(fig_athletes)
     
     # Scoring system evolution
     era_colors = {
@@ -155,10 +154,13 @@ def render():
             y='count',
             color="scoring_era",
             color_discrete_map=era_colors,
-            title='Competition Count by Scoring System Over Time'
+            title='Competition Count by Scoring System Over Time',
+            barmode='stack',
+            category_orders={"scoring_era": sorted(list(era_colors.keys()))}
         )
-        fig_eras.update_layout(height=400)
-        st.plotly_chart(fig_eras, width='stretch')
+        fig_eras.update_layout(height=400,  barmode='stack')
+        
+        st.plotly_chart(fig_eras)
     
     # Event frequency heatmap
     if 'start_date' in df.columns:
@@ -182,6 +184,6 @@ def render():
                 aspect="auto"
             )
             fig_heatmap.update_layout(height=500)
-            st.plotly_chart(fig_heatmap, width='stretch')
+            st.plotly_chart(fig_heatmap)
     
    

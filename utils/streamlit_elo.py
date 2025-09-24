@@ -201,7 +201,7 @@ def render(analyzer, calculator, filters):
             line_width=2
         )
         
-        st.plotly_chart(fig, width='stretch')
+        st.plotly_chart(fig)
         
         # --- 2. World Map of ELO ---
        
@@ -268,7 +268,7 @@ def render(analyzer, calculator, filters):
             oceancolor="#111111"
         )
 
-        st.plotly_chart(fig_map, width='stretch')
+        st.plotly_chart(fig_map)
 
 
 
@@ -314,7 +314,7 @@ def render(analyzer, calculator, filters):
             legend_title_text='Discipline'
         )
 
-        st.plotly_chart(fig, width='stretch')
+        st.plotly_chart(fig)
 
         
 
@@ -339,4 +339,4 @@ def render(analyzer, calculator, filters):
             
             if stats_data:
                 stats_df = pd.DataFrame(stats_data)
-                st.dataframe(stats_df, hide_index=True, width='stretch')
+                st.dataframe(stats_df, hide_index=True)

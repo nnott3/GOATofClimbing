@@ -217,7 +217,7 @@ def render_boulder_event(event_df, event_name):
                 legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
             )
             
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig)
         
         with col_metrics:
             st.metric("Athletes", int(problems_df['total'].max()))
@@ -388,4 +388,4 @@ def render_lead_event(event_df, event_name):
     for idx in range(1, n_rounds + 1):
         fig.update_xaxes(showticklabels=False, row=1, col=idx)
     
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig)

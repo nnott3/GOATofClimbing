@@ -33,7 +33,7 @@ st.set_page_config(
     layout="wide",
 )
 
-@st.cache_resource
+@st.cache_data
 def load_components():
     """Initialize analysis components."""
     try:

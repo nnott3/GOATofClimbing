@@ -107,9 +107,9 @@ def render():
         return
 
     # Country participation overview
-    st.subheader("Participation Overview")
+    # st.subheader("Participation Overview")
     
-    col1, col2, col3 = st.columns(3)
+    # col1, col2, col3 = st.columns(3)
     
     # Country participation metrics
     country_stats = filtered_df.groupby('country').agg({
@@ -122,32 +122,104 @@ def render():
     country_stats = country_stats.reset_index()
     country_stats['flag'] = country_stats['country'].apply(get_flag_emoji)
     
-    with col1:
-        st.metric("Total Countries", len(country_stats))
+    # with col1:
+    #     st.metric("Total Countries", len(country_stats))
     
-    with col2:
-        avg_athletes = country_stats['athletes'].mean()
-        st.metric("Avg Athletes per Country", f"{avg_athletes:.1f}")
+    # with col2:
+    #     avg_athletes = country_stats['athletes'].mean()
+    #     st.metric("Avg Athletes per Country", f"{avg_athletes:.1f}")
     
-    with col3:
-        total_athletes = country_stats['athletes'].sum()
-        st.metric("Total Athlete Participations", f"{total_athletes:,}")
+    # with col3:
+    #     total_athletes = country_stats['athletes'].sum()
+    #     st.metric("Total Athlete Participations", f"{total_athletes:,}")
     
     # all_flags = " ".join(country_stats['flag'].tolist())
 
     # # Display below the metrics
     # st.markdown(f"<p style='font-size:30px'>{all_flags}</p>", unsafe_allow_html=True)
-    # --- Create choropleth map of athlete counts ---
-    country_stats['country flag'] = country_stats['flag'] + ' ' + country_stats['country']
+    st.subheader("Global Statistics")
+    map_metric = st.pills(
+        "Choose metric to display on map:",
+        ["Number of Athletes", "Number of Events Participated", "Average Rank", "Podiums Finished"],
+        default="Number of Athletes",
+        label_visibility='hidden',
+    )
+
+    # Prepare data based on selected metric
+    if map_metric == "Number of Athletes":
+        map_data = country_stats.copy()
+        color_column = "athletes"
+        color_label = "Athlete Count"
+        title_suffix = "Athlete Participation"
+        color_scale = "Sunset"
+        
+    elif map_metric == "Number of Events Participated":
+        map_data = country_stats.copy()
+        color_column = "events"
+        color_label = "Event Count"
+        title_suffix = "Event Participation"
+        color_scale = "Sunset"
+        
+    elif map_metric == "Average Rank":
+        if 'round_rank' in filtered_df.columns:
+            performance_df = filtered_df.dropna(subset=['round_rank'])
+            country_performance = performance_df.groupby('country').agg({
+                'round_rank': 'mean'
+            }).round(2)
+            country_performance.columns = ['avg_rank']
+            country_performance = country_performance.reset_index()
+            
+            # Filter for countries with at least 10 competitions
+            min_competitions = performance_df.groupby('country').size()
+            countries_with_enough_data = min_competitions[min_competitions >= 10].index
+            country_performance = country_performance[country_performance['country'].isin(countries_with_enough_data)]
+            
+            map_data = country_performance.copy()
+            color_column = "avg_rank"
+            color_label = "Average Rank"
+            title_suffix = "Average Performance"
+            color_scale = "RdYlGn_r"  # Reversed so lower ranks (better) are green
+        else:
+            st.warning("Performance data not available")
+            map_data = country_stats.copy()
+            color_column = "athletes"
+            color_label = "Athlete Count"
+            title_suffix = "Athlete Participation"
+            color_scale = "Sunset"
+
+    elif map_metric == "Podiums Finished":
+        if 'round_rank' in filtered_df.columns:
+            performance_df = filtered_df.dropna(subset=['round_rank'])
+            podium_df = performance_df[performance_df['round_rank'] <= 3]
+            podium_counts = podium_df.groupby('country').size().reset_index(name='total_podiums')
+            
+            map_data = podium_counts.copy()
+            color_column = "total_podiums"
+            color_label = "Total Podiums"
+            title_suffix = "Podium Finishes"
+            color_scale = "RdYlGn_r"
+        else:
+            st.warning("Performance data not available")
+            map_data = country_stats.copy()
+            color_column = "athletes"
+            color_label = "Athlete Count"
+            title_suffix = "Athlete Participation"
+            color_scale = "Sunset"
+
+    # Add flag for hover
+    map_data['flag'] = map_data['country'].apply(get_flag_emoji)
+    map_data['country_flag'] = map_data['flag'] + ' ' + map_data['country']
+
+    # Create the map
     fig_map = px.choropleth(
-        country_stats,
-        locations="country",             # ISO-3 country codes
-        color="athletes",                # number of athletes
-        hover_name="country flag",       # show flag + name on hover
-        hover_data={"athletes": True},   # show athlete count
-        color_continuous_scale="Sunset", # warm colors for counts
-        labels={"athletes": "Athlete Count"},
-        title=f"Athlete Participation by Country",
+        map_data,
+        locations="country",
+        color=color_column,
+        hover_name="country_flag",
+        hover_data={color_column: True},
+        color_continuous_scale=color_scale,
+        labels={color_column: color_label},
+        title=f"{title_suffix} by Country",
     )
 
     # Dark theme + styling
@@ -157,7 +229,7 @@ def render():
         paper_bgcolor="#1e1e1e",
         plot_bgcolor="#1e1e1e",
         coloraxis_colorbar=dict(
-            title="Athletes",
+            title=color_label,
             ticks="outside",
         )
     )
@@ -178,121 +250,17 @@ def render():
         oceancolor="#111111"
     )
 
-    st.plotly_chart(fig_map, use_container_width=True)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    # Top participating countries
-    st.subheader("Top Participating Countries")
+    st.plotly_chart(fig_map)
     
-    col_left, col_right = st.columns(2)
-    
-    with col_left:
-        # Bar chart of top countries
-        top_n = 8
-        top_countries = country_stats.nlargest(top_n, 'athletes')
-        top_countries['country_flag'] = top_countries['flag'] + ' ' + top_countries['country']
-        
-        fig_participation = px.bar(
-            top_countries,
-            x='athletes',
-            y='country_flag',
-            orientation='h',
-            title=f'Top {top_n} Countries by Athlete Count',
-            labels={'athletes': 'Number of Athletes', 'country_flag': 'Country'}
-        )
-        fig_participation.update_layout(height=500, yaxis={'categoryorder':'total ascending', 'tickfont':dict(size=22)})
-        st.plotly_chart(fig_participation, width='stretch')
-    
-    with col_right:
-        # Events participation
-        fig_events = px.bar(
-            top_countries,
-            x='events',
-            y='country_flag',
-            orientation='h',
-            title=f'Top {top_n} Countries by Event Participation',
-            labels={'events': 'Number of Events', 'country_flag': 'Country'}
-        )
-        fig_events.update_layout(height=500, yaxis={'categoryorder':'total ascending', 'tickfont':dict(size=22)})
-        
-        st.plotly_chart(fig_events, width='stretch')
-    
-    # Performance analysis (if rank data available)
-    if 'round_rank' in filtered_df.columns:
-        st.subheader("Performance Analysis")
-        
-        # Calculate performance metrics
-        performance_df = filtered_df.dropna(subset=['round_rank'])
-        country_performance = performance_df.groupby('country').agg({
-            'round_rank': ['mean', 'median', 'count'],
-            'name': 'nunique'
-        }).round(2)
-        
-        country_performance.columns = ['avg_rank', 'median_rank', 'competitions', 'athletes']
-        country_performance = country_performance.reset_index()
-        country_performance = country_performance[country_performance['competitions'] >= 10]  # Filter for meaningful sample size
-        country_performance['flag'] = country_performance['country'].apply(get_flag_emoji)
-        country_performance['country_flag'] = country_performance['flag'] + ' ' + country_performance['country']
-        
-        # Podium analysis
-        podium_df = performance_df[performance_df['round_rank'] <= 3]
-        podium_counts = podium_df.groupby(['country', 'round_rank']).size().unstack(fill_value=0)
-        podium_counts.columns = [f'Rank_{int(col)}' for col in podium_counts.columns]
-        podium_counts['total_podiums'] = podium_counts.sum(axis=1)
-        podium_counts = podium_counts.reset_index()
-        podium_counts['flag'] = podium_counts['country'].apply(get_flag_emoji)
-        
-        col_perf1, col_perf2 = st.columns(2)
-        
-        with col_perf1:
-            # Average ranking performance
-            best_avg_rank = country_performance.nsmallest(8, 'avg_rank')
-            
-            fig_avg_rank = px.bar(
-                best_avg_rank,
-                x='avg_rank',
-                y='country_flag',
-                orientation='h',
-                title='Best Average Rankings',
-                labels={'avg_rank': 'Average Rank', 'country_flag': 'Country'}
-            )
-            fig_avg_rank.update_layout(height=500, yaxis={'categoryorder':'total descending', 'tickfont':dict(size=22)})
-            st.plotly_chart(fig_avg_rank, width='stretch')
-        
-        with col_perf2:
-            # Podium counts
-            if not podium_counts.empty:
-                top_podium = podium_counts.nlargest(8, 'total_podiums')
-                top_podium['country_flag'] = top_podium['flag'] + ' ' + top_podium['country']
-                
-                fig_podiums = px.bar(
-                    top_podium,
-                    x='total_podiums',
-                    y='country_flag',
-                    orientation='h',
-                    title='Most Podium Finishes',
-                    labels={'total_podiums': 'Total Podiums', 'country_flag': 'Country'}
-                )
-                fig_podiums.update_layout(height=500, yaxis={'categoryorder':'total ascending', 'tickfont':dict(size=22)})
-                st.plotly_chart(fig_podiums, width='stretch')
-    
+   
+
+
+
+
+
+
+
+
     # Growth trends over time
     st.subheader("Growth Trends")
     
@@ -313,7 +281,7 @@ def render():
         markers=True
     )
     fig_growth.update_layout(height=500)
-    st.plotly_chart(fig_growth, width='stretch')
+    st.plotly_chart(fig_growth)
     
     # Country comparison table
     st.subheader("Detailed Country Statistics")
@@ -335,5 +303,5 @@ def render():
 
     display_stats.reset_index(drop=True, inplace=True)
     
-    st.dataframe(display_stats, width='stretch')
+    st.dataframe(display_stats)
     

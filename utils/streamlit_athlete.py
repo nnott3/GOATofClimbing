@@ -199,7 +199,7 @@ def render_elo_history(primary_df, comparison_df, primary_athlete, comparison_at
         height=400
     )
     
-    st.plotly_chart(fig, width='stretch')
+    st.plotly_chart(fig)
 
 
 # def render_discipline_round_analysis(primary_df, comparison_df, primary_athlete, comparison_athlete, comparison_mode):
@@ -301,7 +301,7 @@ def render_elo_history(primary_df, comparison_df, primary_athlete, comparison_at
 
 #             # Make funnel bars flat (remove any 3D styling)
 #             fig.update_traces(textinfo='text', textposition='inside', textfont_size=16)
-#             st.plotly_chart(fig, width='stretch')
+#             st.plotly_chart(fig)
 #         else:
 #             st.info(f"No round data available for {discipline}")
 
@@ -469,7 +469,7 @@ def render_discipline_round_analysis(primary_df, comparison_df, primary_athlete,
                 )
                 fig1.update_traces(textinfo='text', textposition='inside', textfont_size=16)
                 fig1.update_layout(height=400)
-                st.plotly_chart(fig1, use_container_width=True)
+                st.plotly_chart(fig1)
             
             with col2:
                 fig2 = px.funnel(
@@ -482,7 +482,7 @@ def render_discipline_round_analysis(primary_df, comparison_df, primary_athlete,
                 )
                 fig2.update_traces(textinfo='text', textposition='inside', textfont_size=16)
                 fig2.update_layout(height=400)
-                st.plotly_chart(fig2, use_container_width=True)
+                st.plotly_chart(fig2)
                 
         elif not primary_funnel.empty:
             # Single funnel
@@ -496,7 +496,7 @@ def render_discipline_round_analysis(primary_df, comparison_df, primary_athlete,
             )
             fig.update_traces(textinfo='text', textposition='inside', textfont_size=16)
             fig.update_layout(height=400)
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig)
         else:
             st.info(f"No round data available for {discipline}")
     
@@ -637,17 +637,57 @@ def render_location_analysis(primary_df, comparison_df, primary_athlete, compari
         merged_stats['hover_label'] = merged_stats['best_athlete'] + " dominates"
 
 
-        # Plot choropleth
+        # # Plot choropleth
+        # fig = px.choropleth(
+        #     merged_stats,
+        #     locations='country',
+        #     locationmode='country names',
+        #     color='best_avg_rank',
+        #     hover_name='hover_label',
+        #     hover_data=[f'avg_rank_{primary_athlete}', f'avg_rank_{comparison_athlete}', 'country'],
+        #     color_continuous_scale='Sunset',
+        #     range_color=[np.nanmax(merged_stats['best_avg_rank']), np.nanmin(merged_stats['best_avg_rank'])],
+        #     title=f"{primary_athlete} vs {comparison_athlete} - Best Athlete by Country",
+        # )
+
+        # fig.update_layout(
+        #     height=600,
+        #     margin=dict(l=20, r=20, t=50, b=20),
+        #     paper_bgcolor="#1e1e1e",
+        #     plot_bgcolor="#1e1e1e",
+        # )
+
+        # fig.update_traces(
+        #     marker_line_color='black',  # optional: add borders to countries
+        #     selector=dict(type='choropleth')
+        # )
+        # fig.update_geos(
+        #     projection_type="natural earth",
+        #     # lataxis_range=[-10, 80],
+        #     bgcolor="rgba(30,30,30,1)",  # dark background
+        #     showcoastlines=True,
+        #     coastlinecolor="gray",
+        #     showland=True,
+        #     landcolor="rgba(50,50,50,1)",  # countries with no data
+        #     showocean=True,
+        #     oceancolor="#111111"
+        # )
+        # Map discrete colors
+        color_map = {
+            primary_athlete: "#1f77b4",      # Primary
+            comparison_athlete: "#ff7f0e"    # Comparison
+        }
+
+        # Plot choropleth with discrete colors
         fig = px.choropleth(
             merged_stats,
-            locations='country',
-            locationmode='country names',
-            color='best_avg_rank',
-            hover_name='hover_label',
-            hover_data=[f'avg_rank_{primary_athlete}', f'avg_rank_{comparison_athlete}', 'country'],
-            color_continuous_scale='Sunset',
-            range_color=[np.nanmax(merged_stats['best_avg_rank']), np.nanmin(merged_stats['best_avg_rank'])],
+            locations="country",
+            locationmode="country names",
+            color="best_athlete",   # categorical color
+            hover_name="hover_label",
+            hover_data=[f"avg_rank_{primary_athlete}", f"avg_rank_{comparison_athlete}", "country"],
             title=f"{primary_athlete} vs {comparison_athlete} - Best Athlete by Country",
+            color_discrete_map=color_map
         )
 
         fig.update_layout(
@@ -658,12 +698,12 @@ def render_location_analysis(primary_df, comparison_df, primary_athlete, compari
         )
 
         fig.update_traces(
-            marker_line_color='black',  # optional: add borders to countries
-            selector=dict(type='choropleth')
+            marker_line_color="black",  # add borders to countries
+            selector=dict(type="choropleth")
         )
+
         fig.update_geos(
             projection_type="natural earth",
-            # lataxis_range=[-10, 80],
             bgcolor="rgba(30,30,30,1)",  # dark background
             showcoastlines=True,
             coastlinecolor="gray",
@@ -672,8 +712,7 @@ def render_location_analysis(primary_df, comparison_df, primary_athlete, compari
             showocean=True,
             oceancolor="#111111"
         )
-
-        st.plotly_chart(fig, width='stretch')
+        st.plotly_chart(fig)
 
     else:
         # Single athlete
@@ -704,4 +743,4 @@ def render_location_analysis(primary_df, comparison_df, primary_athlete, compari
                 plot_bgcolor="#1e1e1e",
             )
 
-            st.plotly_chart(fig, width='stretch')
+            st.plotly_chart(fig)
