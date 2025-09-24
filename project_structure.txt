@@ -6,6 +6,12 @@ Data/
 Elo_Data/
 ├── elo_history.csv
 
+IFSC_Data/
+├── API_Event_metadata/
+    ├──[{year}_event_metadata].csv
+├── API_Results_Expanded/
+    ├──year/[per-round event reulst].csv
+
 utils/
 ├── scraper_init.py => IFSCScraper
 ├── main.py => IFSCDataManager, 
@@ -16,5 +22,6 @@ utils/
 ├── streamlit_overview.py
 ├── streamlit_countries.py
 ├── streamlit_athlete.py
+├── streamlit_events.py
 
 app.py
